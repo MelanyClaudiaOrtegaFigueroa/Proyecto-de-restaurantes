@@ -1,0 +1,155 @@
+{
+ "name": "Teniente Rey 360",
+ "phone_number": "78602916",
+ "web_page": "null",
+ "type": "bar-restaurante",
+ "type_cuisine": "Marisco,Cubana,Caribeña e Internacional",
+ "days_hours": {
+   "Monday": "11:00-21:00",
+   "Tuesday": "11:00-21:00",
+   "Wendsday": "11:00-21:00",
+   "Thursday": "11:00-21:00",
+   "Friday": "11:00-21:00",
+   "Saturday": "11:00-21:00",
+   "Sunday": "11:00-21:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "Si",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "television",
+ "facilities": "silla de rueda and aire acondicionado",
+ "daycare": "null",
+ "discount_promotions": "+10% ",
+ "facebook": "Teniente Rey 360",
+ "instagrm": "@teniente_rey360",
+ "menu": {
+    "Main_Course": {
+      "Coctel de Camarones": {
+       "Price": 700
+      },
+      "Coctel de Langosta": {
+       "Price": 700
+      },
+      "Langosta": {
+       "Price": 250000
+      },
+      "Colas de Langosta": {
+       "Price": 260000
+      },
+      "Camarones a la Orden": {
+       "Price": 2500
+      },
+      "Camarones Rebosados": {
+       "Price": 2800
+      },
+      "Pulpo": {
+       "Price": 2700
+      },
+      "Cazuelita Tte Rey": {
+       "Price": 2900
+      },
+      "Mariscada Tte Rey": {
+       "Price": 12900
+      },
+      "Filete de Pescado": {
+       "Price": 2400
+      },
+      "Filet Mignon": {
+       "Price": 3200
+      },
+      "Punta de Filete": {
+       "Price": 2900
+      },
+      "Filete Jhonvill": {
+       "Price": 3500
+      },
+      "Pechuga de Pollo": {
+       "Price": 1950
+      },
+      "Fajitas de Pechuga de Pollo": {
+       "Price": 2000
+      },
+      "Ropa Vieja": {
+       "Price": 2000
+      },
+      "Picadillo a la Cubana": {
+       "Price": 1500
+      },
+      "Masas de Cerdo": {
+       "Price": 1700
+      },
+      "Fricase de Cerdo": {
+       "Price": 1750
+      }
+    },
+    "Starters": {
+      "Croquetas": {
+       "Price": 400
+      },
+      "Bolitas de Queso": {
+       "Price": 500
+      },
+      "Tostones Rellenos": {
+       "Price": 600
+      },
+      "Garbanzos Fritos": {
+       "Price": 700
+      },
+      "Solomillo": {
+       "Price": 1900
+      }
+    },
+    "Fittings": {
+      "Arroz": {
+       "Price": 200
+      },
+      "Chatinos": {
+       "Price": 300
+      },
+      "Yuca": {
+       "Price": 200
+      }
+    },
+    "Drink": {
+      "Refrescos Nacionales": {
+       "Price": 380
+      },
+      "Refrescos Importados": {
+       "Price": 420
+      },
+      "Malta Nacional": {
+       "Price": 420
+      },
+      "Agua Natural Nacional": {
+       "Price": 250
+      },
+      "Kermato": {
+       "Price": 500
+      },
+      "Agua Tonica": {
+       "Price": 450
+      },
+      "Cerveza Nacional Lata": {
+       "Price": 360
+      },
+      "Cerveza Nacional Botella": {
+       "Price": 460
+      },
+      "Cerveza Importada": {
+       "Price": 460
+      }
+    }
+  },
+ "location": { 
+   "address": "Calle Teniente Rey #360 entre Aguacate y Villegas",
+   "distric": "Habana Vieja",
+   "coordinates": "23.135960,-82.354958"  
+  }
+}

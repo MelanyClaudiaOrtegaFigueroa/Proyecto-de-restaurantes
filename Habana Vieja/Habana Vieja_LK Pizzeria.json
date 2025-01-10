@@ -1,0 +1,82 @@
+{
+  "name": "LK Pizzeria",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "null",
+    "Wendsday": "null",
+    "Thursday": "null",
+    "Friday": "null",
+    "Saturday": "null",
+    "Sunday": "null"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "pizza queso": {
+       "price": 180
+      },
+      "pizza doble queso": {
+       "price": 260
+      },
+      "pizza jamon": {
+       "price": 280
+      },
+      "pizza doble queso y jamon": {
+       "price": 360
+      },
+      "pizza queso gouda": {
+       "price": 300
+      },
+      "pizza doble queso gouda": {
+       "price": 400
+      },
+      "pizza doble queso gouda y jamon": {
+       "price": 500
+      },
+      "spaghettis napolitano": {
+       "price": 350
+      },
+      "pan con hamburguesa": {
+       "price": 300
+      },
+      "pan con jamon y queso gouda": {
+       "price": 250
+      },
+      "paquete de pan": {
+       "price": 200
+      },
+      "pqte de hamburguesa de pollo": {
+       "price": 600
+      }
+    },
+    "Desserts": {
+      "helado": {
+       "price": 150
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Amistad y Neptuno",
+    "distric": "Habana Vieja",
+    "coordinates": "23.138054925577507, -82.3617393428607"  
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Mi Thai",
+  "phone_number": "78616212 and 53867350",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "tailandesa",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "11:30-24:00",
+    "Wendsday": "11:30-24:00",
+    "Thursday": "11:30-24:00",
+    "Friday": "11:30-24:00",
+    "Saturday": "11:30-24:00",
+    "Sunday": "11:30-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "ensalada thai samon": {
+       "Price": 4170
+      },
+      "ensalada sen-tam": {
+       "Price": 3655
+      }
+    },
+    "Main_Course": {
+      "pollo con verduras thai": {
+       "Price": 3850
+      },
+      "camarones con verduras thai": {
+       "Price": 4265
+      },
+      "res con verduras thai": {
+       "Price": 4450
+      },
+      "cerdo co verduras thai": {
+       "Price": 4015
+      },
+      "brochetas de cerdo estilo oriental": {
+       "Price":  5085
+      },
+      "arroz frito con vegetales": { 
+       "Price": 4125
+      },
+      "arroz frito con camarones": {
+       "Price": 5225
+      },
+      "arroz frito con pollo": {
+       "Price": 4520
+      },
+      "arroz frito con cerdo": {
+       "Price": 4955
+      },
+      "arroz frito con res": {
+       "Price": 5150
+      },
+      "thai curry verde con pollo": {
+       "Price": 5355
+      },
+      "thai curry verde con cerdo": {
+       "Price": 6025
+      },
+      "thai curry verde con camarones": {
+       "Price": 6215
+      },
+      "thai curry verde con res": {
+       "Price": 6120
+      },
+      "thai curry verde con vegetales": {
+       "Price": 4600
+      }
+    },
+    "Additions": {
+      "res": {
+       "Price": 3355
+      },
+      "camarones": {
+       "Price": 2920
+      },
+      "salmon": {
+       "Price": 3095
+      },
+      "cerdo": {
+       "Price": 1925
+      },
+      "pollo": {
+       "Price": 1585
+      },
+      "arroz": {
+       "Price": 1275
+      },
+      "vegetales": {
+       "Price": 1145
+      },
+      "caldo": {
+       "Price": 18610
+      }
+    },
+    "Desserts": {
+      "coco thai": {
+       "Price": 2395
+      },
+      "sopa de frutas thai": {
+       "Price": 2115
+      },
+      "bananas": {
+       "Price": 2570
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Prado no. 308 entre Animas y Virtudes",
+    "distric": "Habana Vieja",
+    "coordinates": "23.139334,-82.359387"  
+  }
+}

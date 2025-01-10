@@ -1,0 +1,123 @@
+{
+ "name": "Los Doce Apostoles",
+ "phone_number": "7793773",
+ "web_page": "null",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "Criolla",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "null", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Restaurante Doce Apostoles",
+ "instagrm": "null",
+ "menu": { 
+    "Starters": {
+      "Entremes de jamon y queso": {
+       "Price": 400
+      },
+      "Eperlan de pescado": {
+       "Price": 550
+      },
+      "Anillas de calamar": {
+       "Price": 550
+      },
+      "Alitas de pollo": {
+       "Price": 450
+      },
+      "Nuggets de pollo": {
+       "Price": 250
+      },
+      "Picadera especial": {
+       "Price": 600
+      }
+    },
+    "Main_Course": {
+      "Pollo grille": {
+       "Price": 700
+      },
+      "Fajitas de res": {
+       "Price": 950
+      },
+      "Steak de res": {
+       "Price": 950
+      },
+      "Fajitas de cerdo": {
+       "Price": 800
+      },
+      "Masas de cerdo": {
+       "Price": 900
+      },
+      "Filete de pescado": {
+       "Price": 900
+      },
+      "Pescado del Chef": {
+       "Price": 1100
+      },
+      "Gambas al grill": {
+       "Price": 1200
+      }
+    },
+    "Drink": {
+      "Cerveza dispensada": {
+       "Price": 190
+      },
+      "Cerveza importada": {
+       "Price": 220
+      },
+      "Cerveza nacional": {
+       "Price": 215
+      },
+      "Maltas": {
+       "Price": 210
+      },
+      "Maltina Perla Negra": {
+       "Price": 180
+      },
+      "Jugo natural en caja": {
+       "Price": 300
+      },
+      "Refrescos nacionales": {
+       "Price": 280
+      },
+      "Vino tinto (copa)": {
+       "Price": 200
+      },
+      "Ron Habana Club Anejo Blanco (shot)": {
+       "Price": 80
+      },
+      "Ron Habana Club profundo (shot)": {
+       "Price": 160
+      },
+      "Ron Habana Club Selección de Maestro (shot)": {
+       "Price": 350
+      },
+      "Ron Cubay carta blanca (shot)": {
+       "Price": 100
+      }
+    }
+ },
+ "location": { 
+   "address": "Complejo Morro Cabana,Via Monumental",
+   "distric": "Habana Del Este",
+   "coordinates": "23.15525444,-82.35596"  
+  }
+} 

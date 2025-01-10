@@ -1,0 +1,72 @@
+{
+  "name": "Los Chickens",
+  "phone_number": "58769201",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "null"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Main_Couse": {
+      "pollo frito": {
+       "Price": 680
+      },
+      "nuggets de pollo": {
+       "Price": 750
+      },
+      "papas fritas": {
+       "Price": 150
+      },
+      "salsa extra": {
+       "Price": 80
+      }
+    },
+    "Starters": {
+      "papas fritas con ketchup": {
+       "Price": 350
+      },
+      "salchi papa": {
+       "Price": 450
+      }
+    },
+    "Drink": {
+      "cerveza": {
+       "Price": 180
+      },
+      "refresco": {
+       "Price": 220
+      },
+      "energizante": {
+       "Price": 220
+      }
+    }
+  },
+  "location": { 
+    "address": "San Lazaro y Aramburu",
+    "distric": "Centro Habana",
+    "coordinates": "23.139571,-82.375002"  
+  }
+}

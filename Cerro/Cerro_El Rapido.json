@@ -1,0 +1,89 @@
+{
+ "name": "El Rapido",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "07:30-19:30",
+   "Tuesday": "07:30-19:30",
+   "Wendsday": "07:30-19:30",
+   "Thursday": "07:30-19:30",
+   "Friday": "07:30-19:30",
+   "Saturday": "07:30-19:30",
+   "Sunday": "07:30-19:30"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": { 
+   "Starters": {
+      "Croquetas": {
+        "Price": 300
+      },
+      "Papas fritas": {
+       "Price": 360
+      }
+    },
+    "Main_Course": {
+      "Pan con Tortilla": {
+        "Price": 300
+      },
+      "Pan con Tortilla , Jamon": {
+        "Price": 360
+      },
+      "Pan con Tortilla, Chorizo": {
+        "Price": 360
+      },
+      "Pan con Tortilla, Cebolla": {
+        "Price": 360
+      },
+      "Pan con Tortilla , Queso Gouda": {
+        "Price": 400
+      },
+      "Espaguetis": {
+        "Price":  850
+      },
+      "Espaguetis Napolitano": {
+        "Price": 380
+      },
+      "Espaguetis de chorizo": {
+        "Price": 1000
+      },
+      "Hamburguesa de Cerdo": {
+        "Price": 620
+      },
+      "Hamburguesa de Res": {
+        "Price": 720
+      },
+      "Pollo Chiflado": {
+        "Price": 750
+      },
+      "Sandwich Cubano": {
+        "Price": 860
+      },
+      "Pan con Bitec de Cerdo": {
+        "Price": 750
+      }
+    }
+  },
+ "location": { 
+   "address": "Cruz del Padre entre Pedrosa y Almendares",
+   "distric": "Cerro",
+   "coordinates": "23.120576,-82.374122"  
+  }
+} 
+

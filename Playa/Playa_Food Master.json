@@ -1,0 +1,158 @@
+{
+ "name": "Food Master",
+ "phone_number": "53826366",
+ "web_page": "https://linkt.ee/foodmaster.havana/",
+ "type": "restaurante",
+ "type_cuisine": "Internacional",
+ "days_hours": {
+   "Monday": "10:30-21:00",
+   "Tuesday": "10:30-21:00",
+   "Wendsday": "10:30-21:00",
+   "Thursday": "10:30-21:00",
+   "Friday": "10:30-22:00",
+   "Saturday": "10:30-22:00",
+   "Sunday": "10:30-21:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Food Master La Habana",
+ "instagrm": "@foodmaster.havana",
+ "menu": { 
+    "Starters": { 
+      "Picadera Food Master": { 
+       "Price": 2700
+      },
+      "Salchichas al Grill": { 
+       "Price": 1600
+      },
+      "Quesadilla": { 
+       "Price": 990
+      },
+      "Tacos": { 
+       "Price": 990 
+      },
+      "Croquetas": { 
+       "Price": 700
+      },
+      "Empanadas": { 
+       "Price": 750
+      },
+      "Papas Fritas": { 
+       "Price": 690 
+      }
+    },
+    "Main_Course": { 
+      "Big Master Burger": {  
+       "Price": 3500
+      },
+      "Suiza": {  
+       "Price": 2950 
+      },
+      "Max": {  
+       "Price": 2700 
+      },
+      "La Granja": {  
+       "Price": 2550 
+      },
+      "Italiana": {  
+       "Price": 2450
+      }, 
+      "Margarita": {  
+       "Price": 1900 
+      },
+      "Margarita con Jamon": {  
+       "Price": 2400 
+      },
+      "Diavola": {  
+       "Price": 2600 
+      },
+      "De Jamon Serrano": {  
+       "Price": 3200 
+      },
+      "De Atun": {  
+       "Price": 3100 
+      },
+      "La Prohibida en Italia": {  
+       "Price": 3200 
+      }
+    },
+    "Desserts": {  
+      "Empanadas de Pina y Queso": {  
+       "Price": 750 
+      },
+      "Muffin": {  
+       "Price": 550 
+      },
+      "Helado": {  
+       "Price": 750 
+      }
+    },
+    "Drink": {
+      "Vino por Copa": {  
+       "Price": 900 
+      },
+      "Gin & Tonic": {  
+       "Price": 1200 
+      },
+      "Chelada": {  
+       "Price": 900 
+      },
+      "Michelada": {  
+       "Price": 1000 
+      },
+      "Sangria": {  
+       "Price": 1100 
+      },
+      "Sangria Blanca": {  
+       "Price": 1100 
+      },
+      "Tinto de Verano": {  
+       "Price": 900 
+      },
+      "Spirit Cóctel": {  
+       "Price": 800 
+      },
+      "Cerveza": {  
+       "Price": 600 
+      },
+      "Cerveza Gama Alta": {  
+       "Price": 800 
+      },
+      "Jugo Natural": {  
+       "Price": 500 
+      },
+      "Jugo Cajita": {  
+       "Price": 400 
+      },
+      "Batido de Helado": {  
+       "Price": 750 
+      },
+      "Batido de Helado y Frutas": {  
+       "Price": 750 
+      },
+      "Smoothie de Frutas": {  
+       "Price": 600 
+      },
+      "Fresh de Pepino": {  
+       "Price": 300 
+      }
+    }
+  },
+ "location": { 
+   "address": "calle 7maA #6620 entre 66 y 70,Marianao",
+   "distric": "Playa",
+   "coordinates": "23.108107,-82.434195"  
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "D'Next Bar Cafeteria",
+  "phone_number": "78605519 and 59155025",
+  "web_page": "https://dnext_havana.com/",
+  "type": "bar",
+  "type_cuisine": "bebidas",
+  "days_hours": {
+    "Monday": "09:00-24:00",
+    "Tuesday": "09:00-24:00",
+    "Wendsday": "09:00-24:00",
+    "Thursday": "09:00-24:00",
+    "Friday": "09:00-24:00",
+    "Saturday": "09:00-24:00",
+    "Sunday": "09:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "television",
+  "facilities": "silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "D'Next Bar Cafeteria",
+  "instagrm": "@dnext_bar_cafeteria",
+  "menu": {
+    "Drink": {
+      "agua tonica importada": {
+       "Price": 880
+      },
+      "agua natural": {
+       "Price": 360
+      },
+      "agua carbonatada": {
+       "Price": 800
+      },
+      "agua tonica nacional": {
+       "Price": 560
+      },
+      "refresco nacional": {
+       "Price": 440
+      },
+      "refresco importado(750ml)": {
+       "Price": 1100
+      },
+      "refresco importado": {
+       "Price": 740
+      },
+      "refresco de botella": {
+       "Price": 880
+      },
+      "batido de helado": {
+       "Price": 1500
+      },
+      "malta importada": {
+       "Price": 680
+      },
+      "malta nacional": {
+       "Price": 680
+      },
+      "leche": {
+       "Price": 440
+      },
+      "limonada dnext": {
+       "Price": 840
+      },
+      "limonada frappe con hierba buena": {
+       "Price": 780
+      },
+      "chelada(corona)": {
+       "Price": 1180
+      },
+      "michelada": {
+       "Price": 1400
+      },
+      "cerveza corona": {
+       "Price": 900
+      },
+      "cerveza importada": {
+       "Price": 800
+      },
+      "malteada": {
+       "Price": 1100
+      },
+      "jugos naturales": {
+       "Price": 560
+      },
+      "jugo de caja": {
+       "Price": 460
+      },
+      "limonada frappe dnext": {
+       "Price": 920
+      },
+      "limonada frappe": {
+       "Price": 760
+      },
+      "kermato": {
+       "Price": 880
+      },
+      "red bull": { 
+       "Price": 880
+      },
+      "batido de frutas": {
+       "Price": 920
+      },
+      "chelada modelo": {
+       "Price": 1180
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Teniente Rey #512 entre Monserrate y Bernanza",
+    "distric": "Habana Vieja",
+    "coordinates": "23.135724,-82.356864"  
+  }
+}

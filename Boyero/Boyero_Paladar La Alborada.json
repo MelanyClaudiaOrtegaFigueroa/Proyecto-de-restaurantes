@@ -1,0 +1,175 @@
+{
+ "name": "Paladar La Alborada",
+ "phone_number": "50105501",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "criolla e italiana",
+ "days_hours": {
+   "Monday": "11:00-23:00",
+   "Tuesday": "11:00-23:00",
+   "Wendsday": "11:00-23:00",
+   "Thursday": "11:00-23:00",
+   "Friday": "11:00-23:00",
+   "Saturday": "11:00-23:00",
+   "Sunday": "11:00-23:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Paladar La Alborada",
+ "instagrm": "null",
+ "menu": { 
+    "Starters": {
+      "napolitano": {
+       "Price": 800
+      },
+      "hawaiana": {
+       "Price": 1000
+      },
+      "alborada": {
+       "Price": 1200
+      },
+      "croqueta": {
+       "Price": 300
+      },
+      "bolita de queso": {
+       "Price": 300
+      },
+      "frituras de malanga": {
+       "Price": 300
+      },
+      "picadera especial": {
+       "Price": 550
+      }
+    },
+    "Additions": {
+      "jamon": {
+       "Price": 200
+      },
+      "chorizo": {
+       "Price": 200
+      },
+      "cebolla": {
+       "Price": 150
+      },
+      "pimiento": {
+       "Price": 150
+      },
+      "pina": {
+       "Price": 150
+      },
+      "queso": {
+       "Price": 300
+      },
+      "atun": {
+       "Price": 350
+      }
+    },
+    "Main_Course": {
+      "pollo grille": {
+       "Price": 1250
+      },
+      "pollo agidulce": {
+       "Price": 1250
+      },
+      "pollo al tomate": {
+       "Price": 1300
+      },
+      "fajitas de pollo salteadas": {
+       "Price": 1300
+      },
+      "fajitas de pollo empanadas": {
+       "Price": 1350
+      },
+      "escalope de pollo": {
+       "Price": 1300
+      },
+      "milanesa de pollo": {
+       "Price": 1350
+      },
+      "pollo a la reina": {
+       "Price": 1350
+      },
+      "pollo golden blue": {
+       "Price": 1350
+      },
+      "bistec de cerdo grille": {
+       "Price": 1300
+      },
+      "cerdo con salsa agridulce": {
+       "Price": 1300
+      },
+      "fricase de cerdo": {
+       "Price": 1300
+      },
+      "fajita de cerdo salteadas": {
+       "Price": 1300
+      },
+      "fajita de cerdo empanadas": {
+       "Price": 1350
+      },
+      "milanesa de cerdo": {
+       "Price": 1350
+      },
+      "escalope de cerdo": {
+       "Price": 1400
+      },
+      "cerdo a la reina": {
+       "Price": 1400
+      },
+      "lomo de cerdo ahumado": {
+       "Price": 1250
+      },
+      "lomo de cerdo agridulce": {
+       "Price": 1250
+      },
+      "lomo de cerdo gratinado": {
+       "Price": 1300  
+      }, 
+      "espaguetis napolitano": {
+       "Price": 800
+      },
+      "lasagna": {
+       "Price": 800
+      }
+    },
+    "Drink": {
+      "jugos": {
+        "1 Price": 200,
+        "2 Price": 250
+      },
+      "refresco": {
+       "Price": 220
+      },
+      "cerveza": {
+        "1 Price": 230,
+        "2 Price": 270
+      },        
+      "energizante": {
+       "Price": 300
+      },
+      "malteada": {
+       "Price": 450
+      },
+      "malta": {
+       "Price": 250
+      }
+    }
+  },
+ "location": { 
+   "address": "calle 2da entre 4ta y orasia",
+   "distric": "Boyero",
+   "coordinates": "23.123708,-82.319480"  
+  }
+}

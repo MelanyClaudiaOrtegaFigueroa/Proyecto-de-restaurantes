@@ -1,0 +1,151 @@
+{
+  "name": "Restaurante Vale & Vane",
+  "phone_number": "77947261 and 52526589",
+  "web_page": "https://valevane.com/",
+  "type": "restaurante",
+  "type_cuisine": "criolla e italiana",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "09:00-21:00",
+    "Wendsday": "09:00-21:00",
+    "Thursday": "09:00-21:00",
+    "Friday": "09:00-21:00",
+    "Saturday": "09:00-21:00",
+    "Sunday": "09:00-21:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Vane & Vale",
+  "instagrm": "null",
+  "menu": {
+    "Main_Course" : {
+      "Chuleta de Cerdo" : {
+       "price": 1100 
+      },
+      "Bistec Cerdo Grille" : {
+       "price": 1200 
+      },
+      "Masa de Cerdo Frita" : {
+       "price": 1300 
+      },
+      "Bistec Encebollado" : {
+       "price": 1450 
+      },
+      "Costilla Cerdo" : {
+       "price": 1650 
+      },
+      "Lomo Ahumado" : { 
+       "price": 1400 
+      },
+      "Uruguayo" : {
+       "price": 1600 
+      },
+      "Bistec princesa" : {
+       "price": 1720 
+      },
+      "Garbanzo Frito" : {
+       "price": 1300 
+      },
+      "Pollo Frito" : {
+       "price": 1000 
+      },
+      "Suprema Grille" : {
+       "price": 1400 
+      },
+      "Bistec Princesa" : {
+       "price": 1920 
+      },
+      "Suprema Encebollada" : {
+       "price": 1650 
+      },
+      "Filete Pescado Grille" : {
+       "price": 1800 
+      },
+      "Camaron Grille" : {
+       "price": 1800 
+      },
+      "Enchilado Camaron" : {
+       "price": 1850 
+      },
+      "Mar y Tierra" : {
+       "price": 2500 
+      },
+      "Vaca Frita" : {
+       "price": 1600 
+      },
+      "Ropa Vieja" : {
+       "price": 1600 
+      },
+      "Pizza Napolitana" : {
+       "price": 350 
+      },
+      "Pizza Familiar" : {
+        "price": 2500 
+      },
+      "Espagueti Napolitano" : {
+       "price": 650 
+      },
+      "Espagueti con Jamon" : {
+       "price": 900 
+      },
+      "Espagueti con Chorizo" : {
+       "price": 900 
+      },
+      "Espagueti doble Queso" : {
+       "price": 920 
+      }
+    },
+    "Drink" : {
+      "Cerveza Cristal (lata)" : {
+       "price": 280 
+      },
+      "Cerveza Cristal (botella)" : {
+       "price": 380 
+      },
+      "Cerveza Hollandia" : {
+       "price": 250 
+      },
+      "Cerveza Wild Hill" : {
+       "price": 250 
+      },
+      "Tigon" : {
+       "price": 280 
+      },
+      "Agua Natural" : {
+       "price": 180 
+      },
+      "Refresco lata" : {
+       "price": 250 
+      },
+      "Malta Hyper Malta" : { 
+       "price": 270 
+      },
+      "Malta Bucanero" : { 
+       "price": 300 
+      },
+      "Jugo Natural (cajita)" : { 
+       "price": 200
+      },
+      "Jugo Natural (lata)" : {
+       "price": 270
+      }
+    }
+  },
+  "location": { 
+    "address": "Santa Maria #73 entre Corales y Aparicion",
+    "distric": "Guanabacoa",
+    "coordinates": "23.121566,-82.296134"  
+  }
+}

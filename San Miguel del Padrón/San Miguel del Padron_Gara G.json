@@ -1,0 +1,187 @@
+{
+ "name": "Gara G",
+ "phone_number": "null",
+ "web_page": "https://garagbarrestaurante.com/",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "caribeña e italiana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "transmicion de eventos deportivos",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Gara G Bar Restaurante",
+ "instagrm": "@garagbarrestaurante",
+ "menu": {
+    "Starters":{
+      "Picadera GaraG":{
+       "Price": 3500
+      },
+      "Toston Alfredo":{
+       "Price": 750
+      },
+      "Eperlan":{
+       "Price": 1650
+      },
+      "Fajitas de pollo":{
+       "Price": 1225
+      },
+      "Fajitas de cerdo":{
+       "Price": 1550
+      },
+      "Croquetas de Mima":{
+       "Price": 750
+      },
+      "Ceviche":{
+        "Price": 900
+      },
+      "Tacos de Carnita":{
+       "Price": 1205
+      },
+      "Tacos Marinesos":{
+       "Price": 1295
+      },
+      "Ensalada Fria":{
+       "Price": 750
+      },
+      "Coctel de Camaron":{
+       "Price": 1250
+      }
+    },
+    "Main_Course": {
+      "Napoles (pasta)":{
+       "Price": 930
+      },
+      "Napoles (pizza)":{
+       "Price": 930
+      },
+      "Anti Hawaiana":{
+       "Price": 1555
+      },
+      "Lechocita":{
+       "Price": 1595
+      },
+      "5 Quesos":{
+       "Price": 1650
+      },
+      "Filete de pescado grille":{
+       "Price": 1920
+      },
+      "Filete de pescado empanado":{
+       "Price": 1980
+      },
+      "Filete de pescado GaraG":{
+       "Price": 2225
+      },
+      "Canciller":{
+       "Price": 2150
+      },
+      "Filete Alfredo":{
+       "Price": 2150
+      },
+      "Masas de pescado al ajito":{
+       "Price": 1920
+      },
+      "Pargo frito":{
+       "Price": 2150
+      },
+      "Pollo frito":{
+        "Price": 1350
+      },
+      "Bistec de pollo grille":{
+       "Price": 1350
+      },
+      "Pollo empanado":{
+       "Price": 1450
+      },
+      "Cordon Blue":{
+       "Price": 1925
+      },
+      "Bistec de cerdo encebollado":{
+       "Price": 1950
+      },
+      "Cerdo grille":{
+       "Price": 1700
+      },
+      "Cerdo empanado":{
+       "Price": 1750
+      },
+      "Cerdo Uruguayo":{
+       "Price": 1955
+      },
+      "Masa de cerdo frita":{
+       "Price": 2200
+      },
+      "Cerdo asado":{
+       "Price": 2150
+      },
+      "Camaron al ajillo":{
+       "Price": 2300
+      },
+      "Camaron grille":{
+       "Price": 2105
+      },
+      "Camaron enchilado":{
+       "Price": 2230
+      },
+      "Camaron emapanado":{
+       "Price": 2290
+      },
+      "Aporreado de res":{
+       "Price": 1950
+      },
+      "Ropa vieja":{
+       "Price": 1930
+      },
+      "Arroz frito especial":{
+       "Price": 1350
+      },
+      "Arroz frito":{
+       "Price": 1200
+      },
+      "Ensalada estacion":{
+       "Price": 350
+      },
+      "Vegetal salteado":{
+       "Price": 350
+      }
+    },
+    "Desserts": {
+      "Copa de helado":{
+       "Price": 400
+      },
+      "Copa lolita":{
+       "Price": 650
+      },
+      "Cake a la moda":{
+       "Price": 850
+      },
+      "Batido de helado":{
+       "Price": 750
+      }
+    }
+  },
+ "location": { 
+   "address": "C. Guanabacoa #1214 % B y C, Los Angeles",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.091945,-82.283815"  
+  }
+} 
+

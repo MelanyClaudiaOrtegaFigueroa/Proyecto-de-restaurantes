@@ -1,0 +1,342 @@
+{
+  "name": "La Ronda",
+  "phone_number": "76990583 and 53300641",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "12:00-17:00",
+    "Tuesday": "12:00-17:00",
+    "Wendsday": "12:00-17:00",
+    "Thursday": "12:00-17:00",
+    "Friday": "12:00-17:00",
+    "Saturday": "12:00-17:00",
+    "Sunday": "12:00-17:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "La Ronda-Restaurante",
+  "instagrm": "@restaurante.laronda",
+  "menu": {
+    "Starters": {
+      "vianda frita": {
+       "Price": 380
+      },
+      "Tostones Naturales": {
+       "Price": 370
+      },
+      "Fajita Cerdo Salteada": {
+       "Price": 980
+      },
+      "Tostones rellenos jamon y queso": {
+       "Price": 620
+      },
+      "Fajita de cerdo empanada": {
+       "Price": 1180
+      },
+      "Tabla RONDA": {
+       "Price": 1200
+      },
+      "Alitas Empanadas": {
+       "Price": 1100
+      },
+      "Croquetas de la casa": {
+       "Price": 380
+      },
+      "Coctel de Pescado": {
+       "Price": 600
+      },
+      "Tamal en cazuela": {
+       "Price": 300
+      },
+      "Coctel de Camarones": {
+       "Price": 1500
+      },
+      "Entremes de jamon,Queso,Chorizo y aceituna": {
+       "Price": 1050
+      },
+      "Eperlan": {
+       "Price": 960
+      }, 
+      "Ensalada Fria": {
+       "Price": 500
+      },
+      "Pan con Bistec": {
+       "Price": 580
+      },
+      "Pan con Cerdo": {
+       "Price": 840
+      },
+      "Pan CUBANO": {
+       "Price": 980
+      },
+      "Hamburguesa de Cerdo": {
+       "Price": 640
+      },
+      "Hamburguesa de Chorizo": {
+       "Price": 640
+      },
+      "Pizza Napolitana": {
+       "Price": 980
+      },
+      "Pizzas Napolitana Doble queso": {
+       "Price": 1300
+      },
+      "Pizza con Jamon": {
+       "Price": 1220
+      },
+      "Pizza con chorizo": {
+       "Price": 1280
+      },
+      "Pizza con Cebolla": {
+       "Price": 1080
+      },
+      "Pizza Hawaiana": {
+       "Price": 1450
+      },
+      "Pizza con Aceituna": {
+       "Price": 1380
+      },
+      "Pizza Super Ronda": {
+       "Price": 2100
+      },
+      "Pizza con Camarones": {
+       "Price": 1750
+      },
+      "Espagueti Napolitano": {
+       "Price": 780
+      },
+      "Espagueti doble queso": {
+       "Price": 950
+      },
+      "Espagueti con Jamon": {
+       "Price": 840
+      },
+      "Espagueti con chorizo": {
+       "Price": 840
+      },
+      "Espagueti con cebolla": {
+       "Price": 780
+      },
+      "Espagueti con Camarones": {
+       "Price": 1300
+      },
+      "Espagueti a la boloñesa": {
+       "Price": 980
+      }
+    },   
+    "Additions": {
+      "Ketchup": {
+       "Price": 160
+      },
+      "Mostaza": {
+       "Price": 160
+      },
+      "Mayonesa": {
+       "Price": 160
+      },
+      "Lechuga": {
+       "Price": 160
+      },
+      "Tomate": {
+       "Price": 160
+      },
+      "Pepinillo": {
+       "Price": 170
+      },
+      "Cebolla": {
+       "Price": 210
+      },
+      "Piña": {
+       "Price": 240
+      },
+      "Aceituna": {
+       "Price": 230
+      },
+      "Chorizo": {
+       "Price": 260
+      },
+      "Jamon": {
+       "Price": 260
+      },
+      "Queso Gouda": {
+       "Price": 380
+      },
+      "Pimiento": {
+       "Price": 210
+      },
+      "Camarones": {
+       "Price": 660
+      }
+    },  
+    "Fittings": {
+      "Arroz Blanco": {
+       "Price": 180
+      },
+      "Arroz Moro": {
+       "Price": 290
+      }
+    },  
+    "Desserts": {
+      "Potes de Helado de 1 It": {
+       "Price": 1100
+      },
+      "Tina de Helado de 4 Its": {
+       "Price": 3900
+      },
+      "Yogurt Probiótico de 4 Its": {
+       "Price": 3900
+      },
+      "Helado sencillo": {
+       "Price": 170
+      }, 
+      "Jimagua": {
+       "Price": 290
+      },
+      "Tres Gracia": {
+       "Price": 390
+      },
+      "Ensalada de Helado": {
+       "Price": 620
+      },
+      "Batido de Helado": {
+       "Price": 420
+      },
+      "Dulce de coco con Queso": {
+       "Price": 240
+      }    
+    },   
+    "Drink": {
+      "Agua de Pomitos": {
+       "Price": 140
+      },
+      "Cerveza importada": {
+       "Price": 500
+      },
+      "Maltas Importada": {
+       "Price": 260
+      },
+      "Refresco pomo Chico": {
+       "Price": 260
+      },
+      "Energizante": {
+       "Price": 230
+      },
+      "Jugo de caja chica": {
+       "Price": 200
+      },
+      "Refresco Pomo Grande": {
+       "Price": 580
+      },
+      "Refresco lata": {
+       "Price": 290
+      },
+      "CAFE EXPRES": {
+       "Price": 120
+      }
+    },   
+    "Main_Course": {
+      "Vegetales Salteados": {
+       "Price": 380
+      },
+      "Ensalada a la Estacion": {
+       "Price": 370
+      },
+      "Masa de cerdo frita": {
+       "Price": 1890
+      },
+      "Lomo a la Barbacoa": {
+       "Price": 1180
+      },
+      "Bistec de cerdo grille": {
+       "Price": 1100
+      },
+      "Fricase de cerdo": {
+       "Price": 1950
+      },
+      "Cerdo salteado con vegetales": {
+       "Price": 1300
+      },
+      "Cerdo Agridulce": {
+       "Price": 1140
+      },
+      "Bistec Uruguayo de cerdo": {
+       "Price": 1450
+      },
+      "Lonjas de cerdo asado": {
+       "Price": 1460
+      },
+      "Brochetas de cerdo": {
+       "Price": 2350
+      },
+      "Bistec de Cerdo Empanado": {
+       "Price": 1250
+      },
+      "Bistec de cerdo Encebollado": {
+       "Price": 1160
+      },
+      "Lomo de cerdo a la piña": {
+       "Price": 1220
+      },
+      "Filete de Pescado Empanado": {
+       "Price": 1200
+      },
+      "Pollo asado a la Criolla": {
+       "Price": 1030
+      },
+      "Pollo Frito a la Criolla": {
+       "Price": 1030
+      },
+      "Pollo a la Barbacoa": {
+       "Price": 1150
+      },
+      "Arroz Frito sin Mariscos": {
+       "Price": 690
+      },
+      "Arroz Frito con Camarones": {
+       "Price": 1150
+      }, 
+      "Monte Mary (para 2 pers.)": {
+       "Price": 3500
+      },
+      "Enchilado de Camarones": {
+       "Price": 1850
+      },
+      "Camarones Empanados": {
+       "Price": 1920
+      },
+      "Camarones al Ajillo": {
+       "Price": 1920
+      },
+      "Grillada del Mar": {
+       "Price": 2800
+      },
+      "Paella Marinera(para dos)": {
+       "Price": 2100
+      },
+      "Filete de Pescado Grille": {
+       "Price": 1090
+      },   
+      "Bistec de Res Encebollado": {
+       "Price": 1060
+      }
+    } 
+  },
+  "location": { 
+    "address": "calle Guasabacoa esquina calzada de Luyano",
+    "distric": "Diez de Octubre",
+    "coordinates": "23.1057291,-82.3581364"  
+  }
+} 

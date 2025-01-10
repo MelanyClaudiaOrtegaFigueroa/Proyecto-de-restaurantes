@@ -1,0 +1,93 @@
+{
+ "name": "Infanta 560",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "08:00-22:00",
+   "Tuesday": "08:00-22:00",
+   "Wendsday": "08:00-22:00",
+   "Thursday": "08:00-22:00",
+   "Friday": "08:00-22:00",
+   "Saturday": "08:00-22:00",
+   "Sunday": "08:00-22:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "picadera (300g)": {
+       "Price": 550
+      }
+    },
+    "Main_Course": {
+      "pizza napolitana (250g)": {
+       "Price": 200
+      },
+      "pizza hawaiana (300g)": {
+       "Price": 300
+      },
+      "pizza queso gouda (250g)": {
+       "Price": 320
+      },
+      "pizza familiar napolitana (500g)": {
+       "Price": 380
+      },
+      "pizza familiar hawaiana (600g)": {
+       "Price": 700
+      },
+      "pizza familiar queso gouda (500g)": {
+       "Price": 700
+      },
+      "fajas de pollo (300g)": {
+       "Price": 600
+      },
+      "spaghetti (470g)": {
+       "Price": 300 
+      },
+      "spaghetti queso gouda (470g)": {
+       "Price": 420
+      }
+    },
+    "Fittings": {
+      "jamon": {
+       "Price": 80
+      },
+      "piña": {
+       "Price": 80
+      },
+      "pimiento": {
+       "Price": 80
+      },
+      "queso": {
+       "Price": 80
+      },
+      "queso gouda": {
+       "Price": 100
+      },
+      "cebolla": {
+       "Price": 80
+      }
+    }
+  },
+ "location": { 
+   "address": "null",
+   "distric": "Centro Habana",
+   "coordinates": "23.135420733511385,-82.37831753600521"  
+  }
+}

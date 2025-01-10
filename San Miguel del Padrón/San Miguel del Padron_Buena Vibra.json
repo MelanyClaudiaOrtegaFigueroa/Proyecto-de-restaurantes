@@ -1,0 +1,96 @@
+{
+ "name": "Buena Vibra",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "bar",
+ "type_cuisine": "criolla",
+ "days_hours": {
+   "Monday": "12:00-22:00",
+   "Tuesday": "12:00-22:00",
+   "Wendsday": "12:00-22:00",
+   "Thursday": "12:00-22:00",
+   "Friday": "12:00-22:00",
+   "Saturday": "12:00-22:00",
+   "Sunday": "12:00-22:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@buenavibra.sanmiguel",
+ "menu": {
+    "Starters": {
+      "croquetas": {
+       "Price": 400 
+      },
+      "fritura de malanga": {
+       "Price": 400 
+      },
+      "vianda frita": {
+       "Price": 300 
+      },
+      "tostones tradicionales": {
+       "Price": 300 
+      },
+      "tostones rellenos": {
+       "Price": 500 
+      },
+      "hamburguesa de pollo": {
+        "Price":  300
+      }
+    },
+    "Main_Course": {
+      "bistec de pollo": {
+       "Price": 850 
+      },
+      "bistec de pollo empanado": {
+       "Price": 900 
+      },
+      "higado de cerdo": {
+        "Price": 800 
+      },
+      "lomo ahumado": {
+       "Price": 900 
+      },
+      "bistec de cerdo": {
+        "Price": 900 
+      },
+      "pechuga de pollo": {
+        "Price": 900 
+      },
+      "espaguetti con queso": {
+       "Price": 400
+      },
+      "espaguetti de jamon": {
+        "Price": 550  
+      }
+    },
+    "Drink": {
+      "tequila reposado": {
+       "Price": 300 
+      }, 
+      "licor crema": {
+       "Price": 200 
+      },
+      "piña colada": {
+        "Price": 300  
+      }
+    }
+  },
+ "location": { 
+   "address": "Beltran #19709",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.099120,-82.332427"  
+  }
+} 

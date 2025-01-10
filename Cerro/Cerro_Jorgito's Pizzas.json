@@ -1,0 +1,130 @@
+{
+ "name": "Jorgito's Pizzas",
+ "phone_number": "78780156 and 54031349",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "11:00-23:00",
+   "Tuesday": "11:00-23:00",
+   "Wendsday": "11:00-23:00",
+   "Thursday": "11:00-23:00",
+   "Friday": "11:00-23:00",
+   "Saturday": "11:00-23:00",
+   "Sunday": "11:00-23:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Jorgito's Pizzas",
+ "instagrm": "@jorgitospizzas",
+ "menu": {
+   "Main_Course": {
+     "Pizza de napolitana": {
+       "Price": 850
+      },
+      "Pizza de chorizo": {
+        "Price": 1000
+      },
+      "Pizza de jamon": {
+        "Price": 1000
+      },
+      "Pizza de hawaiana": {
+        "Price": 1150
+      },
+      "Pizza de cebolla": {
+        "Price": 1000
+      },
+      "Espaguetis": {
+        "Price": 850
+      },
+      "Espaguetis de jamon": {
+        "Price": 1100
+      },
+      "Espaguetis de chorizo": { 
+        "Price": 1000
+      },
+      "Hamburguesa ": {
+        "Price": 1200
+      },
+      "Hamburguesa jamon y queso": {
+        "Price": 1650
+      },
+      "Hamburguesa onbazar": {
+        "Price": 2700
+      }
+    },
+    "Additions": {
+      "Jamon": {
+        "Price": 180
+      },
+      "Piña": {
+        "Price": 180
+      },
+      "Pimiento": {
+        "Price": 250
+      },
+      "Cebolla": {
+        "Price": 300
+      },
+      "Chorizo": {
+        "Price": 170
+      },
+      "Hawaiana": {
+        "Price": 250
+      },
+      "Queso Gouda": {
+        "Price": 300
+      },
+      "Queso Nacinal": {
+        "Price": 180
+      },
+      "Queso Mozzarella": {
+        "Price": 240
+      }
+    },
+    "Drink": {
+      "Cafe expreso": {
+        "Price": 180
+      },
+      "Cafe cortado": {
+        "Price": 220
+      },
+      "Capuchino": {
+        "Price": 450
+      },
+      "Cafe bombon": {
+        "Price": 450
+      },
+      "Piña colada": {
+        "Price": 600
+      },
+      "Piña colada (alchol)": {
+        "Price": 750
+      },
+      "Limonada frape": {
+        "Price": 400
+      },
+      "Malteada": {
+        "Price": 500
+      }
+    }
+  },
+ "location": { 
+   "address": "Pedroso entre Infanta y Cruz del Padre",
+   "distric": "Cerro",
+   "coordinates": "234.119241,-82.371998"  
+  }
+} 
+

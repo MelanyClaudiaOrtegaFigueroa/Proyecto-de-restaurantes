@@ -1,0 +1,77 @@
+{
+ "name": "Shapuseros",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "rapida",
+ "days_hours": {
+   "Monday": "09:00-21:00",
+   "Tuesday": "09:00-21:00",
+   "Wendsday": "09:00-21:00",
+   "Thursday": "09:00-21:00",
+   "Friday": "09:00-21:00",
+   "Saturday": "09:00-21:00",
+   "Sunday": "09:00-21:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Shapuseros",
+ "instagrm": "@shapuseroshabana",
+ "menu": {
+   "Main_Course": {
+     "hamburguesa de pollo": {
+       "Price": 500
+      },
+      "hamburguesa de cerdo": {
+       "Price": 550
+      },
+      "hamburguesa de res": {
+       "Price": 600
+      },
+      "hamburguesa Shapusero": {
+       "Price": 1200
+      }
+    },
+    "Additions": {
+     "queso": {
+       "Price": 150
+      },
+      "jamon": {
+       "Price": 120
+      },
+      "chorizo": {
+       "Price": 150
+      },
+      "bacon": {
+       "Price": 155
+      },
+      "huevo": {
+       "Price": 150
+      },
+      "cebolla": {
+       "Price": 500
+      },
+      "salsa BBQ": {
+       "Price": 300
+      }
+    }
+  },
+ "location": { 
+   "address": "Calzada de Ayestaran entre San Pedro y Ayuntamineto",
+   "distric": "Cerro",
+   "coordinates": "23.117325,-82.384614"  
+  }
+} 
+

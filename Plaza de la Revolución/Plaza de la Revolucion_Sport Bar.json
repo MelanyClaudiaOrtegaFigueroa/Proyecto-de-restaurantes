@@ -1,0 +1,218 @@
+{
+ "name": "Spot Bar",
+ "phone_number": "53239497",
+ "web_page": "null",
+ "type": "bar",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "transmicion de eventos deportivos",
+ "facilities": "estacionamiento and silla de rueda",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@sportbar_23y12",
+ "menu": {
+   "Breakfast": {
+      "waffles": { 
+        "Price": 600 
+      },
+      "americano": {
+       "Price": 1000 
+      }
+    },
+    "Starters": { 
+      "brusquetas": {
+       "Price": 500 
+      },
+      "croquetas del dia": {
+       "Price": 550 
+      },
+      "fritura de malanga": {
+       "Price": 450 
+      },
+      "papas fritas": {
+       "Price": 550 
+      },
+      "picadera 23 y 12": {
+       "Price": 2500 
+      }
+    },
+    "Main_Course": { 
+      "emparedado de atun": {
+       "Price": 1400 
+      },
+      "emparedado de pollo": {
+       "Price": 1400 
+      },
+      "emparedado de lechon": {
+       "Price": 1600 
+      },
+      "emparedado de jamon y queso": {
+       "Price": 1000 
+      },
+      "emparedado de 23 y 12": {
+       "Price": 2000 
+      },
+      "hamburguesa clasica de cerdo": {
+       "Price": 1450 
+      },
+      "tacos de pollo, 3 unidades": {
+       "Price": 2000 
+      },
+      "tacos de pollo, 8 unidades": {
+       "Price": 3000
+      },
+      "tacos de cerdo, 3 unidades": {
+       "Price": 2500 
+      },
+      "tacos de camaron, 3 unidades": {
+       "Price": 2500 
+      },
+      "pizza napoles": {
+       "Price": 1250 
+      },
+      "pasta boloñesa": {
+       "Price": 1800 
+      },
+      "pasta pesto": {
+       "Price": 950 
+      },
+      "pasta napoles": {
+       "Price": 1200 
+      },
+      "pasta aljillo": {
+       "Price": 1000 
+      }
+    },
+    "Drink": { 
+      "cerveza cristal": {
+        "Price": 400 
+      },
+      "cerveza cristal extra": {
+       "Price": 500 
+      },
+      "cerveza bucanero": {
+       "Price": 400 
+      },
+      "cerveza bucanero max": {
+       "Price": 500 
+      },
+      "cerveza dispensada": {
+       "Price": 350 
+      },
+      "agua nacional": {
+       "Price": 250 
+      },
+      "agua importada": {
+       "Price": 450 
+      },
+      "refresco nacional": {
+       "Price": 280 
+      },
+      "refresco importado": {
+       "Price": 300 
+      },
+      "malta": {
+       "Price": 400 
+      },
+      "energizante": {
+       "Price": 600 
+      },
+      "limonada natural": {
+       "Price": 400 
+      },
+      "limonada c/ hierba buena": {
+       "Price": 425 
+      },
+      "jugo natural": {
+       "Price": 350 
+      },
+      "cafe americano": {
+       "Price": 250 
+      },
+      "cafe espresso": {
+       "Price": 250 
+      },
+      "cafe espresso c/ coffemate": {
+       "Price": 300 
+      },
+      "cafe cortadito": {
+       "Price": 300 
+      },
+      "cafe bombom": {
+        "Price": 400 
+      },
+      "cafe cappuccino": {
+       "Price": 500 
+      },
+      "cafe affocato": {
+        "Price": 500 
+      },
+      "cafe frapuccino": {
+       "Price": 550 
+      },
+      "cafe frapuccino 23 y 12": {
+       "Price": 650 
+      },
+      "CR7": {
+       "Price": 700 
+      },
+      "messi": {
+       "Price": 600 
+      },
+      "lakers": {
+       "Price": 600 
+      },
+      "habana mule": {
+       "Price": 600 
+      },
+      "canchancara habana": {
+       "Price": 600 
+      },
+      "michelada 23 y 12": {
+       "Price": 500 
+      },
+      "zombie": {
+       "Price": 650 
+      },
+      "vampiro": {
+       "Price": 700 
+      }
+    },
+    "Desserts": {
+      "batido de frutas": {
+       "Price": 500 
+      },
+      "suero de helado": {
+       "Price": 650 
+      },
+      "malteada": {
+       "Price": 600 
+      }
+    }
+  },
+ "location": { 
+   "address": "23 y 12, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.12739793607911, -82.3996550067848"  
+  }
+} 
+

@@ -1,0 +1,124 @@
+{
+ "name": "Los Taticos",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "caribeña",
+ "days_hours": {
+      "Monday": "08:00-00:00",
+      "Tuesday": "08:00-00:00",
+      "Wendsday": "08:00-00:00",
+      "Thursday": "08:00-00:00",
+      "Friday": "08:00-00:00",
+      "Saturday": "08:00-00:00",
+      "Sunday": "08:00-00:00"
+    },
+ "reservatipn": "null",
+ "delivery": "null",
+ "payments_option": {
+      "cash": "Si", 
+      "credit_card": "Si",
+      "euros": "Si",
+      "us_dollars": "Si",
+      "national_currency": "Si"
+    }, 
+ "wi-fi_service": "null",
+ "entertainment": "Musica grabada y domino", 
+ "facilities": "Sillas para niños",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+       "Breakfast": {
+                "Super Hamburguesa Tatico": {
+                    "Price": 900
+                },
+                "Hamburguesa Tatico": {
+                    "Price": 750
+                },
+                "Super hamburguesa queso": {
+                    "Price": 800
+                },
+                "Hamburguesa queso": {
+                    "Price": 650
+                },
+                "Super hamburguesa sencilla": {
+                    "Price": 700
+                },
+                "Hamburguesa sencilla": {
+                    "Price": 600
+                },
+             "Sandwich Tatico": {
+                    "Price": 650
+                },
+             "Bocadito de atun": {
+                    "Price": 600
+                },
+                "Pan con lechon": {
+                    "Price": 650
+                },
+                "Pan con croqueta": {
+                    "Price": 240
+                }
+            
+        },
+        "Starters": {
+            "Picadera Tatico": {
+                "Price": 2800
+            },
+            "Entremes surtido": {
+                "Price": 800
+            },
+            "Tostones rellenos": {
+                "Price": 800
+            },
+            "Bolitas de queso": {
+                "Price": 800
+            },
+            "Bolitas de carne": {
+                "Price": 800
+            },
+            "Croquetas caseras": {
+                "Price": 800
+            }
+        },
+        "Main_Course": {
+            "Lasagña": {
+                    "Price": 1250
+                },
+              "Pizza Tatico": {
+                    "Price": 1200
+                },
+                "Pizza mixta": {
+                    "Price": 680
+                },
+                "pizza hawaiana": {
+                    "Price": 680
+                },
+                "pizza jamon": {
+                    "Price": 680
+                },
+                "pizza de queso": {
+                    "Price": 680
+                },
+             "Taco de cerdo": {
+                    "Price": 650
+                },
+             "Pollo al carbon": {
+                    "Price": 1200
+                },
+             "Taco de carne": {
+                    "Price": 800
+                },
+             "Taco de atun": {
+                    "Price": 800
+                }
+            }
+    },
+ "location": { 
+      "address": "27 y 27A",
+      "distric": "Marianao",
+      "coordinates": "23.084008,-82.436018"  
+    }
+} 

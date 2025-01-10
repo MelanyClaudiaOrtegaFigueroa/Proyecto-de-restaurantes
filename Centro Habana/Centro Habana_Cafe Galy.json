@@ -1,0 +1,221 @@
+{
+  "name": "Cafe Galy",
+  "phone_number": "78634580 and 52538538",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "internacional,cubana and caribeña",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-24:00",
+    "Sunday": "11:00-24:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Galy Cafe",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "croquetas cremosas galy": {
+       "price": 650
+      },
+      "eperlan": {
+       "price": 760
+      },
+      "crema de queso": {
+       "price": 570
+      },
+      "crema virginia": {
+       "price": 600
+      },
+      "crema aurora": {
+        "price": 590
+      },
+      "crema de queso azul": {
+       "price": 720
+      },
+      "fajitas de pechuga de pollo": {
+       "price": 760
+      },
+      "coctel de camarones": {
+       "price": 1100
+      }
+    },
+    "Main_Course": {
+      "bistec de cerdo a la plancha": {
+       "price": 2750
+      },
+      "lomo de cerdo ahumado": {
+       "price": 2100
+      },
+      "filetillo de res o cerdo": {
+       "price": 1550
+      },
+      "bistec uruguayo": {
+        "price": 2750
+      },
+      "pechuga a la plancha": {
+       "price": 2750
+      },
+      "pechuga empanada": {
+        "price": 3100
+      },
+      "pechuga cordon bleu": {
+       "price": 2970
+      },
+      "pechuga milanesa": {
+        "price": 2860
+      },
+      "bistec de palomilla": {
+       "price": 2650
+      },
+      "ropa vieja": {
+        "price": 2650
+      },
+      "pescado empanado": {
+       "price": 3200
+      },
+      "filete canciller": {
+       "price": 3520
+      },
+      "camaron enchilado": {
+        "price": 3200
+      },
+      "camaron rebosado": {
+       "price": 3200
+      },
+      "pulpo enchilado": {
+       "price": 3300
+      },
+      "pulpo al ajillo": {
+       "price": 3300
+      },
+      "paella melosa del mar": {
+        "price": 3100
+      },
+      "mar y tierra": {
+       "price": 3300
+      },
+      "sandwich de queso": {
+       "price": 1150
+      },
+      "sandwich de jamon": {
+       "price": 1150
+      }, 
+      "sandwich de jamon, queso y chorizo": {
+        "price": 1250
+      },
+      "sandwich de atun y cebolla": {
+        "price": 1270
+      },
+      "pizza de queso": {
+       "price": 1160
+      },
+      "pizza hawaiana": {
+        "price": 1270
+      },
+      "pizza de cebolla": {
+        "price": 1270
+      },
+      "pizza de camarones": {
+       "price": 1550
+      },
+      "pizza galy (2 quesos)": {
+        "price": 1550
+      },
+      "spaghetti de queso": {
+       "price": 1160
+      },
+      "spaghetti al diablo": {
+        "price": 1200
+      },
+      "spaghetti de chorizo": {
+       "price": 1270
+      },
+      "spaghetti carbonara": {
+       "price": 1450
+      },
+      "spaghetti de camarones": {
+       "price": 1550
+      },
+      "spaghetti con pescado y mariscos": {
+       "price": 1700
+      }
+    },
+    "Desserts": {
+      "tarta de chocolate galy": {
+       "price": 650
+      },
+      "tres leche con hilo de chocolate": {
+       "price": 690
+      },
+      "helados variados": {
+        "price": 610
+      }
+    },
+    "Drink": {
+      "agua natural": {
+       "price": 385
+      },
+      "agua gaseada": {
+       "price": 300
+      },
+      "red bull": {
+       "price": 500
+      },
+      "malteada": {
+       "price": 500
+      },
+      "jugos naturales": {
+       "price": 210
+      },
+      "jugo natural (cajita 200ml)": {
+       "price": 320
+      },
+      "jugo importado (enlatado)": {
+       "price": 385
+      },
+      "batido de helado": {
+       "price": 950
+      },
+      "cervezas nacionales": {
+       "price": 440
+      },
+      "cervezas importadas": {
+       "price": 330
+      },
+      "cafe expreso": {
+       "price": 330
+      },
+      "cafe cortado": {
+        "price": 305
+      },
+      "cafe cremoso": {
+       "price": 440
+      },
+      "cafe galy": {
+       "price": 500
+      }
+    }
+  },
+  "location": { 
+    "address": "San Jose entre Aguila y Galiano",
+    "distric": "Centro Habana",
+    "coordinates": "23.13605979859447,-82.36264764949895"  
+  }
+}

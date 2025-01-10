@@ -1,0 +1,158 @@
+{
+  "name": "Dona Almira",
+  "phone_number": "76472432 and 52928671",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "null",
+    "Wendsday": "null",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "asientos aire libre and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "Dona Almira",
+  "menu": { 
+    "Starters": {
+      "Tostones rellenos": {
+       "price": 850
+      },
+      "Tamal en cazuela": {
+       "price": 785
+      },
+      "Vegetales rellenos": {
+       "price": 895
+      },
+      "Racion de chicharrones": {
+       "price": 300
+      },
+      "Aderezo Doña Almira": {
+       "price": 385
+      },
+      "Salsa Agridulce": {
+       "price": 395
+      },
+      "Ensalada de Chorizo": {
+       "price": 1225
+      },
+      "Ceviche de pescado": {
+       "price": 685
+      }
+    },
+    "Main_Course": {
+      "Migñon de Pescado Grille": {
+       "price": 1370
+      },
+      "Migñon de Pescado a las Finas Hierbas": {
+       "price": 1410
+      },
+      "Migñon de Pescado Doña Almira": {
+       "price": 1650
+      },
+      "Migñon de Pescado Gratinado": {
+       "price": 1585
+      },
+      "Migñon de Pescado con Queso y Bacon": {
+       "price": 1720
+      },
+      "Bistec Americano": {
+       "price": 2430
+      },
+      "Nasobuco": {
+       "price": 1860
+      },
+      "Bistec de Higado": {
+       "price": 1290
+      },
+      "Higado a la Italiana": {
+       "price": 1380
+      },
+      "Lomo Rostizado": {
+       "price": 2150
+      },
+      "Pollo Doña Almira": {
+       "price": 1340
+      },
+      "Pollo Barbacoa": {
+       "price": 1195
+      },
+      "Pollo Salsa Agridulce": {
+       "price": 1295
+      },
+      "Pollo Grille": {
+       "price": 1195
+      },
+      "Pollo en Fricase": {
+       "price": 1200
+      },
+      "Pollo a la Pasa": {
+       "price": 1220
+      },
+      "Pollo Grille con Camarones": {
+       "price": 1375
+      },
+      "Cerdo Enrrollado Asado": {
+       "price": 1545
+      },
+      "Cerdo Enrollado Salsa Agridulce": {
+       "price": 1570
+      },
+      "Cerdo Enrollado Glaseado": {
+       "price": 1550
+      },
+      "Fricase de Cerdo": {
+       "price": 1520
+      },
+      "Picada a La Habanera": {
+       "price": 1290
+      },
+      "Ropa Vieja": {
+       "price": 1305
+      },
+      "Vaca Frita": {
+       "price": 1260
+      }
+    },
+    "Fittings": {
+      "Arroz Congris": {
+       "price": 120
+      },
+      "Ensalada Estacion": {
+       "price": 285
+      }
+    },
+    "Desserts": {
+      "Musse Variados": {
+       "price": 570
+      },
+      "Cafe Cubano": {
+       "price": 150
+      },
+      "Cafe Cortado": {
+       "price": 180
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.064147,-82.375668"  
+  }
+}

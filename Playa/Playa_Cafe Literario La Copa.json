@@ -1,0 +1,102 @@
+{
+ "name": "Cafe Literario La Copa",
+ "phone_number": "55094105",
+ "web_page": "null",
+ "type": "Cafeteria",
+ "type_cuisine": "bebidas and caribeña",
+ "days_hours": {
+   "Monday": "09:00-17:00",
+   "Tuesday": "09:00-17:00",
+   "Wendsday": "09:00-17:00",
+   "Thursday": "09:00-17:00",
+   "Friday": "09:00-17:00",
+   "Saturday": "09:00-17:00",
+   "Sunday": "null"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@cafe.literario.lacopa",
+ "menu": {
+    "Starters": {
+      "Croquetas con Tostadas": {
+       "Price": 500
+      },
+      "Papas Fritas": {
+       "Price": 600
+      },
+      "Hot Dog": {
+       "Price": 600
+      },
+      "Sandwich de Jamón y Queso": {
+       "Price": 700
+      },
+      "Pan con Hamburguesa": {
+       "Price": 700
+      },
+      "Croissant de Jamón con Queso": {
+       "Price": 800
+      },
+      "Croissant Natural": {
+       "Price": 500
+      }
+    },
+    "Desserts": {
+      "Copa de Helado": {
+       "Price": 500
+      },
+      "Suero Helado": {
+       "Price": 800
+      }
+    },
+    "Drink": {
+      "Malteada": {
+       "Price": 500
+      },
+      "Malta Bucanero": {
+       "Price": 300
+      },
+      "Energizante": {
+       "Price": 230
+      },
+      "Jugo de Lata": {
+       "Price": 270
+      },
+      "Agua Natural": {
+       "Price": 120
+      },
+      "Cafe Expresso": {
+       "Price": 1500
+      },
+      "Cafe Cortado": {
+       "Price": 200
+      },
+      "Cafe Bombon": {
+       "Price": 350
+      },
+      "Capuchino": {
+       "Price": 400
+      },
+      "Frapucchino": {
+       "Price": 500
+      }
+    }
+  },
+ "location": { 
+   "address": "1ra entre 42 y 44,Miramar",
+   "distric": "Playa",
+   "coordinates": "23.117862,-82.432374"  
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "name": "Salsa Mora",
+  "phone_number": "59428922",
+  "web_page": "null",
+  "type": "Bar-Restaurante",
+  "type_cuisine": "cubana and mariscos",
+  "days_hours": {
+    "Monday": "12:00-04:00",
+    "Tuesday": "12:00-04:00",
+    "Wendsday": "12:00-04:00",
+    "Thursday": "12:00-04:00",
+    "Friday": "12:00-04:00",
+    "Saturday": "12:00-04:00",
+    "Sunday": "12:00-04:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Salsa Mora",
+  "instagrm": "@salsamora_70",
+  "menu": { 
+    "Starters": {
+      "Pan de la casa": {
+       "Price": 250
+      },
+      "Baguette J&Q": {
+       "Price": 750
+      },
+      "Baguette Queso": {
+       "Price": 650
+      },
+      "Croquetas de la casa": {
+       "Price": 1000 
+      },
+      "Tostones rellenos": {
+       "Price": 1050 
+      },
+      "Tacos de la casa": {
+       "Price": 1150 
+      },
+      "Ceviche": {
+       "Price": 2250 
+      },
+      "Fajitas": {
+       "Price": 2050 
+      },
+      "Esperland" : {
+       "Price" : 2250 
+      },
+      "Bolitas de Queso" : {
+       "Price" : 1450 
+      },
+      "Garbanzos Fritos" : {
+       "Price" : 1250 
+      },
+      "Coctel de Camarones" : {
+       "Price" : 2350 
+      },
+      "Papas Fritas" : {
+       "Price" : 1250 
+      }
+    },
+    "Fittings" : {
+      "Ensalada Mixta" : {
+       "Price" : 450 
+      },
+      "Arroz Blanco" : {
+       "Price" : 450 
+      },
+      "Arroz Moro" : {
+       "Price" : 500 
+      },
+      "Tostones Naturales" :{
+       "Price" : 250 
+      }
+    },
+    "Main_Couse" : {
+      "Filete de Pescado" : {
+       "Price" : 4000 
+      },
+      "Filete de Canciller" : {
+       "Price" : 5000 
+      },
+      "Parguete Asado" : {
+       "Price" : 1000  
+      },
+      "Camaron al Gusto" : {
+       "Price" : 4300 
+      },
+      "Langosta al Gusto" : {
+       "Price" : 4500 
+      },
+      "Pulpo al Gusto" : {
+       "Price" : 4500 
+      },
+      "Langosta Termidor" : {
+       "Price" : 5000 
+      },
+      "Caldereta de Mariscos" : {
+       "Price" : 6000 
+      },
+      "Grillada del Mar" : {
+       "Price" : 6000 
+      },
+      "Bistec de Cerdo" : {
+       "Price" : 3000 
+      },
+      "Uruguayo de Cerdo" : {
+       "Price" : 4500 
+      },
+      "Chuleta de Cerdo" : {
+       "Price" : 3500 
+      },
+      "Cerdo Asado" : {
+       "Price" : 3000 
+      },
+      "Pollo Asado" : {
+       "Price" : 2300 
+      },
+      "Cordon Blue" : {
+       "Price" : 4500 
+      },
+      "Pechuga de Pollo" : {
+       "Price" : 2500 
+      },
+      "Ropa Vieja" : {
+       "Price" : 2500 
+      },
+      "Rib Eye" : {
+       "Price" : 8500 
+      },
+      "Cordero Estofado" : {
+       "Price" : 3500 
+      },
+      "Tomahawk" : {
+       "Price" : 12500 
+      },
+      "Meloso de Pollo" : {
+       "Price" : 1800 
+      },
+      "Melosos de Mariscos" : {
+       "Price" : 3500 
+      },
+      "Pasta Napoles" : {
+       "Price" : 1300 
+      },
+      "Pasta Fruto di Mare" : {
+        "Price" : 3000 
+      },
+      "Pasta Carbonara" : {
+       "Price" : 2500 
+      }
+    },
+    "Desserts": {
+      "Tarta" : {
+       "Price" : 1000 
+      },
+      "Flan de la Casa" : {
+       "Price" : 500 
+      }
+    },
+    "Drink" : {
+      "Cafe" : {
+        "Price" : 250 
+      },
+      "Cafe Cortado" : {
+        "Price" : 300 
+      },
+      "Capuccino" : {
+        "Price" : 700 
+      },
+      "Frappuccino" : {
+        "Price" : 1000 
+      },
+      "Limonada" : {
+        "Price" : 500 
+      },
+      "Jugos Naturales" : {
+       "Price" : 250 
+      },
+      "Refrescos" : {
+       "Price" : 350 
+      },
+      "Agua Natural" : {
+       "Price" : 250 
+      },
+      "Energizantes" : {
+        "Price" : 400 
+      },
+      "Red Bull" : {
+       "Price" : 650 
+      },
+      "Cerveza Dispensada" : {
+        "Price" : 350 
+      },
+      "Cerveza Cristal" : {
+       "Price" : 600 
+      },
+      "Cerveza Bucanero" : {
+        "Price" : 600 
+      },
+      "Cerveza Corona" : {
+        "Price" : 850 
+      },
+      "Servicio Michelada" : {
+       "Price" : 300 
+      },
+      "Servicio Chelada" : {
+        "Price" : 250 
+      },
+      "Caipiriña" : {
+        "Price" : 500 
+      },
+      "Caipirisima" : {
+        "Price" : 500 
+      },
+      "Caipiroska" : {
+        "Price" : 500 
+      },
+      "Mojito" : {
+       "Price" : 700 
+      },
+      "Piña Colada" : {
+       "Price" : 550 
+      },
+      "Ron Collins" : {
+       "Price" : 500 
+      },
+      "Tom Collins" : {
+        "Price" : 780 
+      },
+      "Martini" : {
+       "Price" : 1000 
+      },
+      "Goin Tonic" : {
+       "Price" : 780 
+      },
+      "Margarita" : {
+       "Price" : 550 
+      },
+      "Tequila Sunrise" : {
+       "Price" : 550 
+      },
+      "Cuba Libre" : {
+       "Price" : 700 
+      },
+      "Cubata" : {
+       "Price" : 800 
+      },
+      "Cubata Santiago 8" : {
+        "Price" : 900 
+      },
+      "Cubanito" : {
+        "Price" : 600  
+      },
+      "Daiquiri" : {
+        "Price" : 550 
+      },
+      "Bloody Mary" : {
+       "Price" : 960 
+      },
+      "Sangria Salsa Mora" : {
+       "Price" : 600 
+      },
+      "Baileys" : {
+       "Price" : 1000 
+      },
+      "Jagger" : {
+        "Price" : 750 
+      },
+      "Campari" : {
+        "Price" : 800 
+      },
+      "Sambuca" : {
+       "Price" : 700 
+      },
+      "Grapa" : {
+        "Price" : 550 
+      },
+      "HC 7 Años" : {
+        "Price" : 8500
+      },
+      "HC Seleccion" : {
+        "Price" : 25000
+      },
+      "Santiago 8 Años" : {
+        "Price" : 10500
+      },
+      "Santiago 11 Años" : {
+        "Price" : 18000
+      },
+      "Santiago 12 Años" : {
+        "Price" : 19600
+      },
+      "Pacto Navio" : {
+        "Price" : 25000
+      },
+      "Giroc" : {
+        "Price" : 17000
+      },
+      "Grey Gosse" : {
+       "Price" : 20000
+      },
+      "Patron Silver" : {
+       "Price" : 35000
+      },
+      "Patron Reposado" : {
+       "Price" : 37000
+      },
+      "Olmeca Silver" : {
+       "Price" : 7500
+      },
+      "Olmeca Reposado" : {
+       "Price" : 8500
+      },
+      "Jameson" : {
+       "Price" : 9500
+      },
+      "Ballantine's" : {
+       "Price" : 9500
+      },
+      "Chivas 12" : {
+       "Price" : 15000
+      },
+      "JW Red Label" : {
+       "Price" : 12000
+      },
+      "JW Black Label" : {
+       "Price" : 20000
+      },
+      "JW Blue Label(trago)" : {
+        "Price" : 10000 
+      },
+      "JW Gold Label(trago)" : {
+        "Price" : 2300
+      },
+      "JW Green Label(trago)" : {
+       "Price" : 2500 
+      },
+      "Buchanan's" : {
+        "Price" : 35000
+      },
+      "Jack's Daniel" : {
+       "Price" : 18000
+      }
+    }
+  },
+  "location": { 
+    "address": "1ra Avenida entre calle 70 y 68",
+    "distric": "Playa",
+    "coordinates": "23.113823,-82.439504"  
+  }
+}

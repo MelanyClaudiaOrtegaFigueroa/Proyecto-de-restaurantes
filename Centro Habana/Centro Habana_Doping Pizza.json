@@ -1,0 +1,136 @@
+{
+ "name": "Doping pizza",
+ "phone_number": "51260311",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@dopingpizzas",
+ "menu": { 
+    "Starters": {
+      "ensalada fria natural": {
+       "Price": 500
+      },
+      "ensalada fria de jamon": {
+       "Price": 600
+      },
+      "ensalada fria de atun": {
+       "Price": 700
+      }
+    },
+    "Main_Course": {
+      "pizza napolitana": {
+       "Price": 1000
+      },
+      "pizza de jamon": {
+       "Price": 1100
+      },
+      "pizza hawaiana": {
+       "Price": 1300
+      },
+      "pizza de atun": {
+       "Price": 1300
+      },
+      "pizza de chorizo": {
+       "Price": 1400
+      },
+      "pizza de bacon": {
+       "Price": 1400
+      },
+      "pizza doping extreme": {
+       "Price": 1500
+      },
+      "spaghetti napoles": {
+       "Price": 900
+      },
+      "lasaña": {
+       "Price": 1300
+      }
+    },
+    "Fittings": {
+      "queso": {
+       "Price": 450
+      },
+      "jamon": {
+       "Price": 350
+      },
+      "chorizo": {
+       "Price": 350
+      },
+      "atun": {
+       "Price": 400
+      },
+      "cebolla": {
+       "Price": 200
+      },
+      "pimiento": {
+       "Price": 200
+      },
+      "aceituna": {
+       "Price": 300
+      },
+      "bacon": {
+       "Price": 400
+      }
+    },
+    "Desserts": {
+      "paletica de helado clasica": {
+       "Price": 150
+      }
+    },
+    "Drink": {
+      "agua": {
+       "Price": 150
+      },
+      "refresco": {
+       "Price": 250
+      },
+      "malta": {
+       "Price": 300
+      },
+      "malteada": {
+       "Price": 650
+      },
+      "jugos": {
+       "Price": 300
+      },
+      "batido de helado (12oz)": {
+       "Price": 550
+      },
+      "batido de helado (16oz)": {
+       "Price": 750
+      },
+      "cerveza": {
+       "Price": 300
+      }
+    } 
+ },
+ "location": { 
+   "address": "calle Zanja entre Espada y San Francisco",
+   "distric": "Centro Habana",
+   "coordinates": "23.13389533564469,-82.37685653415737"  
+  }
+} 

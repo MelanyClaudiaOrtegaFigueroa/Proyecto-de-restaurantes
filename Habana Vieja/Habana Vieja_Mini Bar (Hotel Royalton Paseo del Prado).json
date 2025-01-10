@@ -1,0 +1,65 @@
+{
+ "name": "Mini Bar (Hotel Royalton Paseo del Prado)",
+ "phone_number": "78232400",
+ "web_page": "https://royaltonresorts.com/",
+ "type": "Bar",
+ "type_cuisine": "Bebidas",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "Si",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "10%",
+ "facebook": "Royalton Habana Paseo",
+ "instagrm": "@royaltonhabana",
+ "menu": {
+    "Drink": {
+      "Jugo de frutas": {
+       "Price": 360
+      },
+      "Refresco": {
+       "Price": 390
+      },
+      "Agua tonica": {
+       "Price": 450
+      },
+      "Agua natural": {
+       "Price": 600
+      }, 
+      "Agua gaseada": {
+       "Price": 600
+      },
+      "Cerveza nacional": {
+       "Price": 600
+      },
+      "Cerveza importada": {
+       "Price": 750
+      },
+      "Ron en miniatura (45ml)": {
+       "Price": 850
+      }
+    }  
+  },
+ "location": { 
+   "address": "Prado y Malecon",
+   "distric": "Habana Vieja",
+   "coordinates": "23.145546,-82.358528"  
+  }
+}

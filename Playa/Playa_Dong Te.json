@@ -1,0 +1,212 @@
+{
+  "name": "Dong Te",
+  "phone_number": "63180536",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "bubble and dulces",
+  "days_hours": {
+    "Monday": "10:00-19:00",
+    "Tuesday": "10:00-19:00",
+    "Wendsday": "10:00-19:00",
+    "Thursday": "10:00-19:00",
+    "Friday": "10:00-19:00",
+    "Saturday": "10:00-19:00",
+    "Sunday": "10:00-19:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Desserts": {
+      "bubble te pequeno": {
+        "tapioca": {
+         "Price": 710
+        },
+        "budin": {
+         "Price": 710
+        },
+        "coco": {
+         "Price": 710
+        },
+        "coco y budin": {
+         "Price": 710
+        }
+      },
+      "bubble te grande": {
+        "tapioca": {
+         "Price": 880
+        },
+        "budin": {
+         "Price": 880
+        },
+        "coco": {
+         "Price": 880
+        },
+        "coco y budin": {
+         "Price": 880
+        }
+      },
+      "fruta te pequeno": {
+        "limonada": {
+         "Price": 530
+        },
+        "limonada con uva": {
+         "Price": 710
+        },
+        "maracuya": {
+         "Price": 710
+        },
+        "rocio de verano": {
+         "Price": 1060
+        }
+      },
+      "fruta te grande": {
+        "limonada": {
+         "Price": 680
+        },
+        "limonada con uva": {
+         "Price": 880
+        },
+        "maracuya": {
+         "Price": 880
+        },
+        "rocio de verano": {
+         "Price": 1420
+        }
+      },
+      "bubble te plus pequeno": {
+        "tapioca": {
+         "Price": 780
+        }, 
+        "budin": {
+         "Price": 780
+        },
+        "coco": {
+         "Price": 780
+        },
+        "coco y budin": {
+         "Price": 780
+        }
+      },
+      "bubble te plus grande": {
+        "tapioca": {
+         "Price": 990
+        },
+        "budin": {
+         "Price": 990
+        },
+        "coco": {
+         "Price": 990
+        },
+        "coco y budin": {
+         "Price": 990
+        }
+      },
+      "bomba te pequeno": {
+        "fresa": {
+         "Price": 880
+        },
+        "mango": {
+         "Price": 880
+        },
+        "maracuya": {
+         "Price": 880
+        }
+      },
+      "bomba te grande": {
+        "fresa": {
+         "Price": 1060
+        },
+        "mango": {
+         "Price": 1060
+        },
+        "maracuya": {
+         "Price": 1060
+        }
+      },
+      "bomba leche te pequeno": {
+        "fresa": {
+         "Price": 990
+        },
+        "mango": {
+         "Price": 990
+        },
+        "maracuya": {
+         "Price": 990
+        }
+      },
+      "bomba leche te grande": {
+        "fresa": {
+         "Price": 1240
+        },
+        "mango": {
+         "Price": 1240
+        },
+        "maracuya": {
+         "Price": 1240
+        }
+      },
+      "helado de fresa": {
+       "Price": 330
+      },
+      "helado de vainilla": {
+       "Price": 330
+      },
+      "helado de fresa y vainilla": {
+       "Price": 330
+      },
+      "bomba de fresa en helados( fresa)": {
+       "Price": 530
+      },
+      "bomba de fresa en helados( vainilla)": {
+       "Price": 530
+      },
+      "bomba de mango en helados( vainilla)": {
+       "Price": 530
+      },
+      "bomba de maracuya en helados( vainilla)": {
+       "Price": 530
+      },
+      "bubble helados de vainilla": {
+       "Price": 530
+      },
+      "bubble helados de fresa": {
+       "Price": 530
+      },
+      "fruta te frappe pequeno": {
+        "mango": {
+          "Price": 710
+        },
+        "fresa": {
+         "Price": 710
+        }
+      },
+      "fruta te frappe grande": {
+        "mango": {
+         "Price": 880
+        }, 
+        "fresa": {
+         "Price": 880
+        }
+      }
+    }
+  },
+  "location": { 
+    "address": "Centro de Negocios de Miramar,calle 3ra entre 76 y 78, Miramar",
+    "distric": "Playa",
+    "coordinates": "23.108726,-82.441176"  
+  }
+}

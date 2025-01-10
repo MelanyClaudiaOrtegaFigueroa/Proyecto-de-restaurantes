@@ -1,0 +1,196 @@
+{
+ "name": "The Place Parrillada",
+ "phone_number": "51183525",
+ "web_page": "https://hostaltheplace.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "show,piscina and billar",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Hostal The Place",
+ "instagrm": "null",
+ "menu": {
+   "Starters": {
+      "Croqueta": { 
+       "Price": 600
+      }, 
+      "Eperlan": { 
+       "Price": 900
+      }, 
+      "Tostones": { 
+       "Price": 500
+      }, 
+      "Fritura de malanga con miel": { 
+       "Price": 500
+      }, 
+      "Garbanzo frito": {
+       "Price": 1950
+      }, 
+      "Sopon imperial": { 
+       "Price": 1300
+      }, 
+      "Picadera The Place": { 
+       "Price": 2300
+      }, 
+      "Pechuga de pollo grille": { 
+       "Price": 1400
+      }, 
+      "Pollo frito": { 
+       "Price": 1200
+      }, 
+      "Bistec de cerdo grille": { 
+       "Price": 1600
+      }, 
+      "Bistec uruguayo": { 
+       "Price": 1800
+      }, 
+      "Costilla de cerdo": { 
+       "Price": 1700
+      }, 
+      "Masa de cerdo frita": { 
+       "Price": 1700
+      }, 
+      "Chilindron de cordero": { 
+       "Price": 1950
+      }, 
+      "Ropa vieja a la criolla": { 
+       "Price": 1500
+      }, 
+      "Bistec de res": { 
+       "Price": 1800
+      }, 
+      "Chuleta de cerdo": { 
+       "Price": 1750
+      }, 
+      "Chuleton": { 
+       "Price": 3000
+      }, 
+      "Pescado al plato": { 
+       "Price": 1500
+      }, 
+      "Canciller": { 
+       "Price": 1800
+      }, 
+      "Langosta en sus variedades": {
+       "Price": 1950
+      }, 
+      "Camaron": { 
+       "Price": 1500
+      }, 
+      "Papas fritas": { 
+       "Price": 800
+      }, 
+      "Pizza napolitana": {
+       "Price": 800
+      }, 
+      "Spaguetis napolitano": { 
+       "Price": 800
+      }
+    },
+    "Drink": {
+      "Jarra de cerveza Cristal": { 
+       "Price": 300
+      }, 
+      "Termo de cerveza Cristal": { 
+       "Price": 2000
+      }, 
+      "Cerveza Cristal": { 
+       "Price": 300
+      }, 
+      "Cerveza importada": { 
+       "Price": 250
+      }, 
+      "Cerveza Heniken": { 
+       "Price": 380
+      }, 
+      "Malta Bucanero": { 
+       "Price": 300
+      }, 
+      "Refresco": {
+       "Price": 290
+      }, 
+      "Jugo": { 
+       "Price": 260
+      }, 
+      "Agua": { 
+       "Price": 200
+      }, 
+      "Energizante": { 
+       "Price": 330
+      }, 
+      "Caipiroska": { 
+       "Price": 500
+      }, 
+      "Caipirisima": {
+       "Price": 500
+      }, 
+      "Mojito": { 
+       "Price": 520
+      }, 
+      "Gin Tonic": {
+       "Price": 800
+      }, 
+      "Sangria": { 
+       "Price": 600
+      }, 
+      "Michelada": { 
+       "Price": 900
+      }, 
+      "Chelada": { 
+       "Price": 500
+      }, 
+      "Limonada frappe": { 
+       "Price": 600
+      }, 
+      "Margarita": {
+       "Price": 550
+      }, 
+      "Red Label": { 
+       "Price": 850
+      }, 
+      "Old Parr": {
+       "Price": 950
+      }, 
+      "Jameson": { 
+       "Price": 600
+      }, 
+      "Tequila": { 
+       "Price": 450
+      }, 
+      "Tequila reposado": { 
+       "Price": 500
+      }, 
+      "Seleccion de Maestro": {
+       "Price": 1150
+      }, 
+      "Pacto Navio": { 
+       "Price": 11500
+      } 
+    }
+  },
+ "location": { 
+   "address": "Calle 100 entre Aldabo y Fortuna,Alta Habana",
+   "distric": "Boyero",
+   "coordinates": "23.052295,-82.382546"  
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "name": "Cafe Tilin",
+  "phone_number": "53857447",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "11:00-22:00",
+    "Tuesday": "11:00-22:00",
+    "Wendsday": "11:00-22:00",
+    "Thursday": "11:00-22:00",
+    "Friday": "11:00-22:00",
+    "Saturday": "11:00-22:00",
+    "Sunday": "11:00-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica,eventos especiales and artistas invitados",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Restaurante Cafe Tilin",
+  "instagrm": "@cafe_tilin_fontanar and @restaurant_cafetilin",
+  "menu": {
+    "Starters": { 
+      "Croquetas de la Casa": { 
+       "Price": 850
+      },
+      "Tostones Rellenos de Jamon y Queso": { 
+       "Price": 950
+      },
+      "Tostones Rellenos de Atun": { 
+       "Price": 950
+      },
+      "Tostones Rellenos de Ropa Vieja": { 
+       "Price": 950
+      },
+      "Frituras de Malanga": { 
+       "Price": 850
+      },
+      "Fajitas de Pollo": { 
+       "Price": 950
+      },
+      "Fajitas de Cerdo": { 
+       "Price": 950
+      },
+      "Picadera Tilin": { 
+       "Price": 2500
+      },
+      "Hamburguesa Clasica": {  
+       "Price": 1100
+      },
+      "Hamburguesa Bar": { 
+       "Price": 1300
+      },
+      "Hamburguesa Mexicana": { 
+       "Price": 1750
+      },
+      "Hamburguesa Tilin": { 
+       "Price": 2000
+      },
+      "Combo Americano": { 
+       "Price": 1750
+      },
+      "Hamburguesa La Cubana": { 
+       "Price": 1800
+      },
+      "Hamburguesa Super Clasica": { 
+       "Price": 1750
+      }
+    },
+    "Main_Course": { 
+      "Bistec de Cerdo Encebollado": { 
+       "Price": 1850 
+      },
+      "Bistec de Cerdo Grille": { 
+       "Price": 1600 
+      },
+      "Masas de Cerdo": { 
+       "Price": 1850 
+      },
+      "Escalope de Cerdo": { 
+       "Price": 1950 
+      },
+      "Ropa Vieja de Cerdo": { 
+       "Price": 1700 
+      },
+      "Arroz Frito": { 
+       "Price": 1500 
+      },
+      "Suprema de Pollo": { 
+       "Price": 1850 
+      },
+      "Fajitas de Pollo Salteadas con Vegetales": { 
+       "Price": 1750 
+      },
+      "Pollo Frito": { 
+       "Price": 1450 
+      },
+      "Brochetas Mixtas al Carbon": { 
+       "Price": 2500 
+      },
+      "Cordon Bleu": { 
+       "Price": 3050 
+      },
+       "Bistec Uruguayo": { 
+       "Price": 3250 
+      },
+      "Milanesa a la Napolitana": { 
+       "Price": 3300 
+      },
+      "Crema de Malanga": { 
+       "Price": 800 
+      },
+      "Ensalada Mixta": { 
+       "Price": 750 
+      },
+      "Spaghetti Napolitano": { 
+       "Price": 1300 
+      },
+      "Spaghetti de Jamon": { 
+       "Price": 1700 
+      },
+      "Pizza Napolitana": { 
+       "Price": 1300 
+      },
+      "Pizza de Chorizo": { 
+       "Price": 1700 
+      },
+      "Pizza de Atun": { 
+       "Price": 1700 
+      },
+      "Pizza Hawaiana": { 
+       "Price": 1950 
+      },
+      "Pizza Tilin": { 
+       "Price": 2500 
+      },
+      "Pizza de Jamon": { 
+       "Price": 1700 
+      },
+      "Pizza de Cebolla": { 
+       "Price": 1500 
+      },
+      "Pizza Napolitana de 21cm": { 
+       "Price": 500 
+      }
+    },
+    "Desserts": { 
+      "Postre del Dia": { 
+       "Price": 500
+      },
+      "Tarta Helada": { 
+       "Price": 950
+      },
+      "Flan de Caramelo": { 
+       "Price": 350
+      },
+      "Copa de Helado": { 
+       "Price": 450
+      },
+      "Copa Lolita": { 
+       "Price": 650
+      }
+    },
+    "Drink": { 
+      "Cafe Expresso": { 
+       "Price": 200 
+      },
+      "Cafe Americano": { 
+       "Price": 200 
+      },
+      "Cafe Cortado": { 
+       "Price": 250 
+      },
+      "Cafe Cappuccino": { 
+       "Price": 350 
+      },
+      "Frapuchino": { 
+       "Price": 750 
+      },
+      "Cafe Tilin": { 
+       "Price": 600 
+      },
+      "Cafe Tolon": { 
+       "Price": 750 
+      },
+      "Jugo de Frutas": { 
+       "Price": 500 
+      },
+      "Suero de Helado": { 
+       "Price": 850 
+      },
+      "Agua Natural Nacional": { 
+       "Price": 250 
+      },
+      "Agua Natural Importada": { 
+       "Price": 300 
+      },
+      "Refresco Importado": { 
+       "Price": 300 
+      },
+      "Energizante": { 
+       "Price": 350 
+      },
+      "Malta Importada": { 
+       "Price": 350 
+      },
+      "Cerveza Nacional": { 
+       "Price": 400 
+      },
+      "Piña Colada": { 
+       "Price": 950 
+      },
+      "Limonada Frappe": { 
+       "Price": 450 
+      },
+      "Michelada": { 
+       "Price": 750 
+      },
+      "Chelada": { 
+       "Price": 650 
+      },
+      "Cubanito": { 
+       "Price": 800 
+      },
+      "Mojito": { 
+       "Price": 500 
+      },
+      "Mojito de Fruta": { 
+       "Price": 750 
+      },
+      "Daiquiri": { 
+       "Price": 500 
+      },
+      "Daiquiri de Fruta": { 
+       "Price": 750 
+      },
+      "Caipiriña": { 
+       "Price": 500 
+      },
+      "Caipiroska": { 
+       "Price": 650 
+      },
+      "Caipirisima": { 
+       "Price": 600 
+      },
+      "Bloody Mary": { 
+       "Price": 900 
+      },
+      "Screwdriver": { 
+       "Price": 700 
+      },
+      "Cubalibre": { 
+       "Price": 550 
+      },
+      "Sangria": { 
+       "Price": 850 
+      },
+      "Tequila": { 
+       "Price": 900 
+      },
+      "Margarita": { 
+       "Price": 1250 
+      },
+      "Coctel de La Casa Un Tilin": { 
+       "Price": 1500 
+      },
+      "Copa de Vino Frontera": { 
+       "Price": 900 
+      },
+      "Linea Chanceler": { 
+       "Price": 250 
+      },
+      "Linea Red Label": { 
+       "Price": 1200 
+      },
+      "Linea Ballentines 10 Años": { 
+       "Price": 1500 
+      },
+      "Linea Chivas Regal 12 Años": { 
+       "Price": 1800 
+      },
+      "Linea Jack Daniels": { 
+       "Price": 2500 
+      },
+      "Botella de Vino Frontera": { 
+       "Price":  4500 
+      }
+    }
+  },
+  "location": { 
+    "address": "Avenida Independencia Km 9 1/2,Fontanar",
+    "distric": "Boyero",
+    "coordinates": "23.0599210,-82.4018990"  
+  }
+}

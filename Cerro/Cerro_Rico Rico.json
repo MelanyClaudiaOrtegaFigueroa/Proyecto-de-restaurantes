@@ -1,0 +1,155 @@
+{
+ "name": "Rico Rico",
+ "phone_number": "78701632",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "Comida Italiana",
+ "days_hours": {
+   "Monday": "09:00-23:00",
+   "Tuesday": "09:00-23:00",
+   "Wendsday": "09:00-23:00",
+   "Thursday": "09:00-23:00",
+   "Friday": "09:00-23:00",
+   "Saturday": "09:00-23:00",
+   "Sunday": "09:00-23:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "RicoRicopizzeria",
+ "instagrm": "@ricoricopizzeria",
+ "menu": {
+     "Starters": {
+            "Ensalada fria de atun (pequeña)": {
+              "Price": 645
+            },
+            "Ensalada fria de atun (mediana)": {
+             "Price": 1200
+            },
+            "Ensalada fria de atun (grande)": {
+             "Price": 2205
+            },
+            "Ensalada fria de jamon y queso (pequeña)": {
+             "Price": 495
+            },
+            "Pizzeta de Napole": {
+             "Price": 230
+            },
+            "Pizzeta de Chorizo": {
+             "Price": 325
+            },
+            "Bastones de Queso": {
+             "Price": 780
+            },
+            "Empanadas Gallegas": {
+             "Price": 380
+            },
+            "Pequeños": {
+             "Price": 350
+            }
+        },
+        "Main_Course": {
+            "Pizza Napoles": {
+             "Price": 920
+            },
+            "Pasta Napoles": {
+             "Price": 920
+            },
+            "Pasta Carbonara": {
+             "Price": 1000
+            },
+            "Calzone Napoles": {
+             "Price": 1090
+            },
+            "Megacalzone": {
+             "Price": 1440
+            },
+            "Lasaña Boloñesa": {
+             "Price": 1550
+            },
+            "Lasaña de Jamon": {
+             "Price": 1490
+            }
+        },
+        "Additions": {
+            "Aceitunas": {
+             "Price": 220
+            },
+            "Piña": {
+             "Price": 220
+            },
+            "Cebolla": {
+             "Price": 400
+            },
+            "Atun": {
+             "Price": 550
+            },
+            "Chorizo": {
+             "Price": 2390
+            },
+            "Bacon": {
+             "Price": 360
+            },
+            "Jamon": {
+             "Price": 320
+            },
+            "Jamon serrano": {
+             "Price": 480
+            },
+            "Parmesano": {
+             "Price": 350
+            },
+            "Gouda": {
+             "Price": 360
+            },
+            "Lomo ahumado": {
+             "Price": 380
+            },
+            "Queso azul": {
+             "Price": 300
+            }
+        },
+        "Desserts": {
+            "Pastelito de ojaldre de guayaba o coco": {
+             "Price": 260
+            },
+            "Pastelito de ojaldre de jamon y queso": {
+             "Price": 280
+            },
+            "Flan": {
+             "Price": 590
+            }
+        },
+        "Drink": {
+            "Frappi Rico": {
+             "Price": 180
+            },
+            "Mega Bati Bati": {
+             "Price": 990
+            },
+            "Super Bati Bati": {
+             "Price": 785
+            },
+            "Bati Frutas": {
+             "Price": 675
+            }
+        }
+    },
+ "location": { 
+   "address": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+   "distric": "Cerro",
+   "coordinates": "23.124587,-82.380463"  
+  }
+} 
+

@@ -1,0 +1,203 @@
+{
+  "name": "Don Burguer",
+  "phone_number": "56073379",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "10:00-23:00",
+    "Tuesday": "10:00-23:00",
+    "Wendsday": "10:00-23:00",
+    "Thursday": "10:00-23:00",
+    "Friday": "10:00-23:00",
+    "Saturday": "10:00-23:00",
+    "Sunday": "10:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "television",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "5%",
+  "facebook": "Don Burguer JJ",
+  "instagrm": "@donburguercuba",
+  "menu": {
+    "Starters": { 
+      "ENSALADA FRIA": {
+       "price":580
+      },
+      "ACEITUNAS (RACION)": {
+       "price":420
+      },
+      "BOLITAS DE QUESO": {
+       "price":640
+      },
+      "FRITURAS DE MALANGA": {
+       "price":510
+      },
+      "CROQUETAS": {
+       "price":640
+      },
+      "PAPITAS": {
+       "price":640
+      },
+      "FAJITAS DE POLLO": {
+       "price":940
+      },
+      "ENTREMES SURTIDO": {
+       "price":1720
+      },
+      "BRUSQUETAS": {
+       "price":780
+      },
+      "BURRITOS DE JAMON Y QUESO": {
+       "price":1260
+      }
+    },
+    "Main_Course": {
+      "TACOS DE VEGETALES": {
+       "price":620
+      },
+      "TACOS DE CERDO": {
+       "price":1120
+      },
+      "TACOS DE POLLO": {
+       "price":1120
+      },
+      "TACOS DE RES": {
+       "price":1280
+      },
+      "HAMBURGUESA (CERDO)": {
+       "price":740
+      },
+      "HAMBURGUESA (POLLO)": {
+       "price":740
+      },
+      "HAMBURGUESA (RES)": {
+       "price":860
+      },
+      "DOBLE HAMB. (CERDO)": {
+       "price":1040
+      },
+      "DOBLE HAMB. (POLLO)": {
+       "price":1040
+      },
+      "DOBLE HAMB. (RES)": {
+       "price":1480
+      },
+      "DOBLE HAMBURGUESA DE CERDO(BISTEC DE CERDO Y 3 AGREGOS / JAMON VICKING, QUESO Y CHORIZO)": {
+       "price":2680
+      },
+      "PAN C/ BISTEC DE CERDO": {
+       "price":840
+      },
+      "PAN C/ BISTEC DE POLLO": {
+       "price":810
+      },
+      "PAN C/ LECHON": {
+       "price":890
+      },
+      "BOCADITO DE ATUN": {
+       "price":840
+      },
+      "SANDWICH DE JAMON QUESO Y CHORIZO": {
+       "price":890
+      },
+      "SANDWICH CUBANO": {
+       "price":1290
+      },
+      "JAMON VICKING": {
+       "price":120
+      },
+      "JAMON PIERNA": {
+       "price":190
+      },
+      "BACON": {
+       "price":190
+      },
+      "QUESO": {
+       "price":150
+      },
+      "CHORIZO": {
+       "price":120
+      },
+      "HUEVO": {
+       "price":190
+      },
+      "CEBOLLA": {
+       "price":60
+      },
+      "TOMATE": {
+       "price":60
+      },
+      "LECHUGA": {
+       "price":30
+      },
+      "PEPINILLO ENCURTIDO": {
+       "price":30
+      },
+      "PIÑA GLASEADA": {
+       "price":80
+      }
+    },
+    "Desserts": {
+      "3 GRACIAS": {
+       "price":740
+      },
+      "ENSALADA": {
+       "price":1080
+      },
+      "SUERO DE HELADO": {
+       "price":840
+      },
+      "CASQUITOS DE GUAYABA": {
+       "price":560
+      },
+      "FLAN": {
+       "price":560
+      },
+      "DULCE DE COCO": {
+       "price":460
+      },
+      "TORREJAS": {
+       "price":680
+      },
+      "DULCE DE FRUTA BOMBA": {
+       "price":460
+      }
+    },
+    "Drink": {
+      "AGUA": {
+       "price":150
+      },
+      "REFRESCO": {
+       "price":240
+      },
+      "BATIDO DE FRUTAS": {
+       "price":390
+      },
+      "LIMONADA FRAPE": {
+       "price":380
+      },
+      "LIMONADA CON HIERBA BUENA": {
+       "price":460
+      },
+      "MALTA": {
+       "price":400
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.075260,-82.358827"  
+  }
+}

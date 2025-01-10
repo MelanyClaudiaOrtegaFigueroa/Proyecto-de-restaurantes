@@ -1,0 +1,164 @@
+{
+ "name": "Mi Terraza",
+ "phone_number": "76822381",
+ "web_page": "null",
+ "type": "cafeteria",
+ "type_cuisine": "Italiana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "Si",
+ "delivery": "Si en el Cotorro",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "transmicion de eventos deportivos and presentacion en vivo",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@miterraza_pizzeria",
+ "menu": {
+    "Starters": {
+      "Crema de queso": {
+       "Price": 850
+      },
+      "Crema Virginia": {
+       "Price":1100
+      }
+    },
+    "Main_Course": {
+      "Sandwich de queso": { 
+       "Price": 700
+      },
+      "Sandwich de jamon": { 
+       "Price": 650
+      },
+      "Sandwich de jamon y queso": {
+       "Price": 900
+      },
+      "Sandwich de atun": { 
+       "Price": 1100
+      },
+      "Sandwich Mi Terraza": {
+       "Price": 1100
+      },
+      "Espaguetis Napolitanos": {
+       "Price": 1000
+      },
+      "Espaguetis de jamon": {
+       "Price": 1250
+      },
+      "Espaguetis de atun": {
+       "Price": 1400
+      },
+      "Espaguetis a la Carbonara": {
+       "Price": 1600
+      },
+      "Espaguetis doble queso": {
+       "Price": 1500
+      },
+      "Canelos": {
+       "Price": 1500
+      },
+      "Pizza Napolitana": {
+       "Price": 1200
+      },
+      "Pizza Hawaiana": {
+       "Price": 1700
+      },
+      "Pizza Mi Terraza": {
+       "Price": 1800
+      }
+    },
+    "Fittings": {
+      "Doble queso (150g)": {
+       "Price": 500
+      },
+      "Jamon (60g)": {
+       "Price": 300
+      },
+      "Cebolla": {
+       "Price": 250
+      },
+      "Piña": {
+       "Price": 200
+      },
+      "Atun": {
+       "Price": 400
+      },
+      "Aceitunas": {
+       "Price": 400
+      },
+      "Chorizo": {
+       "Price": 200
+      },
+      "Bacon": {
+       "Price": 700
+      }
+    },
+    "Drink": {
+      "Limonada Frappe": {
+       "Price": 350
+      },
+      "Malteada": {
+       "Price": 500
+      },
+      "Chelada": {
+       "Price": 550
+      },
+      "Batidos (mango, fruta bomba o guayaba)": {
+       "Price": 400
+      },
+      "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)": {
+       "Price": 600
+      },
+      "Pica Pica Mi Terraza": {
+       "Price": 1700
+      },
+      "Tostones de jamon y queso": {
+       "Price": 1000
+      },
+      "Tostones de atun": {
+       "Price": 1200
+      },
+      "Fajitas de pollo (con mayonesa)": {
+       "Price": 1000
+      },
+      "Ensalada de pollo": {
+       "Price": 400
+      },
+      "Frituras de malanga (con miel)": {
+       "Price": 400
+      },
+      "Bolitas de queso (con miel)": {
+       "Price": 400
+      },
+      "Croquetas (con mayonesa)": {
+       "Price": 400
+      },
+      "Chicharritas": {
+       "Price": 300
+      },
+      "Papas prefritas": {
+       "Price": 600
+      }
+    }
+  },
+ "location": { 
+   "address": "Calle 71 % 24 y 26, Las Brisas",
+   "distric": "Cotorro",
+   "coordinates": "22.996597,-82.253663"  
+  }
+} 

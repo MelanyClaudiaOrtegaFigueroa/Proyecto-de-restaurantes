@@ -1,0 +1,211 @@
+{
+ "name": "La Catedral",
+ "phone_number": "078300793",
+ "web_page": "null",
+ "type": "restaurante_bar",
+ "type_cuisine": "cubana and tradicional",
+ "days_hours": {
+   "Monday": "08:00-23:00",
+   "Tuesday": "08:00-23:00",
+   "Wendsday": "08:00-23:00",
+   "Thursday": "08:00-23:00",
+   "Friday": "08:00-23:00",
+   "Saturday": "08:00-23:00",
+   "Sunday": "08:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica en vivo and transmicion de eventos deportivos",
+ "facilities": "asientos aire libre and silla de rueda",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Bar Restaurante La Catedral",
+ "instagrm": "@lacatedralcubana",
+ "menu": {
+    "Starters": {
+      "bombones de queso y pescado": {
+       "Price": 499 
+      },
+      "mariquitas de yuca": {
+       "Price": 350 
+      },
+      "brusquetas": {
+       "Price": 350 
+      },
+      "garbanzos fritos": {
+       "Price": 700 
+      },
+      "entremeses surtido": {
+       "Price": 799 
+      },
+      "picadera obispo": {
+       "Price": 1350 
+      },
+      "fuente de eperlan": {
+       "Price": 1400 
+      },
+      "tabla de embutidos": {
+       "Price": 1500 
+      },
+      "tacos de cerdo y pollo": {
+       "Price": 1500 
+      },
+      "fajitas de pollo frito": {
+       "Price": 1500 
+      },
+      "tabla de jamon serrano, chorizo y queso": {
+       "Price": 1900 
+      }
+    },
+    "Main_Course": {
+      "lasaña de res": {
+       "Price": 1600 
+      },
+      "ropa vieja": {
+       "Price": 1800 
+      },
+      "bistec de cerdo al mojo criollo": {
+       "Price": 1500 
+      },
+      "fajita de cerdo al grille": {
+       "Price": 1500 
+      },
+      "lonjas de pierna ahumado salsa agridulce": {
+       "Price": 1700 
+      },
+      "lonjas de pierna ahumado con queso y piña": {
+       "Price": 1800 
+      },
+      "milanesa de cerdo con espaguettis": {
+       "Price": 1500 
+      },
+      "arroz frito": {
+       "Price": 1500 
+      },
+      "arroz frito especial con camarones": {
+       "Price": 1700 
+      },
+      "pollo deshuesado a la plancha": {
+       "Price": 1400 
+      },
+      "fajitas de pollo salteadas": {
+       "Price": 1400 
+      },
+      "milanesa de pollo con espaguettis": {
+       "Price": 1400 
+      },
+      "arroz con pollo a la chorrera": {
+       "Price": 1500 
+      },
+      "filete de pescado maitre de hotel": {
+       "Price": 1700 
+      },
+      "filete de pescado frito": {
+       "Price": 1800 
+      }
+    },
+    "Drink": {
+      "refrescos": {
+       "Price": 199 
+      },
+      "limonada de fresas": {
+       "Price": 250 
+      },
+      "jugos de frutas": {
+       "Price": 199 
+      },
+      "agua natural": {
+       "Price": 199 
+      },
+      "malta perla negra": {
+       "Price": 350 
+      },
+      "cristal (barril) 500ml": {
+       "Price": 350 
+      },
+      "cristal (botella": {
+       "Price": 350 
+      },
+      "bucanero (barril) 500ml": {
+       "Price": 350 
+      },
+      "bucanero (botella)": {
+       "Price": 350
+      },
+      "cubetazo 4+1": {
+       "Price": 1500 
+      },
+      "michelada clasica": {
+       "Price": 425 
+      },
+      "michelada al mojito": {
+       "Price": 425 
+      },
+      "michelada vampira": {
+       "Price": 425
+      },
+      "michelada salsanera": {
+       "Price": 425 
+      },
+      "mojito": {
+       "Price": 340 
+      },
+      "daiquiri": {
+       "Price": 340 
+      },
+      "daiquiri de fresas": {
+       "Price": 499 
+      },
+      "cubalibre": {
+       "Price": 340 
+      },
+      "cubanito": {
+       "Price": 399 
+      },
+      "blody mary": {
+       "Price": 499 
+      },
+      "sangria": {
+       "Price": 499 
+      },
+      "screw driver": {
+       "Price": 599 
+      },
+      "caipiriña": {
+       "Price": 599 
+      },
+      "piña colada": {
+       "Price": 599 
+      },
+      "martini": {
+       "Price": 599
+      },
+      "old fashioned": {
+       "Price": 599 
+      },
+      "whiskey sour": {
+       "Price": 599 
+      },
+      "manhatan": {
+       "Price": 599 
+      },
+      "negroni": {
+       "Price": 599 
+      }
+    }
+  },
+ "location": {  
+   "address": "Calle 8 e/ Calzada 5ta, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.135892638151837, -82.40453312083959"  
+  }
+} 
+

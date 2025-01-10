@@ -1,0 +1,120 @@
+{
+  "name": "Restaurante El Pellizco",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "11:00-00:00",
+    "Tuesday": "11:00-00:00",
+    "Wendsday": "11:00-00:00",
+    "Thursday": "11:00-00:00",
+    "Friday": "11:00-00:00",
+    "Saturday": "11:00-00:00",
+    "Sunday": "11:00-00:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "estacionamieto gratuito",
+  "daycare": "null",
+  "discount_promotions": "+10% por consumo",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters" : {
+      "Racion de Chicharron" : {
+       "price": 150 
+      },
+      "Racion de Empella" : {
+       "price": 100 
+      },
+      "Caldoza de la Casa" : {
+       "price": 250 
+      },
+      "Racion de Tostones" : {
+       "price": 80 
+      },
+      "Racion de Mariquitas" : {
+        "price": 80 
+      },
+      "Platano maduro frito" : {
+       "price": 80 
+      }
+    },
+    "Main_Course" : {
+      "Bistec de Higado" : {
+       "price": 400 
+      },
+      "Higado a la Italiana" : {
+       "price": 450 
+      },
+      "Bistec de Cerdo" : {
+       "price": 600 
+      },
+      "Masa de Cerdo" : {
+       "price": 650 
+      },
+      "Chuleta de Cerdo" : {
+       "price": 650 
+      },
+      "Lomo Ahumado" : {
+       "price": 650 
+      },
+      "Lonjas de Cerdo Asada" : {
+       "price": 600 
+      },
+      "Pollo Asado" : {
+       "price": 450 
+      },
+      "Costilla Asada" : {
+       "price": 650 
+      },
+      "Ropa Vieja de Cerdo" : {
+       "price": 650 
+      },
+      "Fricase de Costilla" : {
+       "price": 650 
+      },
+      "Pizza Napolitana" : {
+       "price": 200 
+      }
+    },
+    "Drink" : {
+      "Cerveza Nacional" : {
+       "price": 220 
+      },
+      "Cerveza Importada" : {
+       "price": 220 
+      },
+      "Jugo de Caja" : {
+       "price": 150 
+      },
+      "Jugo de Botella" : {
+       "price": 120 
+      },
+      "Malta" : {
+       "price": 150  
+      },
+      "Agua Natural" : {
+       "price": 100 
+      },
+      "Energizante" : { 
+       "price": 220 
+      }
+    }
+  },
+  "location": { 
+    "address": "3Q5F+6C6",
+    "distric": "Guanabacoa",
+    "coordinates": "23.05845569719212,-82.22644758865775"  
+  }
+}

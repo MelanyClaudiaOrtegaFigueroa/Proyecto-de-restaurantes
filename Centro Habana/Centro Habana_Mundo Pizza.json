@@ -1,0 +1,116 @@
+{
+ "name": "Mundo Pizza",
+ "phone_number": "53372715",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "12:00-22:00",
+   "Tuesday": "12:00-22:00",
+   "Wendsday": "12:00-22:00",
+   "Thursday": "12:00-22:00",
+   "Friday": "12:00-22:00",
+   "Saturday": "12:00-22:00",
+   "Sunday": "12:00-22:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Mundo Pizza",
+ "instagrm": "@mundopizza_habana",
+ "menu": { 
+   "Starters": {
+      "croquetas caseras": {
+       "Price": 590 
+      },
+      "tostones criollos": { 
+       "Price": 540 
+      },
+      "focaccia": { 
+       "Price": 560 
+      }
+    },
+    "Main_Course": {
+      "pizza metro criolla": { 
+       "Price": 2800 
+      },
+      "pizza metro casa": { 
+       "Price": 3700 
+      },
+      "pizza metro gouda": {
+       "Price": 5100 
+      },
+      "pizza metro eleccion": { 
+       "Price": 5150 
+      },
+      "pizza 1/2 metro mix": { 
+       "Price": 2500 
+      },
+      "pizza 1/2 metro eleccion": { 
+       "Price": 2700 
+      },
+      "pizza rossa": { 
+       "Price": 590 
+      },
+      "spaghetti": {
+       "Price": 950
+      },
+      "lasaña": {
+       "Price": 1250
+      },
+      "spaghetti al pesto": {
+       "Price": 1050
+      },
+      "spaghetti del dia": {
+       "Price": 1600
+      }
+    },
+    "Desserts": {
+      "postre del dia": { 
+       "Price": 650 
+      },
+      "pizza a chocolate": { 
+       "Price": 815 
+      },
+      "helado 3 gracias": { 
+       "Price": 500 
+      }
+    },
+    "Drink": {
+      "refresco": { 
+       "Price": 250 
+      },
+      "energizante": { 
+       "Price": 390 
+      },
+      "malta": { 
+       "Price": 300 
+      },
+      "jugo cajita": { 
+       "Price": 250 
+      },
+      "yogurt": {      
+       "Price": 250      
+      },
+      "cerveza": { 
+       "Price": 300 
+      }
+    }
+  },
+ "location": { 
+   "address": "C. San Nicolas 309 entre Neptuno y San Miguel",
+   "distric": "Centro Habana",
+   "coordinates": "23.13771148492377,-82.36400171839173"  
+  }
+}

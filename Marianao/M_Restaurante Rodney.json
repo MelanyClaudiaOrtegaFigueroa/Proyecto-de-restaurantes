@@ -1,0 +1,156 @@
+{
+ "name": "Bar Tropicana",
+ "phone_number": "7279147",
+ "web_page": "https://Cabaret-Tropicana.com/",
+ "type": "Bar",
+ "type_cuisine": "tradicional",
+ "days_hours": {
+      "Monday": "12:00-22:00",
+      "Tuesday": "12:00-22:00",
+      "Wendsday": "12:00-22:00",
+      "Thursday": "12:00-22:00",
+      "Friday": "12:00-22:00",
+      "Saturday": "12:00-22:00",
+      "Sunday": "12:00-22:00"
+    },
+ "reservatipn": "Si",
+ "delivery": "null",
+ "payments_option": {
+      "cash": "Si", 
+      "credit_card": "Si",
+      "euros": "null",
+      "us_dollars": "null",
+      "national_currency": "Si"
+    }, 
+ "wi-fi_service": "null",
+ "entertainment": "Show",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Restaurante Rodney",
+ "instagrm": "null",
+ "menu": {
+   "Breakfast": {      
+        "Sandwich de un agrego": {
+          "Price": 230
+        },
+        "Sandwich de dos agregos": {
+          "Price": 300
+        }
+      
+    },
+    "Starters": {
+     "Picadera de la casa": {
+        "Price": 650
+      },
+      "Entremes de embutido y queso": {
+        "Price": 400
+      },
+      "Tacos mexicanos de pollo": {
+        "Price": 700
+      },
+      "Tacos mexicanos de cerdo": {
+        "Price": 1400
+      },
+      "sopa del dia": {
+        "Price":125
+      },
+      "Croquetas": {
+        "Price": 250
+      },
+      "Crema aurora": {
+        "Price": 350
+      },
+      "Crema virginia": {
+        "Price": 480
+      },
+      "Crema de calabaza con queso": {
+       "Price": 400
+      },
+      "Eperlan de pescado": {
+        "Price": 600
+      },
+      "Fajitas de pollo": {
+        "Price": 500
+      }
+    },
+    "Main_Course": {
+      "Pasta napolitana": {
+         "Price": 500
+        },
+      "Pizza napolitana": {
+          "Price": 500
+        },
+        "Pizza campesina": {
+          "Price": 1200
+        },
+        "Pizza especial rodney (rellena con queso)": {
+          "Price": 800
+        },
+        "Pizza especial rodney (rellena con embutido)": {
+          "Price": 900
+        },
+        "Pizza super especial rodney (rellena con queso y varios embutidos)": {
+          "Price": 1200
+        },
+      "Lonjas de cerdo asada": {
+          "Price": 2000
+        },
+        "fricase de cerdo": {
+          "Price": 2300
+        },
+        "Bistec de cerdo grille": {
+          "Price": 1800
+        },
+      "Pollo asado": {
+          "Price": 850
+        },
+        "Pollo frito": {
+          "Price": 900
+        },
+        "Pollo deshuesado": {
+          "Price": 900
+        },
+      "Filete mignon": {
+          "Price": 3000
+        },
+        "Steack de res": {
+          "Price": 1400
+        },
+      "Filete de pescado a la plancha": {
+          "Price": 1500
+        },
+        "Filete de pescado gratinado con queso": {
+          "Price": 1750
+        },
+        "Filete de pescado canciller": {
+          "Price": 2000
+        },
+        "Langosta a la plancha": {
+          "Price": 1800
+        },
+        "Langosta enchilada": {
+          "Price": 1900
+        }
+      },
+      "Fittings": {
+        "Arroz Rodney": {
+          "Price": 780
+        },
+        "Filete bacalao a la plancha": {
+          "Price": 250
+        },
+        "Arroz blanco": {
+          "Price": 120
+        },
+        "Ensalada de vegetales": {
+          "Price": 120
+        }
+      }
+  },
+ "location": { 
+   "address": "72A,Avenida 41",
+   "distric": "Marianao",
+   "coordinates": "23.094732,-82,418759"  
+  }
+} 

@@ -1,0 +1,100 @@
+{
+  "name": "El Mexicano",
+  "phone_number": "52635413",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "10:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "television and musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Main_Course" : {
+      "Sandwich de Jamon y Queso" : {
+       "price": 350 
+      },
+      "Sandwich de Queso Jamon Especial" : {
+       "price": 600 
+      },
+      "Pizza Queso Gouda" : {
+       "price": 450 
+      },
+      "Spaguetti Queso Gouda" : {
+        "price": 770 
+      }
+    },
+    "Drink" : {
+      "Cerveza" : {
+       "price": 200 
+      },
+      "Holanda" : {
+        "price": 200 
+      },
+      "Cristal Lata" : {
+       "price": 250 
+      },
+      "Cristal Botella" : {
+       "price": 200 
+      },
+      "Shaka" : {
+       "price": 350 
+      },
+      "Tigon" : {
+       "price": 300 
+      },
+      "Malta 1 Hyper" : {
+       "price": 270 
+      },
+      "Pepsi" : {
+       "price": 270 
+      },
+      "Mirinda" : {
+        "price": 280 
+      },
+      "Perla negra" : {
+       "price": 270 
+      },
+      "Ironbeer" : {
+       "price": 240 
+      },
+      "Orange" : {
+       "price": 220 
+      },
+      "Cola Polo" : {
+       "price": 220 
+      },
+      "Limon" : {
+       "price": 220 
+      },
+      "Coca Cola" : { 
+       "price": 280 
+      }
+    }
+  },
+  "location": { 
+    "address": "Avenida 3ra #6 entre 2da y 3ra,Reparto Chibas",
+    "distric": "Guanabacoa",
+    "coordinates": "23.129169,-82.308966"  
+  }
+}

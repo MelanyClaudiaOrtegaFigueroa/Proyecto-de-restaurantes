@@ -1,0 +1,98 @@
+{
+ "name": "La Casona del Cerro",
+ "phone_number": "52901805",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "Comida Criolla",
+ "days_hours": {
+   "Monday": "10:00-22:00",
+   "Tuesday": "10:00-22:00",
+   "Wendsday": "10:00-22:00",
+   "Thursday": "10:00-22:00",
+   "Friday": "10:00-22:00",
+   "Saturday": "10:00-22:00",
+    "Sunday": "10:00-14:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "bodas,quinces and cumpleaños",
+ "daycare": "null",
+ "discount_promotions": "20%",
+ "facebook": "La Casona del Cerro",
+ "instagrm": "@lacasonadelcerro",
+ "menu": {
+     "Main_Course": {
+         "pizza napolitana c/queso gouda": {
+           "Price": 450
+         },
+         "pizza doble queso": {
+           "Price":  650
+         },
+         "pizza de jamon y queso gouda": {
+          "Price": 500
+         },
+         "pizza mixta c/queso gouda": {
+           "Price": 550
+         },
+         "pizza familiar c/queso gouda": {
+           "Price": 900
+         },
+         "pizza familiar doble queso": {
+          "Price": 1200
+         },
+         "pizza familiar de jamon y queso gouda": {
+           "Price": 1000
+         },
+         "pizza familiar mixta c/queso gouda": {
+          "Price": 1050
+         },
+         "spaghetti c/queso gouda": {
+           "Price": 450
+         },   
+         "spaghetti c/ jamon y queso gouda": {
+           "Price": 500
+         },
+         "spaghetti doble queso gouda": {
+           "Price": 650
+         },
+         "spaghetti mixto": {
+           "Price": 550
+         },
+         "pollo asado": {
+          "Price": 1100
+         },
+         "masa frita": {
+          "Price": 900
+         },
+         "bistec de cerdo": {
+          "Price":  850
+         },
+         "fricase de cerdo": {
+           "Price": 850
+         },
+         "chuleta": {
+           "Price": 1000
+         }
+      },
+      "Desserts": {
+         "flan": { 
+          "Price": 350
+         }
+      }
+   },
+ "location": { 
+   "address": "Calzada del Cerro entre Alzobispo y Peñon",
+   "distric": "Cerro",
+   "coordinates": "23.109057,-82.382770"  
+  }
+} 
+

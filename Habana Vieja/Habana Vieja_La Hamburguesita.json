@@ -1,0 +1,136 @@
+{
+  "name": "La Hamburguesita",
+  "phone_number": "78661294",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-23:00",
+    "Sunday": "11:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@hamburguesitala",
+  "menu": {
+    "Starters": {
+      "hamburguesa clasica": {
+       "price": 550
+      },
+      "hamburguesa hawaiana": {
+       "price": 650
+      }, 
+      "hamburguesa casa blanca": {
+       "price": 700
+      }, 
+      "hamburguesa submarino": {
+       "price": 670
+      }, 
+      "hamburguesa belleza habanera": {
+       "price": 700
+      },
+      "hamburguesa locura cienfueguera": {
+       "price": 800
+      },
+      "hamburguesa biplanta": {
+       "price": 850
+      },
+      "hamburguesa a la cubana": {
+       "price": 950
+      },
+      "hamburguesa milanesa": {
+       "price": 950
+      },
+      "sandwich de pollo": {
+       "price": 450
+      },
+      "sandwich de jamon": {
+       "price": 400
+      },
+      "sandwich de queso": {
+       "price": 400
+      },
+      "sandwich de jamon y queso": {
+       "price": 500
+      },
+      "sandwich de atun": {
+       "price": 750
+      },
+      "sandwich Cubano": {
+       "price": 750
+      },
+      "croqueta": {
+       "price": 350
+      },
+      "frituras de malanga": {
+       "price": 350
+      },
+      "tostones hawaianos": {
+       "price": 400
+      }
+    },
+    "Drink": {
+      "jugos naturales": {
+       "price": 150
+      },
+      "batido de frutas": {
+       "price": 200
+      },
+      "limonada frappe": {
+       "price": 200
+      },
+      "malteada": {
+       "price": 350
+      },
+      "malta": {
+       "price": 280
+      },
+      "refresco importado": {
+       "price": 280
+      },
+      "refresco nacional": {
+       "price": 250 
+      },
+      "cerveza nacional": {
+       "price": 280
+      },
+      "cerveza importada": {
+       "price": 250
+      },
+      "energizante": {
+       "price": 280
+      },
+      "agua natural": {
+       "price": 150
+      },
+      "cafe expreso": {
+       "price": 100
+      },
+      "cafe bombon": {
+       "price": 250
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Cienfuegos entre Apodaca y Gloria",
+    "distric": "Habana Vieja",
+    "coordinates": "23.13143314332834, -82.3578247823828"  
+  }
+} 

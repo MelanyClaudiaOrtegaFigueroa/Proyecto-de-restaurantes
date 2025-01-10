@@ -1,0 +1,88 @@
+{
+ "name": "Cafeteria Obelisco",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "tradicional",
+ "days_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wendsday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00",
+      "Saturday": "09:00-18:00",
+      "Sunday": "09:00-18:00"
+    },
+ "reservatipn": "Si",
+ "delivery": "null",
+ "payments_option": {
+      "cash": "Si", 
+      "credit_card": "null",
+      "euros": "null",
+      "us_dollars": "null",
+      "national_currency": "Si"
+    }, 
+ "wi-fi_service": "Si",
+ "entertainment": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facilities": "estacionamiento",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+   "Breakfast": {
+     "Pan con queso y embutido": {
+        "Price": 250
+      }
+      
+    },
+    "Starters": {
+           "bolitas de carne": {
+              "Price": 20
+            },
+           "Dados de queso":{
+             "Price": 180
+            }
+    },
+       "Main_Course": {
+        "Pizza de queso": {
+                 "Price": 200
+                }
+            },
+           "Fittings": {
+               "Frijol negro": {
+                 "Price": 55
+                },
+                "Arroz blanco": {
+                 "Price": 70
+                }
+            
+        },
+       "Drink": {
+          "agua saborizada": {
+             "Price": 50
+            },
+           "agua natural": {
+             "Price": 180
+            },
+           "Cerveza cristal": {
+             "Price": 180
+            },
+           "Vino blanco entre Rio": {
+             "Price": 160
+            },
+           "Vino blanco": {
+             "Price": 160
+            },
+           "Cerveza": {
+             "Price": 50
+            }
+        }
+    },
+   "location": { 
+     "address": "Avenida 31",
+     "distric": "Marianao",
+     "coordinates": "23.084607,-82.429150"  
+    }
+}
+  

@@ -1,0 +1,130 @@
+{
+  "name": "Pizzeria Los Atrevidos",
+  "phone_number": "76470313 and 52966948",
+  "web_page": "https://atrevidospizzeria.com/",
+  "type": "Cafeteria",
+  "type_cuisine": "Italiana",
+  "days_hours": {
+    "Monday": "10:00-21:00",
+    "Tuesday": "10:00-21:00",
+    "Wendsday": "10:00-21:00",
+    "Thursday": "10:00-21:00",
+    "Friday": "10:00-21:00",
+    "Saturday": "10:00-21:00",
+    "Sunday": "10:00-21:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Pizzeria Los Atrevidos",
+  "instagrm": "null",
+  "menu": {
+    "Starters": { 
+      "Pizza Napolitana": {
+       "price": 1100
+      },
+      "Pizza d' Cebolla": {
+       "price": 1250
+      },
+      "Pizza d' Champiñones": {
+       "price": 1300
+      },
+      "Pizza d' Pimiento": {
+       "price": 1250
+      },
+      "Pizza d' Jamon": {
+       "price": 1350
+      },
+      "Pizza d' Aceitunas": {
+       "price": 1400
+      },
+      "Pizza d' Chorizo": {
+       "price": 1350
+      },
+      "Pizza d' Chorizo Vela": {
+       "price": 1150
+      },
+      "Pizza Hawaiana": {
+       "price": 1400
+      },
+      "Pizza d' Bacon": {
+       "price": 1400
+      },
+      "Pizza d' Atun": {
+       "price": 1500
+      },
+      "Pizza Bolonesa": {
+       "price": 1600
+      },
+      "Pizza d' Jamon Serrano": {
+       "price": 1550
+      },
+      "Pizza d' Camarones": {
+       "price": 1650
+      },
+      "Pizza 4 Quesos": {
+       "price": 1500
+      },
+      "Pizza Atrevida": {
+       "price": 1800
+      },
+      "Pizza Jamon Pernia": {
+       "price": 1500
+      }
+    },
+    "Main_Course": { 
+      "Lasaña": {
+       "price": 1100
+      },
+      "Spaguetis Napolitanos": {
+       "price": 1000
+      },
+      "Spaguetis d' Parmesano": {
+       "price": 1200
+      },
+      "Spaguetis d' Jamon": {
+       "price": 1250
+      },
+      "Spaguetis d' Atun": {
+       "price": 1350
+      }, 
+      "Spaguetis d' Chorizo": {
+       "price": 1250
+      }, 
+      "Spaguetis d' Aceituna": {
+       "price": 1300
+      }, 
+      "Spaguetis d' Cebolla": {
+       "price": 1150
+      }, 
+      "Spaguetis Hawaianos": {
+       "price": 1300
+      }, 
+      "Spaguetis 4 Quesos": {
+       "price": 1400
+      }, 
+      "Spaguetis Atrevidos": {
+       "price": 1050
+      },
+      "Spaguetis Bolonesa": {
+       "price": 1450
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.062429,-82.363851"  
+  }
+}

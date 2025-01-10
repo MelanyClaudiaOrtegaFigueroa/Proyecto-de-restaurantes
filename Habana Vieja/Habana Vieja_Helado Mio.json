@@ -1,0 +1,156 @@
+{
+  "name": "Helado Mio",
+  "phone_number": "50924305",
+  "web_page": "https://helado-mio.com/",
+  "type": "cafeteria",
+  "type_cuisine": "helados",
+  "days_hours": {
+    "Monday": "10:00-18:00",
+    "Tuesday": "10:00-18:00",
+    "Wendsday": "10:00-18:00",
+    "Thursday": "10:00-18:00",
+    "Friday": "10:00-18:00",
+    "Saturday": "10:00-18:00",
+    "Sunday": "10:00-18:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Helado Mio",
+  "instagrm": "@heladomio_cuba",
+  "menu": { 
+    "Desserts": {
+      "cono de helado": {
+          "1 bolas price": 190,
+          "2 bolas price": 320
+      },
+      "vaso de helado": {
+          "1 bola price": 210,
+          "2 bolas price": 340,
+          "3 bolas price": 440
+      },
+      "pote de helado": {
+       "price": 450
+      },
+      "batido de helado": {
+       "price": 490
+      },
+      "donuts": {
+       "price": 160
+      },
+      "waffles sencillos con dos bolas helado": {
+       "price": 300
+      },
+      "waffle mio con tres bolas de helado": {
+       "price": 500
+      }
+    },
+    "Drink": {
+      "frapuccino": {
+       "price": 490
+      },
+      "to go": {
+       "medio kilogramo price": 1000,
+       "1 kg de helado price": 2000
+      },
+      "cola_pepsi": {
+       "price": 200
+      },
+      "miranda": {
+       "price": 200
+      },
+      "sprit": {
+       "price": 200
+      },
+      "pool": {
+       "price": 200
+      },
+      "refresco": {
+       "price": 200
+      },
+      "mixologa": {
+       "price": 150
+      },
+      "caja Manzana": {
+       "price": 150
+      },
+      "caja melocoton": {
+       "price": 150
+      },
+      "caja pera": {
+       "price": 150
+      },
+      "cerveza hollandia": {
+       "price": 250
+      },
+      "energizante": {
+       "price": 220
+      },
+      "malta": {
+       "price": 220
+      },
+      "matla": {
+       "price": 250
+      },
+      "aguas": {
+       "270 ml price": 100,
+       "330 ml price": 130,
+       "500 ml price": 160,
+       "600 ml price": 180
+      }
+    },
+    "Additions": {
+      "sirope": {
+       "price": 10
+      },
+      "gragea": {
+       "price": 10
+      },
+      "cereales": {
+       "price": 10
+      },
+      "barquillo": {
+       "price": 10
+      },
+      "vaso": {
+       "price": 30
+      }
+    },
+    "Starters": {
+      "sandwich de jamon y queso": {
+       "price": 350
+      },
+      "sandwich de doble queso": {
+       "price": 350
+      },
+      "sandwich de doble jamon": {
+       "price": 350
+      },
+      "sandwich de atun": {
+       "price": 600
+      },
+      "tost de jamon y queso": {
+       "price": 400
+      },
+      "tost de doble queso": {
+       "price": 400
+      }
+    }
+  },
+  "location": { 
+    "address": "Antiguos Almacenes San Jose #110 Leonor Perez",
+    "distric": "Habana Vieja",
+    "coordinates": "23.13034182727643, -82.34861763795132"  
+  }
+}

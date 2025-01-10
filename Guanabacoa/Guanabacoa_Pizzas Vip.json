@@ -1,0 +1,190 @@
+{
+  "name": "Pizzas Vip",
+  "phone_number": "52844312",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "italiana,criolla e internacional",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "10:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+        "Starters": {  
+            "Croquetas de la Casa": {  
+             "price": 400 
+            },
+            "Fritura de Malanga": {  
+              "price": 300 
+            },
+           "Bolita de Queso": {  
+             "price": 650 
+            },
+            "Fajita de Pechuga": {  
+             "price": 1100 
+            },
+            "Ensalada Fria": {  
+              "price": 370 
+            },
+            "Papa Frita": {  
+             "price": 580 
+            },
+            "Fajita de Cerdo": {  
+             "price": 1200 
+            },
+            "Crema de Queso": {  
+              "price": 500 
+            },
+            "Crema Virginia": {  
+             "price": 550 
+            },
+            "Crema Aurora": {  
+             "price": 520 
+            },
+            "Crema Mixta": {  
+              "price": 600 
+            },
+            "Tacos de Jamon": {  
+             "price": 1030 
+            },
+           "Tacos de Res": {  
+             "price": 1350 
+            },
+            "Tacos de Cangrejo": {  
+             "price": 1380 
+            },
+            "Pizza de Queso": {  
+             "price": 800 
+            },
+            "Pizza de Cebolla": {  
+             "price": 1000 
+            },
+            "Pizza de Pimiento": {  
+              "price": 1000 
+            },
+            "Pizza de Jamon": {  
+             "price": 1100 
+            },
+            "Pizza de Chorizo": {  
+             "price": 1050 
+            },
+            "Pizza de Hawaiana": {  
+              "price": 1260 
+            },
+            "Pizza de Bacon": {  
+              "price": 1240 
+            },
+            "Pizza Doble Queso": {  
+             "price": 1250 
+            },
+            "Pizza de Camaron": { 
+             "price": 1700
+            },
+            "Pizza de Res": { 
+             "price": 1300
+            },
+            "Pizza de Atun con Cebolla": { 
+              "price": 1450
+            },
+            "Pizza de Jamon Serrano": { 
+             "price": 1570
+            },
+           "Pizza de Aceituna": { 
+              "price": 1200
+            },
+            "Espaguetis Napolitano": { 
+             "price": 720
+            },
+            "Espaguetis Boloñesa": { 
+             "price": 1350
+            },
+            "Espaguetis Carbonara": { 
+             "price": 1350
+            },
+            "Espaguetis Alfredo": { 
+             "price": 1150
+            },
+            "Espaguetis de Atun": { 
+              "price": 1270
+            },
+            "Espaguetis Pollo": { 
+             "price": 1120
+            },
+            "Espaguetis de Camarones": { 
+             "price": 1400
+            },
+            "Espaguetis Chorizo": { 
+              "price": 1150
+            },
+            "Espaguetis Negro Di Mare": { 
+              "price": 1500
+            }
+        },
+        "Drink": { 
+           "Henike": { 
+              "price": 360
+            },
+            "Cerveza Importada": { 
+              "price": 250
+            },
+            "Cerveza de Lata Cristal": { 
+             "price": 300
+            },
+            "Cerveza de Botella": { 
+              "price": 300
+            },
+            "Pomitos de Agua": { 
+              "price": 150
+            },
+            "Refresco de Pomito": { 
+             "price": 180
+            },
+            "Refresco de Lata": { 
+             "price": 220
+            },
+            "Malta": { 
+              "price": 300
+            },
+            "Jugos de Lata": { 
+              "price": 280
+            },
+            "Jugos de Cajita": { 
+              "price": 180
+            },
+            "Tigon": { 
+              "price": 300
+            },
+            "Refresco Importado": { 
+             "price": 250
+            },
+            "Malta Importada": { 
+             "price": 270
+            }
+        }    
+    },
+  "location": { 
+    "address": "4M9W+QJH,E Guiral",
+    "distric": "Guanabacoa",
+    "coordinates": "23.1236465,-82.3043900"  
+  }
+}

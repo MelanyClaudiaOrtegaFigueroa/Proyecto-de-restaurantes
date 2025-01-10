@@ -1,0 +1,183 @@
+{
+ "name": "Bar Tropicana",
+ "phone_number": "7279147",
+ "web_page": "https://Cabaret-Tropicana.com/",
+ "type": "bar",
+ "type_cuisine": "tradicional",
+ "days_hours": {
+     "Monday": "12:00-22:00",
+     "Tuesday": "12:00-22:00",
+     "Wendsday": "12:00-22:00",
+     "Thursday": "12:00-22:00",
+     "Friday": "12:00-22:00",
+     "Saturday": "12:00-22:00",
+     "Sunday": "12:00-22:00"
+    },
+ "reservatipn": "Si",
+ "delivery": "Si",
+ "payments_option": {
+     "cash": "Si", 
+     "credit_card": "null",
+     "euros": "Si",
+     "us_dollars": "null",
+     "national_currency": "Si"
+    }, 
+ "wi-fi_service": "null",
+ "entertainment": "Show",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facilities": "asientos aire libre,silla de rueda and estacionamiento",
+ "facebook": "Cabaret Tropicana",
+ "instagrm": "@cabarettropicana",
+ "menu": {
+      "Drink": {
+            "Aguas nacionales": {
+             "Price": 100
+            },
+            "Agua saborizada ": {
+             "Price": 100
+            },
+            "Agua Natural ": {
+             "Price": 100
+            },
+            "Refresco": {
+             "Price": 60
+            },
+            "Jugos de frutas en conserva ": {
+                "Price": 100
+            },
+            "Jugos de frutas naturales": {
+                "Price": 100
+            },
+            "Cervezas nacionales o importadas": {
+                "Price": 200
+            },
+            "Cerveza Dispensada ": {
+                "Price": 160
+            },
+            "Copa de vino de la casa": {
+                "Price": 300
+            },
+            "Havana Club 3 años ": {
+                "Price": 100
+            },
+            "Especial Havana Club ": {
+                "Price": 120
+            },
+            "Havana Club 7 años ": {
+                "Price": 320
+            },
+            "Havana Club Pacto Navio ": {
+                "Price": 730
+            },
+            "Havana club seleccion de maestros": {
+                "Price": 750
+            },
+            "Aguardiente Gobernador": {
+                "Price": 14300
+            },
+            "Chiva Regal 12 Años": {
+                "Price": 995
+            },
+            "Ballentinees finest": {
+                "Price": 500
+            },
+            "J&B ": {
+                "Price": 650
+            },
+            "Johnnie Walker etiqueta roja": {
+                "Price": 550
+            },
+            "Jameson": {
+                "Price": 650
+            },
+            "VAT": {
+                "Price": 580
+            },
+            "Tequila 3 sombreros": {
+                "Price": 300
+            },
+            "Vodka Igor": {
+                "Price": 395
+            },
+            "Brandy Napoleón": {
+                "Price": 190
+            },
+            "Cremas y licores (Cacao)": {
+                "Price": 85
+            },
+            "Cremas y licores (Café)": {
+                "Price": 85
+            },
+            "Cremas y licores(Menta)": {
+                "Price": 85
+            },
+            "Cremas y licores(Marrasquino)": {
+                "Price": 85
+            },
+            "Cremas y licores(Triple sec)": {
+                "Price": 85
+            },
+            "Cremas y licores(Curacao azul)": {
+                "Price": 85
+            },
+            "Cremas y licores(Piña)": {
+                "Price": 85
+            },
+            "Daiquiri Natural": {
+                "Price": 450
+            },
+            "Daiquiri Frapeado Natural": {
+                "Price": 450
+            },
+            "Cuba libre": {
+                "Price": 730
+            },
+            "cubata": {
+                "Price": 700
+            },
+            "Daiquiri mulata": {
+                "Price": 620
+            },
+            "Daiquiri Saborizado": {
+                "Price": 450
+            },
+            "Gin cola": {
+                "Price": 750
+            },
+            "Gin tonic": {
+                "Price": 785
+            },
+            "Rom tonic": {
+                "Price": 550
+            },
+            "Vodka cola": {
+                "Price": 600
+            },
+            "Vodka tónica": {
+                "Price": 650
+            },
+            "Whisky cola": {
+                "Price": 500
+            },
+            "Tropicana special ": {
+                "Price": 450
+            },
+            "Cocteles Internacionales": {
+                "Price": 500
+            },
+            "Canchánchara": {
+                "Price": 450
+            },
+            "Piña colada ": {
+                "Price": 450
+            }
+        }
+    },
+ "location": { 
+     "address": "72A,Avenida 41",
+     "distric": "Marianao",
+     "coordinates": "23.094676,-82.419223"  
+    }
+}
+   

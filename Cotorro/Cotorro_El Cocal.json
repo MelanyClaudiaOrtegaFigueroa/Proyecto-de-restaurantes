@@ -1,0 +1,127 @@
+{
+ "name": "El Cocal",
+ "phone_number": "76822199",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "null",
+   "Wendsday": "null",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Restaurante El Cocal",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "Croquetas": {
+       "Price": 600
+      },
+      "Bolitas de queso": {
+       "Price": 650
+      },
+      "Ensalada de Atun": {
+       "Price": 1000
+      },
+      "Toston de queso": {
+       "Price": 600
+      },
+      "Toston de jamon y queso": {
+       "Price": 600
+      },
+      "Toston de Atun": {
+       "Price": 1000
+      },
+      "Crema de queso": {
+       "Price": 550
+      },
+      "Crema Aurora": {
+       "Price": 600
+      },
+      "Crema Virginia": {
+       "Price": 650
+      },
+      "Crema Mixta": {
+       "Price": 700
+      },
+      "Coctel Camaron": {
+       "Price": 1500
+      },
+      "Empellas": {
+       "Price": 550
+      }
+    },
+    "Main_Course": {
+      "Pizza de Queso": {
+       "Price": 1200
+      },
+      "Pizza de Jamon": {
+       "Price": 1400
+      },
+      "Pizza Hawaiiana": {
+       "Price": 1500
+      },
+      "Eperlan Pechuga": { 
+       "Price": 1600
+      },
+      "Eperlan Pescado": { 
+       "Price": 2000
+      }
+    },
+    "Additions": {
+        "queso": {
+         "Price": 500
+        },
+        "jamon": {
+         "Price": 300
+        },
+        "piña": {
+         "Price": 150
+        },
+        "camaron": {
+         "Price": 1500
+        },
+        "atun": {
+         "Price": 1000
+        },
+        "cebolla": {
+         "Price": 200
+        }
+    },
+    "Fittings": {
+      "yuca": {
+       "Price": 400
+      },
+      "Toston": {
+       "Price": 400
+      }
+    },
+    "Desserts": {
+      "Flan": {
+       "Price": 500
+      }
+    }
+  },
+ "location": { 
+   "address": "Lindero#4026A entre 38A y 44 Roto Modelo,Loteria",
+   "distric": "Cotorro",
+   "coordinates": "23.0475,-82.25543"  
+  }
+}

@@ -1,0 +1,87 @@
+{
+ "name": "El Triangulo",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "08:00-24:00",
+   "Tuesday": "08:00-24:00",
+   "Wendsday": "08:00-24:00",
+   "Thursday": "08:00-24:00",
+   "Friday": "08:00-24:00",
+   "Saturday": "08:00-24:00",
+   "Sunday": "08:00-24:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "Fajitas de pollo": {
+       "Price": 350
+      }, 
+      "Croquetas": {
+       "Price": 150
+      }, 
+      "Bolitas de queso": {
+       "Price": 150
+      }, 
+      "Tostones": {
+       "Price": 150
+      }
+    },
+    "Main_Course": {
+      "Pollo Frito": {
+       "Price": 1000
+      }   
+    },
+    "Drink": {
+      "Cerveza Cristal": {
+       "Price": 250
+      }, 
+      "Cerveza Bucanero": {
+       "Price": 250
+      }, 
+      "Cerveza Escorial": {
+       "Price": 200
+      }, 
+      "Cerveza Holanda": {
+       "Price": 200
+      },
+      "agua": {
+       "Price": 120
+      }, 
+      "refresco": {
+       "Price": 220
+      }, 
+      "jugo de caja": {
+       "Price": 180
+      },
+      "red bull": {
+       "Price": 230
+      }, 
+      "malta": {
+       "Price": 220
+      }
+    }  
+  },
+ "location": { 
+   "address": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma",
+   "distric": "Arroyo Naranjo",
+   "coordinates": "23.074388, -82.358446"  
+  }
+}

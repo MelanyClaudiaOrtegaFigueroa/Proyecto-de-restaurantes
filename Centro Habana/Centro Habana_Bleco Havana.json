@@ -1,0 +1,219 @@
+{
+  "name": "Bleco Havana",
+  "phone_number": "50985368 and 50139808",
+  "web_page": "null",
+  "type": "bar - restaurante",
+  "type_cuisine": "italiana,criolla and caribeña",
+  "days_hours": {
+    "Monday": "13:00-02:00",
+    "Tuesday": "13:00-02:00",
+    "Wendsday": "13:00-02:00",
+    "Thursday": "13:00-02:00",
+    "Friday": "13:00-02:00",
+    "Saturday": "13:00-02:00",
+    "Sunday": "13:00-02:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "null"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "El Bleco",
+  "instagrm": "@blecohavana",
+  "menu": {
+    "Starters": {
+      "frituras de malanga": { 
+       "price": 750
+      },
+      "croquetas mixtas": { 
+       "price": 1050
+      },
+      "palitos de queso": { 
+       "price": 1100
+      },
+      "tacos de cerdo": { 
+       "price": 1550
+      },
+      "tacos de cerdo ahumado": { 
+       "price": 1750
+      },
+      "tacos de pollo": { 
+       "price": 1450
+      },
+      "nachos de salsa de queso": { 
+       "price": 900
+      },
+      "nachos con pollo a la barbacoa": { 
+       "price": 1450
+      },
+      "alitas de pollo a la barbacoa": { 
+       "price": 1350
+      },
+      "crostini mixto": { 
+       "price": 950
+      },
+      "torrejas saladas con cerdo ahumado": { 
+       "price": 1050
+      },
+      "quesadillas de jamon pierna": { 
+        "price": 1650
+      }
+    },
+    "Main_Course": {
+      "bistec a la plancha": { 
+       "price": 2000
+      },
+      "pollo frito": { 
+        "price": 1500
+      },
+      "fajita de pechuga de pollo": { 
+       "price": 2500
+      },
+      "pizza de queso": { 
+       "price": 1250
+      },
+      "pizza de jamon": { 
+       "price": 1450
+      },
+      "pizza de chorizo": { 
+       "price": 1450
+      }
+    },
+    "Drink" : {
+      "agua natural": { 
+       "price": 250
+      },
+      "santa cola": { 
+       "price": 350
+      },
+      "santa limon": { 
+        "price": 350
+      },
+      "energizante": { 
+       "price": 500
+      },
+      "caipirisima": { 
+       "price": 650
+      },
+      "caipiroska": { 
+       "price": 650
+      },
+      "caipiriña": { 
+       "price": 650
+      },
+      "mojito": { 
+       "price": 650
+      },
+      "cuba libre": { 
+       "price": 650
+      },
+      "sangria": { 
+       "price": 650
+      },
+      "margarita": { 
+       "price": 600
+      },
+      "piña colada": { 
+       "price": 650
+      },
+      "old fashion": { 
+       "price": 750
+      },
+      "laguna azul": { 
+       "price": 650
+      },
+      "tr reserva": { 
+       "price": 300
+      },
+      "tr ritual": { 
+       "price": 300
+      },
+      "tr añejo especial": { 
+        "price": 300
+      },
+      "tr vat 69": { 
+       "price": 500
+      },
+      "tr black white": { 
+       "price": 600
+      },
+      "tr jw red": { 
+       "price": 1100
+      },
+      "tr ballantines": { 
+       "price": 1000
+      },
+      "gin master": { 
+       "price": 650
+      },
+      "gin tanqueray": { 
+       "price": 650
+      },
+      "gin johpur reserva": { 
+       "price": 900
+      },
+      "vodka tonic": { 
+       "price": 500
+      },
+      "tr ciroc": { 
+       "price": 1000
+      },
+      "tr finlandia": { 
+       "price": 600
+      },
+      "czech driver": { 
+        "price": 750
+      },
+      "tequila de la casa": { 
+       "price": 400
+      },
+      "bailey's": { 
+       "price": 800
+      },
+      "jagermeister": { 
+       "price": 450
+      },
+      "copa de vino": { 
+       "price": 500
+      },
+      "cristal lata": { 
+       "price": 350
+      },
+      "bucanero lata": { 
+       "price": 350
+      },
+      "cristal botella": { 
+       "price": 500
+      },
+      "bucanero botella": { 
+       "price": 500
+      },
+      "hollandia": { 
+       "price": 300
+      },
+      "cafe expreso": { 
+       "price": 250
+      },
+      "cafe capuccino": { 
+       "price": 400
+      },
+      "cafe cortadito": { 
+       "price": 300
+      }
+    }
+  },
+  "location": { 
+    "address": "Vapor y Hornos, 63 e Marina",
+    "distric": "Centro Habana",
+    "coordinates": "23.141509790555908,-82.374230422513"  
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": "El Castillo de Farnes",
+  "phone_number": "78671030",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "Caribeña e internacional",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-23:00",
+    "Sunday": "11:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "karaoke,musica and presentaciones en vivo",
+  "facilities": "parqueo and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@castillo-de-farnes",
+  "menu": { 
+    "Starters": {
+      "Pizza Napolitana": {
+       "price": 275
+      }, 
+      "Espaguetis Margarita": {
+       "price": 350
+      } 
+    },
+    "Main_Course": {
+      "Cerdo Estofado": {
+       "price": 875
+      }, 
+      "Fajitas de Cerdo": {
+       "price": 990
+      }, 
+      "Bistec de Cerdo": {
+       "price": 850
+      }, 
+      "Res Estofada": {
+       "price": 875
+      }, 
+      "Lonjas de Res": {
+       "price": 945
+      } 
+    },
+    "Fittings": {
+      "Arroz con Sustancia": {
+       "price": 105
+      }
+    },
+    "Drink": {
+      "Gin Tonic": {
+       "price": 35
+      }, 
+      "Ron Collins": {
+       "price": 300
+      }, 
+      "Daiquiri": {
+       "price": 300
+      }, 
+      "Licor Cubay de Menta": {
+       "price": 200
+      }, 
+      "Licor Curacao Azul": {
+       "price": 200
+      }, 
+      "Licor Cubay de Anis": {
+       "price": 200
+      }, 
+      "Cerveza Importada/Lata-Botella": {
+       "price": 175
+      }, 
+      "Cerveza Nacional/Lata-Botella": {
+       "price": 160
+      }, 
+      "Parranda": {
+       "price": 160
+      }, 
+      "Jugo Nacional Lata": {
+       "price": 90
+      }, 
+      "Limonada": {
+       "price": 100
+      }, 
+      "Vaso de Jugo Importado": {
+       "price": 80
+      }, 
+      "Malta Importada": {
+       "price": 135
+      },
+      "Cafe Express": {
+       "price": 125
+      }, 
+      "Cafe Americano": {
+       "price": 150
+      }, 
+      "Cafe Cortado": {
+       "price": 175
+      }, 
+      "Cafe con Leche": {
+       "price": 180
+      }, 
+      "Leche Fria": {
+       "price": 160
+      }
+    }
+  },
+  "location": { 
+    "address": "Monserrate #401,esquina a Obrapia",
+    "distric": "Habana Vieja",
+    "coordinates": "23.136918,-82.357216"  
+  }
+}

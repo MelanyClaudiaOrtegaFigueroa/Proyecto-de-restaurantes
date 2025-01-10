@@ -1,0 +1,80 @@
+{
+ "name": "La Esquinita del Cotorro",
+ "phone_number": "59937585",
+ "web_page": "null",
+ "type": "bar-cafeteria",
+ "type_cuisine": "rapida",
+ "days_hours": {
+   "Monday": "10:00-20:00",
+   "Tuesday": "10:00-20:00",
+   "Wendsday": "10:00-20:00",
+   "Thursday": "10:00-20:00",
+   "Friday": "10:00-20:00",
+   "Saturday": "10:00-20:00",
+   "Sunday": "10:00-20:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "La Esquinita del Cotorro",
+ "instagrm": "@laesquinitadelcotorro",
+ "menu": {
+    "Starters": {
+      "tostones": {
+       "Price": 200 
+      },
+      "tortilla natural": {
+       "Price": 220 
+      },
+      "tortilla de queso blanco": {
+       "Price": 280 
+      },
+      "tortilla de jamon": {
+       "Price": 320 
+      },
+      "tortilla de chorizo": {
+       "Price": 320 
+      },
+      "tortilla mixta": {
+       "Price": 410
+      },
+      "hamburguesa simple": {
+       "Price": 250 
+      },
+      "hamburguesa doble": {
+       "Price": 380
+      },
+      "hamburguesa esquinita": {
+       "Price": 480 
+      },
+      "hamburguesa esquinita plus": {
+       "Price": 580
+      },
+      "pan con jamon": {
+       "Price": 240 
+      },
+      "pan con jamon y chorizo": {
+       "Price": 270 
+      },
+      "pan con chorizo": {
+       "Price": 160 
+      }
+    }
+  },
+ "location": { 
+   "address": "calle 20 #6950 entre 69 y 71",
+   "distric": "Cotorro",
+   "coordinates": "23.044766,-82.268627"  
+  }
+}

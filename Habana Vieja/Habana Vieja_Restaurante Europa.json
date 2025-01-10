@@ -1,0 +1,84 @@
+{
+  "name": "Restaurante Europa",
+  "phone_number": "null",
+  "web_page": "78644484",
+  "type": "Restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "12:00-23:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica and television",
+  "facilities": "aparcamiento and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Main_Course": {
+      "Langosta Entera Grille": {
+       "price": 4500
+      },
+      "Camaron Grille": {
+       "price": 1900
+      },
+      "Camaron Enchilado": {
+       "price": 1740
+      }, 
+      "Bistec de Cerdo Grille": { 
+       "price": 850
+      }, 
+      "Lonjas de Cerdo Asada": {
+       "price": 775  
+      },
+      "Fajitas de Cerdo": {
+       "price": 990
+      }, 
+      "Pizza Napolitana": {
+       "price": 650
+      }, 
+      "Spaguetti Napolitano": {
+       "price": 350
+      }
+    },
+    "Fittings": {
+      "Arroz con Camaron": {
+       "price": 550
+      },
+      "Arroz Blanco": {
+       "price": 100
+      }, 
+      "Ensalada Vegetales": {
+       "price": 200
+      }, 
+      "Vianda Hervida": {
+       "price": 175
+      } 
+    },
+    "Desserts": {
+      "Gelatina": {
+       "price": 75
+      } 
+    }
+  },
+  "location": { 
+    "address": "Obispo numero 301",
+    "distric": "Habana Vieja",
+    "coordinates": "23.138582,-82.353104"  
+  }
+}

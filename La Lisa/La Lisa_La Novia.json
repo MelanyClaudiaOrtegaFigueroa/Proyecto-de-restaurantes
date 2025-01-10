@@ -1,0 +1,250 @@
+{
+ "name": "La Novia",
+ "phone_number": "55861545",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "caribeña,cubana e internacional",
+ "days_hours": {
+   "Monday": "09:00-17:00",
+   "Tuesday": "09:00-17:00",
+   "Wendsday": "09:00-17:00",
+   "Thursday": "09:00-17:00",
+   "Friday": "09:00-17:00",
+   "Saturday": "11:00-22:00",
+   "Sunday": "11:00-22:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Restaurante La Novia",
+ "instagrm": "@restaurante_lanovia",
+ "menu": {
+    "Starters": { 
+      "Croquetas de la Casa": {
+       "Price" : 600 
+      },
+      "Frituras de Malanga": {
+       "Price" : 400
+      },
+      "Bolitas de yuca y queso": {
+       "Price" : 350
+      },
+      "Fajitas de cerdo": {
+       "Price" : 1000
+      },
+      "Fajitas de pollo": {
+       "Price" : 1000
+      },
+      "Picadera Mixta": {
+       "Price" : 2200
+      },
+      "Chips de Vianda": {
+       "Price" : 200
+      },
+      "Milanesa de Pollo": {
+       "Price" : 1200
+      },
+      "Sandwich de Jamon": {
+       "Price" : 580
+      },
+      "Sandwich de Jamon y Queso": {
+       "Price" : 730 
+      },
+      "Sandwich Cubano con cerdo asado": {
+       "Price" : 1300
+      },
+      "Ensaladita de aceitunas, queso y peperoni": {
+        "Price" : 1100
+      }
+    },
+    "Main_Course": { 
+      "Tacos de cerdo": {
+       "Price" : 1100
+      },
+      "Tacos de pollo": {
+       "Price" : 1100
+      },
+      "Tacos de jamon y queso": {
+       "Price" : 1100
+      },
+      "Tacos marineros": {
+       "Price" : 1100
+      },
+      "Tacos de ropa vieja": {
+       "Price" : 1300
+      },
+      "Masas fritas de cerdo": {
+       "Price" : 1700
+      },
+      "Pollo frito": {
+       "Price" : 1300
+      },
+      "Pollo asado": {
+       "Price" : 1300
+      },
+      "Pizza Napolitana": {
+       "Price" : 280
+      },
+      "Pizza de Peperoni": {
+        "Price" : 400
+      },  
+      "Espaguetis Napolitanos": {
+        "Price" : 700
+      },  
+      "Bistec de Cerdo": {
+       "Price" : 1200 
+      },  
+      "Bistec de Pechuga": {
+        "Price" : 1600
+      },  
+      "Chuleta de Cerdo": {
+       "Price" : 1600
+      },
+      "Ropa Vieja": {
+       "Price" : 1900
+      },
+      "Brochetas de Cerdo": {
+       "Price" : 1800
+      },
+      "Completa de enchilado de Cangrejo": {
+       "Price" : 1500
+      }  
+    }, 
+    "Fittings": { 
+      "Vegetales": {
+       "Price" : 180
+      },
+      "Jamon": {
+       "Price" : 250
+      },
+      "Queso": {
+       "Price" : 300
+      },
+      "Cebolla": {
+       "Price" : 120
+      },
+      "Cerdo asado": {
+       "Price" : 400
+      },
+      "Chorizo": {
+       "Price" : 200
+      },
+      "Pina glaseada": {
+       "Price" : 150
+      },
+      "Pimiento": {
+       "Price" : 150
+      },
+      "Huevos": {
+       "Price" : 120
+      },
+      "Peperoni": {
+       "Price" : 300
+      },
+      "Masa de Cangrejo": {
+        "Price" : 300
+      },  
+      "Tostones criollos": {
+       "Price" : 300
+      },
+      "Tostones Rellenos": {
+       "Price" : 850
+      },
+      "Racion de Arroz Moro": {
+       "Price" : 300
+      },
+      "Racion de Ensalada": {
+       "Price" : 300
+      }
+    },  
+    "Desserts": { 
+      "Copa de Helado": {
+       "Price" : 550
+      },
+      "Flan": {
+       "Price" : 270 
+      }
+    },
+    "Drink": {
+      "Jarra de Cerveza dispensada": {
+       "Price" : 300
+      },
+      "cerveza importada": {
+       "Price" : 250
+      },
+      "cerveza nacional": {
+       "Price" : 290
+      },
+      "Michelada mexicana": {
+       "Price" : 250
+      },
+      "Michelada": {
+       "Price" : 230
+      },
+      "Sangria": {
+       "Price" : 550
+      },
+      "Cuba Libre": {
+       "Price" : 250
+      },
+      "Caipiroska": {
+       "Price" : 300
+      },
+      "Caipirinha": {
+       "Price" : 300
+      },  
+      "Agua": {
+        "Price" : 150 
+      },
+      "Limonada Frappe": {
+       "Price" : 340
+      },
+      "Limonada Natural": {
+       "Price" : 340
+      },
+      "Jugos Naturales": {
+       "Price" : 160
+      },
+      "Batido de Frutas": {
+       "Price" : 350
+      },
+      "Batido de Helado": {
+       "Price" : 700
+      },
+      "Malta importada": {
+       "Price" : 290
+      },
+      "Refresco importado": {
+       "Price" : 260
+      },
+      "Energizante": {
+       "Price" : 260
+      },
+      "Cafe expresso": {
+       "Price" : 100
+      },
+      "Cafe frapuccino": {
+       "Price" : 450
+      },
+      "Pina Colada": {
+       "Price" : 550
+      }
+    }
+  },
+ "location": { 
+   "address": "calle51 entre 330 y 332 #33013",
+   "distric": "La Lisa",
+   "coordinates": "23.024303,-82.464434"  
+  }
+} 

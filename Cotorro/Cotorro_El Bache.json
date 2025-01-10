@@ -1,0 +1,109 @@
+{
+ "name": "El Bache",
+ "phone_number": "54703920",
+ "web_page": "null",
+ "type": "cafeteria",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "10:30-23:30",
+   "Tuesday": "10:30-23:30",
+   "Wendsday": "10:30-23:30",
+   "Thursday": "10:30-23:30",
+   "Friday": "10:30-23:30",
+   "Saturday": "null",
+   "Sunday": "null"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "",
+ "facebook": "El Bache del Cotorro",
+ "instagrm": "@_elbache",
+ "menu": { 
+    "Starters": {
+      "lasaña": {
+       "Price": 800 
+      },
+      "lasaña de queso gouda": {
+       "Price": 1200 
+      },
+      "espaguetti con queso gouda": {
+       "Price": 900 
+      },
+      "espaguetti": {
+       "Price": 600
+      }, 
+      "pizza napolitana": {
+       "Price": 600 
+      },
+      "pizza doble queso": {
+       "Price": 800 
+      },
+      "pizza queso gouda": {
+       "Price": 900 
+      },
+      "pizza jamon": {
+       "Price": 800 
+      },
+      "pizza chorizo": {
+       "Price": 800 
+      },
+      "pizza aceituna": {
+       "Price": 800 
+      },
+      "pizza atun": {
+       "Price": 1350 
+      },
+      "pizza cebolla": {
+       "Price": 800 
+      },
+      "pizza hawaiana": {
+       "Price": 1100 
+      },
+      "pizza 4 estaciones": {
+       "Price": 1450  
+      }
+    },
+    "Additions": {
+      "queso": {
+       "Price": 300 
+      },
+      "jamon": {
+       "Price": 200 
+      },
+      "chorizo": {
+       "Price": 200 
+      },
+      "aceituna": {
+       "Price": 200 
+      },
+      "atun": {
+       "Price": 750
+      },
+      "cebolla": {
+       "Price": 200 
+      },
+      "piña": {
+       "Price": 300 
+      },
+      "gouda": {
+       "Price": 650 
+      }
+    }
+  },
+ "location": { 
+   "address": "Calle 30 entre 95 y 97,Las Brisas",
+   "distric": "Cotorro",
+   "coordinates": "23.043081,-82.263052"  
+  }
+}

@@ -1,0 +1,86 @@
+{
+ "name": "Las Delicias",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "rapida",
+ "days_hours": {
+   "Monday": "08:00-20:00",
+   "Tuesday": "08:00-20:00",
+   "Wendsday": "08:00-20:00",
+   "Thursday": "08:00-20:00",
+   "Friday": "08:00-20:00",
+   "Saturday": "08:00-20:00",
+   "Sunday": "08:00-20:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "Fritura de Malanga": {
+       "Price": 530 
+      },
+      "Croquetas de la casa": {
+       "Price": 530
+      },
+      "Vianda Frita": { 
+       "Price": 380 
+      }
+    },
+    "Main_Course": {
+      "Pollo Asado": { 
+       "Price": 1180
+      },
+      "Bistec de pollo empanado": { 
+       "Price": 1280
+      },
+      "Chuleta de Cerdo": {
+       "Price": 1280 
+      },
+      "Bistec de Cerdo Grille": { 
+       "Price": 1280 
+      },
+      "Lomo de cerdo Ahumado": {
+       "Price": 1180
+      },
+      "Filete de Pescado Empanado": {
+       "Price": 1230
+      }
+    },      
+    "Fittings": {
+      "Racion de arroz": { 
+       "Price": 380
+      },
+      "Racion de ensalada": {
+       "Price": 380
+      }
+    },
+    "Drink": {
+      "Refresco Importado": {
+       "Price": 230 
+      },
+      "Cerveza Importada": {
+       "Price": 230
+      }
+    }
+  },
+ "location": { 
+   "address": "Mercado Agropecuario y Parque de la leche",
+   "distric": "La Lisa",
+   "coordinates": "22.984260,-82.464166"  
+  }
+}

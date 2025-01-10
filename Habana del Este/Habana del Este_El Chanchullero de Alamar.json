@@ -1,0 +1,179 @@
+{
+ "name": "El Chanchullero de Alamar",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "criolla",
+ "days_hours": {
+   "Monday": "12:00-00:00",
+   "Tuesday": "12:00-00:00",
+   "Wendsday": "12:00-00:00",
+   "Thursday": "12:00-00:00",
+   "Friday": "12:00-00:00",
+   "Saturday": "12:00-00:00",
+   "Sunday": "12:00-00:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "Si",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre,estacionamiento and silla de rueda",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "El Chanchullero de Alamar Bar&Restaurant",
+ "instagrm": "@chanchullerobar.zona6",
+ "menu": {
+    "Starters": {
+      "Chicharrita de platano macho": {
+       "Price": 250
+      },
+      "Toston relleno con cerdo": {
+       "Price": 375
+      },
+      "Fritura de malanga con miel": {
+       "Price": 375
+      },
+      "Ceviche de pulpo y pescado": {
+       "Price": 450
+      }
+    },
+    "Main_Course": {
+      "Cerdo al perejil": {
+       "Price": 795
+      },
+      "Brochetas de cerdo": {
+       "Price": 795
+      },
+      "Bistec encebollado": {
+       "Price": 800
+      },
+      "Ropa vieja": {
+        "Price": 800
+      },
+      "Cerdo asado al horno": {
+        "Price": 795
+      },
+      "Pulpo al ajillo": {
+        "Price": 925
+      },
+      "Pescado chanchullero (castero)": {
+       "Price": 800
+      },
+      "Enchilado de langosta": {
+        "Price": 975
+      },
+      "Langosta a la plancha": {
+        "Price": 975
+      },
+      "Masas de cerdo": {
+       "Price": 800
+      }
+    },
+    "Drink": {
+      "cafe Expreso": {
+        "Price": 100
+      },
+      "Jugo de fruta natural": {
+        "Price": 140
+      },
+      "Catarro": {
+        "Price": 275
+      },
+      "Cuba Libre": {
+        "Price": 275
+      },
+      "Mojito": {
+        "Price": 275
+      },
+      "Caipirisima": {
+        "Price": 275
+      },
+      "Ron Coli": {
+        "Price": 275
+      },
+      "Cosita de esa": {
+        "Price": 275
+      },
+      "Caipiroska": {
+        "Price": 275
+      },
+      "Caipirina": {
+        "Price": 300
+      },
+      "Daiquiri": {
+        "Price": 300
+      },
+      "Pina colada": {
+        "Price": 300
+      },
+      "Vodka con naranja": {
+        "Price": 300
+      },
+      "Copa de vino": {
+        "Price": 300
+      },
+      "Agua natural": {
+        "Price": 130
+      },
+      "Agua gaseada": {
+        "Price": 180
+      },
+      "Refrescos importados": {
+        "Price": 240
+      },
+      "Refrescos nacionales": {
+        "Price": 200
+      },
+      "Cerveza importada": {
+        "Price": 275
+      },
+      "Red Bull": {
+        "Price": 300
+      },
+      "Ron HC Club Especial": {
+        "Price": 325
+      },
+      "Chelada": {
+        "Price": 400
+      },
+      "Michelada": {
+        "Price": 450
+      },
+      "Botella de vino": {
+        "Price": 1200
+      },
+      "Vodka absolut": {
+        "Price": 525
+      },
+      "Whiskey Black and White": {
+        "Price": 395
+      },
+      "Clan Cambell": {
+        "Price": 425
+      },
+      "Jameson": {
+        "Price": 425
+      },
+      "Finest Blended (Speech)": {
+        "Price": 400
+      }
+    },
+    "Desserts": {
+     "Flan al caramelo": {
+        "Price": 150
+      }
+    }
+  },
+ "location": { 
+   "address": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+   "distric": "Habana del Este",
+   "coordinates": "13.139575,-82.354625"  
+  }
+} 

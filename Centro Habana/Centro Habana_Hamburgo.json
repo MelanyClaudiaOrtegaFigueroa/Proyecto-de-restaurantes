@@ -1,0 +1,76 @@
+{
+ "name": "Hamburgo",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "internacional",
+ "days_hours": {
+   "Monday": "09:00-19:00",
+   "Tuesday": "09:00-19:00",
+   "Wendsday": "09:00-19:00",
+   "Thursday": "09:00-19:00",
+   "Friday": "09:00-19:00",
+   "Saturday": "09:00-19:00",
+   "Sunday": "09:00-19:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Main_Course": {
+      "hamburguesa de cerdo (220g)": {
+        "Price": 275
+      },
+      "hamburguesa de res (220g)": {
+       "Price": 275
+      },
+      "hamburguesa vegetal con aderezos (235g)": {
+       "Price": 300
+      },
+      "super hamburguesa (435g)": {
+       "Price": 550
+      }
+    },
+    "Fittings": {
+      "queso gouda (50g)": {
+       "Price": 150
+      },
+      "jamon bravo (50g)": {
+       "Price": 120
+      },
+      "jamon serrano (50g)": {
+       "Price": 250
+      },
+       "aceitunas (50g)": {
+       "Price": 120
+      },
+      "vegetales encurtidos (50g)": {
+       "Price": 80
+      },
+      "papas fritas (50g)": {
+       "Price": 75
+      },
+      "papas fritas (100g)": {
+       "Price": 150
+      }
+    }
+  },
+ "location": { 
+   "address": "4JJG+C5V,Carlos tercero",
+   "distric": "Centro Habana",
+   "coordinates": "23.131235737365408,-82.37630082066377"  
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "name": "Marina 1ra y 70",
+  "phone_number": "53833287",
+  "web_page": "null",
+  "type": "Bar-Restaurante",
+  "type_cuisine": "criolla,italiana e internacional",
+  "days_hours": {
+    "Monday": "12:00-04:00",
+    "Tuesday": "12:00-04:00",
+    "Wendsday": "12:00-04:00",
+    "Thursday": "12:00-04:00",
+    "Friday": "12:00-04:00",
+    "Saturday": "12:00-04:00",
+    "Sunday": "12:00-04:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Restaurante Marina",
+  "instagrm": "@lamarinade70",
+  "menu": {
+    "Starters" : {
+      "Bolitas de Queso" : {
+       "Price" : 1000 
+      },
+      "Croquetas Marina" : {
+       "Price" : 1200 
+      },
+      "Brusquetas" : {
+       "Price" : 1100 
+      },
+      "Entremés Surtido" : {
+       "Price" : 1900 
+      },
+      "Papas Fritas" : {
+       "Price" : 950 
+      },
+      "Coctel de Camaron" : {
+        "Price" : 3000 
+      },
+      "Tequeños" : {
+       "Price" : 1140 
+      },
+      "Tacos de la Casa" : {
+       "Price" : 1600 
+      },
+      "Escabeche de Pescado" : {
+       "Price" : 2800 
+      },
+      "Queso y Frutos Secos" : {
+       "Price" : 3000 
+      },
+      "Tostones con Mojo" : {
+       "Price" : 850 
+      },
+      "Tostones Rellenos" : {
+       "Price" : 950 
+      },
+      "Fajitas de Pollo" : {
+       "Price" : 1800 
+      },
+      "eperlan de Pescado" : {
+       "Price" : 1800 
+      },
+      "Frituras de Malanga" : {
+       "Price" : 850 
+      },
+      "Ceviche de Pescado" : {
+       "Price" : 2300 
+      },
+      "Nuggets" : {
+       "Price" : 1950 
+      }
+    },
+    "Main_Course" : {
+      "Pizzas Napolitana" : {
+       "Price" : 1100 
+      },
+      "Pizzas Margarita" : {
+       "Price" :1250 
+      },
+      "Pizzas Hawaina" : {
+       "Price" : 1400 
+      },
+      "Pizzas Con Serrano y Aceitunas" : {
+        "Price" : 1800 
+      },
+      "Pizzas Super Marina" : {
+       "Price" : 2200 
+      },        
+      "Pastas Napolitano" : {
+       "Price" : 1200 
+      },
+      "Pastas Con Jamon" : {
+       "Price" : 1400 
+      },
+      "Pastas Carbonara" : {
+       "Price" : 2000 
+      },
+      "Pastas Amatriciana" : {
+       "Price" : 2000 
+      },
+      "Pastas Puttanesca" : {
+       "Price" : 1800 
+      },
+      "Pastas Bolognesa" : {
+       "Price" : 2000 
+      },
+      "Pastas Con Salmon y Salsa Blanca" : {
+       "Price" : 2000 
+      },
+      "Pastas Combo Marina" : {
+       "Price" : 4500 
+      },
+      "Filete de Pescado Grille" : {
+       "Price" : 2300
+      },
+      "Filete de Pescado A las Finas Hierbas" : {
+       "Price" : 2500
+      },
+      "Filete de Pescado Princesa" : {
+       "Price" : 2800  
+      },
+      "Filete de Pescado Canciller" : {
+       "Price" : 3000
+      },
+      "Langosta Al Gusto Enchlada" : {
+       "Price" : 4000
+      },
+      "Langosta Al Gusto Grille" : {
+       "Price" : 4000
+      },
+      "Langosta Al Gusto Al Ajillo" : {
+       "Price" : 4000
+      },
+      "Langosta Al Gusto Termidor" : {
+       "Price" : 4500
+      },
+      "Pulpo al Gusto Enchilado" : {
+       "Price" : 4600
+      },
+      "Pulpo al Gusto Al Ajillo" : {
+       "Price" : 4600
+      },
+      "Pulpo al Gusto Grille" : {
+       "Price" : 4600
+      },
+      "Paella MARINA(2pax)" : {
+       "Price" : 5500
+      },
+      "Mar y Tierra" : {
+       "Price" : 5500
+      },
+      "Cazuela de Mariscos" : {
+       "Price" : 5500
+      }
+    },
+    "Additions" :{ 
+      "De Jamon y Queso" : {
+       "Price" : 950 
+      },
+      "De Atun" : {
+       "Price" : 1000 
+      },
+      "Hamburguesa" : {
+       "Price" : 1900 
+      },
+      "Cheese Burguer" : {
+       "Price" : 2000 
+      },
+      "Jamon/Chorizo" : {
+       "Price" : 550 
+      },
+      "Queso: Gouda/Azul" : {
+       "Price" : 650 
+      },
+      "Piña. Cebolla, Aceitunas, Pimiento" : {
+       "Price" : 600 
+      },
+      "Jamon Serrano" : { 
+       "Price" : 1500 
+      }
+    },
+    "Drink" : {
+      "Daiquiri" : {
+       "Price" : 900 
+      },
+      "Daiquiri de Frutas" :{
+       "Price" : 1000 
+      },
+      "Cuba Libre" : {
+       "Price" : 800 
+      },
+      "Mojito" : {
+       "Price" : 900 
+      },
+      "Piña Colada" : {
+       "Price" : 1200 
+      },
+      "Cubata" : {
+       "Price" : 900 
+      },
+      "Cubanito" : {
+       "Price" : 1200 
+      },
+      "Caipirisima" : {
+       "Price" : 850 
+      },
+      "Canchanchara" : {
+        "Price" : 850 
+      },
+      "Sex on The Beach" : {
+       "Price" : 950 
+      },
+      "Havana Special" : {
+       "Price" : 800 
+      },
+      "Calimocho" : {
+       "Price" : 990 
+      },
+      "Tinto de Verano" : {
+       "Price" : 1000 
+      },
+      "Presidente" : {
+       "Price" : 800 
+      },
+      "San Francisco" : {
+       "Price" : 950  
+      },
+      "Ron Collins" : {
+       "Price" : 850 
+      },
+      "Whisky Sour" : {
+       "Price" : 1500 
+      },
+      "Mary Pickford" : {
+       "Price" : 800 
+      },
+      "Caipiroska" : {
+       "Price" : 950 
+      },
+      "Bloddy Mary" : {
+       "Price" : 950 
+      },
+      "Screw Driver" : {
+       "Price" : 850 
+      },
+      "Blue Lagoon" : {
+        "Price" : 800 
+      },
+      "Gin Tonic" : {
+        "Price" : 950 
+      },
+      "Tom Collins" : {
+       "Price" : 850 
+      },
+      "Sangria" : {
+       "Price" : 1500 
+      },
+      "Caipirinha" : {
+       "Price" : 900 
+      },
+      "Tequila Sunrise" : {
+       "Price" : 900 
+      },
+      "Old Fashioned" : {
+       "Price" : 900 
+      },
+      "Manhattan" : {
+       "Price" : 900 
+      },
+      "Martini" : {
+        "Price" : 900  
+      },
+      "Negroni" : {
+       "Price" : 1000 
+      },
+      "Vodka tonic" : {
+       "Price" : 950 
+      },
+      "Orgasmo" : {
+       "Price" : 1000 
+      },
+      "Margarita" : {
+       "Price" : 900  
+      },
+      "Long Island Ice Tea" : {
+       "Price" : 1000 
+      },
+      "God Mother" : {
+       "Price" : 900 
+      },
+      "God Father" : {
+       "Price" : 1000 
+      },
+      "Aperol Spritz" : {
+       "Price" : 1500 
+      },
+      "Amaretto Sour" : {
+        "Price" : 1200 
+      },
+      "Cervezas Heineken" : {
+       "Price" : 900
+      },
+      "Cervezas Corona" : {
+       "Price" : 900
+      },
+      "Cervezas Cristal/Bucanero" : { 
+       "Price" : 550
+      },
+      "Cervezas Servicio Chelada" : {
+       "Price" : 400
+      },
+      "Cervezas Servicio Michelada" : {
+       "Price" : 500
+      },
+      "Agua Natural Nac." : {
+       "Price" : 300 
+      },
+      "Agua Natural Imp." : {
+       "Price" : 400 
+      },
+      "Agua Gaseada Nac." : {
+       "Price" : 400 
+      },
+      "Agua Gaseada Imp" : {
+       "Price" : 900 
+      },
+      "Agua Tonica Nac" : {
+       "Price" : 500 
+      },
+      "Agua Tonica Impo" : {
+       "Price" : 950 
+      },
+      "Agua T. Le Tribute" : {
+       "Price" : 1150 
+      },
+      "Limonada Natural" : {
+       "Price" : 850 
+      },
+      "Limonada Frappe" : {
+       "Price" : 950.00
+      },
+      "Limonada Frescura" : {
+       "Price" : 1000 
+      },
+      "Limonada Clarete" : {
+       "Price" : 1000 
+      },
+      "Jugo Natural" : {
+       "Price" : 750 
+      },
+      "Malta" : {
+       "Price" : 700 
+      },
+      "Refresco Importado" : {
+       "Price" : 500 
+      },
+      "Kermato" : {
+       "Price" : 900 
+      }
+    }
+  },
+  "location": { 
+    "address": "1ra Avenida entre calle 70 y 68",
+    "distric": "Playa",
+    "coordinates": "23.113613,-82.439561"  
+  }
+}

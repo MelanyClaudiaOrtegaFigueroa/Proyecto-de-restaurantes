@@ -1,0 +1,216 @@
+{
+ "name": "Kopas",
+ "phone_number": "51566616",
+ "web_page": "null",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "internacional",
+ "days_hours": {
+   "Monday": "10:00-23:30",
+   "Tuesday": "10:00-23:30",
+   "Wendsday": "10:00-23:30",
+   "Thursday": "10:00-23:30",
+   "Friday": "10:00-23:30",
+   "Saturday": "10:00-23:30",
+   "Sunday": "10:00-23:30"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "Si",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "fiestas and bailes",
+ "facilities": "estacionamiento",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Kopas Kopas",
+ "instagrm": "@kopas_bar_restaurant",
+ "menu": { 
+    "Starters": {
+      "Tacos de camaron": {
+        "Price": 1250
+      },
+      "Tacos de res": {
+       "Price": 995
+      },
+      "Tacos de cerdo": {
+       "Price": 975
+      },
+      "Tacos de langosta": {
+       "Price": 1350
+      },
+      "Tacos de pescado": {
+       "Price": 975
+      },
+      "Fritura de malanga": {
+       "Price": 750
+      },
+      "Tostones rellenos de camaron": {
+       "Price": 1100
+      },
+      "Tostones rellenos de jamon y queso": {
+       "Price": 975
+      }
+    },
+    "Main_Course": {
+      "Brochetas de langosta": {
+        "Price": 2350
+      },
+      "Brochetas de camaron": {
+        "Price": 2100
+      },
+      "Brochetas de cerdo": {
+        "Price": 1850
+      },
+      "Brochetas de pollo": {
+        "Price": 1550
+      },
+      "Langosta a las brasas": {
+        "Price": 2350
+      },
+      "Lomo de pescado a las brasas": {
+       "Price": 2200
+      },
+      "Mar y tierra": {
+        "Price": 3650
+      },
+      "Rueda de albacora a las brasas": {
+        "Price": 1775
+      },
+      "Fajitas de pollo empanadas": {
+        "Price": 1450
+      },
+      "Bistec de pollo grille": {
+        "Price": 1250
+      },
+      "Pechuga de pollo en salsa de jengibre y ajonjoli": {
+        "Price": 1450
+      },
+      "Pollo al limon y al oregano": {
+        "Price": 1350
+      },
+      "Pollo a la parmesana": {
+        "Price": 1650
+      },
+      "Pollo al ajo y vino blanco": {
+        "Price": 1350
+      },
+      "Fajitas de pollo a la pina y miel": {
+        "Price": 1275
+      },
+      "Pollo Princesa": {
+       "Price": 1650
+      },
+      "Fajitas de cerdo a la pina y miel": {
+        "Price": 1875
+      },
+      "Uruguayo de cerdo": {
+        "Price": 2250
+      },
+      "Bistec de cerdo Princesa": {
+        "Price": 2000
+      },
+      "Masa de cerdo al estilo Kopas": {
+        "Price": 1875
+      },
+      "Bistec de cerdo encebollado": {
+        "Price": 1550
+      },
+      "Lomo de cerdo ahumado con salsa barbecue": {
+        "Price": 1850
+      },
+      "Lomo de cerdo ahumado con salsa agridulce": {
+        "Price": 1875
+      },
+      "Lomo de cerdo ahumado encebollado": {
+        "Price": 1775
+      },
+      "Bistec de res encebollado": {
+        "Price": 1750
+      },
+      "Fajitas de res": {
+        "Price": 1750
+      },
+      "Mignon salsa del Chef": {
+        "Price": 1850
+      },
+      "Ropa vieja": {
+        "Price": 1575
+      },
+      "Uruguayo de res": {
+        "Price": 2250
+      },
+      "Vaca frita": {
+        "Price": 1450
+      },
+      "Filete a la Deutch": {
+        "Price": 1750
+      },
+      "Filete de pescado Princesa": {
+        "Price": 2150
+      },
+      "Filete de pescado en salsa de limon": {
+        "Price": 1975
+      },
+      "Langosta enchilada": {
+        "Price": 2475
+      },
+      "Langosta grille": {
+        "Price": 2100
+      },
+      "Camaron enchilado": {
+        "Price": 2300
+      },
+      "camaron grille": {
+        "Price": 2000
+      },
+      "Camaron empanado": {
+        "Price": 2300
+      },
+      "Camarones al ajillo": {
+        "Price": 2200
+      },
+      "Langosta al ajillo": {
+        "Price": 2250
+      },
+      "Filete de pescado Costa Sur": {
+        "Price": 2650
+      },
+      "Dados de pescado al ajillo": {
+        "Price": 1750
+      },
+      "Camaron tropical": {
+        "Price": 3250
+      }
+    },
+    "Drink": {
+      "Vodka Ciroc Red Berry": {
+        "Price": 8900
+      },
+      "Whisky Jameson": {
+        "Price": 8500
+      },
+      "Whisky J&B Rare": {
+        "Price": 5900
+      },
+      "Whisky Elliot Hall": {
+        "Price": 4900
+      },
+      "whisky Chanceler": {
+        "Price": 2900
+      },
+      "Whisky Ballantines": {
+        "Price": 8500
+      }
+    }
+ },
+ "location": { 
+   "address": "Esquina de 5ta Avenida, #482, Guanabo",
+   "distric": "Habana del Este",
+   "coordinates": "23.169576,-82.137142"  
+  }
+} 

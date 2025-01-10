@@ -1,0 +1,270 @@
+{
+  "name": "Cafe Versalles",
+  "phone_number": "58973130 and 50965243",
+  "web_page": "null",
+  "type": "Bar-cafeteria-restaurante",
+  "type_cuisine": "Criolla,italiana,dulces and bebidas",
+  "days_hours": {
+    "Monday": "09:00-24:00",
+    "Tuesday": "09:00-24:00",
+    "Wendsday": "09:00-24:00",
+    "Thursday": "09:00-24:00",
+    "Friday": "09:00-24:00",
+    "Saturday": "09:00-24:00",
+    "Sunday": "09:00-24:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Cafe Versalles",
+  "instagrm": "@cafe_versalles_",
+  "menu": { 
+    "Starters": { 
+      "Ensalada Fria De Jamon": { 
+       "price": 500
+      },
+      "Ensalada Fria De Atun": { 
+       "price": 700
+      },
+      "Croquetas De La Casa": { 
+       "price": 500
+      },
+      "Eperlan De Pescado": { 
+       "price": 1600
+      },
+      "Fajitas De Pollo Empanado": { 
+       "price": 1500
+      },
+      "Maripositas Chinas": { 
+       "price": 700
+      },
+      "Ceviche De Pescado": { 
+       "price": 1000
+      },
+      "Cesta Bananera": { 
+       "price": 850
+      },
+      "Coctel De Camaron": { 
+       "price": 1200
+      }
+    },
+    "Main_Course": { 
+      "Pollo grille": { 
+       "price": 1400
+      },
+      "Pollo cantones": { 
+       "price": 2200
+      },
+      "Cordon bleu": { 
+       "price": 2500
+      },
+      "Medio pollo al carbon con BBQ": { 
+       "price": 2500
+      },
+      "Pescado versalles": { 
+       "price": 2800
+      },
+      "Canciller": { 
+       "price": 2800
+      },
+      "Montetoro": { 
+       "price": 2200
+      },
+      "Filete grille": { 
+       "price": 1600
+      },
+      "Uruguayo de cerdo": { 
+       "price": 2500
+      },
+      "Masa de cerdo frita 300 gr": { 
+       "price": 2800
+      },
+      "Bistec de cerdo encebollado": { 
+       "price": 1600
+      },
+      "Pizza Napoles": { 
+       "price": 900
+      },
+      "Pizza queso gouda": { 
+       "price": 1260
+      },
+      "Pizza chorizo": { 
+       "price": 1250
+      },
+      "Pizza camarones": { 
+       "price": 1700
+      },
+      "Pizza cebolla": { 
+       "price": 1150
+      },
+      "Pizza aceituna": { 
+        "price": 1200
+      },
+      "Pizza beicon": { 
+       "price": 1300
+      },
+      "Pizza pimiento": { 
+        "price": 1200
+      },
+      "Espaguetis": { 
+       "price": 800
+      },
+      "Lazaña de Jamon": { 
+       "price": 1200
+      }
+    },
+    "Drink": {
+      "Ron seleccion de maestros": { 
+       "price": 900
+      },
+      "Ron añejo especial": { 
+       "price": 350
+      },
+      "Ron Santiago": { 
+        "price": 500
+      },
+      "Ron 3 años": { 
+       "price": 350
+      },
+      "Ron reserva": { 
+       "price": 350
+      },
+      "Ron 7 años": { 
+       "price": 350
+      },
+      "Tequila reposado": { 
+        "price": 600
+      },
+      "Tequila olmega silver": { 
+       "price": 500
+      },
+      "Whisky chivas regal": { 
+       "price": 1000
+      },
+      "Whisky white label": { 
+       "price": 350
+      },
+      "Whisky ballantines": { 
+       "price": 450
+      },
+      "Whisky jack daniels": { 
+       "price": 450
+      },
+      "Vodka absolut": { 
+       "price": 500
+      },
+      "Daiquiri": { 
+       "price": 500
+      },
+      "Tinto verano": { 
+       "price": 500
+      },
+      "Jack in black": { 
+        "price": 600
+      },
+      "Margarita": { 
+       "price": 600
+      },
+      "Daiquiri frutas": { 
+       "price": 600
+      },
+      "Daiquiri rebelde": { 
+       "price": 500
+      },
+      "Cubanito": { 
+       "price": 50
+      },
+      "Bloody mary": { 
+       "price": 600
+      },
+      "Limonada frappe": { 
+       "price": 250
+      },
+      "Sangria": { 
+       "price": 500
+      },
+      "Piña colada": { 
+       "price": 550
+      },
+      "Cubata": { 
+       "price": 700
+      },
+      "Cuba libre": { 
+       "price": 500
+      },
+      "Mojito": { 
+       "price": 500
+      },
+      "Ron collins": { 
+       "price": 500
+      },
+      "Caipirissima": { 
+       "price": 500
+      },
+      "Caipiroska": { 
+       "price": 500
+      },
+      "Vodka tonic": { 
+       "price": 850
+      },
+      "Gin tonic": { 
+       "price": 700
+      },
+      "Cerveza cristal": { 
+       "price": 350
+      },
+      "Cerveza importada (heineken)": { 
+       "price": 400
+      },
+      "Jarra de cerveza": { 
+       "price": 550
+      },
+      "Tarro de cerveza": { 
+       "price": 2500
+      },
+      "Cafe rocio de gallo": { 
+       "price": 250
+      },
+      "Agua natural": { 
+       "price": 200
+      },
+      "Refresco importado": { 
+       "price": 250
+      },
+      "Refresco nacional": { 
+       "price": 250
+      },
+      "Malta": { 
+       "price": 320
+      },
+      "Jugos naturales": { 
+       "price": 350
+      },
+      "Cafe expreso": { 
+       "price": 100
+      },
+      "Cafe bombon": { 
+       "price": 250
+      },
+      "Cafe cortado": { 
+       "price": 200
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Marti numero 101 entre Versalles y San Antonio",
+    "distric": "Guanabacoa",
+    "coordinates": "23.109070,-82.247508"  
+  }
+}

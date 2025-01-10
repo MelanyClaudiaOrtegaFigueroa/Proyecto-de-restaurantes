@@ -1,0 +1,112 @@
+{
+ "name": "Tong Po Laug",
+ "phone_number": "78646854 and 55836900",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "China e internacional",
+ "days_hours": {
+   "Monday": "10:00-21:00",
+   "Tuesday": "10:00-21:00",
+   "Wendsday": "10:00-21:00",
+   "Thursday": "10:00-21:00",
+   "Friday": "10:00-21:00",
+   "Saturday": "10:00-21:00",
+   "Sunday": "10:00-21:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre",
+ "daycare": "null",
+ "discount_promotions": "10%",
+ "facebook": "Tong Po Laug",
+ "instagrm": "null",
+ "menu": { 
+    "Main_Course": {
+      "Jiaozi Ravioles": {
+       "Price": 1350
+      },
+      "Bao": {
+       "Price": 700
+      },
+      "Mia Especial Tallarines": {
+       "Price": 1100
+      },
+      "Arroz Frito Especial": {
+       "Price": 1100
+      },
+      "Siumi": {
+       "Price": 1200
+      },
+      "Chunkun Rollitos de Primavera": {
+       "Price": 1050
+      },
+      "Sopa China ": {
+       "Price": 990
+      },
+      "Lomo Ahumado": {
+       "Price": 2000
+      },
+      "Mariscos": {
+       "Price": 2500
+      },
+      "Mar y Tierra": {
+       "Price": 3850
+      },
+      "Camarones": {
+       "Price": 3600
+      },
+      "Pescado": {
+       "Price": 1650
+      },
+      "Fajitas de Pechuga": {
+       "Price": 2200
+      }
+    },
+    "Drink": {
+      "Cerveza": {
+       "Price": 300
+      },
+      "Cerveza Nacional": {
+       "Price": 500
+      },
+      "Refresco": {
+       "Price": 300
+      },
+      "Jugo": {
+       "Price": 330
+      },
+      "Frapeado": {
+       "Price": 330
+      },
+      "Cocteles": {
+       "Price": 660
+      },
+      "Cafe": {
+       "Price": 390
+      },
+      "Te": {
+       "Price": 170
+      },
+      "Agua": {
+       "Price": 220
+      },
+      "Agua calinete": {
+       "Price": 220
+      }
+    }
+  },
+ "location": { 
+   "address": "Cuchillo entre San Nicolas y Rayo",
+   "distric": "Centro Habana",
+   "coordinates": "23.134699,-82.363760"  
+  }
+} 

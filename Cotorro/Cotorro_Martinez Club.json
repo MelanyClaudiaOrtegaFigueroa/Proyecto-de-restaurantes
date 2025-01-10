@@ -1,0 +1,146 @@
+{
+ "name": "Martinez Club",
+ "phone_number": "76821650",
+ "web_page": "null",
+ "type": "cafeteria",
+ "type_cuisine": "criolla and rapida",
+ "days_hours": {
+   "Monday": "09:00-21:00",
+   "Tuesday": "09:00-21:00",
+   "Wendsday": "09:00-21:00",
+   "Thursday": "09:00-21:00",
+   "Friday": "09:00-21:00",
+   "Saturday": "09:00-21:00",
+   "Sunday": "09:00-21:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Martinez Club Cafeteria",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "fritura de malanga": {
+       "Price": 300 
+      },
+      "ensalada fria": {
+       "Price": 150 
+      },
+      "croquetas": {
+       "Price": 300 
+      },
+      "tostones al ajillo": {
+       "Price": 300
+      },
+      "hamburguesa simple": {
+       "Price": 230 
+      },
+      "hamburguesa con mayonesa": {
+       "Price": 280 
+      },
+      "hamburguesa con jamon": {
+       "Price": 350 
+      },
+      "hamburguesa con chorizo": {
+       "Price": 350 
+      },
+      "hamburguesa con cebolla": {
+       "Price": 330 
+      },
+      "hamburguesa con queso blanco": {
+       "Price": 330 
+      },
+      "hamburguesa con queso gouda": {
+       "Price": 430
+      },
+      "pan con jamon": {
+       "Price": 250 
+      },
+      "pan con perro": {
+       "Price": 200 
+      },
+      "pan con croqueta": {
+       "Price": 100
+      }
+    },           
+    "Main_Course": {
+      "pollo chiflado": {
+       "Price": 700 
+      },
+      "masa de cerdo frita": {
+       "Price": 1100
+      },
+      "espaguetti con queso blanco": {
+       "Price": 350 
+      },
+      "espaguetti con queso gouda": {
+       "Price": 500  
+      },
+      "pizza con queso blanco": {
+       "Price": 200 
+      },
+      "pizza con queso gouda": {
+       "Price": 350 
+      },
+      "pizza familiar con queso blanco": {
+       "Price": 450 
+      },
+      "pizza familiar con queso gouda": {
+        "Price": 650
+      }
+    },
+    "Additions": {
+      "jamon": {
+       "Price": 120 
+      },
+      "perrito": {
+       "Price": 120 
+      },
+      "chorizo": {
+       "Price": 120 
+      },
+      "cebolla": {
+       "Price": 100 
+      },
+      "queso blanco": {
+       "Price": 100 
+      },
+      "queso gouda": {
+       "Price": 200 
+      },
+      "piña": {
+       "Price": 100
+      }
+    },
+    "Drink": {
+      "expresso": {
+        "Price":20
+      },
+      "refresco": {
+       "Price": 20 
+      },
+      "jugo": {
+       "Price": 50 
+      },
+      "malteada": {
+       "Price": 330
+      }
+    }
+  },
+ "location": { 
+   "address": "calle 20 entre 69 y 67A,#6726",
+   "distric": "Cotorro",
+   "coordinates": "24.047106,-82.268332"  
+  }
+}

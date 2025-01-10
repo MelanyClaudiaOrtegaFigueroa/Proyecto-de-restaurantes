@@ -1,0 +1,215 @@
+{
+ "name": "Fin de Siglo",
+ "phone_number": "59529982",
+ "web_page": "http://bit.Iy/35TKLCI/",
+ "type": "bar-restaurante",
+ "type_cuisine": "cubana e italiana",
+ "days_hours": {
+   "Monday": "10:00-22:00",
+   "Tuesday": "10:00-22:00",
+   "Wendsday": "10:00-22:00",
+   "Thursday": "10:00-22:00",
+   "Friday": "10:00-03:00",
+   "Saturday": "10:00-03:00",
+   "Sunday": "10:00-03:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "show and musica",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Fin de Siglo",
+ "instagrm": "null",
+ "menu": { 
+    "Starters": {
+      "croquetas de la casa": {
+       "Price": 700
+      },
+      "pollo salteado con vegetales": {
+       "Price": 800
+      },
+      "tabla de jamon y queso": {
+       "Price": 1200
+      },
+      "picadera Fin de siglo": {
+       "Price": 2500
+      }
+    },
+    "Main_Course": {
+      "pizza de queso blanco": {
+       "Price": 800
+      },
+      "pizza de queso blanco con jamon": {
+       "Price": 950
+      },
+      "pizza de queso blanco con chorizo": {
+       "Price": 950
+      },
+      "pizza de queso blanco hawaiana": {
+       "Price": 1500
+      },
+      "pizza de queso gouda": {
+       "Price": 1200
+      },
+      "pizza de queso gouda con jamon": {
+       "Price": 1400
+      },  
+      "pizza de queso gouda con chorizo": {
+       "Price": 1400
+      },
+      "pizza de queso gouda hawaiana": {
+       "Price": 1800
+      },
+      "spaghetti de queso blanco": {
+       "Price": 900
+      },
+      "spaghetti de queso blanco con jamon": {
+       "Price": 1000
+      },
+      "spaghetti de queso blanco con chorizo": {
+       "Price": 1000
+      },
+      "spaghetti de queso blanco con pollo": {
+       "Price": 850
+      },
+      "spaghetti de queso gouda": {
+       "Price": 1200
+      },
+      "spaghetti de queso gouda con jamon": {
+       "Price": 1400
+      },  
+      "spaghetti de queso gouda con chorizo": {
+       "Price": 1400
+      }
+    },
+    "Fittings": {
+      "queso blanco": {
+       "Price": 500
+      },
+      "queso gouda": {
+       "Price": 700
+      },
+      "jamon": {
+       "Price": 450
+      },
+      "pollo": {
+       "Price": 350
+      },
+      "piña": {
+       "Price": 550
+      },
+      "chorizo": {
+       "Price": 450
+      }
+    },
+    "Drink" : {
+      "refresco": {
+       "Price": 300
+      },
+      "cerveza dispensada": {
+       "Price": 400
+      },
+      "caipirinha": {
+       "Price": 550
+      },
+      "caipirissima": {
+       "Price": 550
+      },
+       "caipiroska": {
+       "Price": 660
+      },
+      "daiquiri": {
+       "Price": 550
+      },
+      "daiquiri Rebelde": {
+       "Price": 550
+      },
+      "margarita": {
+       "Price": 990
+      },
+      "cubata": {
+       "Price": 550
+      },
+      "cuba Libre": {
+       "Price": 550
+      },
+      "3 Años": {
+       "Price": 385
+      },
+      "carta Blanca": {
+       "Price": 330
+      },
+      "especial": {
+       "Price": 440
+      },
+      "pacto Navio": {
+       "Price": 20000
+      }, 
+      "cuban spiced": {
+       "Price": 550
+      },
+      "ron santiago": {
+       "Price": 880
+      },
+      "jameson": {
+       "Price": 1100
+      },
+      "clan sampbell": {
+       "Price": 990
+      },
+      "vat 69": {
+       "Price": 990
+      },
+      "ballantines": {
+       "Price": 13500
+      },
+      "old partner": {
+       "Price": 35000
+      },
+      "red label": {
+       "Price": 1100
+      },
+      "beeffatter": {
+       "Price": 440
+      },
+      "jagger": {
+       "Price": 990
+      },
+      "tequila silver": {
+       "Price": 880
+      },
+      "tequila reposado": {
+       "Price": 990
+      },
+      "tequila chocolate": {
+       "Price": 1100
+      },
+      "rua vieja": {
+       "Price": 880
+      },
+      "amaretto": {
+       "Price": 880
+      },
+      "chelada": {
+       "Price": 770
+      },
+      "michelada": {
+       "Price": 880
+      }
+    }  
+ },
+ "location": { 
+   "address": "calle aguila #465 entre San Jose y San Rafael",
+   "distric": "Centro Habana",
+   "coordinates": "23.136227081972006,-82.36206873376179"  
+  }
+}

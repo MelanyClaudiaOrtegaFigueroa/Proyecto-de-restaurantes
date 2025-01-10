@@ -1,0 +1,304 @@
+{
+  "name": "Atlanta",
+  "phone_number": "59694801",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "criolla e italiana",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "10:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "transmicion de eventos deportivo and musica",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Atlanta Cafe",
+  "instagrm": "@cafeatlanta",
+  "menu": { 
+    "Starters": { 
+      "croquetas de la casa": {
+       "price": 850
+      },
+      "ensalada de pollo": {
+       "price": 950
+      },
+      "tostones rellenos": {
+       "price": 850
+      },
+      "frituras de malanga": {
+       "price": 650
+      },
+      "garbanzos fritos": {
+       "price": 1200
+      },
+      "eperlan de picar": {
+       "price": 1200
+      },
+      "fajitas de pollo": {
+       "price": 950
+      },
+      "ceviche ATLANTA": {
+       "price": 950
+      }
+    },
+    "Main_Course": {
+      "tacos ATLANTA": {
+       "price": 1650
+      },
+      "arroz frito": {
+       "price": 1200
+      },
+      "paella mixta": {
+       "price": 1650
+      },
+      "arroz con pollo a la chorrera": {
+       "price": 1500
+      },
+      "bistec de cerdo grille": {
+       "price": 1600
+      },
+      "masas de cerdo fritas": {
+       "price": 2000
+      },
+      "bistec uruguayo de cerdo": {
+       "price": 2500
+      },
+      "filete de pescado grille": {
+       "price": 1850
+      },
+      "filete canciller": {
+       "price": 2500
+      },
+      "pollo frito/asado": {
+       "price": 1500
+      },
+      "pechuga gratinada": {
+       "price": 1850
+      },
+      "Gordon Blue": {
+       "price": 2500
+      },
+      "lomo ahumado gratinado c/queso": {
+       "price": 2150
+      },
+      "pechugon ATLANTA": {
+       "price": 2650
+      },
+      "spaghetti Napolitano": {
+       "price": 950
+      },
+      "lasagna de jamón": {
+       "price": 950
+      },
+      "pizza napolitana": {
+       "price": 950
+      },
+      "pizza ATLANTA": {
+       "price": 1800
+      },
+      "queso gouda": {
+       "price": 250
+      },
+      "queso Azul": {
+       "price": 650
+      },
+      "lomo ahumado": {
+       "price": 450
+      },
+      "jamon pierna": {
+       "price": 450
+      },
+      "cebolla": {
+       "price": 200
+      },
+      "chorizo criollo": {
+       "price": 250
+      },    
+      "champiñones": {
+       "price": 650
+      },
+      "sandwich de Media Noche": {
+       "price": 1650
+      },
+      "sandwich Cubano": {
+       "price": 1650
+      },
+      "Cheeseburguer": {
+       "price": 1200
+      },
+      "hamburguesa ATLANTA": {
+       "price": 1500
+      }
+    },
+    "Fittings": {
+      "arroz blanco": {
+       "price": 320
+      },
+      "ensalada mixta": {
+       "price": 320
+      },
+      "arroz congris": {
+       "price": 480
+      },
+      "vianda frita": {
+       "price": 320
+      }
+    },
+    "Desserts": {
+      "suero de helados": {
+       "price": 850
+      }
+    },
+    "Drink": {
+      "chelada": {
+       "price": 200
+      },
+      "michelada (servicio)": {
+       "price": 250
+      },
+      "tinto de verano": {
+       "price": 700
+      },
+      "caipiroska": {
+       "price": 700
+      },
+      "caipirinha": {
+       "price": 700
+      },      
+      "caipirisima": {
+       "price": 700
+      },      
+      "piña colada": {
+       "price": 700
+      },      
+      "cubalibre": {
+       "price": 650
+      },
+      "mojito": {
+       "price": 700
+      },
+      "cubanito": {
+       "price": 800
+      },
+      "sex on the beach": {
+       "price": 800
+      },
+      "bloody mary": {
+       "price": 800
+      },
+      "gintonic": {
+       "price": 900
+      },
+      "margarita": {
+       "price": 900
+      },
+      "ginebra de la casa": {
+       "price": 350
+      },
+      "ginebra Gordons": {
+       "price": 1000
+      },
+      "tequila silver de la casa": {
+       "price": 700
+      },
+      "tequila reposado de la casa": {
+       "price": 750
+      },
+      "tequila Olmeca silver": {
+       "price": 750
+      },    
+      "tequila Patron reposado": {
+       "price": 1700
+      },
+      "vodka de la casa": {
+       "price": 350
+      },
+      "vodka Absolut": {
+       "price": 650
+      },
+      "whisky de la casa": {
+       "price": 400
+      },
+      "Ballantines": {
+       "price": 650
+      },  
+      "Jhonie W. etiqueta roja": {
+       "price": 700
+      },
+      "Jhonie W. etiq. negra": {
+       "price": 1250
+      },
+      "Chivas Regal": {
+       "price": 1200
+      },
+      "ron h.c. 3 años": {
+       "price": 400
+      },
+      "ron h.c 7 años": {
+       "price": 550
+      },
+      "ron santiago 11 años": {
+       "price": 1450
+      },
+      "cerveza Cristal (lata)": {
+       "price": 350
+      },
+      "cerveza Bucanero": {
+       "price": 350
+      },
+      "cerveza Heineken": {
+       "price": 500
+      },
+      "agua natural": {
+       "price": 250
+      },
+      "refrescos importados (lata)": {
+       "price": 350
+      },
+      "batidos de frutas": {
+       "price": 600
+      },
+      "malta Bucanero": {
+       "price": 400
+      },
+      "copa de vino de la casa": {
+       "price": 420
+      },
+      "cafe cortado": {
+       "price": 320
+      },
+      "cafe bombon": {
+       "price": 400
+      },
+      "capuchino": {
+       "price": 450
+      },
+      "frapuchino": {
+       "price": 500
+      },
+      "frapuchino con helado": {
+       "price": 880
+      } 
+    }  
+  },
+  "location": { 
+    "address": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre,La Palma",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.075219,-82.358208"  
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Home Deli",
+  "phone_number": "59429273",
+  "web_page": "https://homedelimercado.com/ and https://homedeli_delivy.catalog/",
+  "type": "cafeteria-mercado",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "09:00-21:00",
+    "Tuesday": "09:00-21:00",
+    "Wendsday": "09:00-21:00",
+    "Thursday": "09:00-21:00",
+    "Friday": "09:00-21:00",
+    "Saturday": "09:00-21:00",
+    "Sunday": "09:00-21:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "Home Deli",
+  "instagrm": "@homedelicuba",
+  "menu": {
+    "Drink": {
+      "cerveza en vaso": {
+       "Price": 220
+      },
+      "cerveza en jarra": {
+       "Price": 380
+      },
+      "vino": {
+       "Price": 600
+      },
+      "batido de frutas": {
+       "Price": 360
+      },
+      "cafe expreso": {
+       "Price": 250
+      },
+      "cortadito": {
+       "Price": 320
+      },
+      "cafe americano": {
+       "Price": 300
+      },
+      "cafe con leche": {
+       "Price": 450
+      }
+    },
+    "Desserts": {
+      "batido de helado": {
+       "Price": 550
+      },
+      "helado": {
+       "Price": 950
+      }
+    },
+    "Starters": {
+      "chips maryflye": {
+       "Price": 380
+      },
+      "focaccia": { 
+       "Price": 400 
+      },
+      "margarita": {
+       "Price": 1900
+      },
+      "baby": {
+       "Price": 1100
+      },
+      "sandwich de queso gouda": {
+       "Price": 1400
+      },
+      "sandwich de jamon serrano": {
+       "Price": 1600
+      },
+      "sandwich de chorizo iberico": {
+       "Price": 1300
+      },
+      "sandwich de mortadella": {
+       "Price": 1300
+      },
+      "sandwich de jamon york": {
+       "Price": 1300
+      }
+    },
+    "Additions": {
+      "jamon serrano": {
+       "Price": 860
+      },
+      "chorizo iberico": {
+       "Price": 550
+      },
+      "pepperoni": {
+       "Price": 700
+      },
+      "jamon york": {
+       "Price": 720
+      },
+      "queso mozzarella": {
+       "Price": 980
+      },
+      "queso gouda": {
+       "Price": 700
+      }
+    }
+  },
+  "location": { 
+    "address": "avenida 19 entre 74 y 76",
+    "distric": "Playa",
+    "coordinates": "23.101852,-82.430682"  
+  }
+}

@@ -1,0 +1,128 @@
+{
+ "name": "Beirut Shawarma",
+ "phone_number": "78315883",
+ "web_page": "null",
+ "type": "Restaurante arabe",
+ "type_cuisine": "internacional",
+ "days_hours": {
+   "Monday": "11:00-23:00",
+   "Tuesday": "11:00-23:00",
+   "Wendsday": "11:00-23:00",
+   "Thursday": "11:00-23:00",
+   "Friday": "11:00-23:00",
+   "Saturday": "11:00-23:00",
+   "Sunday": "11:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "danzas and presentacion en vivo",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Beirut Shawarma-Restaurante",
+ "instagrm": "@beiruthabana",
+ "menu": {
+    "Main_Course": {
+      "Shish Taouk": {
+       "Price": 2950
+      },
+      "Kabab": {
+        "Price": 2900
+      },
+      "Shish Taouk-Kabab": {
+       "Price":  2800
+      },
+      "Shish Kabab": {
+       "Price":  2000
+      },
+      "Tajin": {
+       "Price":  3500
+      },
+      "Mixto Beirut": {
+       "Price":  3700
+      },
+      "sandwich": {
+        "Shawarma de pollo": {
+         "Price":  1520 
+        },
+        "Shawarma árabe": {
+         "Price": 1520
+        },
+        "Sandwich Falafel": {
+         "Price": 1420
+        },
+        "Sandwich Shish Taouk": {
+         "Price": 1720 
+        },
+        "Sandwich Kabab": {
+         "Price": 1720
+        }
+      }
+    },
+    "Fittings": {
+      "Fetuche": {
+        "Price": 1500
+      },
+      "Ensalada mixta": {
+       "Price":  2000
+      },
+      "Betabel": {
+        "Price": 2000
+      },
+      "Ensalada Beirut": {
+       "Price": 2100
+      },
+      "Tabule": {
+       "Price":  3000
+      }
+    },
+    "Drink": {
+      "Limonada": {
+       "Price": 410
+      },
+      "Agua nacional": {
+       "Price": 175
+      },
+      "Refrescos importados": {
+       "Price": 290
+      },
+      "Maltas": {
+       "Price": 290
+      },
+      "Cervezas": {
+       "Price": 390
+      },
+      "Jugos naturales": {
+       "Price": 410
+      },
+      "Expresso": {
+       "Price": 125
+      },
+      "Capuccino": {
+       "Price": 300
+      },
+      "Americano": {
+       "Price": 160
+      },
+      "Cortado": {
+       "Price": 200
+      },
+      "Te": {
+       "Price": 150
+      }
+    }  
+  },
+ "location": { 
+   "address": "Calle 1ra entre A y B, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.142900,-82.401520"  
+  }
+}

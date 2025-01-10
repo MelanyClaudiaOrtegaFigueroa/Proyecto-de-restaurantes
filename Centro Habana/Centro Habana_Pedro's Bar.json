@@ -1,0 +1,135 @@
+{
+ "name": "Pedro's Bar",
+ "phone_number": "5510666",
+ "web_page": "null",
+ "type": "bar-restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "14:00-02:00",
+   "Tuesday": "14:00-02:00",
+   "Wendsday": "14:00-02:00",
+   "Thursday": "14:00-02:00",
+   "Friday": "14:00-02:00",
+   "Saturday": "14:00-02:00",
+   "Sunday": "14:00-02:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Pedro's Bar",
+ "instagrm": "@pedrosbar_boulevard",
+ "menu": {
+    "Starters": {
+      "papas fritas": {
+       "Price": 1150
+      },
+      "frituras de malanga": {
+       "Price": 800
+      },
+      "croquetas": {
+       "Price": 1050
+      },
+      "dados de queso": {
+       "Price": 1350
+      },
+      "fajitas de pollo": {
+       "Price": 1450
+      },
+      "tabla mixta": {
+       "Price": 4600
+      }
+    },
+    "Main_Course": {
+      "pizza de queso": {
+       "Price": 1200
+      },
+      "pizza hawaiana": {
+       "Price": 1500
+      },
+      "pizza de vegetales": {
+       "Price": 1500
+      },
+      "sandwich de jamon y queso": {
+       "Price": 1200
+      },
+      "sandwich de pechuga": {
+       "Price": 1550
+      },
+      "sandwich de atun": {
+       "Price": 1500
+      },
+      "sandwich de lechon": {
+       "Price": 1550
+      }
+    },
+    "Drink": {
+      "agua natural": {
+       "Price": 250
+      },
+      "refresco": {
+       "Price": 500
+      },
+      "energizante": {
+       "Price": 500
+      },
+      "canchanchara": {
+       "Price": 1150
+      },
+      "mojito": {
+       "Price": 1100
+      },
+      "caipis": {
+       "Price": 1100
+      },
+      "daiquiri": {
+       "Price": 1100
+      },
+      "gin tonic": {
+       "Price": 1450
+      },
+      "margarita": {
+       "Price": 1050
+      },
+      "cubata": {
+       "Price": 1050
+      },
+      "sangria": {
+       "Price": 1350
+      },
+      "piña colada": { 
+       "Price": 1100
+      },
+      "jarra de cerveza": { 
+       "Price": 350
+      },
+      "cerveza": { 
+       "Price": 600
+      },
+      "vasos de ceveza": { 
+       "Price": 200
+      },
+      "servicio de michelada": { 
+       "Price": 300
+      },
+      "servicio de chelada": { 
+       "Price": 400
+      }
+    }
+  },
+ "location": { 
+   "address": "San Rafael #209 entre Aguila y Amistad",
+   "distric": "Centro Habana",
+   "coordinates": "23.136930631399565,-82.36181409182808"  
+  }
+}

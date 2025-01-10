@@ -1,0 +1,83 @@
+{
+ "name": "Bar Colina",
+ "phone_number": "56343050",
+ "web_page": "null",
+ "type": "Bar",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "11:00-23:00",
+   "Tuesday": "11:00-23:00",
+   "Wendsday": "11:00-23:00",
+   "Thursday": "11:00-23:00",
+   "Friday": "11:00-23:00",
+   "Saturday": "11:00-23:00",
+   "Sunday": "11:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Colina Bar",
+ "instagrm": "@colina_bar_oficial",
+ "menu": {
+    "Starters": {
+      "entremes de jamon y queso": {
+       "Price": 600           
+      },
+      "croquetas": {
+       "Price": 400
+      },
+      "frituras de malanga": {
+       "Price": 550
+      },
+      "tostones": {
+        "Price": 400
+      },
+      "tostones rellenos": {
+       "Price": 600
+      },
+      "chicharrita": {
+       "Price": 300
+      },        
+      "espaguetti napolitano": {
+       "Price": 550
+      },
+      "pizza napolitana grande": {
+       "Price": 650
+      },
+      "pizza napolitana": {
+       "Price": 220  
+      }
+    },
+    "Additions":{
+      "queso": {
+       "Price": 200
+      },    
+      "chorizo": {
+       "Price": 300
+      },    
+      "jamon": { 
+       "Price": 300   
+      },    
+      "piña": {
+        "Price": 150     
+      }
+    }
+  },
+ "location": { 
+   "address": "Esquina b y calzada de guines reparto merceditas",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.136398,-82.383320"  
+  }
+} 
+

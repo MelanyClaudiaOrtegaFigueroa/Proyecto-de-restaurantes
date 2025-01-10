@@ -1,0 +1,120 @@
+{
+  "name": "Ocho Vias Comida Criolla",
+  "phone_number": "59107933",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-23:00",
+    "Sunday": "11:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "parqueo",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "Croquetas de queso": {
+       "price": 500
+      },
+      "Tostones Rellenos": {
+       "price": 800
+      },
+      "Tostones Tradicionales": {
+       "price": 250
+      },
+      "Papas Fritas": {
+       "price": 800
+      },
+      "Platanos Fritos": {
+       "price": 200
+      }
+    },
+    "Main_Course": {
+      "Bistec de Higado(460 gramos)": {
+        "price": 1600
+      },
+      "Higado Italiana(460 gramos)": {
+       "price": 1600
+      },
+      "Bistec de Cerdo(460 gramos)": {
+        "price": 2200
+      },
+      "Chuleta de Cerdo(460 gramos)": {
+       "price": 2200
+      },
+      "Fricase de Cerdo(430 gramos)": {
+       "price": 2500
+      },
+      "Masa Frita(430 gramos)": {
+       "price": 2200
+      }, 
+      "Fricase de Carnero(960 gramos)": {
+       "price": 2200
+      },
+      "Bistec Uruguayo": {
+        "price": 2800
+      },
+      "Pescado Entero a la Marinera": {
+       "price": 2200
+      }, 
+      "Ropa Vieja(460 gramos)": {
+       "price": 2700
+      }, 
+      "Camaron Enchilado": {
+       "price": 2700
+      },
+      "Langosta Grille(690 gramos)": {
+       "price": 2700
+      },
+      "Langosta Enchilada(690 gramos)": {
+        "price": 2800
+      },
+      "Pescado Empanado": {
+        "price": 2500
+      },
+      "Enchilado de Cangrejo": {
+        "price": 1800
+      },
+      "Bistec de Pollo": {
+        "price": 2000
+      },
+      "Pechuga de Pollo": {
+        "price": 2500
+      },
+      "Costilla Frita o Fricase": {
+       "price": 2200
+      }
+    },
+    "Fittings": {
+      "Arroz Moro": {
+       "price": 200
+      },
+      "Ensalada Mixta": {
+       "price": 300
+      }
+    }
+  },
+  "location": { 
+    "address": "Avenida 1er Anillo 3km despues de San Agustin",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.051864,-82.332169"  
+  }
+}

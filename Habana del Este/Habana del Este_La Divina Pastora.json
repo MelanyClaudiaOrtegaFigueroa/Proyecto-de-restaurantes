@@ -1,0 +1,91 @@
+{
+ "name": "La Divina Pastora",
+ "phone_number": "77937809",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "null", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica and presentacion de violin",
+ "facilities": "bodas,asientos aire libre,visita de personalidades famosas,cenas romanticas,celebracion de eventos culturales and venta de productos turisticos exclusivo",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "La Divina Pastora",
+ "instagrm": "null",
+ "menu": { 
+    "Starters": {
+      "Croqueticas La Tasca": {
+       "Price": 540
+      },
+      "Deditos de pollo": {
+       "Price": 540
+      },
+      "Empanadas Divina Pastora": {
+       "Price": 1500
+      },
+      "Fritura de malanga": {
+       "Price": 540
+      },
+      "Garbanzo frito": {
+       "Price": 1620
+      },
+      "Tablita de salmon ahumado": {
+       "Price": 1620
+      },
+      "Pastas fruto del mar": {
+       "Price": 2100
+      },
+      "Hamburguesa Pastora": {
+       "Price": 1080
+      },
+      "Sandwich Roast Beef": {
+       "Price": 1620
+      }
+    },
+    "Main_Course": {
+      "Pollo empanado a la parmesana": {
+       "Price": 1200
+      },
+      "Filete de pescado": {
+       "Price": 2300
+      },
+      "Filete de cerdo": {
+       "Price": 2040
+      },
+      "Rollito de cerdo": {
+       "Price": 1560
+      },
+      "Filete de res": {
+       "Price": 2880
+      },
+      "Estofado de res": {
+       "Price": 2040
+      },
+      "Langosta Divina Pastora": {
+       "Price": 2500
+      }
+    }
+  },
+ "location": { 
+   "address": "Complejo Morro Cabana, Via Monumental",
+   "distric": "Habana del Este",
+   "coordinates": "23.150948,-82.350745"  
+  }
+} 

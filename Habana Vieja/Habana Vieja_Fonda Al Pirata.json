@@ -1,0 +1,167 @@
+{
+  "name": "Fonda Al Pirata",
+  "phone_number": "52539750 and 50727490",
+  "web_page": "https://qr14334.buenacarta.com/",
+  "type": "restaurante",
+  "type_cuisine": "Cubana and Caribeña",
+  "days_hours": {
+    "Monday": "08:00-00:00",
+    "Tuesday": "08:00-00:00",
+    "Wendsday": "08:00-00:00",
+    "Thursday": "08:00-00:00",
+    "Friday": "08:00-00:00",
+    "Saturday": "08:00-00:00",
+    "Sunday": "08:00-00:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show and musica",
+  "facilities": "asientos aire libre and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "Fonda Al Pirata",
+  "instagrm": "@fondaalpirata",
+  "menu": { 
+    "Breakfast": {
+      "Desayuno Tradicional": {
+       "price": 2880
+      },
+      "Desayuno Vegetariano": {
+       "price": 2880
+      },
+      "Desayuno Vegano": {
+       "price": 2880
+      }
+    },
+    "Starters": {
+      "Tostadas Piratas": {
+       "price": 960
+      },
+      "Hummus y Vegetales": {
+        "price": 1920
+      },
+      "Tapas Piratas": {
+       "price": 1920
+      },
+      "Bolitas de queso": {
+       "price": 1920
+      },
+      "Bolitas de queso picantes": {
+       "price": 1920
+      },
+      "Ceviche": {
+       "price": 2240
+      },
+      "Coctel de Langosta": {
+       "price": 2720
+      },
+      "Crudo de Pulpo": {
+       "price": 2880
+      }
+    },
+    "Main_Course": {
+      "Ensaladas Piratas de Corazon": {
+       "price": 1440
+      },
+      "Botija Pirata": {
+       "price": 1920
+      },
+      "Combinacion Pirata": {
+       "price": 3200
+      },
+      "Galeon el Olones": {
+       "price": 3360
+      },
+      "Filete de Pescado": {
+       "price": 3840
+      },
+      "Pescado Entero": {
+       "price": 5120
+      },
+      "Langosta a su Gusto": {
+       "price": 6080
+      },
+      "Hamburguesa Vegana": {
+       "price": 1440
+      },
+      "Sandwich Verde": {
+       "price": 1600
+      },
+      "Hamburguesa Barba Roja": {
+       "price": 2240
+      },
+      "Sandwich de Pechuga": {
+       "price": 2240
+      },
+      "Club Sandwich Pollo": {
+        "price": 2560
+      },
+      "Sandwich Abordaje": {
+       "price": 3040
+      }
+    },
+    "Drink": {
+      "Cocteleria": {
+       "price": 1104
+      },
+      "Cocteles Afrutados": {
+       "price": 1216
+      },
+      "Piña Colada": {
+       "price": 1440
+      },
+      "Sangria": {
+       "price": 1440
+      },
+      "Jugo Natural": {
+       "price": 640
+      },
+      "Limonada": {
+        "price": 640
+      },
+      "Limonada de Frutas": {
+       "price": 720
+      },
+      "Te": {
+       "price": 384
+      },
+      "Cafe expreso": {
+       "price": 480
+      },
+      "Cafe americano": {
+       "price": 480
+      },
+      "Cortadito": {
+       "price": 512
+      },
+      "Cafe Bombon": {
+       "price": 608
+      },
+      "Cafe expreso doble": { 
+       "price": 640
+      },
+      "Cafe con leche": { 
+       "price": 672
+      },
+      "Frappuccino": { 
+       "price": 1232
+      },
+      "Frappuccino Mocca": { 
+       "price": 1232
+      }
+    }
+  },
+  "location": { 
+    "address": "San Ignacio #76 e/ O'Reilly y Empedrado",
+    "distric": "Habana Vieja",
+    "coordinates": "23.140287,-82.351724"  
+  }
+} 

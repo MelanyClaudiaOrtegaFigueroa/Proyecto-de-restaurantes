@@ -1,0 +1,381 @@
+{
+ "name": "Restaurante Esquina-D'-Fraile",
+ "phone_number": "052932497",
+ "web_page": "https://linktr.ee/esquina_d_fraile.com/",
+ "type": "restaurante_bar",
+ "type_cuisine": "tradicional e internacional",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre and salon climatizado",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Esquina D' Fraile",
+ "instagrm": "@esquina_d_fraile",
+ "menu": {
+   "Starters": {
+      "croqueta de pescado": {
+       "Price": 950 
+      },
+      "empanadas de la casa": {
+       "Price": 950 
+      },
+      "frituras de malanga": { 
+       "Price": 850 
+      },
+      "pulpo encebollado al pimenton" : {
+       "Price": 2995 
+      },
+      "carpaccio de res": { 
+       "Price": 2900 
+      },
+      "ceviche": {
+       "Price": 2100
+      },
+      "ensalada de langosta": { 
+       "Price": 2800 
+      },
+      "coctel tropical de cameron": {
+       "Price": 1800 
+      },
+      "tataki fraile" : {
+       "Price": 2100 
+      },
+      "tartar de atun": { 
+       "Price": 2100 
+      },
+      "ensalada cesar de pollo": { 
+       "Price": 1800 
+      },
+      "surtido de productos ibericos": {
+       "Price": 3500 
+      },
+      "fritos del mar 450g": {
+       "Price": 2995 
+      },
+      "sopa del pescador": {
+       "Price": 850 
+      },
+      "garbanzo frito al estilo cubano": {
+       "Price": 2100 
+      },
+      "manito de cerdo guisada": {
+       "Price": 1800 
+      }
+    },
+    "Main_Course": {
+      "pasta de tomate y parmesano": {
+       "Price": 2200 
+      },
+      "pasta de frutos del mar": {
+       "Price": 2990 
+      },
+      "pasta de ajo, camaron y peperoncino": {
+       "Price": 2700 
+      },
+      "pasta de camaron al pesto": {
+       "Price": 2700 
+      },
+      "pasta de amatriciana": {
+       "Price": 2200
+      },
+      "pasta a la boloñesa": {
+       "Price": 2800 
+      },
+      "pasta a la carbonara": { 
+       "Price": 2800 
+      },
+      "pescado al tomate y olivo al limon": { 
+       "Price": 2800 
+      },
+      "pescado con salsa de mostaza a las finas hierbas": {  
+       "Price": 2900 
+      },
+      "pescado con alcaparra y cebolla": { 
+       "Price": 2900 
+      },
+      "pescado en refrito de ajo": { 
+       "Price": 2800 
+      },
+      "pescado con mojo iberico": { 
+       "Price": 3200 
+      },
+      "camarones al gusto": { 
+       "Price": 2800 
+      },
+      "langosta al gusto": { 
+       "Price": 3800 
+      },
+      "paella marinera (2 pax)": { 
+       "Price": 5800 
+      },
+      "solomillo de cerdo con salsa de hongos y frutos secos": { 
+       "Price": 3300 
+      },
+      "arroz negro": { 
+       "Price": 2990 
+      },
+      "arroz meloso de langosta y camaron": { 
+       "Price": 3000 
+      },
+      "arroz con pollo a la chorrera": { 
+       "Price": 2200 
+      },
+      "ropa vieja": { 
+       "Price": 2400 
+      },
+      "cordero a la cazuela": { 
+       "Price": 2990 
+      },
+      "teriyaki": { 
+       "Price": 2000 
+      },
+      "solomillo de res": { 
+       "Price": 5800 
+      },
+      "caldereta de mariscos": { 
+       "Price": 3500 
+      },
+      "chuleta de cerdo con mojo criollo": { 
+       "Price": 2800 
+      },
+      "langosta grille": { 
+       "Price": 3800 
+      },
+      "parrillada marinera": { 
+       "Price": 3500 
+      },
+      "parrillada mar y tierra": { 
+       "Price": 3500 
+      },
+      "filete de pescado grille": { 
+       "Price": 2800 
+      },
+      "pollo a la brasa con mojo criollo": { 
+       "Price": 1800 
+      },
+      "entrecot de res 300g": { 
+       "Price": 7000 
+      },
+      "pizza de queso fresco y tomate": { 
+       "Price": 1500 
+      },
+      "pizza de jamon": { 
+       "Price": 2100 
+      },
+      "pizza de bacon": { 
+       "Price": 2400 
+      },
+      "pizza de chorizo": { 
+       "Price": 2400 
+      },
+      "pizza de vegetales": { 
+       "Price": 2000 
+      },
+      "pizza de cuatro estaciones": { 
+       "Price": 2800 
+      },
+      "pizza hawaiana": { 
+       "Price": 2400 
+      },
+      "pizza marinera": { 
+       "Price": 3200 
+      },
+      "pizza de jamon serrano": { 
+       "Price": 2990 
+      },
+      "pizza focaccia de jamon serrano y aceitunas": { 
+       "Price": 2500 
+      },
+      "pizza calzone habanero": { 
+       "Price": 2500 
+      },
+      "ensalada de vegetales": {
+       "Price": 650 
+      },
+      "vegetal salteado": {
+       "Price": 700 
+      },
+      "vegetales a la brasa": {
+       "Price": 600 
+      },
+      "pure de viandas": {
+       "Price": 700 
+      },
+      "papas fritas": {
+       "Price": 900 
+      },
+      "vianda frita": {
+       "Price": 450 
+      },
+      "arroz blanco": {
+       "Price": 300 
+      },
+      "arroz pilaf": {
+       "Price": 1000
+      }
+    },
+    "Drink": { 
+      "daiquiri": {
+       "Price": 1000 
+      },
+      "daiquiri de frutas": {
+       "Price": 1200 
+      },
+      "cuba libre": {
+       "Price": 1000 
+      },
+      "havana especial": {
+       "Price": 1000 
+      },
+      "mojito": {
+       "Price": 1000 
+      },
+      "mojito de frutas": {
+       "Price": 1200 
+      },
+      "caipirisima": {
+       "Price": 1000 
+      },
+      "caipiriña": {
+       "Price": 1000 
+      },
+      "piña colada": {
+       "Price": 1600 
+      },
+      "piña colada sin alcohol": {
+       "Price": 1400 
+      },
+      "cubata": {
+       "Price": 1000 
+      },
+      "margarita": {
+       "Price": 1500 
+      },
+      "tequila sunrise": {
+       "Price": 1800 
+      },
+      "screwdriver": {
+       "Price": 1600 
+      },
+      "expresso martini": {
+       "Price": 2000 
+      },
+      "negroni": {
+       "Price": 2000 
+      },
+      "martini": {
+       "Price": 2000 
+      },
+      "manhattan": {
+       "Price":2000 
+      },
+      "whisky sour": {
+       "Price": 1800 
+      },
+      "long island ice tea": {
+       "Price": 2000 
+      },
+      "sangria": {
+       "Price": 1500 
+      },
+      "orgasmo": {
+       "Price": 2000 
+      },
+      "agua gaseada": {
+       "Price":900 
+      },
+      "agua importada": {
+       "Price": 400 
+      },
+      "agua tonica nacional": {
+       "Price": 500 
+      },
+      "agua tonica importada": {
+       "Price": 1200 
+      },
+      "refrescos importados": {
+       "Price": 500 
+      },
+      "limonada": {
+       "Price": 600 
+      },
+      "limonada c/ hierba buena": {
+       "Price": 700 
+      },
+      "cerveza tonel 480ml": {
+       "Price": 500 
+      },
+      "cerveza tonel 250ml": {
+       "Price": 280 
+      },
+      "servicio de chelada": {
+       "Price": 250 
+      },
+      "servicio de michelada": {
+       "Price": 350 
+      },
+      "energizantes": {
+       "Price": 1000 
+      },
+      "maltas": {
+        "Price": 500
+      },
+      "jugos naturales": {
+       "Price": 400 
+      },
+      "cerveza heineken": {
+       "Price": 800 
+      },
+      "copa de vino blanco": {
+       "Price": 1200 
+      },
+      "copa de vino tinto": {
+       "Price": 1200 
+      }
+    },
+    "Desserts": {
+      "helado" : {
+       "Price": 750 
+      },
+      "flan": {
+       "Price": 800 
+      },
+      "copa lolita": {
+       "Price": 1000 
+      },
+      "brownie con helado": {
+       "Price": 1000 
+      },
+      "tarta tres leches": {
+       "Price": 800 
+      },
+      "cheescake": {
+       "Price": 1200 
+      }
+    }
+  },
+ "location": { 
+   "address": "Esquina 3ra y D (D entre 1ra y 3ra), Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.14252255448973,-82.39853187625368"  
+  }
+} 
+

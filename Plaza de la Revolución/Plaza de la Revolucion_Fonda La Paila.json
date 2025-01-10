@@ -1,0 +1,190 @@
+{
+ "name": "Fonda La Paila",
+ "phone_number": "53388837",
+ "web_page": "https://fondalapaila.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica",
+ "facilities": "asientos aire libre and silla de rueda",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Fonda La Paila",
+ "instagrm": "@lapaila_25ym",
+ "menu": { 
+    "Starters": {
+      "Cesta de Pan": {
+       "Price": 600
+      },
+      "Frituras de Malanga": {
+       "Price": 1000
+      },
+      "Croquetas de la Casa": {
+       "Price": 1350
+      },
+      "Pan con Lechon": {
+       "Price": 1850
+      },
+      "Tacos Guajiros": {
+       "Price": 2200
+      },
+      "Tacos de Camaron": {
+       "Price": 2200
+      },
+      "Tostones 25 y M": {
+       "Price": 1850
+      },
+      "Bastones Fritos": {
+       "Price": 2500
+      },
+      "Coctel de Langosta": {
+       "Price": 2000
+      },
+      "Coctel de Camaron": {
+       "Price": 1900
+      },
+      "Ceviche Criollo": {
+       "Price": 2000
+      },
+      "Charcuteria Criolla": {
+       "Price": 3000
+      },
+      "Tabla La Paila": {
+       "Price": 4500
+      },
+      "Papas Prefritas con Chorizo y Queso": {
+       "Price": 1500
+      },
+      "Bastones Fritos de Pescado": {
+       "Price": 3000
+      },
+      "Tabla de Jamon Serrano": {
+       "Price": 3500
+      },
+      "Tabla de Salmon": {
+       "Price": 3000
+      }
+    },
+    "Main_Course": {
+      "Arroz con Pollo a la Cubana": {
+       "Price": 3000
+      },
+      "Pollo Campestre": {
+       "Price": 2300
+      },
+      "Pechuga Grille": {
+       "Price": 2500
+      },
+      "Pechuga Salteada": {
+       "Price": 2500
+      },
+      "Ropa Vieja Criolla": {
+        "Price": 3000
+      },
+      "Vaca Frita": {
+       "Price": 3000
+      },
+      "Masas a la Paila": {
+       "Price": 3000
+      },
+      "Chuleta a la Parrilla": {
+       "Price": 3000
+      },
+      "Costillas BBQ": {
+       "Price": 3500
+      },
+      "Brocheta Criolla": {
+       "Price": 3000
+      },
+      "Lonjas de Cerdo": {
+       "Price": 2850
+      },
+      "Lomo de Cerdo Mechado": {
+       "Price": 3300
+      },
+      "Pescado al Carbon": {
+       "Price": 3000
+      },
+      "Pescado Saute Papillote": {
+       "Price": 3600
+      },
+      "Camaron a su Eleccion": {
+       "Price": 3500
+      },
+      "Langosta al Carbon": {
+       "Price": 3600
+      },
+      "Langosta Enchilada": {
+       "Price": 3800
+      },
+      "Langosta Termidor": { 
+       "Price": 4000
+      },
+      "Grillada Mixta": { 
+       "Price": 6500
+      },
+      "Pulpo a su Eleccion": { 
+       "Price": 4200
+      },
+      "Grillada del Mar": {
+       "Price": 5900
+      },
+      "Grillada de la Tierra": { 
+       "Price": 5800
+      },
+      "Pasta Frutti di Mare": {
+       "Price": 3500
+      },
+      "Lechon Ahumado": { 
+       "Price": 3300
+      }
+    },
+    "Desserts": {
+      "helados de crema de fresa": {
+       "Price": 550 
+      },
+      "tarta de chocolate": { 
+       "Price": 650 
+      },
+      "postre de paila": { 
+       "Price": 750 
+      },
+      "cheescake de fruta": { 
+       "Price": 950 
+      },
+      "flan de la casa": { 
+       "Price": 500 
+      },
+      "copa lolita": { 
+       "Price": 750
+      },
+      "torrejas de la casa con helado": { 
+       "Price": 500 
+      }
+    }    
+  },
+ "location": { 
+   "address": "Calle M e/ 25 y 27,Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.155894841159917,-82.38263698387051"  
+  }
+} 
+

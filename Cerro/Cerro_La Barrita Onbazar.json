@@ -1,0 +1,141 @@
+{
+ "name": "La Barrita Onbazar",
+ "phone_number": "54494741",
+ "web_page": "https://labarrita.onbazar.com/",
+ "type": "Bar_Restaurante",
+ "type_cuisine": "caribeña",
+ "days_hours": {
+   "Monday": "09:00-23:00",
+   "Tuesday": "09:00-23:00",
+   "Wendsday": "09:00-23:00",
+   "Thursday": "09:00-23:00",
+   "Friday": "09:00-01:00",
+   "Saturday": "09:00-01:00",
+   "Sunday": "09:00-01:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@la_barrita_onbazar",
+ "menu": {
+   "Starters": {
+     "Tostones rellenos": {
+       "Price": 1300
+      },
+      "Jamon ,queso y aceitunas": {
+        "Price": 750
+      },
+      "Mixta": {
+        "Price": 1600
+      },
+      "Brochetas": {
+        "Price": 2000
+      },
+      "Croquetas": { 
+        "Price": 650
+      },
+      "Pollo frito": {
+       "Price": 1500
+      },
+      "Pollo chiflado": {
+        "Price": 1650
+      }
+    },
+    "Main_Course": {
+     "Pizza de napolitana": {
+       "Price": 850
+      },
+      "Pizza de chorizo": {
+        "Price": 1000
+      },
+      "Pizza de jamon": {
+        "Price": 1000
+      },
+      "Pizza de hawaiana": {
+        "Price": 1150
+      },
+      "Pizza de cebolla": {
+        "Price": 1000
+      },
+      "Espaguetis": {
+        "Price": 850
+      },
+      "Espaguetis de jamon": {
+        "Price": 1100
+      },
+      "Espaguetis de chorizo": {
+        "Price": 1000
+      },
+      "Hamburguesa ": {
+        "Price": 1200
+      },
+      "Hamburguesa jamon y queso": {
+        "Price": 1650
+      },
+      "Hamburguesa onbazar": {
+        "Price": 2700
+      }
+    },
+    "Additions": {
+      "Jamon": {
+        "Price": 150
+      },  
+      "Cebolla": {
+        "Price": 150
+      },
+      "Chorizo": {
+        "Price": 150
+      },
+      "Hawaiana": {
+        "Price": 250
+      },
+      "Doble Queso": {
+        "Price": 250
+      }
+    },
+    "Drink": {
+      "Cafe expreso": {
+        "Price": 180
+      },
+      "Cafe cortado": {
+        "Price": 220
+      },
+      "Capuchino": {
+        "Price": 450
+      },
+      "Cafe bombon": {
+        "Price": 450
+      },
+      "Piña colada": {
+        "Price": 600
+      },
+      "Piña colada (alchol)": {
+        "Price": 750
+      },
+      "Limonada frape": {
+        "Price": 400
+      },
+      "Malteada": {
+        "Price": 500
+      }
+    }
+  },
+ "location": { 
+   "address": "Avenida entre Cruz del Padre e Infanta",
+   "distric": "Cerro",
+   "coordinates": "23.121936339068295, -82.373970388124"  
+  }
+} 
+

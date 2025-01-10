@@ -1,0 +1,158 @@
+{
+  "name": "Bar(Rooftop del Hotel Manzana Kempinski)",
+  "phone_number": "78699100",
+  "web_page": "null",
+  "type": "bar",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "15:00-23:00",
+    "Tuesday": "15:00-03:00",
+    "Wendsday": "15:00-03:00",
+    "Thursday": "15:00-03:00",
+    "Friday": "15:00-03:00",
+    "Saturday": "15:00-03:00",
+    "Sunday": "15:00-03:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "piscina",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Desserts": {
+      "tarta de limon": {
+       "Price": 3575
+      },
+      "torta de coco": {
+       "Price": 3575
+      },
+      "pastel de chocolate blanco": {
+       "Price": 3575
+      },
+      "flan": {
+       "Price": 3575
+      },
+      "helado": {
+       "Price": 3575
+      }
+    },
+    "Main_Course": {
+      "sandwich clasica": {
+       "Price": 2975
+      },
+      "sandwich club": {
+       "Price": 6175
+      },
+      "sandwich cubanito": {
+       "Price": 4225
+      },
+      "sandwichde atun": {
+       "Price": 4550
+      },
+      "hamburguesa de res": {
+       "Price": 6500
+      },
+      "hamburguesa mixta": {
+       "Price": 8125
+      },
+      "masa de cerdo": {
+       "Price": 7475
+      },
+      "espaguetis langosta": {
+       "Price": 7475
+      },
+      "espaguetis mariscos": {
+       "Price": 7150
+      },
+      "espaguetis amatriciana": {
+       "Price": 5850
+      },
+      "espaguetis carbonera": {
+       "Price": 6175
+      },
+      "espaguetis salsa al burro": {
+       "Price": 4875
+      }
+    },
+    "Additions": {
+      "jamon": {
+       "Price": 975
+      },
+      "jamon serrano": {
+       "Price": 1950
+      },
+      "queso": {
+       "Price": 1950
+      },
+      "vegetales": {
+       "Price": 650
+      },
+      "bacon": {
+       "Price": 975
+      },
+      "tortilla": {
+       "Price": 1950
+      }
+    },
+    "Starters": {
+      "croqueta": {
+       "Price": 3250
+      },
+      "tostones rellenos": {
+       "Price": 3575
+      },
+      "tacos de pescado": {
+       "Price": 6500
+      },
+      "tacos de carne asada": {
+       "Price": 7475
+      },
+      "tacos campechanos": {
+       "Price": 8125
+      },
+      "tacos de vegetales": {
+       "Price": 4225
+      },
+      "tacos de cerdo": {
+       "Price": 5850
+      },
+      "tacos al pastor": {
+       "Price": 6500
+      },
+      "margarita": {
+       "Price": 4875
+      },
+      "jamon": {
+       "Price": 5200
+      },
+      "jamon serrano": {
+       "Price": 6500
+      },
+      "4 quesos": {
+       "Price": 6500
+      },
+      "vegetales": {
+       "Price": 5200
+      },
+      "hawaiana": {
+       "Price": 5525
+      }
+    } 
+  },
+  "location": { 
+    "address": "calle San Rafael entre Monserrate y Agramonte",
+    "distric": "Habana Vieja",
+    "coordinates": "23.137735,-82.357851"  
+  }
+}

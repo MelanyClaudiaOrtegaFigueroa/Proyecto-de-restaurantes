@@ -1,0 +1,192 @@
+{
+  "name": "Venami",
+  "phone_number": "78605156",
+  "web_page": "https://venamihabana.com/",
+  "type": "restaurante",
+  "type_cuisine": "Italiana e internacional",
+  "days_hours": {
+    "Monday": "11:30-23:00",
+    "Tuesday": "11:30-23:00",
+    "Wendsday": "11:30-23:00",
+    "Thursday": "11:30-23:00",
+    "Friday": "11:30-23:00",
+    "Saturday": "11:30-23:00",
+    "Sunday": "11:30-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "null",
+  "instagrm": "@venami_habana",
+  "menu": {
+    "Starters": { 
+      "Focaccia a las Hierbas": { 
+       "price": 300
+      },
+      "Brusquetas": { 
+       "price": 350
+      },
+      "Melanzane Boloñesa": { 
+       "price": 450
+      },
+      "Melanzane Vegetales": { 
+       "price": 400
+      },
+      "Focaccia Rellena": { 
+       "price": 350
+      },
+      "Ensalada Capresi": { 
+       "price": 350
+      },
+      "Ensalada Vegetales": { 
+       "price": 1350
+      },
+      "Estrofolino Vegetal": { 
+        "price": 850
+      },
+      "Estrofolino Jamon": { 
+       "price": 900
+      },
+      "Focaccia con Jamon Serrano": { 
+       "price": 1100
+      },
+      "Crema de Queso": { 
+       "price": 600
+      },
+      "Crema Virginia": { 
+       "price": 630
+      },
+      "Crema Champiñon": { 
+        "price": 650
+      },
+      "Al Fungi": { 
+       "price": 1100
+      },
+      "Al Fruto del Mar": { 
+       "price": 1350
+      },
+      "Al Venami": { 
+       "price": 1050
+      },
+      "Pollo al Limon": { 
+       "price": 1210
+      },
+      "Pollo a la Piazzola": { 
+       "price": 1250
+      },
+      "Cerdo al Limon": { 
+       "price": 1300
+      },
+      "Pescado Livonnesa": { 
+       "price": 1310
+      },
+      "Penne Champiñon/Serrano": { 
+       "price": 1380
+      },
+      "Spaghetti Amatriciana": { 
+       "price": 1100
+      },
+      "Spaghetti Alfredo (Jamon)": { 
+        "price": 1050
+      },
+      "Spaghetti a la Carbonara": { 
+       "price": 1200
+      },
+      "Penne Arrabiatta": { 
+        "price": 950
+      },
+      "Spaghetti de Atun/Alcaparras": { 
+       "price": 1000
+      },
+      "Spaghetti Pomodoro Basilico": { 
+       "price": 800
+      },
+      "Spaghetti Fruto del Mar": { 
+       "price": 1450
+      },
+      "Spaghetti al Venami": { 
+       "price": 1250
+      },
+      "Spaghetti Ajo/Peperonchino": { 
+        "price": 850
+      },
+      "Timbal de Pollo": { 
+        "price": 1200
+      },
+      "Timbal de Boloñesa": { 
+        "price": 1100
+      }
+    },
+    "Desserts": { 
+      "Flan": { 
+       "price": 400
+      },
+      "Tarta con Helado": { 
+       "price": 450
+      },
+      "Helado": { 
+        "price": 300
+      }
+    },
+    "Drink": { 
+      "Agua Natural (500ml)": { 
+       "price": 150
+      },
+      "Agua Natural (1500ml)": { 
+       "price": 300
+      },
+      "Refresco": { 
+       "price": 400
+      },
+      "Malta": { 
+        "price": 310
+      },
+      "Jugo de Frutas Naturales": { 
+       "price": 250
+      },
+      "Limonada": { 
+        "price": 200
+      },
+      "Cerveza Nacional": { 
+       "price": 330
+      },
+      "Cocteles": { 
+       "price": 450
+      },
+      "Cafe": { 
+       "price": 150
+      },
+      "Cafe Capuchino": { 
+       "price": 350
+      },
+      "Cafe Cortadito": { 
+       "price": 350
+      },
+      "Cafe con Leche": { 
+        "price": 350
+      },
+      "Cafe Americano": { 
+       "price": 150
+      },
+      "Te": { 
+       "price": 110
+      }
+    }
+  },
+  "location": { 
+    "address": "Monserrate #435 e/ Teniente Rey y Lamparilla",
+    "distric": "Habana Vieja",
+    "coordinates": "23.135746,-82.357158"  
+  }
+} 

@@ -1,0 +1,73 @@
+{
+  "name": "El Escabeche",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "bar",
+  "type_cuisine": "Criolla",
+  "days_hours": {
+    "Monday": "10:00-23:00",
+    "Tuesday": "10:00-23:00",
+    "Wendsday": "10:00-23:00",
+    "Thursday": "10:00-01:00",
+    "Friday": "10:00-01:00",
+    "Saturday": "10:00-01:00",
+    "Sunday": "10:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Main_Course": {
+      "Escabeche": {
+       "price": 450
+      }, 
+      "Enchilado de Pescado": {
+       "price": 350
+      },  
+      "Enchilado de Camaron": {
+       "price": 490
+      },  
+      "Pollo Grille": {
+       "price": 430
+      }, 
+      "Ensalada Mixta": {
+       "price": 40
+      }, 
+      "Arroz Blanco": {
+       "price": 50
+      }
+    },
+    "Drink": {
+      "Cerveza Importada Lata": {
+       "price": 240
+      },
+      "Refresco Importada Lata": {
+       "price": 220
+      }, 
+      "Jugo de Frutas": {
+       "price": 220
+      }, 
+      "Agua Natural": {
+       "price": 130
+      }
+    } 
+   },
+  "location": { 
+    "address": "Calle Obispo esquina Villages",
+    "distric": "Habana Vieja",
+    "coordinates": "23.1377165,-82.3561681"  
+  }
+} 

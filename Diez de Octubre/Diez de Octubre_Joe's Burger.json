@@ -1,0 +1,104 @@
+{
+  "name": "Joe's Burguer",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "08:00-22:00",
+    "Tuesday": "08:00-22:00",
+    "Wendsday": "08:00-22:00",
+    "Thursday": "08:00-22:00",
+    "Friday": "08:00-23:00",
+    "Saturday": "08:00-23:00",
+    "Sunday": "08:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@joes_burguer00",
+  "menu": { 
+    "Starters": {
+      "hamburguesa de cerdo": {
+       "Price": 500
+      },
+      "hamburguesa de pollo": {
+       "Price": 500
+      },
+      "hamburguesa de res": {
+       "Price": 700
+      },
+      "hamburguesa doble": {
+       "Price": 900
+      },
+      "bocadito de jamon y queso": {
+       "Price": 450
+      }
+    },
+    "Additions": {
+      "queso": {
+       "Price": 120
+      },
+      "lechuga": {
+       "Price": 100
+      },
+      "jamon": {
+       "Price": 100
+      },
+      "chorizo": {
+       "Price": 80
+      },
+      "bacon": {
+       "Price": 150
+      },
+      "huevo": { 
+       "Price": 150
+      },
+      "cebolla": {
+       "Price": 150
+      },
+      "pepinillo": {
+       "Price": 30
+      },
+      "tomate": {
+       "Price": 100
+      }
+    },
+    "Drink": {
+      "cerveza": {
+       "Price": 350 
+      },
+      "limonada": {
+       "Price": 500 
+      },
+      "batido de helado": {
+       "Price": 700 
+      },
+      "malteada": {
+       "Price": 500
+      }
+    },
+    "Desserts": {
+      "helado": { 
+       "Price": 1000
+      }
+    }
+  },
+  "location": { 
+    "address": "Esquina Mayia Rodriguez y Aranguren",
+    "distric": "Diez de Octubre",
+    "coordinates": "23.088026,-82.377809"  
+  }
+}

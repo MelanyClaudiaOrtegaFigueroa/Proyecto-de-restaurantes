@@ -1,0 +1,82 @@
+{
+  "name": "Yum Yum Gelato",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "helados",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-23:00",
+    "Saturday": "10:00-23:00",
+    "Sunday": "10:00-23:00"
+   },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+   }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "Yum Yum Gelato",
+  "instagrm": "@yumyum_gelato",
+  "menu": {
+    "Desserts": {
+      "cono de helado": {
+        "1 bolas Price": 260,
+        "2 bolas Price": 430
+      },
+      "vaso de helado": {
+        "2 bolas Price": 480,
+        "4 bolas Price": 820
+      },
+      "spaguetis de helado": {
+       "Price": 1400
+      },
+      "tulipan de 3 sabores": {
+       "Price": 670
+      },
+      "gege de dos sabores": {
+       "Price": 610
+      },
+      "copa de helado": {
+       "Price": 780
+      },
+      "batido de helado": {
+       "Price": 850
+      },
+      "copa cucceto": {
+       "Price": 990
+      },
+      "tulipan frutti fruti": {
+       "Price": 680
+      },
+      "copa kinder": {
+       "Price": 1100
+      },
+      "copa tu y yo": {
+       "Price": 1100
+      },
+      "ensalada de helado": {
+       "Price": 2010
+      },
+      "tina de helado": {
+       "Price": 4000
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Galiano esquina Virtudes",
+    "distric": "Centro Habana",
+    "coordinates": "23.139567,-82.363427"  
+  }
+} 

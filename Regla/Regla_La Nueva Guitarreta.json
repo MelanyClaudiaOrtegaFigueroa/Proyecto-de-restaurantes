@@ -1,0 +1,258 @@
+{
+  "name": "La Nueva Guitarreta",
+  "phone_number": "56901253 and 52765597",
+  "web_page": "null",
+  "type": "restaurante-bar",
+  "type_cuisine": "criolla and italiana",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "12:00-24:00",
+    "Sunday": "12:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show,musica,karaoke and humor",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "La Guitarreta de Regla",
+  "instagrm": "@la_guitarrera_de_regla",
+  "menu": {
+    "Starters": {
+      "Racion de Yuca con Mojo": {
+       "price": 250
+      },
+      "Ensalada de Estacion": {
+       "price": 150
+      },
+      "Tacos de Pollo": {
+       "price": 750
+      },
+      "Tacos de Cerdo": {
+       "price": 1000
+      },
+      "Tacos de Res": {
+       "price": 1200
+      },
+      "Fajitas de pollo": {
+        "price": 800
+      },
+      "Bolitas de Queso G": {
+       "price": 700
+      },
+      "Tostones Rellenos QB": {
+       "price": 600
+      },
+      "Papas fritas con ketchup": {
+       "price": 500
+      },
+      "Croquetas de la Abuela": {
+       "price": 350
+      },
+      "Croquetas Bechamel": {
+       "price": 650
+      },
+      "Mariopositas Chinas": {
+       "price": 400
+      }
+    },
+    "Main_Course": {
+      "Arroz frito": {
+       "price": 1500
+      },
+      "Ropa Vieja": {
+       "price": 1800
+      },
+      "Pechuga Empanada": {
+       "price": 1400
+      },
+      "Pechuga Milanesa": {
+       "price": 1500
+      },
+      "Pechuga Grille": {
+        "price": 1600
+      },
+      "Pechuga Princesa": {
+        "price": 1750
+      },
+      "Racion de Arroz Moro": {
+       "price": 200
+      },
+      "Racion de Arroz Blanco": {
+       "price": 150
+      },
+      "Pizza de Queso Blanco": {
+       "price": 700
+      },
+      "Pizza de Queso Gouda": {
+       "price": 950
+      },
+      "Pizza Hawaiana QB": {
+       "price": 1000
+      },
+      "Pizza Hawaiana QG": {
+       "price": 1250
+      },
+      "Lasagna": {
+       "price": 1350
+      },
+      "Espaguetis de Queso Blanco": {
+       "price": 550
+      },
+      "Espaguetis de Queso Gouda": {
+        "price": 700
+      }
+    },
+    "Drinks": {
+      "Cerveza Importada": {
+       "price": 200
+      },
+      "Cerveza Nacional": {
+       "price": 300
+      },
+      "Pantera Rosa": {
+        "price": 650
+      },
+      "Sangria": {
+       "price": 500
+      },
+      "Tinto Verano": {
+       "price": 400
+      },
+      "Screwdriver": {
+       "price": 300
+      },
+      "Gin Tonic Basic": {
+       "price": 450
+      },
+      "Gin Tonic c/ Beefeater": {
+       "price": 600
+      },
+      "VodkaTonic": {
+       "price": 450
+      },
+      "Cuba Libre": {
+       "price": 250
+      },
+      "Cubata": {
+       "price": 350
+      },
+      "POCION GUITARRETA": {
+       "price": 800
+      },
+      "Ron Hav Club Ritual": {
+       "price": 350
+      },
+      "Ron Hav Club Añejo 7 años": {
+       "price": 400
+      },
+      "Crema Tequila de Fresa": {
+       "price": 400
+      },
+      "Crema de Ron Rua Vieja": {
+        "price": 550
+      },
+      "Crema de Whisky Bailey's": {
+        "price": 800
+      },
+      "Whisky Ballantines": {
+       "price": 600
+      },
+      "Whisky Jameson": {
+        "price": 550
+      },
+      "Whisky Chivas Regal": {
+       "price": 700
+      },
+      "Whisky JB": {
+       "price": 450
+      },
+      "Whisky Chanceler": {
+       "price": 200
+      },
+      "Shot Tequila Olmeca Silver": {
+       "price": 400
+      },
+      "Shot Jagermeifter": {
+        "price": 500
+      },
+      "Copa de Vino Tinto Semidulce": {
+       "price": 350
+      },
+      "Copa de Vino Tinto Cabernet Sauvignon": {
+       "price": 450
+      },
+      "Copa de Vino Blanco": {
+       "price": 350
+      },
+      "Michelada": {
+       "price": 250
+      },
+      "Chelada": {
+       "price": 150
+      },
+      "Caipiroska": {
+       "price": 450
+      },
+      "Caipirisima": {
+        "price": 450
+      },
+      "Daiquiri": {
+       "price": 400
+      },
+      "Agua Natural Importada": {
+       "price": 200
+      },
+      "Refresco de cola Importado": {
+       "price": 220
+      },
+      "Refresco de cola imp Pepsi": {
+       "price": 260
+      },
+      "Refresco de limón imp 7up": {
+       "price": 260
+      },
+      "Refresco de Naranja Importado": {
+        "price": 260
+      },
+      "Refresco Mate": {
+        "price": 280
+      },
+      "Malta Nacional Bucanero": {
+        "price": 300
+      },
+      "Energizante Importado": {
+        "price": 300
+      },
+      "Energizante Red Bull": {
+       "price": 500
+      },
+      "Limonada Frape": {
+       "price": 290
+      },
+      "Suero de Helado": {
+       "price": 550
+      },
+      "Piña Colada": {
+       "price": 600
+      }
+    }
+  },
+  "location": { 
+    "address": "calzada nueva de casablanca entre 24 de febrero y tadeo",
+    "distric": "Regla",
+    "coordinates": "23.124405,-82.327635"  
+  }
+}

@@ -1,0 +1,131 @@
+{
+ "name": "Tutti Frutti",
+ "phone_number": "58271438",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "caribeña",
+ "days_hours": {
+   "Monday": "08:00-20:00",
+   "Tuesday": "08:00-20:00",
+   "Wendsday": "08:00-20:00",
+   "Thursday": "08:00-20:00",
+   "Friday": "08:00-20:00",
+   "Saturday": "08:00-20:00",
+   "Sunday": "08:00-20:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica and baile",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@tuttifrutticuba",
+ "menu": { 
+    "Breakfast": {
+      "Desayuno completo": { 
+       "Price": 1200
+      },
+      "Dulce de fruta": {
+       "Price": 600
+      },
+      "Sandwiche Cubano": {
+       "Price": 1200
+      },
+      "Sandwiches Aguacate": {
+       "Price": 1200
+      }
+    },
+    "Additions": {
+      "Huevo": {
+       "Price": 250
+      },
+      "Atun": {
+       "Price": 800
+      },
+      "Jamon": {
+       "Price": 300
+      },
+      "Pollo": {
+       "Price": 500
+      },
+      "Cebolla": {
+       "Price": 200
+      }
+    },
+    "Desserts": {
+      "Copa de frutas": {
+       "Price": 400
+      },
+      "Tutti Frutti": {
+       "Price": 500
+      },
+      "Frutas dulces": {
+       "Price": 300
+      }
+    },
+    "Drink": {
+      "Jugo Natural": {
+       "Price": 400
+      },
+      "Batidos": {
+       "Price": 600
+      },
+      "Champola": {
+       "Price": 600
+      },
+      "Smoothies": {
+       "Price": 800
+      },
+      "Leche": {
+       "Price": 400
+      },
+      "Cafe": {
+       "Price": 900
+      },
+      "Mojito": {
+       "Price": 700
+      },
+      "Mojito Tutti Frutti": {
+       "Price": 800
+      },
+      "Daiquiri": {
+       "Price": 700
+      },
+      "Daiquiri Tutti Frutti": {
+       "Price": 800
+      },
+      "Santiago": {
+       "Price": 900
+      }, 
+      "Cuba Libre": {
+       "Price": 700
+      },
+      "Piña Colada": {
+       "Price": 900
+      },
+      "Canchanchara": {
+       "Price": 800
+      },
+      "Caribbean": {
+       "Price": 900
+      },
+      "Emma":{
+       "Price": 900
+      } 
+    }
+  },
+ "location": { 
+   "address": "San Lazaro entre San Fransico y Espada",
+   "distric": "Centro Habana",
+   "coordinates": "23.138655,-82.377413"  
+  }
+} 

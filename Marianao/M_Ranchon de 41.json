@@ -1,0 +1,99 @@
+{
+ "name": "Ranchon de 41",
+ "phone_number": "52014975",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "caribeña",
+ "days_hours": {
+      "Monday": "24h",
+      "Tuesday": "24h",
+      "Wendsday": "24h",
+      "Thursday": "24h",
+      "Friday": "24h",
+      "Saturday": "24h",
+      "Sunday": "24h"
+    },
+ "reservatipn": "null",
+ "delivery": "null",
+ "payments_option": {
+      "cash": "Si", 
+      "credit_card": "Si",
+      "euros": "null",
+      "us_dollars": "null",
+      "national_currency": "Si"
+    }, 
+ "wi-fi_service": "null",
+ "entertainment":"Musica grabada",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facilities": "baile,canto,bodas and quinces",
+ "facebook": "Ranchon de Marianao",
+ "instagrm": "null",
+ "menu": { 
+     "Starters": {
+            "Croquetas de la casa": {
+             "Price": 400
+            },
+            "Coctel de camaron":{
+             "Price": 650
+            },
+            "Picadera el toro bravo":{
+             "Price": 1700
+            }
+        },
+        "Main_Course": {
+                "Espaguetis": {
+                 "Price": 700
+                },
+             "pizza de queso blanco": {
+                 "Price": 400
+                }, 
+                "pizza de queso gouda": {
+                 "Price": 680
+                },
+             "Pollo chiflado": {
+                 "Price": 1200
+                },
+               "Fajitas de pollo": {
+                 "Price": 750
+                }
+            },
+           "Additions": {
+               "Queso":{
+                 "Price": 200
+                },
+             "Jamon":{
+                 "Price": 150
+                },
+             "Chorizo":{
+                 "Price": 150
+                },
+             "Cebolla":{
+                 "Price": 150
+                },
+             "Piña":{
+                 "Price": 150
+                },
+             "Aceituna":{
+                 "Price": 200
+                },
+             "Queso gouda":{
+                 "Price": 500
+                },
+             "atun":{
+                 "Price": 300
+                }
+            
+        },
+        "Desserts": {
+         "Suero de helado": {
+             "Price": 400
+            }
+        }
+    },
+ "location": { 
+      "address": "Avenida 41 y 84",
+      "distric": "Marianao",
+      "coordinates": "23.087877,-82.421839"  
+    }
+} 

@@ -1,0 +1,160 @@
+{
+ "name": "El Trafico",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante-cafeteria",
+ "type_cuisine": "italiana and criolla",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+   "Fittings":{
+      "arroz moro": {
+       "Price": 300
+      },
+      "vianda": {
+       "Price": 150 
+      },
+      "ensalada": {
+       "Price": 200 
+      },
+      "tamal": {
+       "Price": 200 
+      },
+      "papas fritas": {
+       "Price": 600         
+      }
+    },
+    "Main_Course":{
+      "bistec de pollo": {
+        "Price": 1500
+      },
+      "bistec de cerdo": {
+       "Price": 1950
+      },
+      "bistec de res": {
+        "Price": 1950
+      },
+      "pechuga de pollo": {
+       "Price": 1950
+      },
+      "chuleta de cerdo": {
+       "Price": 1950
+      },
+      "masa de cerdo frita": {
+       "Price": 2000
+      },
+      "cerdo guisado": {
+       "Price": 2000
+      },
+      "lomo ahumado": {
+       "Price": 2000
+      },
+      "costilla de cerdo": {
+       "Price": 2000
+      },
+      "ropa vieja": {
+       "Price": 2000         
+      },
+      "filete de merluza": {
+       "Price": 2000
+      },
+      "espaguetti con queso blanco": {
+       "Price": 400 
+      },
+      "espaguetti con queso gouda": {
+        "Price": 420
+      },
+      "espaguetti con queso parmesano": {
+        "Price": 450       
+      },
+      "pizza de queso blanco": {
+       "Price": 280 
+      },
+      "pizza de queso blanco XL": {
+       "Price": 770 
+      },
+      "pizza de queso gouda": {
+       "Price": 320 
+      },
+      "pizza de queso gouda XL": {
+       "Price": 830   
+      },
+      "pizza de queso parmesano": {
+       "Price": 350 
+      },
+      "pizza de queso parmesano XL": {
+       "Price": 850     
+      }
+    },
+    "Additions":{
+      "queso blanco": {
+       "Price": 300 
+      },
+      "queso gouda": {
+       "Price": 320 
+      },
+      "queso parmesano": {
+       "Price": 350 
+      },
+      "cebolla": {
+       "Price": 200 
+      },
+      "pimiento": {
+       "Price": 200 
+      },
+      "piña": {
+       "Price": 200 
+      },
+      "camaron": {
+       "Price": 350 
+      },
+      "jamon": {
+       "Price": 200 
+      },
+      "chorizo": {
+       "Price": 200 
+      },
+      "bacon": {
+       "Price": 200 
+      },
+      "salchicha": {
+       "Price": 200 
+      },
+      "aceituna": {
+       "Price": 300 
+      },
+      "atun": {
+       "Price": 300    
+      }
+    }
+  },
+ "location": { 
+   "address": "Calzada de Guines entre 90 y 94",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.080002,-82.320781"  
+  }
+} 
+

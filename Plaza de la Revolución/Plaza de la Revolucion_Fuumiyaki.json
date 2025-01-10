@@ -1,0 +1,317 @@
+{
+ "name": "Fuumiyaki",
+ "phone_number": "52832188",
+ "web_page": "https://fuumiyaki.com/",
+ "type": "restaurante japones",
+ "type_cuisine": "internacional",
+ "days_hours": {
+   "Monday": "12:00-23:50",
+   "Tuesday": "12:00-23:50",
+   "Wendsday": "12:00-23:50",
+   "Thursday": "12:00-23:50",
+   "Friday": "12:00-23:50",
+   "Saturday": "12:00-23:50",
+   "Sunday": "12:00-23:50"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "10% servicio",
+ "facebook": "Fuumiyaki Cuba",
+ "instagrm": "@fuumiyaki",
+ "menu": {
+    "Starters": {
+      "Ceviche de Pescado": { 
+       "Price": 1000 
+      },
+      "Ceviche Mixto": {
+       "Price": 1500
+      },
+      "Gyozas": {
+       "Price": 850 
+      },
+      "Rice paper camarones/langosta/pulpo": { 
+       "Price": 1400 
+      },
+      "Rice paper pescado": {
+       "Price": 1400 
+      },
+      "Rice paper pollo/cerdo": { 
+       "Price": 900 
+      },
+      "Rollitos Primavera": {
+       "Price": 500 
+      },
+      "Sashimi de pescado": { 
+       "Price": 1200 
+      },
+      "Sopa de Miso": { 
+       "Price": 750 
+      },
+      "Tartar de pescado": {
+       "Price": 1200 
+      }
+    },
+    "Main_Course": {
+      "Bocados de Langosta en Tempura": {
+       "Price": 2500 
+      },
+      "Bocados de tempura de camarones": { 
+       "Price": 2500 
+      },
+      "Bocados de tempura de Cerdo": { 
+       "Price": 1900 
+      },
+      "Bocados de tempura de Pescado": {
+       "Price": 2200 
+      },
+      "Bocados de tempura de Pollo": {
+       "Price": 1600 
+      },
+      "Chop suey de camarones": {
+       "Price": 2000 
+      },
+      "Chop suey de cerdo": { 
+       "Price": 1800 
+      },
+      "Chop suey de langosta": {
+       "Price": 2000 
+      },
+      "Chop suey de pollo": {
+       "Price": 1500 
+      },
+      "Chow mein de camarones": {
+       "Price": 2000 
+      },
+      "Chow mein de cerdo": {
+       "Price": 1850 
+      },
+      "Chow mein de langosta": { 
+       "Price": 2000 
+      },
+      "Chow mein de pollo": {
+       "Price": 1550 
+      },
+      "Danza de la reina": { 
+       "Price": 2800 
+      },
+      "Enchilado de camarones": {
+       "Price": 2700 
+      },
+      "Enchilado de langosta": {
+       "Price": 2700 
+      },
+      "Kanji bol": {
+       "Price": 2200 
+      },
+      "Ramen": {
+       "Price": 2200 
+      },
+      "Shioyaki de pescado": {
+       "Price": 2500 
+      },
+      "Shogayaki de cerdo": {
+       "Price": 2200 
+      },
+      "Tacos de Camarones": { 
+        "Price": 1600 
+      },
+      "Tacos de Cerdo": { 
+       "Price": 1400 
+      },
+      "Tacos de Langosta": { 
+       "Price": 1500 
+      },
+      "Tacos de Pollo": {
+       "Price": 1100 
+      },
+      "Tacos de Ropa vieja": {
+       "Price": 1300 
+      },
+      "Teriyaki de Camarones": {
+       "Price": 2600 
+      },
+      "Teriyaki de Cerdo": {
+       "Price": 2000 
+      },
+      "Teriyaki de Langosta": {
+       "Price": 2600 
+      },
+      "Teriyaki de Pollo": { 
+       "Price": 1700 
+      },
+      "Yaki Tori de Camarones": { 
+       "Price": 2500 
+      },
+      "Yaki Tori de Cerdo": { 
+       "Price": 1800 
+      },
+      "Yaki Tori de Langosta": { 
+       "Price": 2500 
+      },
+      "Yaki Tori de Pollo": { 
+       "Price": 1500 
+      },
+      "Yakisoba de Camarones": {
+       "Price": 2000 
+      },
+      "Yakisoba de Cerdo": {
+       "Price": 1850 
+      },
+      "Yakisoba de Langosta": { 
+       "Price": 2000 
+      },
+      "Yakisoba de Pollo": {
+       "Price": 1550 
+      }
+    },
+    "Drink": {
+      "Agua Mineral Carbonatada Ciego Montero": { 
+       "Price": 150 
+      },
+      "Agua Natural Ciego Montero": { 
+       "Price": 350 
+      },
+      "Cerveza Bucanero": {
+       "Price": 500 
+      },
+      "Cerveza Cristal": { 
+       "Price": 500 
+      },
+      "Refresco Santa Isabel": {
+       "Price": 350 
+      },
+      "Refresco Santa Limon": { 
+       "Price": 350 
+      },
+      "Refresco Santa Naranja": {
+       "Price": 350 
+      },
+      "Vino tinto Casillero del Diablo Reserva": { 
+       "Price": 10000 
+      },
+      "Vino tinto Trapiche Reserva": { 
+       "Price": 8000 
+      },
+      "Havana Club 7 años": { 
+       "Price": 600 
+      },
+      "Seleccion de Maestros": {
+       "Price": 750 
+      },
+      "Pacto Navio": {
+       "Price": 750 
+      },
+      "Santiago Añejo": {
+       "Price": 550 
+      },
+      "Santiago 11 años": {
+       "Price": 800 
+      },
+      "Clan Campbell": {
+       "Price": 550 
+      },
+      "Jameson": {
+       "Price": 650 
+      },
+      "Ballantines": {
+       "Price": 600 
+      },
+      "Chivas 12 años": {
+       "Price": 750 
+      },
+      "Chivas XV": {
+       "Price": 1000 
+      },
+      "Chivas 18 años": {
+       "Price": 1150 
+      },
+      "Mojito": {
+       "Price": 700 
+      },
+      "Daiquiri": {
+       "Price": 700 
+      },
+      "Caipirinha": {
+       "Price": 750 
+      },
+      "Caipiroska": {
+       "Price": 750 
+      },
+      "Cubanito": {
+       "Price": 800 
+      },
+      "Bloody Mary": {
+       "Price": 850 
+      },
+      "Piña Colada": { 
+       "Price": 850 
+      },
+      "Mimosa": {
+       "Price": 500 
+      },
+      "Gin Tonic": { 
+       "Price": 850 
+      },
+      "Sangria": {
+       "Price": 850 
+      },
+      "Tequila Sunrise": {
+       "Price": 600 
+      },
+      "Margarita": {
+       "Price": 850 
+      },
+      "Old Fashion": {
+       "Price": 800 
+      },
+      "Sake": { 
+       "Price": 650 
+      },
+      "Mojito Sake": {
+       "Price": 650 
+      },
+      "Umeshu Mojito": { 
+       "Price": 600 
+      },
+      "Matcha Highball": {
+       "Price": 750 
+      },
+      "Chuchai": {
+       "Price": 650 
+      },
+      "Cafe Expresso": {
+       "Price": 200 
+      },
+      "Cafe Cortado": {
+       "Price": 300 
+      },
+      "Te": {
+       "Price": 300 
+      }
+    },
+    "Desserts": {
+      "Racion de tarta flan": {
+       "Price": 850 
+      },
+      "Toffee": {
+       "Price": 850 
+      }
+    }
+  },
+ "location": { 
+   "address": "Ave 26/23 y 25, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.12226101881169,-82.40508001808305"  
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Bar Monserrate",
+  "phone_number": "78609761",
+  "web_page": "null",
+  "type": "Bar",
+  "type_cuisine": "Rapida",
+  "days_hours": {
+    "Monday": "12:00-20:00",
+    "Tuesday": "12:00-20:00",
+    "Wendsday": "12:00-20:00",
+    "Thursday": "12:00-20:00",
+    "Friday": "12:00-20:00",
+    "Saturday": "12:00-20:00",
+    "Sunday": "12:00-20:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica,presentaciones en vivo and television",
+  "facilities": "aparcamiento",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "Picada de Salchicha": { 
+       "price": 60
+      }, 
+      "Croquetas de Jamon": { 
+       "price": 250
+      }, 
+      "Croquetas de Pollo": { 
+       "price": 150
+      } 
+    },
+    "Main_Course": {
+      "Cola de Langosta": { 
+       "price": 2300
+      }, 
+      "Anillas de Langosta": { 
+       "price": 2175
+      },
+      "Camaron Grille": { 
+       "price": 1900
+      },
+      "Camaron Enchilado": { 
+       "price": 1740
+      },
+      "Bistec de Cerdo Grille": { 
+       "price": 850
+      },
+      "Fajitas de Cerdo": { 
+       "price": 990
+      },
+      "Res Estofada": { 
+       "price": 375
+      }
+    },
+    "Fittings": {
+      "Arroz Blanco": { 
+       "price": 100
+      },   
+      "Arroz Moro": { 
+       "price": 135
+      } 
+    },
+    "Drink": {
+      "Cuba Libre": { 
+       "price": 300
+      },
+      "Cubata": { 
+       "price": 325
+      },
+      "Daiquiri": { 
+       "price": 300
+      },
+      "Licor Cubay de Menta": { 
+       "price": 200
+      },
+      "Licor Curacao Azul": { 
+       "price": 200
+      },
+      "Licor Cubay de Anis": { 
+       "price": 200
+      },
+      "Chanceler": { 
+       "price": 180
+      },
+      "HC 3 Años": { 
+       "price": 200
+      },
+      "HC Blanco": { 
+       "price": 200
+      },
+      "HC Reserva": { 
+        "price": 380
+      },
+      "HC Especial": { 
+       "price": 250
+      },
+      "HC Ritual": { 
+       "price": 250
+      },
+      "Limonada": { 
+       "price": 100
+      },
+      "Cerveza Importada": { 
+       "price": 175
+      },  
+      "Parranda": { 
+       "price": 180
+      },
+      "Cerveza Dispensada": { 
+       "price": 190
+      },
+      "Jugo Nacional Lata": { 
+       "price": 90
+      },
+      "Bebida Energizante": { 
+       "price": 200
+      }, 
+      "Malta Importada": { 
+       "price": 135
+      },
+      "Vaso de Jugo Importado": { 
+       "price": 80
+      }
+    }
+  },
+  "location": { 
+    "address": "Esquina Monserrate numero 401 Obrapia",
+    "distric": "Habana Vieja",
+    "coordinates": "23.13687026772178, -82.35729723425668"  
+  }
+}

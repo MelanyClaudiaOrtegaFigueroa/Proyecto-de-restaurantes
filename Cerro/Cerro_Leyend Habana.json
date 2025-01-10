@@ -1,0 +1,376 @@
+{
+ "name": "Leyend Habana",
+ "phone_number": "78781332",
+ "web_page": "https://leyendahabana.com/",
+ "type": "Bar_Restaurante",
+ "type_cuisine": "Comida Caribeña",
+ "days_hours": {
+   "Monday": "12:00-23:00",
+   "Tuesday": "12:00-23:00",
+   "Wendsday": "12:00-23:00",
+   "Thursday": "12:00-23:00",
+   "Friday": "12:00-23:00",
+   "Saturday": "12:00-23:00",
+   "Sunday": "12:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "Si",
+   "us_dollars": "Si",
+   "national_currency": "null"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre and silla de rueda",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Restaurante Leyend Habana",
+ "instagrm": "@restaurante.leyendahabana",
+ "menu": {
+   "Starters": {
+      "Tartaletas mixtas": {
+        "Price": 3.80
+      },
+      "Pulpitos al ajillo": {
+        "Price": 3.90
+      },
+      "Pimientos de piquillo rellenos": {
+        "Price": 4.00
+      },
+      "Frituras de malanga": {
+       "Price": 1.8
+      },
+      "Rollitos de salmon rellenos de queso crema y uvas pasas": {
+        "Price": 5.00
+      }
+    },
+    "Main_Course": {
+      "Filete mignon con salsa a eleccion": {
+       "Price": 11.90
+      },
+      "Suprema de pollo a la crema": {
+        "Price": 6.50
+      },
+      "Cordero asado al romero": {
+       "Price": 6.80
+      },
+      "Filete de salmon rosa grille": {
+       "Price": 10.25
+      },
+      "Langosta grille": {
+       "Price": 11.50
+      },
+      "Camarones Leyendhabana perfumados al vino blanco": {
+       "Price": 7.75
+      }, 
+      "Filete de pescado con crema de limon, uvas pasas y frutos secos": {
+       "Price": 7.15
+      }
+    },
+    "Desserts": {
+      "Tarta de crema": {
+       "Price": 3.85
+      },
+      "Brownie": {
+       "Price": 3.85
+      }
+    },
+    "Drink": {
+      "Ron Abuelo Añejo Reserva Especial": {
+       "Price": 4.00
+      },
+      "Ron Arecha 15 años": {
+        "Price": 5.00
+      },
+      "Ron Bacardi Gold": {
+        "Price": 5.00
+      },
+      "Ron Havana Club 15 años": {
+       "Price": 15.00
+      },
+      "Ron Havana Club 3 años": {
+        "Price": 1.55
+      },
+      "Ron Havana Club 7 años": {
+        "Price": 2.50
+      },
+      "Ron Havana Club Blanco": {
+        "Price": 1.00
+      },
+      "Ron Havana Club Especial": {
+        "Price": 1.90
+      },
+      "Ron Havana Club MAXIMO": {
+        "Price": 200.00
+      },
+      "Ron Havana Club Reserva": {
+        "Price": 2.20
+      },
+      "Ron Havana Club Ritual": {
+        "Price": 2.00
+      },
+      "Ron Legendario Añejo Blanco": {
+        "Price": 1.00
+      },
+      "Ron Legendario Dorado": {
+        "Price": 1.50
+      },
+      "Ron Legendario Elixir": {
+        "Price": 1.50
+      },
+      "Ron Mulata 15 años": {
+        "Price": 8.00
+      },
+      "Ron Santa Teresa Gran Reserva": {
+        "Price": 4.50
+      },
+      "Ron Santiago 11 años": {
+        "Price": 6.50
+      },
+      "Ron Santiago 20 años": {
+        "Price": 15.00
+      },
+      "Ron Santiago Añejo": {
+        "Price": 1.55
+      },
+      "Ron Seleccion de MAESTROS": {
+        "Price": 5.50
+      },
+      "Ron Vigia Gran Añejo": {
+        "Price": 7.00
+      },
+      "Whisky Ballantine's 12 años": {
+        "Price": 6.00
+      },
+      "Whisky Ballantine's Finest": {
+        "Price": 3.00
+      },
+      "Whisky Chivas Regal 12 años": {
+        "Price": 5.00
+      },
+      "Whisky Chivas Regal 18 años": {
+        "Price": 14.00
+      },
+      "Whisky Clan Campbell": {
+        "Price": 2.60
+      },
+      "Whisky J&B": {
+        "Price": 3.00
+      },
+      "Whisky Jack Daniel's": {
+        "Price": 6.00
+      },
+      "Whisky Jameson": {
+       "Price": 3.00
+      },
+      "Whisky Johnny Walker Black Label": {
+       "Price": 6.00
+      },
+      "Whisky Johnny Walker Blue Label": {
+        "Price": 25.00
+      },
+      "Whisky Johnny Walker Double Black": {
+        "Price": 10.00
+      },
+      "Whisky Johnny Walker Red Label": {
+        "Price": 3.00
+      },
+      "Whisky The Glenlivet 12 años": {
+       "Price": 6.00
+      },
+      "Brandy Cognac Gautier": {
+        "Price": 10.00
+      },
+      "Brandy Torres 10": {
+        "Price": 7.00
+      },
+      "Brandy Torres 5": {
+        "Price": 4.50
+      },
+      "Ginebra Gordon's": {
+        "Price": 3.00
+      },
+      "Ginebra Master": {
+        "Price": 3.00
+      },
+      "Ginebra Tanqueray": {
+        "Price": 5.00
+      },
+      "Vodka Absolut": {
+        "Price": 4.00
+      },
+      "Vodka Absolut Ruby Red": {
+        "Price": 5.00
+      },
+      "Vodka Absolut Vanilia": {
+        "Price": 5.00
+      },
+      "Vodka Russian Shot": {
+        "Price": 2.00
+      },
+      "Tequila Jarana Reposado 100% Agave":  {
+        "Price": 3.00
+      },
+      "Tequila Jarana Silver 100% Agave": {
+        "Price": 2.00
+      },
+      "Tequila Jose Cuervo Reposado": {
+        "Price": 4.00
+      },
+      "Tequila Jose Cuervo Silver": {
+        "Price": 3.00
+      },
+      "Vermouth Cinzano Bianco": {
+        "Price": 3.00
+      },
+      "Vermouth Cinzano Extra Dry": {
+        "Price": 3.00
+      },
+      "Vermouth Cinzano Rosso": {
+        "Price": 3.00
+      },
+      "Vermouth Martini Bianco": {
+        "Price": 3.00
+      },
+      "Licor Amaretto del Conti": {
+        "Price": 4.00
+      },
+      "Licor Amarula": {
+        "Price": 4.00
+      },
+      "Licor Anis del Mono dulce": {
+        "Price": 4.00
+      },
+      "Licor Bailey's": {
+        "Price": 4.00
+      },
+      "Licor Crema Catalana": {
+        "Price": 2.50
+      },
+      "Licor Frangelico": {
+        "Price": 5.00
+      },
+      "Licor Kahlua": {
+        "Price": 3.00
+      },
+      "Licor Malibu": {
+        "Price": 2.00
+      },
+      "Licor Ricard": {
+        "Price": 3.00
+      },
+      "Licor Tia Maria": {
+        "Price": 4.50
+      },
+      "Vino Blanco": {
+        "Price": 3.50
+      },
+      "Vino Rosado": {
+        "Price": 3.50
+      },
+      "Vino Tinto": {
+        "Price": 3.50
+      },
+      "Coctel Sex on the Beach": {
+        "Price": 3.00
+      },
+      "Coctel Screwdriver": {
+        "Price": 3.00
+      },
+      "Coctel Mojito": {
+        "Price": 2.50
+      },
+      "Coctel Cubanito": {
+        "Price": 2.50
+      },
+      "Coctel Cubalibre": {
+        "Price": 2.50
+      },
+      "Agua Ciego Montero mineral gaseada": {
+        "Price": 1.00
+      },
+      "Agua Ciego Montero mineral natural": {
+        "Price": 1.00
+      },
+      "Agua Ciego Montero tonica": {
+        "Price": 1.00
+      },
+      "Agua Fever Tree tonic": {
+        "Price": 5.00
+      },
+      "Agua MG tonic": {
+        "Price": 3.00
+      },
+      "Agua Panna": {
+        "Price": 2.50
+      },
+      "Agua San Pellegrino": {
+        "Price": 2.50
+      },
+      "Agua Schweppes tonic": {
+        "Price": 4.00
+      },
+      "Cerveza Importada": {
+        "Price": 2.50
+      },
+      "Cerveza Nacional": {
+        "Price": 1.75
+      },
+      "Jugo La Estancia": {
+        "Price": 1.50
+      },
+      "Jugos Naturales": {
+        "Price": 1.50
+      },
+      "Malta Importada": {
+        "Price": 1.50
+      },
+      "Malta nacional": {
+        "Price": 1.20
+      },
+      "Refresco Coca Cola": {
+        "Price": 1.95
+      },
+      "Refresco Fanta": {
+        "Price": 1.95
+      },
+      "Refresco Ironbeer": {
+        "Price": 1.00
+      },
+      "Refresco Kermato": {
+        "Price":1.75
+      },
+      "Refresco Limon": {
+        "Price": 1.00
+      },
+      "Refresco Naranja": {
+        "Price": 1.00
+      },
+      "Refresco Pepsi": {
+        "Price": 1.95
+      },
+      "Refresco Piñita": {
+        "Price": 1.00
+      },
+      "Refresco Sprite": {
+        "Price": 1.95
+      },
+      "Refresco Tukola": {
+        "Price": 1.00
+      },
+      "Refresco Tukola Light": {
+        "Price": 1.00
+      }
+    }
+  },
+ "location": { 
+   "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+   "distric": "Cerro",
+   "coordinates": "23.119358590278868, -82.37192631891624" 
+  }
+    
+} 
+

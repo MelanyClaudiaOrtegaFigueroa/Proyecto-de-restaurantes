@@ -1,0 +1,211 @@
+{
+ "name": "Brutal Habana",
+ "phone_number": "50989151",
+ "web_page": "https://brutal.servicioshabana.com/",
+ "type": "Restaurante",
+ "type_cuisine": "rapida",
+ "days_hours": {
+   "Monday": "12:00-00:00",
+   "Tuesday": "12:00-00:00",
+   "Wendsday": "12:00-00:00",
+   "Thursday": "12:00-00:00",
+   "Friday": "12:00-00:00",
+   "Saturday": "12:00-00:00",
+   "Sunday": "12:00-00:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "null"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre",
+ "daycare": "null",
+ "discount_promotions": "+10%", 
+ "facebook": "null",
+ "instagrm": "@brutal_habana",
+ "menu": {
+        "Main_Course": {
+            "Brutal Junior": {
+             "Price": 550
+            },
+            "Combo Brutal Junior": {
+             "Price": 2550
+            },
+            "Papas Fritas (Medias) 100g": {
+              "Price": 300
+            },
+            "Papas Fritas (Normal) 200g": { 
+              "Price": 600
+            },
+            "Salchi Papas": {
+             "Price": 500
+            },
+            "Salchi Papas BRUTAL": {
+             "Price": 1400
+            },
+            "Croquetas de Pollo x 5": {
+             "Price": 175
+            },
+            "Croquetas de Pollo x 10": {
+             "Price": 350
+            },
+            "Hamburguesa Brutal": {
+             "Price": 3200
+            },
+            "Baguette Brutal": {
+             "Price": 2000
+            },
+            "SalchiPapas Brutal": {
+             "Price": 1400
+            },
+            "Papas Fritas Brutal": { 
+              "Price": 1100
+            },
+            "Papas Fritas Medias": { 
+              "Price": 300
+            },
+            "Papas Fritas Normales": {
+             "Price": 600
+            },
+            "SalchiPapas": {
+             "Price": 500
+            },
+            "Fajitas de Pechuga con Papas Fritas": {
+             "Price": 1500
+            },
+            "Croquetas de Pollo (5 unidades)": {
+             "Price": 175
+            },
+            "Croquetas de Pollo (10 unidades)": {
+             "Price": 350
+            },
+            "Hamburguesa Sencilla": {
+             "Price": 1100
+            },
+            "Queso Blanco": {
+                  "Price": 135
+                },
+                "Queso cheddar": {
+                  "Price": 190
+                },
+                "Queso Cheddar Fundido": {
+                 "Price": 210
+                },
+                "Queso Curado con Trufas": {
+                 "Price": 240
+                },
+                "Queso Azul Gorgonzola": {
+                 "Price": 300
+                },
+                "Queso Gouda": {
+                 "Price": 350
+                },
+                "Queso Cheddar": {
+                 "Price": 350
+                },
+                "Queso Blanco Lombardo": {
+                  "Price": 650
+                },
+                "Baguette": {
+             "Price": 5150
+            },
+            "Suave": {
+              "Price": 120
+            },
+            "Croissant": {
+              "Price": 450
+            },
+            "Pan de Hamburguesa": {
+              "Price": 150
+            }
+        },
+        "Drink": {
+            "Batido de Helado": {
+             "Price": 1000
+            },
+            "Batido de Helado con Gomitas": {
+             "Price": 1400
+            },
+            "Batido de Helado BRUTAL": {
+              "Price": 2000
+            }
+        },
+        "Additions": {
+            "Cebolla": {
+             "Price": 100
+            },
+            "Pepinillo": {
+             "Price": 5100
+            },
+            "Pimiento": {
+             "Price": 5100
+            },
+            "Tomate": {
+             "Price": 100
+            },
+            "Aceituna": {
+             "Price": 100
+            },
+            "Lechuga": {
+             "Price": 50
+            },
+            "Agrego de Nutella": {
+              "Price": 50
+            },
+            "Agrego de Gomita": { 
+             "Price": 400
+            },
+            "Jamon Barra York": {
+             "Price": 240
+            },
+            "Bacon": { 
+             "Price": 260
+            },
+            "Jamon Ahumado 1964": {
+             "Price": 350
+            },
+            "Chorizo Iberico": {
+             "Price": 350
+            },
+            "Salchichon Natural": {
+             "Price": 370
+            },
+            "Jamon Serrano": {
+             "Price": 500
+            },
+            "Jamon Pastrami de Ternera": { 
+             "Price": 500
+            },
+            "Jamon de Pechuga de Pollo": {
+             "Price": 500
+            },
+            "Lomo de Cerdo Disco": {
+             "Price": 500
+            },
+            "Pasta de Atun": {
+             "Price": 820
+            }
+        },
+        "Plus": {
+            "Pozuelo and Tenedor": {
+             "Price": 120
+            },
+            "Termo pack": {
+             "Price": 100
+            }
+         
+        }
+    },
+ "location": { 
+   "address": "Infanta esquina Calle Universidad",
+   "distric": "Cerro",
+   "coordinates": "23.120621,-82.372584"  
+  }
+} 
+

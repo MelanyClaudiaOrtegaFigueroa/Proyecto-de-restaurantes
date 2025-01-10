@@ -1,0 +1,181 @@
+{
+  "name": "La Casa del Maiz",
+  "phone_number": "52003758",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "10:00-20:00",
+    "Tuesday": "10:00-20:00",
+    "Wendsday": "10:00-20:00",
+    "Thursday": "10:00-20:00",
+    "Friday": "10:00-20:00",
+    "Saturday": "10:00-20:00",
+    "Sunday": "10:00-20:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "Si",
+  "discount_promotions": "5%",
+  "facebook": "casa del maiz cuba",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "frituras de malanga": {
+       "Price": 300
+      },
+      "frituras con maiz": {
+       "Price": 300
+      },
+      "croqueta": {
+       "Price": 300
+      }, 
+      "picaderas": {
+       "Price": 790
+      },
+      "tostones rellenos": {
+       "Price": 450
+      },
+      "chicharron": {
+       "Price": 420
+      },
+      "tamal en cazuela": {
+       "Price": 400
+      },
+      "guizo de maiz": {
+       "Price": 390
+      },
+      "garbanzos fritos": {
+       "Price": 900
+      }
+    },
+    "Main_Couse": {
+      "fricase de cerdo": {
+       "Price": 900
+      },
+      "bistec de cerdo": {
+       "Price": 900
+      },
+      "lomo  ahumado": {
+       "Price": 900
+      },
+      "costilla de cerdo ahumada": {
+       "Price": 900
+      },
+      "chuleta de cerdo": {
+       "Price": 900
+      },
+      "fajita de cerdo": {
+       "Price": 900
+      },
+      "fajitas de pollo": {
+       "Price": 850
+      },
+      "pechuga de pollo": {
+       "Price": 1050
+      },
+      "filete de pescado": {
+       "Price": 1090
+      },
+      "esperlan": {
+       "Price": 1050
+      },
+      "chilindron de cordero": { 
+       "Price": 1190
+      },
+      "arroz salteado": {
+       "Price": 400
+      }
+    },
+    "Additions": {
+      "arroz moro": {
+       "Price": 195 
+      },
+      "arroz blanco": {
+       "Price": 120 
+      },
+      "tamal": {
+       "Price": 80 
+      },
+      "yuca": {
+       "Price": 250 
+      },
+      "tostones": {
+       "Price": 250 
+      },
+      "ensalada mixta": {
+       "Price": 350 
+      },
+      "aji relleno": {
+       "Price": 600
+      }
+    },
+    "Desserts": {
+      "helado poote pequeno": {
+       "Price": 450
+      },
+      "helado pote grande": {
+       "Price": 595
+      },
+      "crema de maiz": {
+       "Price": 250 
+      },
+      "arroz con leche": {
+       "Price": 160
+      }
+    },
+    "Drink": {
+      "aguas natural": {
+       "Price": 160
+      },
+      "aguas natural grande": {
+       "Price": 350
+      },
+      "malta importada": {
+       "Price": 250 
+      },
+      "malta nacional": {
+       "Price": 260
+      },
+      "refresco lata": {
+       "Price": 240
+      },
+      "energizante": {
+       "Price": 240 
+      },
+      "jugos caja": {
+       "Price": 195 
+      },
+      "jugos caja grande": {
+       "Price": 500 
+      },
+      "jugos lata": {
+       "Price": 260
+      },
+      "cerveza nacional": {
+       "Price": 270 
+      },
+      "cerveza importada": {
+       "Price": 250 
+      },
+      "cerveza windmill": {
+       "Price": 260
+      }
+    }  
+  },
+  "location": { 
+    "address": "Avenida 1er anillo % Calzada de Managua y San Agustin",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.072132,-82.356479"  
+  }
+} 

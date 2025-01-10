@@ -1,0 +1,156 @@
+{
+ "name": "San Rafael 1051",
+ "phone_number": "58058576",
+ "web_page": "https://sanrafael1051.carrta.app.com/",
+ "type": "restaurante",
+ "type_cuisine": "internacional",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "estacionamiento",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "san_rafael1051",
+ "instagrm": "@san_rafael1051",
+ "menu": {
+   "Starters": {
+      "croquetas de la casa": {
+       "Price": 850
+      },
+      "tabla de serrano y queso": {
+       "Price": 1450
+      },
+      "nuggets de pollo": {
+       "Price": 950
+      },
+      "tacos": {
+       "Price": 1150
+      },
+      "brusquetas mixtas": {
+       "Price": 850
+      },
+      "ensalada de atun": {
+       "Price": 1100
+      },
+      "ensalada de pollo": {
+       "Price": 1100
+      },
+      "ensalada del mar": {
+       "Price": 1300
+      }
+    },
+    "Main_Course": {
+      "entrepan clasico": {
+       "Price": 1300
+      },
+      "entrepan cubano": {
+       "Price": 1500
+      },
+      "entrepan marinero": {
+       "Price": 1300
+      },
+      "entrepan iberico": {
+       "Price": 1500
+      },
+      "entrepan vaquero": {
+       "Price": 1300
+      },
+      "entrepan de crispy chicken": {
+       "Price": 1500
+      },
+      "hamburguesa black panther": {
+       "Price": 2400
+      },
+      "hamburguesa megaburger": {
+       "Price": 2750
+      },
+      "hamburguesa hawaiana": {
+       "Price": 1650
+      },
+      "hamburguesa 1051": {
+       "Price": 2000
+      },
+      "hamburguesa parrillera": {
+       "Price": 1920
+      },
+      "hamburguesa sweet burger": {
+       "Price": 1100
+      },
+      "hamburguesa deluxe": {
+       "Price": 1550
+      },
+      "hamburguesa cheese burger": {
+       "Price": 1790
+      },
+      "hamburguesa cubana": {
+       "Price": 2140
+      }
+    },
+    "Drink": {
+      "agua natural": {
+       "Price": 300
+      },
+      "refresco importado": {
+       "Price": 380
+      },
+      "jugo natural": {
+       "Price": 390
+      },
+      "batido de fruta": {
+       "Price": 530
+      },
+      "caipiriña": {
+       "Price": 580
+      },
+      "caipiroska": {
+       "Price": 580
+      },
+      "gin tonic": {
+       "Price": 650
+      },
+      "sangria": {
+       "Price": 650
+      },
+      "mojito": {
+       "Price": 580
+      },
+      "cuba libre": {
+       "Price": 580
+      },
+      "vodka tonic": {
+       "Price": 650
+      },
+      "cerveza": {
+       "Price": 450
+      },
+      "cerveza cristal, heineken, corona": {
+       "Price": 650
+      },
+      "servicio michelada": {
+       "Price": 250
+      }
+    }
+  },
+ "location": { 
+   "address": "San Rafael entre Infanta y San Fransisco",
+   "distric": "Centro Habana",
+   "coordinates": "23.11380465355718,-82.36663315102301"  
+  }
+}

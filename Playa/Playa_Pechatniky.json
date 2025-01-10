@@ -1,0 +1,163 @@
+{
+ "name": "Pechatniky",
+ "phone_number": "50365341",
+ "web_page": "null",
+ "type": "cafeteria",
+ "type_cuisine": "bebidas and cubana",
+ "days_hours": {
+   "Monday": "24h",
+   "Tuesday": "24h",
+   "Wendsday": "24h",
+   "Thursday": "24h",
+   "Friday": "24h",
+   "Saturday": "24h",
+   "Sunday": "24h"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "Si",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica",
+ "facilities": "cumples and bodas",
+ "daycare": "null",
+ "discount_promotions": "5%",
+ "facebook": "Pechatniky",
+ "instagrm": "@pechatniky",
+ "menu": { 
+    "Breakfast": { 
+      "Con frutas": { 
+       "Price": 500
+      },
+      "Desayuno Pechatniky": { 
+       "Price": 788
+      }
+    },
+    "Starters": { 
+      "Croquetas de la casa": { 
+       "Price": 790
+      },
+      "Frituras de malanga": {  
+       "Price": 560 
+      }, 
+      "Fajita de pollo": {  
+       "Price": 700
+      },
+      "Tostones rellenos": {  
+       "Price": 640
+      },
+      "Ensalada fria de jamon": { 
+       "Price": 580
+      },
+      "Pollo chiflado": { 
+       "Price": 800
+      }, 
+      "Arroz frito": { 
+       "Price": 750
+      },
+      "Beguette de jamon y queso": {  
+       "Price": 700
+      }, 
+      "Beguette de pollo": {  
+       "Price": 720
+      },
+      "Hamburguesa clasica": {  
+       "Price": 390
+      } 
+    },   
+    "Desserts": { 
+      "Copa 2 bolas": {  
+       "Price": 290
+      },
+      "Copa 3 bolas": {  
+       "Price": 310
+      },
+      "Tarta Pechatniky": {  
+       "Price": 475
+      },
+      "Barquillo": { 
+       "Price": 195
+      }
+    },
+    "Drink": { 
+      "Refresco lata impotado": {  
+       "Price": 230
+      },
+      "Refresco lata nacional": {  
+       "Price": 220
+      },
+      "Cerveza nacional": {  
+       "Price": 350
+      },
+      "Cerveza importada": {  
+       "Price": 290
+      }, 
+      "Agua natural": {  
+       "Price": 160
+      },
+      "Malteada": {  
+       "Price": 420
+      },
+      "Batidos de helados": {  
+       "Price": 490
+      },
+      "Batidos de frutas": { 
+       "Price": 470
+      },
+      "Energizante": {  
+       "Price": 350
+      }, 
+      "Jugo natural": {  
+       "Price": 280
+      }, 
+      "Jugo de caja": {  
+       "Price": 330
+      },
+      "Malta": { 
+       "Price": 320
+      },
+      "Expreso": {  
+       "Price": 150
+      },
+      "Cortado": {  
+       "Price": 250
+      },
+      "Americano": {  
+       "Price": 150
+      },
+      "Pechatniky": {  
+       "Price": 680
+      }, 
+      "Capuchino": {  
+       "Price": 300
+      },
+      "Te o infusion": {  
+       "Price": 150
+      }
+    },
+    "Additions": { 
+      "Agrego de jamon": { 
+       "Price": 200
+      },
+      "Agrego de queso": {  
+       "Price": 230
+      },
+      "Agrego de pollo": {  
+       "Price": 250
+      },
+      "Agrego de huevo": {  
+       "Price": 200
+      }
+    }  
+ },
+ "location": { 
+   "address": "Calle 22 #3110 entre 31 y 33A,Miramar",
+   "distric": "Playa",
+   "coordinates": "23.117594,-82.415899"  
+  }
+}

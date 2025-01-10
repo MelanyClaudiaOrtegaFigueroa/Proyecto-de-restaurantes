@@ -1,0 +1,173 @@
+{
+ "name": "Aires de Cojimar",
+ "phone_number": "77666890 and 58385050",
+ "web_page": "https://airedecojimar.somosbusaqui.com/",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "caribeña,italiana,mariscos and española",
+ "days_hours": {
+   "Monday": "12:00-00:00",
+   "Tuesday": "12:00-00:00",
+   "Wendsday": "12:00-00:00",
+   "Thursday": "12:00-00:00",
+   "Friday": "12:00-00:00",
+   "Saturday": "12:00-00:00",
+   "Sunday": "12:00-00:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Aires de Cojimar",
+ "instagrm": "@aires_decojimar",
+ "menu": { 
+    "Starters": {
+      "Coctel de pescado": {
+        "Price": 550
+      },
+      "Ensalada mixta": {
+        "Price": 400
+      },
+      "Picadera mixta": {
+        "Price": 1200
+      },
+      "Coctel Bella Mar": {
+        "Price": 750
+      },
+      "Ceviche Aires de Cojimar": {
+        "Price": 850
+      },
+      "Lomo de pescado en escabeche": {
+        "Price": 950
+      },
+      "Bolitas de queso": {
+        "Price": 550
+      },
+      "Eperlan": {
+       "Price": 950
+      },
+      "Frituras de malanga": {
+        "Price": 550
+      },
+      "Tapas caprichosas": {
+        "Price": 425
+      },
+      "Surtido de croquetas": {
+        "Price": 450
+      },
+      "Tostones al ajo": {
+        "Price": 350
+      },
+      "Sopon de mariscos": {
+        "Price": 750
+      },
+      "Sopa de pollo y vegetales": {
+        "Price": 550
+      },
+      "Crema de calabaza y queso": {
+       "Price": 500
+      },
+      "Crema de queso": {
+        "Price": 500
+      },
+      "Crema de mariscos": {
+        "Price": 600
+      }
+    },
+    "Main_Course": {
+      "Costillas de cerdo fritas": {
+        "Price": 1950
+      },
+      "Arroz con camarones": {
+        "Price": 1450
+      },
+      "Milanesa a la napolitana": {
+        "Price": 1450
+      },
+      "Uruguayo de cerdo": {
+        "Price": 1750
+      },
+      "Camaron al ajillo": {
+        "Price": 1550
+      },
+      "Langosta Varadero": {
+        "Price": 1950
+      },
+      "Langosta Busito": {
+        "Price": 2000
+      },
+      "Langosta Aires de Cojimar": {
+        "Price": 5500
+      },
+      "Pulpo al vino tinto": {
+        "Price": 2850
+      },
+      "Pulpo al ajillo": {
+        "Price": 2850
+      },
+      "Filete de pescado grille": {
+        "Price": 1250
+      },
+      "Filete de pescado en salsa de romero y limon": {
+        "Price": 1350
+      },
+      "Filete de pescado con camarones al graten": {
+        "Price": 1650
+      },
+      "Filete de pescado Canciller": {
+        "Price": 1650
+      },
+      "Camarones tropicales": {
+        "Price": 1550
+      },
+      "Enchilado de camarones": {
+        "Price": 1450
+      },
+      "Camarones al sesamo": {
+        "Price": 1450
+      },
+      "Caldereta Dona Blanca": {
+        "Price": 3500
+      },
+      "Dados de cerdo a la cojimera": {
+        "Price": 1400
+      },
+      "Bistec de cerdo al mojo criollo": {
+        "Price": 1400
+      },
+      "Pollo con camarones al graten": {
+        "Price": 1450
+      },
+      "Pollo Hawaiano": {
+        "Price": 1150
+      },
+      "Sabor del cielo": {
+        "Price": 1550
+      }
+    },
+    "Fittings": {
+      "Ensalada mixta": {
+        "Price": 400
+      }
+    },
+    "Desserts": {
+      "Dulces finos": {
+       "Price": 450
+      }
+    }
+  },
+ "location": { 
+   "address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+   "distric": "Habana del Este",
+   "coordinates": "23.165882,-82.293471"  
+  }
+} 

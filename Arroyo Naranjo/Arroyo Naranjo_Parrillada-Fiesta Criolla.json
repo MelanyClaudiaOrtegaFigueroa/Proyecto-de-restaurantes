@@ -1,0 +1,165 @@
+{
+  "name": "Parrillada-Fiesta Criolla",
+  "phone_number": "52413555",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "12:00-24:00",
+    "Sunday": "12:00-24:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "parqueo,asiento aire libre and celebraciones",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "Toston criollo": {
+       "price": 500
+      },
+      "Toston relleno con Jamon y Queso": {
+       "price": 600
+      },
+      "Toston relleno con Atun": {
+       "price": 700
+      },
+      "Eperlan": {
+       "price": 1300
+      },
+      "Fajitas de pollo": {
+       "price": 1300
+      },
+      "Caldo de Mariscos": {
+       "price": 1000
+      },
+      "Camaron Rebosado": {
+       "price": 2000
+      },
+      "Tamal en Hojas": {
+       "price": 90
+      },
+      "Fritura de Malanga": {
+       "price": 500
+      },
+      "Platano Frito": {
+       "price": 350
+      },
+      "Alitas de Pollo": {
+       "price": 850
+      }
+    },
+    "Main_Course": {
+      "Pollo Asado": {
+       "price": 1150
+      },
+      "Pechuga Grille": {
+       "price": 1450
+      },
+      "Pechuga Gratinada Jamon y Queso": {
+       "price": 1600
+      },
+      "Chuleta": {
+       "price": 1350
+      },
+      "Pechuga Salteada con vegetales": {
+       "price": 1550
+      },
+      "Lomo Ahumado": {
+       "price": 1350
+      },
+      "Lomo deshuesado ahumado": {
+       "price": 1550
+      },
+      "Costillas Fritas": {
+       "price": 1400
+      },
+      "Masa Frita": {
+       "price": 1550
+      },
+      "Bistec Grille": {
+       "price": 1450
+      },
+      "Bistec Gratinado de Jamon y Queso": {
+       "price": 1600
+      },
+      "Ropa Vieja": {
+       "price": 1500
+      },
+      "Suprema carnero": {
+       "price": 1800
+      },
+      "Fricase de Carnero": {
+       "price": 1500
+      },
+      "Camaron grille": {
+       "price": 1900
+      },
+      "Langosta grille": {
+       "price": 1900
+      },
+      "Pulpo grille": {
+       "price": 2000
+      },
+      "Pescado grille": {
+       "price": 1300
+      },
+      "Rueda pescado grille": {
+       "price": 1300 
+      },
+      "Pescado Grille gratinado con Jamon y Queso": {
+       "price": 1450
+      },
+      "Don Pedro": {
+       "price": 2300
+      },
+      "Masa de cangrejo": {
+       "price": 1050
+      },
+      "Caldero de mariscos": {
+       "price": 3500
+      },
+      "Mar y tierra": {
+       "price": 3950
+      },
+      "Paella": {
+       "price": 2300
+      },
+      "Mariscada": {
+       "price": 2500
+      },
+      "Spaguetis Napolitanos": {
+       "price": 1000
+      },
+      "Spaguetis con Jamon y Queso": {
+       "price": 1250
+      }
+    },
+    "Desserts": { 
+      "Dulce Tres Leches": {
+       "price": 350
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle 100 #1003 (después del puente de calabazar)",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.045728,-82.371263"  
+  }
+}

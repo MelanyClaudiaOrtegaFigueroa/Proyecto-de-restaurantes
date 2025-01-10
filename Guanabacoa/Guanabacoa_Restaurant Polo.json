@@ -1,0 +1,186 @@
+{
+  "name": "Restaurant Polo",
+  "phone_number": "52411618 and 77974262",
+  "web_page": "null",
+  "type": "cafeteria-restaurante",
+  "type_cuisine": "criolla e italiana",
+  "days_hours": {
+    "Monday": "12:00-00:00",
+    "Tuesday": "12:00-00:00",
+    "Wendsday": "12:00-00:00",
+    "Thursday": "12:00-00:00",
+    "Friday": "12:00-00:00",
+    "Saturday": "12:00-00:00",
+    "Sunday": "12:00-00:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Restaurant Polo",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "Toston Relleno de jamon y queso": {
+        "price": 450
+      },
+      "Toston Relleno de atun y queso": {
+        "price": 600
+      },
+      "Fajitas de pechuga": {
+        "price": 850
+      },
+      "Ensaladas frias de jamon": {
+       "price": 500
+      },
+      "Ensalada fria de atun": {
+        "price": 650
+      },
+      "Eperlano de Pescado": {
+       "price": 1100
+      },
+      "Croquetas de la Casa": {
+       "price": 450
+      },
+      "Frituras Malanga": {
+       "price": 450
+      },
+      "Coctel camarones": {
+        "price": 1300
+      },
+      "Papas Fritas": {
+       "price": 550
+      }
+    },
+    "Main_Course": {
+      "Arroz blanco": {
+        "price": 120
+      },
+      "Arroz moro y cristiano": {
+       "price": 180
+      },
+      "Arroz pilaf": {
+       "price": 200
+      },
+      "Arroz salteado con vegetales": {
+       "price": 250
+      },
+      "Bistec de cerdo grille encebollado": { 
+       "price": 1900
+      },
+      "Uruguallo de cerdo": { 
+       "price": 2400
+      },
+      "Bistec princesa": { 
+        "price": 2500
+      },
+      "Pechuga grille": { 
+       "price": 1850
+      },
+      "Pechuga gratinada": { 
+       "price": 2200
+      },
+      "Cordon bleu de pechuga": { 
+        "price": 2500
+      },
+      "Bistec de res encebollado": { 
+        "price": 2000
+      },
+      "Uruguallo de res": { 
+        "price": 2500
+      },
+      "Ropa vieja de res": { 
+        "price": 2300
+      },
+      "Filete de pescado grille": { 
+        "price": 2200
+      },
+      "Filete Montero": { 
+        "price": 2800
+      },
+      "Filete Canciller": { 
+        "price": 2900
+      },
+      "Camaron enchilado": { 
+        "price": 2700
+      },
+      "Camaron empanizado": { 
+        "price": 2700
+      },
+      "Arroz Frito con camarones": { 
+        "price": 1500
+      },
+      "Lomo Ahumado": { 
+       "price": 2400
+      },
+      "Mar y Tierra": { 
+        "price": 4500
+      },
+      "Masa de Vida": { 
+        "price": 4100
+      },
+      "Pizza Napolitana": { 
+       "price": 900
+      },
+      "Pizza Hawaiana": { 
+        "price": 1300
+      },
+      "Spaguetti Napolitano": { 
+        "price": 850
+      },
+      "Spaguetti Carbonara": { 
+        "price": 1400
+      }
+    },
+    "Drink": {
+      "Cerveza Nacional": { 
+       "price": 350
+      },
+      "Cerveza importada": { 
+       "price": 250
+      },
+      "Energizante": { 
+       "price": 300
+      },
+      "Agua Natural 500ml": { 
+        "price": 200
+      },
+      "Refresco nacional": { 
+        "price": 250
+      },
+      "Refrescos importados": { 
+       "price": 280
+      },
+      "Malta Nacional": { 
+       "price": 250
+      },
+      "Malta Importada": { 
+       "price": 280
+      },
+      "Jugo de caja": { 
+       "price": 200
+      },
+      "Jugo de Lata": { 
+       "price": 280
+      },
+      "Cafe expreso": { 
+       "price": 250
+      }
+    }
+  },
+  "location": {
+    "address": "4MCR+RR9, Cruz Verde",
+    "distric": "Guanabacoa",
+    "coordinates": "23.122117,-82.30815"  
+  }
+}

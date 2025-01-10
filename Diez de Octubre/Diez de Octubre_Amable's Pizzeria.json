@@ -1,0 +1,101 @@
+{
+  "name": "Amable's Pizzeria",
+  "phone_number": "53546497 and 76402287",
+  "web_page": "null",
+  "type": "cafeteria",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "11:00-22:00",
+    "Tuesday": "11:00-22:00",
+    "Wendsday": "11:00-22:00",
+    "Thursday": "11:00-22:00",
+    "Friday": "11:00-22:00",
+    "Saturday": "11:00-22:00",
+    "Sunday": "11:00-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Main_Course": {
+      "pizzas queso_blanco": {
+       "Price": 500
+      },
+      "pizzas queso gouda": {
+       "Price": 750
+      },
+      "espaguetis queso_blanco": {
+       "Price": 750
+      },
+      "espaguetis queso gouda": {
+       "Price": 900
+      }
+    },
+    "Additions": {
+      "jamon": {
+       "Price": 150
+      },
+      "chorizo": {
+       "Price": 150
+      },
+      "pina": {
+       "Price": 150
+      },
+      "cebolla": {
+       "Price": 150
+      },
+      "pimiento": {
+       "Price": 130
+      },
+      "atun": {
+       "Price": 220
+      },
+      "aceitunas": {
+       "Price": 200
+      },
+      "queso blanco": {
+       "Price": 160
+      },
+      "queso gouda": {
+       "Price": 250
+      }
+    },
+    "Plus": {
+      "caja de pizza": {
+       "Price": 50
+      }
+    },
+    "Drink": {
+      "refresco lata": {
+       "Price": 220
+      }, 
+      "refresco pomo": {
+       "Price": 650
+      },
+      "coca cola": {
+       "Price": 250
+      },
+      "cerveza": {
+       "Price": 220
+      }
+    }  
+  },
+  "location": { 
+    "address": "calle Conuco no. 36 entre Jorge y D strampes, Sevillano",
+    "distric": "Diez de Octubre",
+    "coordinates": "23.085524,-82.372594"  
+  }
+} 

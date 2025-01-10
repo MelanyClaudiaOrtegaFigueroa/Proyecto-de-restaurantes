@@ -1,0 +1,73 @@
+{
+ "name": "Allegro",
+ "phone_number": "7661010",
+ "web_page": "null",
+ "type": "Restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "12:00-21:00",
+   "Tuesday": "12:00-21:00",
+   "Wendsday": "12:00-21:00",
+   "Thursday": "12:00-21:00",
+   "Friday": "12:00-21:00",
+   "Saturday": "12:00-21:00",
+   "Sunday": "12:00-21:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "Crema de queso": {
+       "Price": 313
+      },
+      "Crema Aurora": {
+       "Price": 315
+      },
+      "Crema Virginia": {
+       "Price": 329
+      }
+    },
+    "Main_Course": {
+      "Spaghettis napolitanos": {
+       "Price": 410
+      },
+      "Spaghettis de jamon": {
+       "Price": 570
+      },
+      "Lazagna de jamon": {
+       "Price": 550
+      },
+      "Pizza napolitana": {
+       "Price": 390
+      },
+      "Pizza de jamon": {
+       "Price": 540
+      },
+      "Pizza de chorizo": {
+       "Price": 588
+      },
+      "Pizza de bacon": {
+       "Price": 735
+      }
+    }
+  },
+ "location": { 
+   "address": "Paseo de la Villa, Villa Panamericana",
+   "distric": "Habana del Este",
+   "coordinates": "23.160289,-82.307101"  
+  }
+} 

@@ -1,0 +1,214 @@
+{
+ "name": "Mc.Cesar",
+ "phone_number": "59770018",
+ "web_page": "null",
+ "type": "bar-restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "null",
+   "Tuesday": "09:30-23:00",
+   "Wendsday": "09:30-23:00",
+   "Thursday": "09:30-23:00",
+   "Friday": "09:30-23:00",
+   "Saturday": "09:30-23:00",
+   "Sunday": "09:30-23:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "Dados jamo-queso": {
+       "Price": 1000
+      },
+      "Eperlan": {
+       "Price": 1300
+      },
+      "Ensalada fria": {
+       "Price": 300
+      },
+      "Tostones rellenos": {
+       "Price": 600
+      },
+      "Tostones Criollos": {
+       "Price": 350
+      },
+      "Croquetas de la casa": {
+       "Price": 500
+      },
+      "Picadera Mc.Cesar": {
+       "Price": 2500
+      }
+    },
+    "Main_Course": {
+      "Hamburguesa de Cerdo": {
+       "Price": 500
+      },
+      "Pan de Atun": {
+       "Price": 600
+      },
+      "Pan de jamon-queso": {
+       "Price": 500
+      },
+      "Pan con pechuga": {
+       "Price": 500
+      },
+      "Pan con bistec": {
+       "Price": 500
+      },
+      "Pizza": {
+       "Price": 500
+      },
+      "Espaguetis": {
+       "Price": 500
+      },
+      "Garbanzos fritos": {
+        "Price": 1000
+      },
+      "Higado de cerdo a la italiana": {
+       "Price": 1000
+      },
+      "Salteado de Vegetales": {
+        "Price": 1500
+      },
+      "Uruguayo": {
+       "Price": 1500
+      },
+      "Brocha Cerdo-Pollo": {
+       "Price": 1700
+      },
+      "Bistec Grille": {
+       "Price": 1300
+      },
+      "Faja de Cerdo": {
+       "Price": 1400
+      },
+      "Escalope": {
+       "Price": 1400
+      },
+      "Solomillo": {
+       "Price": 2000
+      },
+      "Lomo ahumado deshuesado": {
+       "Price": 1300
+      },
+      "Pechuga Grille": {
+       "Price": 1300
+      },
+      "Salteado de Pollo": {
+       "Price": 1400
+      },
+      "Pollo deshuesado": {
+       "Price": 900
+      },
+      "Goldon Blue": {
+       "Price": 1500
+      },
+      "Suprema Princesa": {
+       "Price": 1500
+      },
+      "Ropa Vieja": {
+       "Price": 1800
+      },
+      "Vaca Frita": {
+       "Price": 1800
+      },
+      "Bistec de Res": {
+       "Price": 2000
+      },
+      "Pescado Grille": {
+       "Price": 1500
+      },
+      "Pescado Mc.Cesar": {
+       "Price": 2500
+      },
+      "Canciller": {
+       "Price": 1800
+      },
+      "Pescado Empanado": {
+       "Price": 1600
+      },
+      "Pescado con salsa de limon": {
+       "Price": 1700
+      },
+      "Camaron Grille": {
+       "Price": 1900
+      },  
+      "Camaron al ajillo": {
+       "Price": 1900
+      },
+      "Camaron Enchilado": {
+       "Price": 2000
+      }
+    },
+    "Additions": {
+        "atun": {
+         "Price": 400
+        },
+        "cebolla": {
+         "Price": 250
+        },
+        "pimiento": {
+         "Price": 300
+        },
+        "queso": { 
+         "Price": 300
+        },
+        "jamon": {
+         "Price": 200
+        },
+        "piña": {
+         "Price": 200
+        },
+        "chorizo": { 
+         "Price": 200
+        }
+    },
+    "Fittings": {
+      "Arroz a la campesina": {
+       "Price": 1500
+      },
+      "Arroz Moro": {
+       "Price": 300
+      },
+      "Arroz Blanco": {
+       "Price": 200
+      },
+      "Arroz Frito": {
+       "Price": 500
+      }
+    },
+    "Desserts": {
+      "Torrejas": {
+       "Price": 500
+      },
+      "Ensalada Helado (5 bolas)": {
+       "Price": 500
+      },
+      "Bola de Helado": {
+       "Price":  100
+      },
+      "Batido de Helado": {
+        "Price": 500
+      }
+    } 
+  },
+ "location": { 
+   "address": "#2348 entre 221 y 22 Cruz Verde,calle primera ",
+   "distric": "Cotorro",
+   "coordinates": "23.0518415,-82.2757114"  
+  }
+} 

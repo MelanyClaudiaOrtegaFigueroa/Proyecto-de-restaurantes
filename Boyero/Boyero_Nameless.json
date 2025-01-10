@@ -1,0 +1,107 @@
+{
+  "name": "Nameless",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "08:00-24:00",
+    "Tuesday": "08:00-24:00",
+    "Wendsday": "08:00-24:00",
+    "Thursday": "08:00-24:00",
+    "Friday": "08:00-24:00",
+    "Saturday": "08:00-24:00",
+    "Sunday": "08:00-24:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Main_Course": { 
+      "Arroz Frito": { 
+       "Price": 700 
+      },
+      "Pollo Frito": { 
+       "Price": 1000 
+      },
+      "Chuleta de Cerdo Natural": { 
+       "Price": 1000 
+      },
+      "Lomo de cerdo natural": { 
+       "Price": 1000 
+      },
+      "Bistec de cerdo": { 
+       "Price": 1000 
+      },
+      "Bistec de res": { 
+       "Price": 1300 
+      },
+      "Uruguayo de res": { 
+       "Price": 1700 
+      },
+      "Canciller": { 
+       "Price": 1700 
+      },
+      "Pechuga": { 
+       "Price": 1200 
+      },
+      "Fricase de res": { 
+       "Price": 1000 
+      },
+      "Gordem Blue": { 
+       "Price": 1700 
+      },
+      "Picadera mixta": { 
+       "Price": 1600 
+      },
+      "Costilla de cerdo ahumada": { 
+       "Price": 1000 
+      },
+      "Costilla de cerdo a la barbacoa ": { 
+       "Price": 1200 
+      },
+      "Pizza Napolitana": { 
+       "Price": 600 
+      },
+      "Pizza de Jamon": { 
+       "Price": 700 
+      },
+      "Pizza de aceitunas": { 
+       "Price": 900 
+      },
+      "Pizza de cebolla": { 
+       "Price": 700 
+      },
+      "Pizza Marinera": { 
+       "Price": 1500 
+      },
+      "Pizza Doble Via": { 
+       "Price": 1500 
+      },
+      "Pizza Hawaiana": { 
+       "Price": 850 
+      },
+      "Pizza de Chorizo": { 
+       "Price": 900 
+      } 
+    }  
+  },
+  "location": { 
+    "address": "Avenida Independencia % 407A & 409,Santiago de las Vegas",
+    "distric": "Boyero",
+    "coordinates": "22.968986,-82.385378"  
+  }
+} 

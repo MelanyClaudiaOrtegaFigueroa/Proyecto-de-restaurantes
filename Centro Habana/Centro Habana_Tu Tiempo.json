@@ -1,0 +1,141 @@
+{
+ "name": "Tu Tiempo",
+ "phone_number": "78737259 and 52701451",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "08:00-20:00",
+   "Tuesday": "08:00-20:00",
+   "Wendsday": "08:00-20:00",
+   "Thursday": "08:00-20:00",
+   "Friday": "08:00-20:00",
+   "Saturday": "08:00-20:00",
+   "Sunday": "08:00-20:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": { 
+    "Main_Course": {
+      "combo 17": {
+       "Price": 2000
+      },
+      "combo 18": {
+       "Price": 2000
+      },
+      "combo 19": {
+       "Price": 2300
+      },
+      "combo 20": {
+       "Price": 2300
+      },
+      "combo 21": {
+       "Price": 3000
+      },
+      "combo 22": {
+       "Price": 3000
+      },
+      "combo 23": {
+       "Price": 3000
+      },
+      "combo 24": {
+       "Price": 2000
+      },
+      "combo 25": {
+       "Price": 2500
+      },
+      "combo 26 (tu tiempo)": {
+       "Price": 5000
+      },
+      "fricase de pollo": {
+       "Price": 2000
+      },
+      "bistec de res": {
+       "Price": 3300
+      },
+      "arroz con pollo": {
+       "Price": 2000
+      },
+      "combo 1": {
+       "Price": 1500
+      },
+      "combo 2": {
+       "Price": 1800
+      },
+      "combo 3": {
+       "Price": 2000
+      },
+      "combo 4": {
+       "Price": 2000
+      },
+      "combo 5": {
+       "Price": 2300
+      },
+      "combo 6": {
+       "Price": 2600
+      },
+      "combo 7": {
+       "Price": 3000
+      },
+      "combo 8": {
+       "Price": 2000
+      },
+      "combo 9": {
+       "Price": 2000
+      },
+      "combo 10": {
+       "Price": 2100
+      },
+      "combo 11": {
+       "Price": 2000
+      },
+      "combo 12": {
+       "Price": 2000
+      },
+      "combo 13": {
+       "Price": 2000
+      },
+      "combo 14": {
+       "Price": 2000
+      },
+      "combo 15": {
+       "Price": 2000
+      },
+      "combo 16": {
+       "Price": 2300
+      }
+    },
+    "Desserts": {
+      "arroz con leche": {
+       "Price": 300
+      },
+      "coctel de frutas": {
+       "Price": 150
+      }
+    },
+    "Drink": {
+      "batido de helado": {
+       "Price": 400
+      }
+    }
+ },
+ "location": { 
+   "address": "calle Hospital entre San Lazaro  Jovillar",
+   "distric": "Centro Habana",
+   "coordinates": "23.1401557660662,-82.37586279184762"  
+  }
+} 

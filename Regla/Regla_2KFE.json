@@ -1,0 +1,123 @@
+{
+  "name": "2KFE",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "cafeteria-bar",
+  "type_cuisine": "Cafe,Internacional and Criolla",
+  "days_hours": {
+    "Monday": "10:00-20:00",
+    "Tuesday": "10:00-20:00",
+    "Wendsday": "10:00-20:00",
+    "Thursday": "10:00-20:00",
+    "Friday": "10:00-20:00",
+    "Saturday": "10:00-20:00",
+    "Sunday": "10:00-20:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@2kfe_bar",
+  "menu": {
+    "Starters": {
+      "Croquetas": {
+       "price": 300
+      },
+      "Viandas fritas": {
+       "price": 100
+      },
+      "Brusquetas": {
+       "price": 250
+      },
+      "Entremes surtido": {
+       "price": 800
+      },
+      "Mini Gordon Bleu": {
+       "price": 800
+      },
+      "Plato combinado": {
+       "price": 1200
+      }
+    },
+    "Main_Course": {
+      "Tacos Carnitas": {
+       "price": 850
+      },
+      "Tacos Res": {
+       "price": 900
+      },
+      "Tacos Pollo": {
+       "price": 600
+      },
+      "Tacos Vegetariano": {
+       "price": 400
+      },
+      "Tacos Vegetales salteados en mantequilla y limon": {
+       "price": 500
+      },
+      "Tacos Jamon y Queso": {
+       "price": 650
+      }
+    },
+    "Drink": {
+      "Espresso": {
+       "price": 100
+      },
+      "Americano": {
+        "price": 100
+      },
+      "Cortadito": {
+        "price": 150
+      },
+      "Con Leche": {
+       "price": 200
+      },
+      "Espresso Macchiato": {
+       "price": 180
+      },
+      "Caramel Macchiato": {
+       "price": 250
+      },
+      "Cappuccino": {
+       "price": 220
+      },
+      "Frappuccino": {
+       "price": 500
+      },
+      "Irlandes": {
+       "price": 250
+      },
+      "Caribeño": {
+       "price": 180
+      },
+      "Alma mia": {
+       "price": 180
+      },
+      "Minty Coffee": {
+       "price": 250
+      },
+      "2KF": {
+       "price": 250
+      },
+      "Lujo": {
+       "price": 600
+      }
+    }
+  },
+  "location": { 
+    "address": "Pereira 160 entre Marti y Maceo",
+    "distric": "Regla",
+    "coordinates": "23.127970,-82.334323"  
+  }
+}

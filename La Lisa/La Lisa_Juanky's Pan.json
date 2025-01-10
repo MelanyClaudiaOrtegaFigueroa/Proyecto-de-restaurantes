@@ -1,0 +1,312 @@
+{
+ "name": "Juanky's Pan",
+ "phone_number": "72718794",
+ "web_page": "https://juankyspan.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana and rapida",
+ "days_hours": {
+   "Monday": "12:00-24:00",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "estacionamiento",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Juanky's Pan",
+ "instagrm": "null",
+ "menu": {
+    "Starters": { 
+      "Croquetas de Jamon": {
+       "Price": 570 
+      },
+      "Entremes de Jamon y Queso": {
+       "Price": 765 
+      },
+      "Huevos Rotos": {
+       "Price": 905 
+      },
+      "Mixto de Maria": {
+       "Price": 2200 
+      },
+      "Punetazos de Cerdo c/ Queso": {
+       "Price": 895 
+      },
+      "Punetazos de Cerdo c/ Queso y Bacon": {
+       "Price": 1030 
+      },
+      "Punetazos de cerdo c/ Bacon": {
+        "Price": 955
+      }
+    },
+    "Main_Course": { 
+      "Tacos de Ropa Vieja de Carnero": {
+       "Price": 2055 
+      },
+      "Tacos de Ropa Vieja de Cerdo": {
+       "Price": 1400
+      },
+      "Hamburguesa A Caballo de Cerdo": {
+       "Price": 733
+      },
+      "Big Cheese BUrger de Cerdo": {
+       "Price": 890
+      },
+      "Big Tasty Cerdo": {
+       "Price": 870
+      },
+      "Hanburguesa de Cerdo con Atun": {
+       "Price": 1000
+      },
+      "Hamburguesa de Cerdo con Bacon": {
+       "Price": 995
+      },
+      "Hamburguesa de Cerdo con Jamon y Queso": {
+       "Price": 1000
+      },
+      "Doble Hamburguesa de Cerdo": {
+       "Price": 1050
+      },
+      "Hamburguesa de Cerdo de Doble queso": {
+       "Price": 895 
+      },
+      "Hamburguesa Don JUan Cerdo": {
+       "Price": 1130
+      },
+      "Hamburguesa Don Pascual Cerdo": {
+       "Price": 1375
+      },
+      "Especial de Cerdo": {
+       "Price": 800
+      },
+      "Hamburguesa Guajira de Cerdo": {
+       "Price": 2715
+      },
+      "Juanky's Combo de Cerdo con Queso + Jugo": {
+       "Price": 1094
+      },
+      "Mix sin Pan de Cerdo": {
+       "Price": 830
+      },
+      "Pina Caramelo de Cerdo": {
+       "Price": 1055
+      },
+      "Premium de Champinon Cerdo": {
+       "Price": 730
+      },
+      "Hamburguesa Sencilla de Cerdo": {
+       "Price": 838 
+      },
+      "Hamburguesa Taquena de Cerdo": {
+       "Price": 230
+      },
+      "Juankymon": {
+       "Price": 594
+      },
+      "Media Noche": {
+       "Price": 454
+      },
+      "Media Noche sin queso": {
+       "Price": 760
+      },
+      "Sandwich de Atun": {
+       "Price": 780
+      },
+      "Sandwich de Queso": {
+       "Price": 560
+      },
+      "Sandwich Hawaiano": {
+       "Price": 1360
+      },
+      "Espaguetis de Bacon con Queso": {
+        "Price": 470
+      },
+      "Espaguetis Base": {
+       "Price": 1195
+      },
+      "Espaguetis con carne de Cerdo": {
+       "Price": 1390
+      },
+      "Espaguetis de Chorizo con Queso": {
+       "Price": 695
+      },
+      "Espaguetis de Jamon con queso": { 
+       "Price": 985
+      }
+    },
+    "Drink": {
+      "Cerveza Stella": {
+        "Price": 510  
+      },
+      "Caipirisima": {
+       "Price": 600
+      },
+      "Caipiroska": {
+       "Price": 520
+      },
+      "Caipiroska Absolut": {
+       "Price": 680
+      },
+      "Caipiroska c/ Cirok": {
+       "Price": 950
+      },
+      "Cuba Libre": {
+       "Price": 530
+      },
+      "Cubanito": {
+       "Price": 420
+      },
+      "Cubata c/ 7 anos": {
+       "Price": 600
+      },
+      "cubata c/ especial": {
+       "Price": 695
+      },
+      "cubata c/ Reserva": {
+       "Price": 580
+      },
+      "Gin Tonic": {
+       "Price": 795
+      },
+      "Gin Tonic Beefeater": {
+       "Price": 940
+      },
+      "Gin Tonic c/ Tanqueray": {
+       "Price": 990 
+      },
+      "sangria": {
+       "Price": 600
+      },
+      "Screwdriver": {
+       "Price": 500
+      },
+      "Screwdriver Absolut": {
+       "Price": 780
+      },
+      "Vodka Tonic": {
+       "Price": 850
+      },
+      "Vodka Tonic Absolut": {
+       "Price": 1200
+      },
+      "Copa de Vino Tinto": {
+       "Price": 460
+      },
+      "Copa de Vino Tinto Yzaguirre Vermouth": {
+       "Price": 450
+      },
+      "Jagger": {
+       "Price": 350
+      },
+      "Ron Anejo 7 Anos": {
+       "Price": 250 
+      },
+      "Ron Anejo Especial": {
+       "Price": 175
+      },
+      "Ron Anejo Reserva": {
+       "Price": 195
+      },
+      "Ron Seleccion de Maestros": {
+       "Price": 830
+      },
+      "Tequila Don Julio Reposado": {
+       "Price": 1400
+      },
+      "Tequila Silver Los Corrales": {
+       "Price": 380
+      },
+      "Whisky Ballentines": {
+       "Price": 450
+      },
+      "Whisky Chivas Regal": {
+       "Price": 790
+      },
+      "Whisky J&B": {
+       "Price": 350
+      },
+      "Whisky Jack Daniels Black Label": {
+       "Price": 495
+      },
+      "Whisky Jack Daniels Honey": {
+       "Price": 380
+      },
+      "Whisky Jameson": {
+       "Price": 575
+      },
+      "Whisky JW Black Label": {
+       "Price": 940
+      },
+      "Whisky JW Red Label": {
+       "Price": 470
+      },
+      "Whisky Old Partner": {
+       "Price": 200
+      },
+      "Whisky Spirit Speech": {
+       "Price": 200
+      },  
+      "jugo de Fruta Bomba": {
+       "Price": 185 
+      }, 
+      "Jugo de Guayaba": {
+       "Price": 185
+      },  
+      "Liminada": {
+       "Price": 415
+      },  
+      "Jugo de Melon": {
+       "Price": 185
+      },  
+      "Jugo de PLatano": {
+       "Price": 185
+      },  
+      "Batido de Helado": {
+       "Price": 850
+      },  
+      "Batido de Fruta Bomba": {
+       "Price": 300
+      },  
+      "Batido de Guayaba": {
+       "Price": 300
+      },  
+      "Helado Montado": {
+       "Price": 580
+      }, 
+      "Suero de Helado": {
+       "Price": 950
+      },  
+      "Belga Star": {
+       "Price": 300
+      },  
+      "Refresco de Cola": {
+       "Price": 300
+      },  
+      "Refresco de Limon": {
+       "Price": 300 
+      },  
+      "Refresco de Naranja": {
+       "Price": 300
+      }
+    }
+  },
+ "location": { 
+   "address": "Ave23A entre 202 y 212,Reparto La Coronela",
+   "distric": "La Lisa",
+   "coordinates": "23.048058,-82.464417"  
+  }
+} 

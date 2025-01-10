@@ -1,0 +1,157 @@
+{
+ "name": "La Patrona",
+ "phone_number": "52520828 and 54061088",
+ "web_page": "null",
+ "type": "bar-restaurante",
+ "type_cuisine": "criolla e italiana",
+ "days_hours": {
+   "Monday": "08:00-00:00",
+   "Tuesday": "08:00-00:00",
+   "Wendsday": "08:00-00:00",
+   "Thursday": "08:00-00:00",
+   "Friday": "08:00-00:00",
+   "Saturday": "08:00-00:00",
+   "Sunday": "08:00-00:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "null"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "fiestas",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Patrona San Miguel",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "hamburguesa clasica": {
+       "Price": 500 
+      },
+      "hamburguesa sencilla": {
+       "Price": 700 
+      },
+      "hamburguesa grosera": {
+       "Price": 1200 
+      },
+      "hamburguesa patrona": {
+       "Price": 1000   
+      }
+    },
+    "Main_Course": {
+      "bistec uruguayo": {
+       "Price": 2600 
+      },
+      "ropa vieja": {
+       "Price": 1400 
+      },
+      "escalope de cerdo": {
+       "Price": 1800 
+      },
+      "bistec de cerdo": {
+       "Price": 1600 
+      },
+      "arroz frito": {
+       "Price": 1000  
+      },
+      "lasaña": {
+       "Price": 1250 
+      },
+      "canelones": {
+       "Price": 1100 
+      },
+      "espaguetti carbonara": {
+       "Price": 1500  
+      },
+      "pizza La Patrona": {
+        "Price": 1800
+      }
+    },
+    "Additions": {
+      "jamon serrano": {
+       "Price": 800 
+      },
+      "jamon": {
+       "Price": 400 
+      },
+      "chorizo": {
+       "Price": 400 
+      },
+      "bacon": {
+       "Price": 400 
+      },
+      "pepperoni": {
+       "Price": 400 
+      },
+      "queso parmesano": {
+       "Price": 400 
+      },
+      "queso blanco": {
+       "Price": 300 
+      },
+      "queso gouda": {
+       "Price": 400 
+      },
+      "cebolla": {
+       "Price": 300 
+      },
+      "piña": {
+       "Price": 300 
+      },
+      "aceitunas": {
+       "Price": 300 
+      },
+      "atun": {
+       "Price": 500  
+      }
+    },
+    "Desserts": {
+      "flan": {
+       "Price": 200 
+      },
+      "copa lolita": {
+       "Price": 400 
+      },
+      "cesta helado": {
+       "Price": 500 
+      },
+      "tres gracias": {
+       "Price": 300 
+      }
+    },
+    "Drink": {
+      "cafe express": {
+       "Price": 150 
+      },
+      "cafe con crema": {
+       "Price": 180 
+      },
+      "cafe La Patrona": {
+       "Price": 250 
+      },
+      "frapuchino": {
+       "Price": 250  
+      },
+      "jugos": {
+       "Price": 100 
+      },
+      "suero helado": {
+       "Price": 350 
+      },
+      "batidos": {
+       "Price": 300
+      }
+    }
+  },
+ "location": { 
+   "address": "Calzada de Guines en San Francisco de Paula",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.067813,-82.300981"  
+  }
+} 

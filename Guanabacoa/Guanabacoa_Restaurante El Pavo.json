@@ -1,0 +1,185 @@
+{
+  "name": "Restaurante El Pavo",
+  "phone_number": "58222469 and 77976432",
+  "web_page": "null",
+  "type": "Restaurante-bar",
+  "type_cuisine": "criolla e internacional",
+  "days_hours": {
+    "Monday": "12:00-23:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "transmicion de eventos deportivos,musica",
+  "facilities": "asientos aire libre,parqueo,area de fumadores and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Restaurante El Pavo",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": { 
+      "Ensalada Fria de Jamon": {
+        "price": 450
+      },
+      "Ensalada Fria de Atun": {
+        "price": 500
+      },
+      "Croquetas": {
+        "price": 200
+      },
+      "Fajitas": {
+        "price": 500
+      },
+      "Toston relleno de Jamon": {
+        "price": 450
+      },
+      "Toston relleno de Atun": {
+        "price": 450
+      },
+      "Costillas": {
+        "price": 800
+      },
+      "Coctel de Camaron": {
+        "price": 700
+      },
+      "Garbanzo Frito": {
+        "price": 400
+      },
+      "Eperlan": {
+        "price": 600
+      },
+      "Entremes": {
+        "price": 800
+      }
+    },
+    "Main_Course": {
+      "Pollo Grille": {
+        "price": 1100
+      },
+      "Masa de Cerdo": {
+        "price": 1600
+      },
+      "Cerdo a la Milanesa": {
+        "price": 1400
+      },
+      "Bistec de Cerdo": {
+        "price": 1300
+      },
+      "Bistec de Res": {
+        "price": 1300
+      },
+      "Ropa Vieja": {
+        "price": 1600
+      },
+      "Camarones Enchilados": {
+        "price": 1300
+      },
+      "Camarones al Ajillo": {
+        "price": 1300
+      },
+      "Camarones Grille": {
+        "price": 1200
+      },
+      "Camarones Rebosados": {
+        "price": 1300
+      },
+      "Enchilado de Langosta": {
+        "price": 1400
+      },
+      "Langosta Grille": {
+        "price": 1300
+      },
+      "Pescado Grille": {
+        "price": 1400
+      },
+      "Marinada al Pavo": {
+        "price": 2500
+      },
+      "Pizza Napolitana": {
+        "price": 600
+      },
+      "Pizza de Jamon": {
+        "price": 800
+      },
+      "Pizza Hawaiana": {
+        "price": 850
+      },
+      "Pizza de Camarones": {
+        "price": 1000
+      },
+      "Pizza Especial 'El Pavo' ": {
+        "price": 1500
+      },
+      "Espaguetis Napolitano": {
+        "price": 600
+      },
+      "Espaguetis Boloñesa": {
+        "price": 800
+      },
+      "Espaguetis con Camarones": {
+        "price": 1000
+      },
+      "Espaguetis con Atun": {
+        "price": 950
+      },
+      "Lasagna de Jamon": {
+        "price": 800
+      },
+      "Lasagna de Carne": {
+        "price": 900
+      }
+    },
+    "Desserts": {
+      "Flan de Leche": {
+        "price": 180
+      }
+    },
+    "Drink": {
+      "Cerveza Nacional": {
+       "price": 250
+      },
+      "Cerveza Corona": {
+       "price": 300
+      },
+      "Agua Natural": {
+       "price": 180
+      },
+      "Agua Gaseada": {
+       "price": 180
+      },
+      "Refresco Nacional": {
+       "price": 225
+      },
+      "Refresco Importado": {
+       "price": 260
+      },
+      "Malta Importada": {
+       "price": 225
+      },
+      "Malta HyperMalt": {
+       "price": 260
+      },
+      "Jugo(Cajita)": {
+        "price": 180
+      }
+    }
+  },
+  "location": { 
+    "address": "Via Blanca 11A entre Independencia y San Luis",
+    "distric": "Guanabacoa",
+    "coordinates": "23.124239,-82.319470"  
+  }
+}

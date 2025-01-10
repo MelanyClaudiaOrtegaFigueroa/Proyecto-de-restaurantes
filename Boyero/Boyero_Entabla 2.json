@@ -1,0 +1,269 @@
+{
+  "name": "Entabla 2",
+  "phone_number": "51744817",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla e internacional",
+  "days_hours": {
+    "Monday": "10:06-22:00",
+    "Tuesday": "10:06-22:00",
+    "Wendsday": "10:06-22:00",
+    "Thursday": "10:06-22:00",
+    "Friday": "10:06-22:00",
+    "Saturday": "10:06-22:00",
+    "Sunday": "10:06-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show and transmicion de eventos deportivo",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Entabla 2",
+  "instagrm": "@entablados.habana",
+  "menu": {
+    "Starters": {  
+      "Caldo de mariscos": {  
+       "Price": 1200
+      },
+      "Eperlan": {  
+       "Price": 1500
+      },
+      "Tacos de cerdo": {  
+       "Price": 1150
+      },
+      "Tacos de langosta": {  
+       "Price": 950
+      },
+      "Frituras de malanga": {  
+       "Price": 350
+      },
+      "Crujientes de pollo": {  
+       "Price":  800
+      },
+      "Coctel de camaron": {  
+       "Price": 1150
+      },
+      "Ceviche de pescado": {  
+       "Price": 1150
+      },
+      "Coctel de langosta": {  
+       "Price": 1050
+      },
+      "Pan con lechon": {  
+       "Price": 1100
+      },
+      "Huevo hervido": {  
+       "Price": 300
+      },
+      "Huevos fritos": {  
+       "Price": 380
+      },
+      "Revoltillo natural": {  
+       "Price": 380
+      }
+    },
+    "Main_Course": { 
+      "Langosta grille": {  
+       "Price": 1950 
+      },
+      "Langosta al ajillo": {  
+       "Price": 1950 
+      },
+      "Langosta enchilada": {  
+       "Price": 2250 
+      },
+      "Camaron enchilado": {  
+       "Price": 2300 
+      },
+      "Camaron grille": {  
+       "Price": 2150 
+      },
+      "Costilla Frita": {  
+       "Price": 2600 
+      },
+      "Camaron al ajillo": {  
+       "Price": 2150 
+      },
+      "Fricase de Cerdo": {  
+       "Price": 2250 
+      },
+      "Costilla en salsa BBQ": {  
+       "Price": 2680 
+      },
+      "Bistec gratinado": {  
+       "Price": 2150 
+      },
+      "Bistec de cerdo": {  
+       "Price": 1850 
+      },
+      "Chuleta de cerdo": {  
+       "Price": 1950
+      },
+      "Masa frita": {  
+       "Price": 2150 
+      },
+      "Chuleton de cerdo": {  
+       "Price": 2500 
+      },
+      "Super Chuleton Entabla 2": {  
+       "Price": 3200 
+      },
+      "Filete de pescado al Vino": {  
+       "Price": 2000 
+      },
+      "Filete de pescado Mediterraneo": {  
+       "Price": 2050 
+      },
+      "Filete don Pedro": {  
+       "Price": 2900 
+      },
+      "Lonja de cerdo": {  
+       "Price": 2150 
+      },
+      "Vianda hervida con mojo": {  
+       "Price": 200 
+      },
+      "Arroz moro": {  
+       "Price": 250 
+      },
+      "Ensalada de vegetales": {  
+       "Price": 200 
+      },
+      "Arroz blanco": {  
+       "Price": 200 
+      }
+    },
+    "Desserts": {  
+      "Copa de Helado": {  
+       "Price":  500
+      }
+    },
+    "Drink": {  
+      "Ron Havana Club Ajeño 3 Años": {  
+       "Price": 300 
+      },
+      "Ron Havana Club Ajeño Especial": {  
+       "Price": 300 
+      },
+      "Ginebra Gin MG": {  
+       "Price": 140 
+      },
+      "Ginebra Beefeater": {  
+       "Price": 240 
+      },
+      "Ginebra Le Tribute": {  
+       "Price": 490 
+      },
+      "Licor Sambuca Extra Molinari": {  
+       "Price": 200 
+      },
+      "Aguardiente Black Tears": {  
+       "Price": 150
+      },
+      "Copa de Vino Blanco": {  
+       "Price": 450 
+      },
+      "Copa de Vino Tinto": {  
+       "Price": 450 
+      },
+      "Caipirisima": {  
+       "Price": 650 
+      },
+      "Cuba Libre": {  
+       "Price": 460 
+      },
+      "Sangria": {  
+       "Price": 650 
+      },
+      "Cubata": {  
+       "Price": 480 
+      },
+      "Caipirinha": {  
+       "Price": 550 
+      },
+      "Canchanchara": {  
+       "Price": 450 
+      },
+      "Caipiroska": {  
+       "Price": 550 
+      },
+      "Tinto Verano": {  
+       "Price": 600 
+      },
+      "Chelada": {  
+       "Price": 120 
+      },
+      "Jugos Naturales": {  
+       "Price": 350 
+      },
+      "Suero de Helado": {  
+       "Price": 850 
+      },
+      "Limonada Frape": {  
+       "Price": 500 
+      },
+      "Batido de frutas naturales": {  
+       "Price": 450 
+      },
+      "Agua 600ml Niagara": {  
+       "Price": 250 
+      },
+      "Refresco Mirinda": {  
+       "Price": 430 
+      },
+      "Malta": {           
+       "Price": 430 
+      },
+      "Malteada": {  
+       "Price": 780 
+      },
+      "Cerveza Cristal": {  
+       "Price": 600 
+      },
+      "Jugo importado Fruta Fresca": {  
+       "Price": 300 
+      },
+      "Refresco Pepsi": {  
+       "Price": 430 
+      },
+      "Refresco 7up": {  
+       "Price": 430 
+      },
+      "Cerveza Blue": {  
+       "Price": 450 
+      },
+      "Malta Turbo": {  
+       "Price": 450 
+      },
+      "Cafe Expreso": {  
+       "Price": 150 
+      },
+      "Cafe Cortadito": {  
+       "Price": 250 
+      },
+      "Cafe Bombon": {   
+       "Price": 550 
+      },
+      "Capuchino": { 
+       "Price": 400 
+      },
+      "Cafe con leche": { 
+       "Price": 400 
+      }
+    } 
+  },
+  "location": { 
+    "address": "Carretera Terminal 2, Aeropuerto Internacional J. Marti,Calixto Sanchez",
+    "distric": "Boyero",
+    "coordinates": "23.003753, -82.395883"  
+  }
+} 

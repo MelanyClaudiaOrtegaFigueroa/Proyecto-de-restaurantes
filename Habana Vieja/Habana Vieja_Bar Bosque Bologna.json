@@ -1,0 +1,128 @@
+{
+  "name": "Bar Bosque Bologna",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Bar-Restaurante",
+  "type_cuisine": "Caribeña and Cubana",
+  "days_hours": {
+    "Monday": "09:00-00:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "Aparcamiento,asientos aire libre and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "Croquetas de Pollo": {
+       "price": 150
+      } 
+    },
+    "Main Course": {
+      "Camaron Enchilado": {
+       "price": 1740
+      }, 
+      "Camaron Grille": {
+       "price": 1900
+      }, 
+      "Brocheta de Camaron": {
+       "price": 1465
+      }, 
+      "Langosta Entera": {
+       "price":4500
+      }, 
+      "Cerdo Estofado": {
+       "price": 875
+      }, 
+      "Bistec de Cerdo Grille": {
+       "price": 850
+      }, 
+      "Fajitas de Cerdo": {
+       "price": 990
+      },       
+      "Res Estofada": {
+       "price": 875
+      }, 
+      "Lonjas de Res": {
+       "price": 945
+      }, 
+      "Espaguetis Margarita": {
+       "price": 350
+      }, 
+      "Agrego de Atun": {
+       "price": 100
+      } 
+    },
+    "Fittings": {
+      "Arroz Moro": {
+       "price": 135
+      }, 
+      "Vianda Hervida": {
+       "price": 175
+      }, 
+      "Vegetales Frescos": {
+       "price": 600
+      } 
+    },
+    "Drink": {
+      "Licor Cubay de Menta": {
+       "price": 200
+      }, 
+      "Licor Curacao Azul": {
+       "price": 200
+      }, 
+      "Licor Cubay de Anis": {
+       "price": 200
+      }, 
+      "Chanceler": {
+       "price": 180
+      }, 
+      "HC 3 Años": {
+       "price": 200
+      }, 
+      "HC Reserva": {
+       "price": 380
+      }, 
+      "HC Especial": {
+       "price": 250
+      }, 
+      "HC Ritual": {
+       "price": 250
+      }, 
+      "Jugo Nacional Lata": {
+       "price": 90
+      }, 
+      "Cerveza Importada": {
+       "price": 175
+      }, 
+      "Vaso Jugo Importado": {
+       "price": 80
+      }, 
+      "Malta Importada": {
+       "price": 135
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Obispo #460",
+    "distric": "Habana Vieja",
+    "coordinates": "23.1394489,-82.3509076"  
+  }
+}

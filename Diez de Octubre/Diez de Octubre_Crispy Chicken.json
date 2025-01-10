@@ -1,0 +1,94 @@
+{
+  "name": "Crispy Chicken",
+  "phone_number": "5363182745 and 50763525",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-23:00",
+    "Sunday": "11:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Crispy Chicken",
+  "instagrm": "@crispy.chicken.monaco",
+  "menu": {
+    "Starters": { 
+      "Pollo frito": { 
+       "Price": 1300
+      }, 
+      "Pollo chiflado": { 
+       "Price": 1600
+      }, 
+      "Pollo chiflado(sin hueso)": { 
+       "Price": 1800
+      }, 
+      "Pollo relleno(jamon y queso)": { 
+       "Price": 2000
+      }, 
+      " Nuggets de pollo ": { 
+       "Price": 1000
+      }, 
+      "Sandwich de pollo": { 
+       "Price": 900
+      },
+      "Mini Hot Dog": {
+       "Price": 300
+      }, 
+      "Flamenquin": { 
+       "Price": 1000
+      }, 
+      "San Jacobo": { 
+       "Price": 1000
+      }, 
+      "Tostones rellenos": { 
+       "Price": 800
+      }, 
+      "Entremes de jamon y queso": { 
+       "Price": 1200
+      }, 
+      "Picadera de la casa(jamon,queso,chorizo,aceitunas,bolitas de queso y croquetas)": {
+       "Price": 2500
+      }, 
+      "Chips de boniato": { 
+       "Price": 500
+      } 
+    },
+    "Drink": {
+      "Batido de Helado": { 
+       "Price": 1000
+      }, 
+      "Malteada": { 
+       "Price": 900
+      }, 
+      "Jugo natural": { 
+       "Price": 400
+      }, 
+      "Vaca negra": { 
+       "Price": 800
+      } 
+    }
+  },
+  "location": { 
+    "address": "Avenida Acosta esquina Juan Delgado",
+    "distric": "Diez de Octubre",
+    "coordinates": "23.089309,-82.376036"  
+  }
+} 

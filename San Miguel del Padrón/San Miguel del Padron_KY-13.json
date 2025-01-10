@@ -1,0 +1,258 @@
+{
+ "name": "KY-13",
+ "phone_number": "7693087 and 50152008",
+ "web_page": "null",
+ "type": "restaurante-cafeteria",
+ "type_cuisine": "criolla and italiana",
+ "days_hours": {
+   "Monday": "10:00-23:00",
+   "Tuesday": "10:00-23:00",
+   "Wendsday": "10:00-23:00",
+   "Thursday": "10:00-23:00",
+   "Friday": "10:00-23:00",
+   "Saturday": "10:00-23:00",
+   "Sunday": "10:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "KY-13 Bar-Restaurante",
+ "instagrm": "@ky13bar-restaurante",
+ "menu": {
+   "Starters":{
+      "croquetas de queso": {
+       "Price": 600 
+      },
+      "frituras de malanga": {
+       "Price": 600 
+      },
+      "tostones rellenos": {
+       "Price": 700 
+      },
+      "eperlan": {
+       "Price": 1300 
+      },
+      "dedos de pollo": {
+       "Price": 1000 
+      },
+      "coctel de camaron": {
+       "Price": 1300 
+      },
+      "camaron rebozado": {
+       "Price": 1200 
+      },
+      "crema de queso": {
+       "Price": 850 
+      },
+      "crema aurora": {
+       "Price": 550 
+      },
+      "crema virginia": {
+       "Price": 800 
+      },
+      "crema de camaron": {
+       "Price": 900 
+      },
+      "surtido KY13": {
+        "Price": 4000        
+      }
+    },
+    "Fittings": {
+      "arroz blanco": {
+       "Price": 300 
+      },
+      "arroz moro": {
+       "Price": 480 
+      },
+      "vianda frita": {
+       "Price": 700 
+      },
+      "ensalada mixta": {
+        "Price": 700  
+      }
+    },
+    "Main_Course":{
+      "bistec de cerdo grille": {
+       "Price": 2350 
+      },
+      "bistec de cerdo empanado": {
+       "Price": 2700 
+      },
+      "uruguayo de cerdo": {
+       "Price": 3500 
+      },
+      "pechuga de pollo grille": {
+       "Price": 2400 
+      },
+      "pechuga de pollo gratinada": {
+       "Price": 2800 
+      },
+      "pollo gordon blue": {
+       "Price": 3650 
+      },
+      "pollo frito o asado": {
+        "Price": 2000 
+      },
+      "ropa vieja de res": {
+       "Price": 2800 
+      },
+      "picadillo a la habanera": {
+       "Price": 2700 
+      },
+      "chuleta de cerdo": {
+       "Price": 2600 
+      },
+      "lomo ahumado": {
+       "Price": 2500 
+      },
+      "costilla de cerdo frita": {
+       "Price": 2300 
+      },
+      "masa de cerdo frita": {
+       "Price": 3800 
+      },
+      "bistec de pollo": {
+       "Price": 2200 
+      },
+      "arroz frito": {
+        "Price": 2800     
+      },
+      "hamburguesa sencilla": {
+       "Price": 1400 
+      },
+      "hamburguesa KY13": {
+        "Price": 2950     
+      },
+      "sandwich sencillo": {
+       "Price": 1250 
+      },
+      "sandwich lomo ahumado": {
+       "Price": 1250 
+      },
+      "sandwich especial": {
+       "Price": 2100 
+      },
+      "sandwich de atun": {
+        "Price": 1150     
+      },
+      "filete de pescado grille": {
+       "Price": 3000  
+      },
+      "filete de pescado empanado": {
+       "Price": 3300 
+      },
+      "filete de pescado gratinado": {
+        "Price": 3500 
+      },
+      "pescado montetoro": {
+       "Price": 3800 
+      },
+      "pescado canciller": {
+        "Price": 4250 
+      },
+      "camaron grille": {
+       "Price": 2600 
+      },
+      "enchilado de camaron": {
+       "Price": 2800 
+      },
+      "camaron al ajillo": {
+       "Price": 2700 
+      },
+      "langosta grille": {
+       "Price": 2700 
+      },
+      "langosta enchilada": {
+       "Price": 2800 
+      },
+      "espaguetti de queso": {
+       "Price": 1300 
+      },
+      "lasaña de jamon": {
+       "Price": 1800 
+      },
+      "espaguetti a la carbonara": {
+        "Price": 2000      
+      },
+      "pizza de queso": {
+       "Price": 1200 
+      },
+      "pizza familiar de queso": {
+        "Price": 3350        
+      }
+    },
+    "Additions":{
+      "queso gouda sencilla": {
+       "Price": 560 
+      },
+      "queso goud familiar": {
+       "Price": 1400 
+      },
+      "jamon sencilla": {
+       "Price": 620 
+      },
+      "jamon familiar": {
+       "Price": 1550 
+      },
+      "vegetales sencilla": {
+       "Price": 500 
+      },
+      "vegetales familiar": {
+       "Price": 1250 
+      },
+      "chorizo sencilla": {
+       "Price": 450 
+      },
+      "chorizo familiar": {
+       "Price": 825 
+      },
+      "aceituna sencilla": {
+       "Price": 600 
+      },
+      "aceituna familiar": {
+       "Price": 1500 
+      },
+      "piña sencilla": {
+       "Price": 300 
+      },
+      "piña familiar": {
+       "Price": 750 
+      },
+      "jamon pierna sencilla": {
+       "Price": 700
+      },
+      "jamon pierna familiar": {
+       "Price": 1750
+      },
+      "camaron sencilla": {
+       "Price": 800
+      },
+      "camaron familiar": {
+       "Price": 2000
+      },
+      "atun sencilla": {
+       "Price": 790
+      },
+      "atun familiar": {
+        "Price": 1975        
+      }
+    }
+  },
+ "location": { 
+   "address": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+   "distric": "San Miguel del Padron",
+   "coordinates": "23.079656,-82.320449"  
+  }
+} 
+

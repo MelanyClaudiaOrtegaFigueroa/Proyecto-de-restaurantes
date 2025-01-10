@@ -1,0 +1,211 @@
+{
+  "name": "Los Caneyes",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "12:00-23:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": { 
+			"Tostones": {
+        "price": 800
+      },
+      "Papas fritas": {
+       "price": 900
+      },
+      "Fajitas de pollo empanadas": {
+       "price": 1000
+      },
+      "Fajitas de cerdo empanadas": {
+       "price": 1000
+      },
+      "Eperlan de pescado": {
+       "price": 1300
+      },
+      "Masas de Cangrejo con tostones": {
+       "price": 1000
+      },
+      "Milanesa de res con papas fritas": {
+       "price": 1500
+      },
+      "Hamburguesa de res c/ queso gratinado y papas fritas": {
+       "price": 1500
+      },
+      "Hamburguesas de Salmon c/ queso gratinado y tostones": {
+       "price": 1500
+      }
+		},
+		"Main_Course": {
+			"Filete de Pescado Grille": {
+       "price": 1500
+      },
+      "Filete de Pescado empanado": {
+       "price": 1500
+      },
+      "Filete de Pescado Monte toro": {
+       "price": 1800
+      },
+			"Filete de Pescado Caney": {
+       "price": 1800
+      },
+      "Filete de Pescado \"Los Caneyes\" (filete con camarones y queso gratinado)": {
+       "price": 2500
+      },
+      "Masas de Cangrejo en salsa de tomate": {
+       "price": 1300
+      },
+      "Salmon rociado en salsa de tomate": {
+       "price": 1500
+      },
+      "Camarones al Ajillo": {
+       "price": 2200
+      },
+      "Enchilado de Camarones": {
+       "price": 2200
+      },
+      "Camarones Rebozados": {
+       "price": 2200
+      },
+      "Lomo ahumado deshuesado": {
+       "price": 1800
+      },
+      "Bistec de Cerdo Frito": {
+       "price": 1300
+      },
+      "Escalope de cerdo": {
+       "price": 1500
+      },
+      "Bistec de cerdo con Jamon, chorizo y Queso": {
+       "price": 1800
+      },
+      "Bistec Uruguayo": {
+       "price": 1800
+      },
+      "Boucht de cerdo": {
+       "price": 1300
+      },
+      "Ropa Vieja": {
+       "price": 1700
+      },
+      "Vaca Frita": {
+       "price": 1700
+      },
+      "Suprema de pollo": {
+       "price": 1300
+      },
+      "Fajitas salteadas": {
+       "price": 1300
+      },
+      "Fajitas empanadas": {
+       "price": 1400
+      },
+      "Suprema de pollo empanada": {
+       "price": 1400
+      },
+      "Suprema de pollo con jamon y queso": {
+       "price": 1800
+      },
+      "Gordon Blue": {
+       "price": 2300
+      },
+      "Suprema de pollo rellena con camarones y queso": {
+       "price": 2300
+      },
+      "Suprema \"Los Caneyes\" (camarones y queso gratinado)": {
+       "price": 2300
+      },
+      "Spaguettis Napolitano": {
+       "price": 700
+      },
+      "Pizza Napolitana": {
+       "price": 900
+      },
+      "Pizza Napolitana con queso Gouda": {
+       "price": 1300
+      },
+      "Ensalada Mixta de Estacion": {
+       "price": 250
+      }
+		},
+		"Fittings": {
+			"Arroz Blanco": {
+       "price": 150
+      },
+      "Arroz Congri": {
+       "price": 200
+      },
+      "Yuca con mojo": {
+       "price": 200
+      },
+      "Pure de malanga (se procesa al pedido)": {
+       "price": 400
+      }
+    },
+    "Desserts": {
+      "Tarta con Ganache de Chocolate": {
+       "price": 450
+      },
+      "Pote de helado Gusto (1 litro)": {
+       "price": 1000
+      }
+    },
+		"Drink": {
+			"Refresco cola y limon": {
+       "price": 250
+      },
+      "Refresco de mate": {
+       "price": 270
+      },
+      "Malta": {
+       "price": 300
+      },
+      "Agua Mineral Embotellada": {
+       "price": 300
+      },
+      "Cervezas": {
+       "price": 330
+      },
+      "Cerveza Cristal": {
+       "price": 300
+      },
+      "Latas de jugo": {
+       "price": 300
+      },
+      "energizante": {
+       "price": 100
+      },
+      "Cafe": {
+       "price": 100
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calle Marti y Gutierrez, Reparto Electrico",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.047794,-82.33777"  
+  }
+}

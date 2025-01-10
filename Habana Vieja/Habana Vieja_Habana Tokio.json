@@ -1,0 +1,127 @@
+{
+ "name": "Habana Tokio",
+ "phone_number": "59172392 and 52723402",
+ "web_page": "null",
+ "type": "Restaurante Japones-Bar",
+ "type_cuisine": "tradicional japonesa",
+ "days_hours": {
+   "Monday": "11:00-23:00",
+   "Tuesday": "11:00-23:00",
+   "Wendsday": "11:00-23:00",
+   "Thursday": "11:00-23:00",
+   "Friday": "11:00-23:00",
+   "Saturday": "11:00-23:00",
+   "Sunday": "11:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "karaoke",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "10%",
+ "facebook": "Habana Tokio",
+ "instagrm": "@habanatokio",
+ "menu": {
+    "Main_Course": {
+      "Takoyaki": {
+       "Price": 1000
+      },
+      "Sushi (Makizushi) Atun": {
+       "Price": 1750
+      },
+      "Sushi (Makizushi) Salmon": {
+       "Price": 2100
+      },
+      "Sushi (Makizushi) Mixto": {
+       "Price": 2750
+      },
+      "Chashu": {
+       "Price": 1000
+      },
+      "Sashimi Salmon": {
+       "Price": 2900
+      },
+      "Sashimi Calamar": {
+       "Price": 2900
+      },
+      "Tataki Atun": {
+       "Price": 2300
+      },
+      "Yakitori": {
+       "Price": 2400
+      },
+      "Karaage": {
+       "Price": 2400
+      },
+      "Chicken Teriyaki": {
+       "Price": 2400
+      },
+      "Tempura Vegetales": {
+       "Price": 2300
+      },
+      "Tempura Calamar o Camaron": {
+       "Price": 3000
+      },
+      "Tempura Udon": {
+       "Price": 2000
+      },
+      "Ramen (Shoyu o Miso) Camaron": {
+       "Price": 2550
+      },
+      "Ramen (Shoyu o Miso) Camaron Grande": {
+       "Price": 3000
+      },
+      "Katsudon": {
+       "Price": 2850
+      },
+      "Tonkatsu": {
+       "Price": 2750
+      },
+      "Yakisoba": {
+       "Price": 2750
+      },
+      "Yakisoba Mariscos o Calamar": {
+       "Price": 3100
+      },
+      "Yakisoba Camaron": {
+       "Price": 3100
+      },
+      "Combo Habana-Tokio": {
+       "Price": 3900
+      },
+      "Combo Sashimi Atun": {
+       "Price": 4200
+      },
+      "Combo Sashimi Salmon": {
+       "Price": 4400
+      },
+      "Oyakodon": {
+       "Price": 2800
+      },
+      "Okonomiyaki": {
+       "Price": 800
+      }
+    },
+    "Desserts": {
+      "Kakigoori": {
+       "Price": 800
+      },
+      "Flan": {
+       "Price": 600
+      }
+    }               
+  },
+ "location": { 
+   "address": "Calle Obrapía entre Bernaza y Villegas",
+   "distric": "Habana Vieja",
+   "coordinates": "23.137320,-82.356453"  
+  }
+}

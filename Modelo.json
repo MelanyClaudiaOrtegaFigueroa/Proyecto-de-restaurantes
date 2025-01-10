@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "phone_number": "",
+  "web_page": "",
+  "type": "",
+  "type_cuisine": "",
+  "days_hours": {
+    "Monday": "",
+    "Tuesday": "",
+    "Wendsday": "",
+    "Thursday": "",
+    "Friday": "",
+    "Saturday": "",
+    "Sunday": ""
+  },
+  "reservation": "",
+  "delivery": "",
+  "payments_option": {
+    "cash": "", 
+    "credit_card": "",
+    "euros": "",
+    "us_dollars": "",
+    "national_currency": ""
+  }, 
+  "wi-fi_service": "",
+  "entertainment": "",
+  "facilities": "",
+  "daycare": "",
+  "discount_promotions": "",
+  "facebook": "",
+  "instagrm": "",
+  "menu": { },
+  "location": { 
+    "address": "",
+    "distric": "",
+    "coordinates": ""  
+  }
+} 
+

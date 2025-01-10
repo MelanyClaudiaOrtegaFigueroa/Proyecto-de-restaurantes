@@ -1,0 +1,150 @@
+{
+  "name": "La Pergola",
+  "phone_number": "78018117 and 78649507",
+  "web_page": "null",
+  "type": "Bar-cafeteria",
+  "type_cuisine": "criolla e internacional",
+  "days_hours": {
+    "Monday": "09:00-01:00",
+    "Tuesday": "09:00-01:00",
+    "Wendsday": "09:00-01:00",
+    "Thursday": "09:00-01:00",
+    "Friday": "09:00-01:00",
+    "Saturday": "09:00-01:00",
+    "Sunday": "09:00-01:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica tradicional en vivo and television",
+  "facilities": "aparcamiento",
+  "daycare": "null",
+  "discount_promotions": "5%",
+  "facebook": "Bar La Pergola",
+  "instagrm": "null",
+  "menu": { 
+    "Main_Course": {
+      "Camaron Enchilado": {
+       "price": 1740
+      }, 
+      "Camaron Grille": {
+       "price": 1900
+      }, 
+      "Langosta Entera": {
+       "price": 4500
+      }, 
+      "Brocheta de Camaron": {
+       "price": 1465
+      }, 
+      "Cerdo Estofado": {
+       "price": 875
+      }, 
+      "Bistec de Cerdo Grille": {
+       "price": 850
+      }, 
+      "Fajitas de Cerdo": {
+       "price": 990
+      }, 
+      "Res Estofada": {
+       "price": 875
+      }, 
+      "Lonjas de Res": {
+       "price": 945
+      }, 
+      "Espaguetis a la salsa": {
+       "price": 125
+      }, 
+      "Espaguetis Margarita": {
+       "price": 350
+      }
+    },
+    "Fittings": {
+      "Arroz Moro": {
+       "price": 135
+      }, 
+      "Vegetales Frescos": {
+       "price": 200
+      }, 
+      "Vianda Hervida": {
+       "price": 175
+      },
+      "Agrego de Atun": {
+       "price": 100
+      }
+    },
+    "Drink": {
+      "Ron Collins": {
+       "price": 300
+      }, 
+      "Mojito": {
+       "price": 300
+      }, 
+      "Daiquiri": {
+       "price": 300
+      }, 
+      "Licor Cubay de Menta": {
+       "price": 200
+      }, 
+      "Licor Curacao Azul": {
+       "price": 200
+      }, 
+      "Licor Cubay de Anis": {
+       "price": 200
+      }, 
+      "HC 3 Años": {
+       "price": 200
+      }, 
+      "HC Blanco": {
+       "price": 200
+      }, 
+      "HC Reserva": {
+       "price": 380
+      }, 
+      "HC Especial": {
+       "price": 250
+      }, 
+      "HC Ritual": {
+       "price": 250
+      }, 
+      "Limonada": {
+       "price": 100
+      }, 
+      "Parranda": {
+       "price": 180
+      }, 
+      "Jugo Nacional Lata": {
+       "price": 90
+      },
+      "Cerveza Importada": {
+       "price": 175
+      }, 
+      "Vaso Jugo Importada": {
+       "price": 80
+      }, 
+      "Malta Importada": {
+       "price": 135
+      },
+      "Cafe Express": {
+       "price": 125
+      }, 
+      "Cafe Americano": {
+       "price": 150
+      }, 
+      "Cafe Bombon": {
+       "price": 175
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Obisbo #509A entre Villegas y Bernanza",
+    "distric": "Habana Vieja",
+    "coordinates": "23.13858813237512, -82.35343188901001"  
+  }
+} 

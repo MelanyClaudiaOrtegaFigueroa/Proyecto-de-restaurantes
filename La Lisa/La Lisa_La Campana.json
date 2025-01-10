@@ -1,0 +1,195 @@
+{
+ "name": "La Campana",
+ "phone_number": "72711073 and 56984303",
+ "web_page": "https://lacampanacuba.com/",
+ "type": "restaurante",
+ "type_cuisine": "caribeña and española",
+ "days_hours": {
+   "Monday": "10:00-18:00",
+   "Tuesday": "10:00-18:00",
+   "Wendsday": "10:00-18:00",
+   "Thursday": "10:00-18:00",
+   "Friday": "10:00-18:00",
+   "Saturday": "10:00-18:00",
+   "Sunday": "10:00-18:00"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "show,evenos and piscina",
+ "facilities": "terraza exterior,bodas,cenas and cena de negocios",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "La Campana",
+ "instagrm": "@lacampanacuba",
+ "menu": { 
+    "Drink": {
+      "Cubata": {
+       "Price": 500
+      },
+      "Screwdriver": {
+       "Price": 550
+      },
+      "Sangria": {
+       "Price": 580
+      },
+      "Caipirisima": {
+        "Price": 550
+      },
+      "Caipiroshka": {
+        "Price": 550
+      },
+      "Gin Tonic": {
+       "Price": 800
+      },
+      "Vodka Tonic": {
+       "Price": 800
+      },
+      "Chelada": {
+       "Price": 120
+      },
+      "Santiago Añejo Superior": {
+       "Price": 450
+      },
+      "Havana Club Añejo 7 años": { 
+       "Price": 350
+      },
+      "Havana Club Añejo Reserva": {
+       "Price": 300
+      },
+      "Havana Club Añejo Especial": {
+        "Price": 250
+      },
+      "Tequila Buen Amigo Reposado": {
+       "Price": 300
+      },
+      "Tequila Olmeca Reposado": {
+       "Price": 650
+      },
+      "Clan Campbell(Venta solo por Botella)": {
+       "Price": 500
+      },
+      "Jack Daniel's(Venta solo por Botella)": {
+       "Price": 1200
+      },
+      "Chivas Regal 12 años(Venta solo por Botella)": {
+       "Price": 1300
+      },
+      "Johnnie Walker Red Label(Venta solo por Botella)": {
+       "Price": 750
+      },
+      "Johnnie Walker Black Label(Venta solo por Botella)": {
+       "Price": 950
+      },
+      "Johnnie Walker Green Label(Venta solo por Botella)": {
+       "Price": 25200
+      },
+      "Cerveza Victoria": {
+       "Price": 300
+      },
+      "Cerveza Unlager": {
+       "Price": 300
+      },
+      "Cerveza Zurd": {
+       "Price": 320
+      },
+      "Cerveza Cristal de Botella": {
+       "Price": 350
+      },
+      "Copa de Vino": {
+       "Price": 500
+      },
+      "Crema Baileys": {
+       "Price": 480
+      },
+      "6 Cervezas Victoria de Lata": {
+        "Price": 1800
+      },
+      "6 Cervezas Cristal de Botella": {
+        "Price": 1600
+      },
+      "Combo 1": {
+        "Price": 8300
+      },
+      "Combo 2": {
+       "Price": 13200
+      },
+      "Agua Natural": {
+       "Price": 200
+      },
+      "Refresco Gaseado": {
+       "Price": 300
+      },
+      "Red Bull": {
+        "Price": 360
+      },
+      "Jugo Natural de Cajita": {
+       "Price": 200
+      },
+      "Agua Tonica": {   
+       "Price": 200
+      }
+    },
+    "Starters": {
+      "Ensalada fria(ensalada fria a La Campana con pollo y alcaparra)": {
+       "Price": 1200
+      },
+      "Bolitas de queso(Con mayonesa de mango)": {
+        "Price": 1200
+      },
+      "Alitas de pollo(alitas con salsa BBQ)": {
+       "Price": 1300
+      },
+      "Croquetas(croquetas de embutido con salsa rosa)": {
+       "Price": 1520
+      },
+      "Seviche(seviche de pescado)": {
+       "Price": 1600
+      },
+      "Tabla mixta(combo de aperitivos mixtos)": {
+        "Price": 4800
+      },
+      "Brocheta de cerdo al carbon": {
+       "Price": 3200
+      },
+      "Dados de cerdo(envueltos con Bacon y con salsa de champiñon)": {
+       "Price": 4800
+      },
+      "Filetes de pescado(pescado grille con salsa de limon)": {
+       "Price": 4800
+      },
+      "Filete miñon (importado)-(Con reduccion de vino tinto y pure de papas)": {
+        "Price": 6000
+      },
+      "Langosta Varadero(enchilado con aceitunas aromatizada con ron)": {
+       "Price": 6000
+      },
+      "Pasta napolitana": {
+       "Price": 1600
+      }
+    },
+    "Desserts": {
+      "Helado": {
+       "Price": 650
+      },
+      "Tarta de zanahoria": {
+       "Price": 800
+      },
+      "Brownie": {
+       "Price": 900  
+      }
+    }
+ },
+ "location": { 
+   "address": "calle212 #2904 entre 29 y 31,La Coronela",
+   "distric": "La Lisa",
+   "coordinates": "23.070500,-82.459382"  
+  }
+}

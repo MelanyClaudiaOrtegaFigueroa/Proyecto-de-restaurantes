@@ -1,0 +1,184 @@
+{
+  "name": "Qbanas 60",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Restaurante-marcado",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "24h",
+    "Tuesday": "24h",
+    "Wendsday": "24h",
+    "Thursday": "24h",
+    "Friday": "24h",
+    "Saturday": "24h",
+    "Sunday": "24h"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "television",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@qbanas.60",
+  "menu": {
+    "Breafasts": {
+      "desayuno americano": {
+       "Price": 1500
+      }
+    },
+    "Additions": {
+      "cheddar": {
+       "Price": 300
+      },
+      "bacon": {
+       "Price": 500
+      },
+      "huevo": { 
+       "Price": 300
+      },
+      "queso gouda": {
+       "Price": 300
+      },
+      "cebolla": {
+       "Price": 250
+      }
+    },
+    "Main_Course": {
+      "pollo chiflado": {
+       "Price": 1200
+      },
+      "huevos rotos": {
+       "Price": 1500
+      },
+      "hamburguesa de cerdo": {
+       "Price": 1400
+      },
+      "sandwich de queso": {
+       "Price": 600
+      },
+      "hamburguesa americana": {
+       "Price": 1700
+      },
+      "cubana": {
+       "Price": 400
+      },
+      "tomate asado": {
+       "Price": 1500
+      }
+    },
+    "Starters": {
+      "bolita de queso": {
+       "Price": 800
+      },
+      "croqueta de pollo": {
+       "Price": 650
+      },
+      "frituras de malanga": {
+       "Price": 500
+      },
+      "papas fritas": {
+       "Price": 500
+      },
+      "papas fritas con bacon y queso": {
+       "Price": 950
+      }
+    },
+    "Drink": {
+      "cerveza importada": {
+       "Price": 220
+      },
+      "cerveza heineken": {
+       "Price": 400
+      },
+      "cafe expreso": {
+       "Price": 200
+      },
+      "cortadito": {
+       "Price": 300
+      },
+      "capuccino": {
+       "Price": 350
+      },
+      "cafe bombon": {
+       "Price": 500
+      },
+      "frapuccino": {
+       "Price": 1200
+      },
+      "cerveza nacional": {
+       "Price": 250
+      },
+      "cerveza tagu": {
+       "Price": 250
+      },
+      "margarita": {
+       "Price": 900
+      },
+      "aperol sprikz": {
+       "Price": 1500
+      },
+      "daiquiri de frutas": {
+       "Price": 1200
+      },
+      "mojito": {
+       "Price": 700
+      },
+      "gin tonic": {
+       "Price": 1500
+      },
+      "caipirinha": {
+       "Price": 800
+      },
+      "cubata": {
+       "Price": 700 
+      },
+      "daiquiri": {
+       "Price": 900
+      },
+      "old fashion": {
+       "Price": 1800 
+      },
+      "sangria": {
+       "Price": 1000
+      },
+      "servicio de michelada": {
+       "Price": 600
+      },
+      "servicio de chelada": {
+       "Price": 350
+      },
+      "pina colada": {
+       "Price": 1000   
+      },
+      "ron habana club 7 anos": {
+       "Price": 550
+      },
+      "ron habana club especial": {
+       "Price": 400                
+      },
+      "wisky johnny walker red label": { 
+       "Price": 600
+      },
+      "tequila omelca": {
+       "Price": 700
+      },
+      "tequila don julio reposado": {
+       "Price": 1500
+      }
+    }    
+  },
+  "location": { 
+    "address": "Calle 60 entre 15 y 17",
+    "distric": "Playa",
+    "coordinates": "23.107213,-82.425998"  
+  }
+}

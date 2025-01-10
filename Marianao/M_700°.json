@@ -1,0 +1,252 @@
+{
+ "name": "700°",
+ "phone_number": "54063906",
+ "web_page": "https://700gradoshabana.com/",
+ "type": "Restaurante",
+ "type_cuisine": "comida tradicional",
+ "days_hours": {
+   "Monday": "11:00-03:00",
+   "Tuesday": "11:00-03:00",
+   "Wendsday": "11:00-03:00",
+   "Thursday": "11:00-03:00",
+   "Friday": "11:00-03:00",
+   "Saturday": "11:00-03:00",
+   "Sunday": "11:00-03:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "transmicion de eventos deportivos",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "+10% de servicio",
+ "facebook": "Bar-Restaurant 700grados",
+ "instagrm": "@700grados",
+ "menu": { 
+    "Starters": {
+      "tostones rellenos jamon y queso": {
+       "Price": 890
+      },
+      "croquetas de la casa": {
+       "Price": 890
+      },
+      "finger de pollo empanizado": {
+       "Price": 890
+      },
+      "tacos de pollo": {
+       "Price": 990
+      },
+      "tacos de cerdo": {
+       "Price": 1100
+      },
+      "frituras de malanga": {
+       "Price": 790
+      },
+      "emtremes de aceituna": {
+       "Price": 1130
+      },
+      "papas fritas": {
+       "Price": 890
+      },
+      "eperlan de pescado": {
+       "Price": 1380
+      },
+      "coctel de langosta ": {
+       "Price": 1600
+      },
+      "coctel de camaron": {
+        "Price": 1600
+      }
+    },
+    "Main_Course": {
+      "Mar y tierra campesina":{
+       "Price": 3550
+      },
+      "filete john bill":{
+       "Price": 3550
+      },
+      "paella de marisco":{
+       "Price": 3550
+      },
+      "cazuela de marisco":{
+       "Price": 3600
+      },
+      "solomillo de cerdo":{
+        "Price": 2900
+      },
+      "masas de cerdo en salsa teriyaki":{
+       "Price": 2200
+      },
+      "fricase de cerdo":{
+       "Price": 2200
+      },
+      "ropa vieja de res":{
+       "Price": 2200
+      },
+      "espaguetis napolitano": {
+        "Price": 1100
+      },
+      "espaguetis con camaron": {
+        "Price": 2500
+      },
+      "espaguetis de langosta": {
+        "Price": 2500
+      },
+      "espaguetis marineros": {
+        "Price": 1100
+      },
+      "napolitana": {
+        "Price": 1200
+      },
+      "hawaiana": {
+       "Price": 1450
+      },
+      "lonjas de cerdo al carbon": {
+        "Price": 1850
+      },
+      "saltimboca de cerdo": {
+        "Price": 1750
+      },
+      "bistec de cerdo": {
+       "Price": 1650
+      },
+      "fajitas de cerdo salteadas": {
+       "Price": 1650
+      },
+      "pechuga de pollo": {
+        "Price": 1650
+      },
+      "bistec uruguayo": {
+       "Price": 1850
+      },
+      "filete de pescado": {
+        "Price": 1850
+      },
+      "camaron al gusto": {
+       "Price": 2800
+      },
+      "enchilado de langosta": {
+       "Price": 2800
+      }
+    },
+    "Fittings": {
+      "arroz moro": {
+       "Price": 100
+      },
+      "vianda frita": {
+       "Price": 100
+      },
+      "platano maduro frito": {
+        "Price": 100
+      },
+      "ensalada estacion": {
+       "Price": 100
+      },
+      "platano chatinos": {
+       "Price": 100
+      },
+      "arroz blanco": {
+       "Price": 100
+      }
+    },
+    "Drink": {
+      "agua natural": {
+        "Price": 290
+      },
+      "refresco internacional": {
+       "Price": 380
+      },
+      "malta internacional": {
+       "Price": 440
+      },
+      "energizante": {
+       "Price": 550
+      },
+      "red bull": {
+       "Price": 830
+      },
+      "cerveza internacional": {
+       "Price": 350
+      },
+      "dispensada cristal":{
+       "Price":350
+      },
+      "cerveza bucanero": {
+       "Price": 550
+      },
+      "cerveza cristal": {
+       "Price": 550
+      },
+      "cerveza corona": {
+       "Price": 750
+      },
+      "cerveza sol": {
+       "Price": 750
+      },
+      "cerveza heineken": {
+       "Price": 750
+      },
+      "servicio michelada": {
+       "Price": 490
+      },
+      "servicio de chelada": {
+        "Price": 300
+      },
+      "caipiroska": {
+       "Price": 380
+      },
+      "caipirisima": {
+       "Price": 380
+      },
+      "mojito": {
+       "Price": 450
+      },
+      "caipirina": {
+       "Price": 380
+      },
+      "sangria": {
+       "Price": 400
+      },
+      "vodca tonic": {
+       "Price": 480
+      },
+      "gin tonic": {
+       "Price": 550
+      },
+      "cuba libre": {
+        "Price": 480
+      },
+      "cubata especial": {
+       "Price": 490
+      },
+      "daiquiri": {
+       "Price": 380
+      },
+      "piña colada": {
+       "Price": 450
+      },
+      "vino tinto": {
+       "Price":  400
+      },
+      "limonada frescura": {
+       "Price": 250
+      },
+      "limonada natural": {
+       "Price": 250
+      }
+    }
+  },
+ "location": { 
+   "address": "avenida 41 esquina 86",
+   "distric": "Marianao",
+   "coordinates": "23.087904,-82.421793"  
+  }
+} 
+

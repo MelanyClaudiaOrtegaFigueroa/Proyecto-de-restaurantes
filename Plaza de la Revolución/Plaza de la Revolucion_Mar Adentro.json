@@ -1,0 +1,235 @@
+{
+ "name": "Mar Adentro",
+ "phone_number": "78332060 and 59518989",
+ "web_page": "https://bio.site/maradentro.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana e internacional",
+ "days_hours": {
+   "Monday": "09:00-00:30",
+   "Tuesday": "09:00-00:30",
+   "Wendsday": "09:00-00:30",
+   "Thursday": "09:00-00:30",
+   "Friday": "09:00-00:30",
+   "Saturday": "09:00-00:30",
+   "Sunday": "09:00-00:30"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "presentacion en vivo",
+ "facilities": "asientos aire libre",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "Maradentrohabana",
+ "instagrm": "@maradentrohabana",
+ "menu": {
+    "Breakfast": {
+      "inglés": {
+        "Price": 2000 
+      },
+      "continental": { 
+       "Price": 2000 
+      },
+      "americano": {
+       "Price": 2200 
+      }
+    },
+    "Starters": {
+      "cesta de pan": {
+       "Price": 750 
+      },
+      "focaccia al romero": { 
+       "Price": 700 
+      },
+      "focaccia de jamon serrano, tomate y rucula": { 
+       "Price": 2000 
+      },
+      "bruchettas": {
+       "Price": 1800 
+      },
+      "empanadillas de cangrejo o piña y queso" : {
+       "Price": 1200 
+      },
+      "tostones rellenos" : {
+       "Price": 1300 
+      },
+      "chispitas de malanga con camarones": {
+       "Price": 1100 
+      },
+      "croquetas de pescados o pollo": { 
+       "Price": 1200 
+      },
+      "casabe taino": { 
+       "Price": 990 
+      },
+      "tacos de vaca frita o pescado": {
+       "Price": 1900 
+      },
+      "ceviche maradentro": { 
+       "Price": 2100 
+      },
+      "rollitos de salmon": { 
+        "Price": 2200 
+      },
+      "carpaccio de tuna": {
+       "Price": 2300 
+      },
+      "sushi/nigiri": { 
+       "Price": 2000 
+      },
+      "dumplings de carne": {
+       "Price": 1800 
+      },
+      "carpaccio de res": {
+       "Price": 2800 
+      }
+    },
+    "Main_Course": {
+      "pollo horneado": { 
+       "Price": 2600 
+      },
+      "pechuga de pollo grillada": { 
+       "Price": 2800 
+      },
+      "chilindron de cordero al tinto": { 
+       "Price": 3500 
+      },
+      "masas de cerdo confitadas": { 
+       "Price": 3200 
+      },
+      "lonjas de cerdo asadas en cazuela": { 
+       "Price": 3400 
+      },
+      "costillas guajiras": {
+       "Price": 3800 
+      },
+      "ropa vieja frita": { 
+       "Price": 2700 
+      },
+      "bistec de palomilla": { 
+        "Price": 6800 
+      },
+      "chivito uruguayo": { 
+       "Price": 8200 
+      },
+      "camarones": { 
+       "Price": 3600 
+      },
+      "langosta": { 
+       "Price": 4300 
+      },
+      "pesca del dia": {
+       "Price": 3200 
+      },
+      "arroz blanco": { 
+       "Price": 700 
+      },
+      "arroz verde": { 
+       "Price": 700 
+      },
+      "frijoles dormidos": { 
+       "Price": 700 
+      },
+      "moros y cristianos": { 
+       "Price": 700 
+      },
+      "tostones": {
+       "Price": 700 
+      },
+      "maduros": { 
+       "Price": 700 
+      },
+      "pure de boniato": { 
+       "Price": 700 
+      }
+    },
+    "Drink": {
+      "limonada natural": { 
+       "Price": 950 
+      },
+      "limonada frescura": { 
+       "Price": 950 
+      },
+      "maradentro": { 
+       "Price": 950 
+      },
+      "clarete": { 
+       "Price": 950 
+      },
+      "vino blanco de verano": {
+       "Price": 950 
+      },
+      "licor marejada": { 
+       "Price": 950 
+      },
+      "rubi": { 
+       "Price": 950 
+      },
+      "limonada pepino y jengibre": { 
+       "Price": 950 
+      },
+      "agua nacional": {
+       "Price": 450 
+      },
+      "agua importada": { 
+       "Price": 500 
+      },
+      "agua tonica nacional": { 
+       "Price": 700 
+      },
+      "agua tonica importada": { 
+       "Price": 800 
+      },
+      "refresco nacional": { 
+       "Price": 450 
+      },
+      "refresco importado": { 
+       "Price": 600 
+      },
+      "malta": { 
+       "Price": 500 
+      },
+      "energizantes": {
+       "Price": 600 
+      },
+      "batido de frutas": { 
+       "Price": 750 
+      },
+      "batido de helado": {
+       "Price": 900 
+      }
+    },
+    "Desserts": {
+      "copa de helado": { 
+       "Price": 800 
+      },
+      "brownie y helado": { 
+       "Price": 1300 
+      },
+      "cheesecake de guayaba": { 
+       "Price": 1200 
+      },
+      "casquitos de guayaba con queso guajiro": { 
+       "Price": 900 
+      },
+      "flan licuado": { 
+       "Price": 1200 
+      },
+      "tarta de limon": { 
+       "Price": 1000 
+      }    
+    }
+  },
+ "location": { 
+   "address": "Calle C, #15, entre 1ª y 3ª",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.142433620136078,-82.39923307575508"  
+  }
+} 

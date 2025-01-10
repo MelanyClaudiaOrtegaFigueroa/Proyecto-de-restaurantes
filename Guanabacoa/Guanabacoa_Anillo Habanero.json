@@ -1,0 +1,185 @@
+{
+  "name": "Anillo Habanero",
+  "phone_number": "52042710",
+  "web_page": "https://anillohabanero.com/",
+  "type": "restaurante",
+  "type_cuisine": "criolla,italiana e internacional",
+  "days_hours": {
+    "Monday": "10:00-23:00",
+    "Tuesday": "10:00-23:00",
+    "Wendsday": "10:00-23:00",
+    "Thursday": "10:00-23:00",
+    "Friday": "10:00-23:00",
+    "Saturday": "10:00-23:00",
+    "Sunday": "10:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "Parque Infantil,Billar and Piscina",
+  "facilities": "asientos aire libre",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Anillo Habanero",
+  "instagrm": "@anillohabanerooficial",
+  "menu": {
+    "Starters": {
+      "Picadera Anillo": {
+       "price": 3000
+      },
+      "Tacos de vegetales": {
+       "price": 600
+      },
+      "Croquetas Habaneras": {
+       "price": 400
+      },
+      "Nachos, Salsa Rosa y Guacamole": {
+       "price": 400
+      },
+      "Brochetas": {
+       "price": 1300
+      },
+      "Frituras": {
+       "price": 300
+      },
+      "Tostones rellenos": {
+       "price": 550
+      },
+      "Tacos de Pollo": {
+       "price": 800
+      }
+    },
+    "Main_Course": {
+      "Lomo ahumado": {
+       "price": 2000
+      },
+      "Chuletas de cerdo": {
+       "price": 3000
+      },
+      "Ropa vieja": {
+       "price": 3000
+      },
+      "Vaca Frita": {
+       "price": 3000
+      },
+      "Camarones enchilados": {
+       "price": 3500
+      },
+      "Camarones al ajillo": {
+       "price": 3500
+      },
+      "Pizza Napolitana": {
+       "price": 800
+      },
+      "Spaguetis Napoles": {
+       "price": 850
+      }
+    },
+    "Desserts": {
+      "Tarta de Vainilla": {
+       "price": 750
+      },
+      "Cheesecake de Limon": {
+       "price": 750
+      },
+      "Coctel de Frutas Importadas": {
+       "price": 350
+      }
+    },
+    "Drink": {
+      "Michelada": {
+       "price": 600
+      },
+      "Margarita": {
+       "price": 800
+      },
+      "Caipiroska": {
+       "price": 800
+      },
+      "Caipirisima": {
+       "price": 800
+      },
+      "Vodka Tonic": {
+       "price": 900
+      },
+      "Screwdriver": {
+       "price": 800
+      },
+      "Gin Tonic": {
+       "price": 900
+      },
+      "Tinto de Verano": {
+       "price": 800
+      },
+      "Limonada Frappe": {
+       "price": 250
+      },
+      "Daiquiri": {
+       "price": 800
+      },
+      "Chelada": {
+       "price": 450
+      },
+      "Piña Colada": {
+        "price": 1000
+      },
+      "Sangria": {
+       "price": 1000
+      },
+      "Cerveza Nacional": {
+       "price": 350
+      },
+      "Cerveza importada": {
+       "price": 300
+      },
+      "Trago Jonny Walker": {
+       "price": 500
+      },
+      "William Lawsons": {
+       "price": 350
+      },
+      "Lyubov Vodka": {
+       "price": 200
+      },
+      "Energizantes Importados": {
+       "price": 500
+      },
+      "Maltas Importadas": {
+       "price": 320
+      },
+      "Jugos naturales": {
+       "price": 250
+      },
+      "Agua natural": {
+       "price": 200
+      },
+      "Kermato": {
+       "price": 700
+      },
+      "Refrescos Importados": {
+       "price": 300
+      },
+      "Expresso": {
+       "price": 100
+      },
+      "Cortadito": {
+       "price": 200
+      },
+      "Capuchino": {
+       "price": 250
+      }
+    }
+  },
+  "location": { 
+    "address": "Carretera Primer Anillo km2",
+    "distric": "Guanabacoa",
+    "coordinates": "23.097900,-82.265587"  
+  }
+}

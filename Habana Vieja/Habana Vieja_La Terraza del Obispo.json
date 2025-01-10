@@ -1,0 +1,105 @@
+{
+  "name": "La Terraza del Obispo",
+  "phone_number": "78014921 and 52706584",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "Criolla e internacional",
+  "days_hours": {
+    "Monday": "12:00-22:00",
+    "Tuesday": "12:00-22:00",
+    "Wendsday": "12:00-22:00",
+    "Thursday": "12:00-22:00",
+    "Friday": "12:00-22:00",
+    "Saturday": "12:00-22:00",
+    "Sunday": "12:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "Eperlan de Pescado": {
+       "price": 600
+      }, 
+      "Croquetas de la Casa": {
+       "price": 250
+      }
+    },
+    "Main_Course": {
+      "Langosta Grille": {
+       "price": 1200
+      }, 
+      "Langosta Enchilada": {
+       "price": 1200
+      },
+      "Camaron Grille": {
+       "price": 750
+      },
+      "Camaron Enchilado": {
+       "price": 750
+      },
+      "Rueda de Bonito Grille": {
+       "price": 700
+      },
+      "Filete de Pescado Empanado": {
+       "price": 800
+      },
+      "Masas de Pescado Enchiladas": {
+       "price": 800
+      },
+      "Chuletas de Cerdo": {
+       "price": 900
+      },
+      "Masas de Cerdo": {
+       "price": 900
+      },
+      "Bistec de Cerdo Grille": {
+       "price": 850
+      },
+      "Fajitas de Cerdo": {
+       "price": 850
+      },
+      "Lomo Ahumado Grille": {
+       "price": 850
+      },
+      "Arroz Blanco": {
+       "price": 90
+      },
+      "Arroz Moro": {
+       "price": 130
+      },
+      "Arroz con Vegetales": {
+       "price": 200
+      },
+      "Ensalada Mixta": {
+       "price": 150
+      }
+    },
+    "Fittings": {
+      "Vianda Frita": {
+       "price": 200
+      }, 
+      "Vianda Hervida con Mojo": {
+       "price": 100
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Obispo #415 Aguacate y Compostela",
+    "distric": "Habana Vieja",
+    "coordinates": "23.1388084,-82.352939"  
+  }
+} 

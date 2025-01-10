@@ -1,0 +1,84 @@
+{
+ "name": "El Batazo",
+ "phone_number": "58050408",
+ "web_page": "null",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "italiana",
+ "days_hours": {
+   "Monday": "11:00-22:00",
+   "Tuesday": "11:00-22:00",
+   "Wendsday": "11:00-22:00",
+   "Thursday": "11:00-22:00",
+   "Friday": "11:00-22:00",
+   "Saturday": "11:00-22:00",
+   "Sunday": "null"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "Si",
+   "us_dollars": "Si",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": { 
+   "Main_Course": {
+      "Pizza de queso": {
+        "Price":  750
+      },
+      "Pizza de chorizo": {
+        "Price": 930
+      },
+      "Pizza de jamon": {
+        "Price": 930
+      },
+      "Pizza de hawaiana": {
+        "Price": 1130
+      },
+      "Pizza de cebolla": {
+        "Price": 950
+      },
+      "Pizza de aji": {
+        "Price": 950
+      },
+      "Pizza de atun": {
+        "Price": 1250
+      },
+      "Pizza de aceitunas": {
+        "Price": 950
+      },
+      "Pizza de peperoni": {
+        "Price": 1050
+      },
+      "Espaguetis": {
+        "Price": 600
+      },
+      "Espaguetis de jamon": {
+        "Price": 780
+      },
+      "Hamburguesa strike":{
+        "Price": 550
+      },
+      "Hamburguesa doble play": {
+        "Price": 1000
+      },
+      "Hamburguesa homerun": {
+        "Price": 1300
+      }
+    }
+  },
+ "location": { 
+   "address": "Primelles 356 entre Santa Teresa y Daolz",
+   "distric": "Cerro",
+   "coordinates": "23.105603,-82.388972"  
+  }
+} 
+

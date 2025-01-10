@@ -1,0 +1,91 @@
+{
+ "name": "La Pelota",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante_bar",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "09:45-21:45",
+   "Tuesday": "09:45-21:45",
+   "Wendsday": "09:45-21:45",
+   "Thursday": "09:45-21:45",
+   "Friday": "09:45-21:45",
+   "Saturday": "09:45-21:45",
+   "Sunday": "09:45-21:45"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "La Cafeteria La Pelota",
+ "instagrm": "null",
+ "menu": { 
+    "Starters": {
+      "chicharron 58g": {
+       "Price": 120 
+      },
+      "croqueta 36g": { 
+       "Price": 15
+      },
+      "entrante de jamon": { 
+       "Price": 300 
+      }
+    },
+    "Main_Course": {
+      "bistec de cerdo": { 
+       "Price": 600 
+      },
+      "masa de cerdo frita": { 
+       "Price": 600 
+      },
+      "costilla de credo frito": { 
+       "Price": 600 
+      },
+      "pollo grille": {
+       "Price": 550 
+      },
+      "pollo asado": { 
+       "Price": 550 
+      },
+      "picadillo": { 
+       "Price": 250 
+      },
+      "arroz moro": { 
+       "Price": 100 
+      },
+      "vianda hervida": { 
+       "Price": 40 
+      }
+    },
+    "Drink": {
+      "energizante": { 
+       "Price": 200 
+      },
+      "refresco de cola": { 
+       "Price": 190 
+      },
+      "jugo de frutas": { 
+       "Price": 180 
+      },
+      "cerveza importada": { 
+       "Price": 200 
+      }
+    }
+  },
+ "location": { 
+   "address": "Esquina 23 y 12, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.127810894630507,-82.39959798623943"   
+  }
+} 
+

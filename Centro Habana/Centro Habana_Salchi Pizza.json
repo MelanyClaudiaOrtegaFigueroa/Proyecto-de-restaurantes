@@ -1,0 +1,95 @@
+{
+ "name": "Salchi Pizza",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "null",
+   "Tuesday": "01:00-23:00",
+   "Wendsday": "01:00-23:00",
+   "Thursday": "01:00-23:00",
+   "Friday": "01:00-23:00",
+   "Saturday": "01:00-23:00",
+   "Sunday": "null"
+  },
+ "reservation": "Si",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Salchipizza",
+ "instagrm": "@salchipizza",
+ "menu": {
+    "Starters": {
+      "tabla de panes artesanales": {
+       "Price": 1500
+      },
+      "terrina de pescado": {
+       "Price": 2700
+      },
+      "tinaja de carbon con crema Parmentier de verduras de estacion": {
+       "Price": 2500
+      },
+      "ensalada de cerdo guayaba y fruta bomba": {
+       "Price": 2000
+      }
+    },
+    "Main_Course": {
+      "carreton de boniato, rueda de quimbombo y y latigo de carnero ahumado": {
+       "Price": 3000
+      },
+      "volcan de maiz, lava de pescado ardiente y cenizas de pulpo": {
+        "Price": 3500
+      },
+      "masa de cerdo con verduras al gratin": {
+       "Price": 2300
+      },
+      "lasaña de carne a la boloñesa": {
+       "Price": 1600
+      },
+      "señorita de cerdo con verduras al gratin": {
+       "Price": 3000
+      }
+    },
+    "Desserts": {
+      "recuerdos de la infancia": {
+       "Price": 2000
+      }
+    },
+    "Drink": {
+      "agua": {
+       "Price": 200
+      },
+      "cafe": {      
+       "Price": 150 
+      }, 
+      "copa de vino": {
+       "Price": 750
+      },
+      "copa de champagne": {
+       "Price": 800
+      },
+      "cerveza nacional": {
+       "Price": 350
+      },
+      "cerveza importada": {
+       "Price": 400
+      }
+    }
+  },
+ "location": { 
+   "address": "calle Infanta entre Zanja Valle",
+   "distric": "Centro Habana",
+   "coordinates": "23.13412923367649,-82.37826298998031"  
+  }
+}

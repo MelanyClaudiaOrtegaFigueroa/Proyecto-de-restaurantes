@@ -1,0 +1,88 @@
+{
+ "name": "El Portico",
+ "phone_number": "null",
+ "web_page": "https://elportico.club.com/",
+ "type": "bar - restaurante",
+ "type_cuisine": "cubana",
+ "days_hours": {
+   "Monday": "null",
+   "Tuesday": "12:00-24:00",
+   "Wendsday": "12:00-24:00",
+   "Thursday": "12:00-24:00",
+   "Friday": "12:00-24:00",
+   "Saturday": "12:00-24:00",
+   "Sunday": "12:00-24:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Starters": {
+      "pollo chiflado": {
+       "Price": 400
+      },
+      "chuleton": {
+       "Price": 950
+      },
+      "papas fritas": {
+       "Price": 350
+      },
+      "croquetas": {
+       "Price": 350
+      },
+      "tostones": {
+       "Price": 250
+      }
+    },
+    "Drink": {
+      "cerveza dispensada (jarra)": {
+       "Price": 300
+      },
+      "cerveza dispensada (termo)": {
+       "Price": 2000
+      },
+      "cerveza parranda": {
+       "Price": 400
+      },
+      "cerveza hollandia": {
+       "Price": 200
+      },
+      "cerveza cacique": {
+       "Price": 240
+      },
+      "cerveza unlaguer": {
+       "Price": 200
+      },
+      "cerveza La Fria": {
+       "Price": 180
+      },
+      "cerveza almara": {
+       "Price": 180
+      },
+      "cerveza bucanero": {
+       "Price": 240
+      },
+      "cerveza cristal": {
+       "Price": 250
+      }
+    }
+  },
+ "location": { 
+   "address": "4JMQ+C97,Dragones",
+   "distric": "Centro Habana",
+    "coordinates": "23.13385424944992,-82.36160649338726" 
+  }
+} 

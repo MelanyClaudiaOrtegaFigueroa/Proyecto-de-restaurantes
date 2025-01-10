@@ -1,0 +1,90 @@
+{
+  "name": "Food Truck Pelegrin",
+  "phone_number": "null",
+  "web_page": "https://footruckpelegrin.com/",
+  "type": "cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "08:00-21:00",
+    "Tuesday": "08:00-21:00",
+    "Wendsday": "08:00-21:00",
+    "Thursday": "08:00-21:00",
+    "Friday": "08:00-21:00",
+    "Saturday": "08:00-21:00",
+    "Sunday": "08:00-21:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@food_truck_pelegrin",
+  "menu": { 
+    "Breafast": {
+      "waffles": {
+       "Price": 700
+      },
+      "huevos": {
+       "Price": 1250
+      }
+    },
+    "Starters": {
+      "sandwich de chorizo y queso": {
+       "Price": 850
+      },
+      "sandwich de jamón y queso": { 
+       "Price": 630
+      },
+      "sandwich de atun": {  
+       "Price": 850
+      },
+      "pan cubano": {
+       "Price": 1200
+      },
+      "pelegrin": {
+       "Price": 1300
+      },
+      "bolita de queso": {
+       "Price": 650
+      },
+      "croquetas de jamon": {
+       "Price": 650
+      }
+    },
+    "Drink": {
+      "cafe expreso": { 
+       "Price": 150
+      },
+      "cortadito": { 
+       "Price": 200
+      },
+      "capuccino": {
+       "Price": 350
+      },
+      "frapuccino": {
+       "Price": 450
+      },
+      "jugo mango": {
+       "Price": 230
+      },
+      "jugo pera": {
+       "Price": 230
+      }
+    } 
+  },
+  "location": { 
+    "address": "calle 76 entre 3ra y 5ta, Miramar",
+    "distric": "Playa",
+    "coordinates": "23.108507,-82.441722"  
+  }
+} 

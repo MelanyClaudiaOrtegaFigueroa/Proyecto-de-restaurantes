@@ -1,0 +1,97 @@
+{
+ "name": "Buenissimo",
+ "phone_number": "54047156",
+ "web_page": "https://buennissimo.com/",
+ "type": "restaurante-heladeria",
+ "type_cuisine": "internacional and dulce",
+ "days_hours": {
+   "Monday": "09:00-23:00",
+   "Tuesday": "09:00-23:00",
+   "Wendsday": "09:00-23:00",
+   "Thursday": "09:00-23:00",
+   "Friday": "09:00-23:00",
+   "Saturday": "09:00-24:00",
+   "Sunday": "08:00-16:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "Si",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@buenissimo.heladeria",
+ "menu": { 
+    "Desserts": {
+      "helado(1/2 kg)": {
+       "Price": 1800
+      },
+      "helado(1 kg)": {
+       "Price": 3600
+      },
+      "cono(1bola 95gr)": {
+       "Price": 280
+      },
+      "cono doble": {
+       "Price": 560
+      },
+      "cono maxi": {
+       "Price": 850
+      },
+      "copa buenissimo": {
+       "Price": 1500
+      },
+      "copa family": {
+       "Price": 2100
+      },
+      "copa firenze": {
+       "Price": 1200
+      },
+      "copa habana": {
+       "Price": 620
+      },
+      "copa roma": {
+       "Price": 950
+      },
+      "bola(copeta 1)": {
+       "Price": 300
+      },
+      "sabores(copeta 2)": {
+       "Price": 630
+      },
+      "sabores(copeta 3)": {
+       "Price": 920
+      },
+      "sabores(copeta 4)": {
+       "Price": 1200
+      },
+      "tulipan": {
+       "Price": 1300
+      },
+      "tulipan max": {
+       "Price": 1500
+      }
+    },
+    "Drink": {
+      "batido": {
+       "Price": 900
+      },
+      "batido maxi": {
+       "Price": 1000
+      }
+    }
+  },
+ "location": { 
+   "address": "Infanta,& Hospital",
+   "distric": "Centro Habana",
+   "coordinates": "23.143218246225477,-82.37817617833404"  
+  }
+} 

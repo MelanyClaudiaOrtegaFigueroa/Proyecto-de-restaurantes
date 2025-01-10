@@ -1,0 +1,103 @@
+{
+ "name": "El Faro",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "Bar",
+ "type_cuisine": "Criolla",
+ "days_hours": {
+   "Monday": "9:00-23:00",
+   "Tuesday": "9:00-23:00",
+   "Wendsday": "9:00-23:00",
+   "Thursday": "9:00-23:00",
+   "Friday": "9:00-23:00",
+   "Saturday": "9:00-23:00",
+   "Sunday": "9:00-23:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "Si",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "karaoke and conciertos",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "@_elfaro",
+ "menu": { 
+    "Starters": { 
+      "ENCHILADO DE CANGREJO": {
+       "Price": 750
+      },
+      "CROQUETA DE LA CASA": {
+       "Price": 180
+      },
+      "ENSALADA FRIA DE JAMON": {
+       "Price": 700
+      },
+      "ENSALADA FRIA DE ATUN": {
+       "Price": 1200
+      },
+      "Picadera Tropical": {
+       "Price": 850
+      },
+      "Plato a lo Cubano": {
+       "Price": 800
+      }
+    },
+    "Main_Course": {
+      "PAN CON HAMBURGUESA": {
+       "Price": 500
+      },
+      "HAMBURGUESA FARO": {
+       "Price": 900
+      },
+      "Costillas de Cerdo": {
+       "Price": 1200
+      },
+      "Ruedas de pescado Grille": {
+       "Price": 1400
+      },
+      "Pollo Grille": {
+       "Price": 950
+      },
+      "PIZZA EL FARO": {
+       "Price": 900
+      },
+      "PIZZA COMBINADA": {
+       "Price": 900
+      },
+      "PIZZA HAWAIANA": {
+       "Price": 900
+      },
+      "PIZZA DE CEBOLLA": {
+       "Price": 900
+      },
+      "PIZZA DE PIMIENTO": {
+       "Price": 900
+      },
+      "PIZZA GUSTAZO (Doble Queso)": {
+       "Price": 900
+      },
+      "PIZZA JAMON": {
+       "Price": 900
+      },
+      "Spaguetti Napolitano": {
+       "Price": 750
+      },
+      "Spaguetti de Jamon": {
+       "Price": 850
+      }
+    }  
+  },
+ "location": { 
+   "address": "Maximo Gomez y Pepe Antonio",
+   "distric": "Guanabacoa",
+   "coordinates": "23.124317,-82.304175"  
+  }
+}

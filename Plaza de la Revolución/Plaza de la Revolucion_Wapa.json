@@ -1,0 +1,250 @@
+{
+ "name": "Wapa",
+ "phone_number": "78314553",
+ "web_page": "https//wapa537.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana and caribeña",
+ "days_hours": {
+   "Monday": "11:30-23:00",
+   "Tuesday": "09:00-23:00",
+   "Wendsday": "09:00-23:00",
+   "Thursday": "09:00-23:00",
+   "Friday": "09:00-23:00",
+   "Saturday": "09:00-23:00",
+   "Sunday": "09:00-23:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "asientos aire libre,fiestas and sillas altas",
+ "daycare": "Si",
+ "discount_promotions": "15%personas mayores",
+ "facebook": "Wapa Cafeteria",
+ "instagrm": "@wapa537",
+ "menu": {
+        "Breakfast": {
+            "combo 1": { 
+             "Price": 1500 
+            },
+            "combo 2": { 
+             "Price": 1900 
+            },
+            "combo 3 infantil": { 
+             "Price": 1100 
+            },
+            "omelette jardinera": {
+             "Price": 1200 
+            },
+            "omelette tentación": { 
+             "Price": 1200 
+            },
+            "omelette del campo": { 
+             "Price": 1100 
+            },
+            "omelette": { 
+             "Price": 600 
+            }
+        },
+        "Starters": {
+            "croquetas de la abuela": {
+             "Price": 700 
+            },
+            "croquetas de jamon serrano": { 
+             "Price": 1000 
+            },
+            "bolitas de queso": { 
+             "Price": 1000 
+            },
+            "crema de queso": { 
+             "Price": 600 
+            },
+            "ceviche de pescado": { 
+             "Price": 2000 
+            },
+            "ceviche mixto tropical": { 
+             "Price": 2600 
+            },
+            "ceviche de camaron": { 
+             "Price": 2900 
+            },
+            "coctel de camaron": { 
+             "Price": 2000 
+            },
+            "baston de pollo": {
+             "Price": 1900 
+            },
+            "daditos de pescado": { 
+             "Price": 2100 
+            },
+            "fritura de malanga": { 
+             "Price": 500 
+            },
+            "brusquetas": { 
+             "Price": 900 
+            },
+            "tartaleta de jamon y queso": { 
+             "Price": 900 
+            },
+            "tartaleta de pollo": { 
+             "Price": 1350 
+            },
+            "tartaleta de atun": { 
+             "Price": 1100 
+            }
+        },
+        "Main_Course": {
+            "pizza": { 
+             "Price": 1200  
+            },
+            "lasaña": { 
+             "Price": 1300 
+            },
+            "canelon de jamon": { 
+             "Price": 1200 
+            },
+            "canelon boloñesa": { 
+             "Price": 1750 
+            }
+        },
+        "Drink": {
+            "agua natural": { 
+             "Price": 300 
+            },
+            "refresco importado": { 
+             "Price": 400 
+            },
+            "malta": { 
+             "Price": 500 
+            },
+            "malteada": { 
+             "Price": 800 
+            },
+            "cerveza importada": { 
+             "Price": 450 
+            },
+            "cerveza nacional": { 
+             "Price": 550 
+            },
+            "michelada": { 
+             "Price": 600 
+            },
+            "sangria": { 
+             "Price": 1000 
+            },
+            "copa de vino": { 
+             "Price": 800 
+            },
+            "cuba libre": {
+             "Price": 800 
+            },
+            "cubata": {
+             "Price": 850 
+            },
+            "mojito": {
+             "Price": 800 
+            },
+            "caipiriña": { 
+             "Price": 500 
+            },
+            "caipiroska": { 
+             "Price": 500 
+            },
+            "caipirisima": { 
+             "Price": 550 
+            },
+            "ron collins": {
+             "Price": 850 
+            },
+            "piña colada": { 
+             "Price": 850 
+            },
+            "barbie": { 
+             "Price": 700 
+            },
+            "canchánchara": { 
+             "Price": 550 
+            },
+            "daiquiri": { 
+             "Price": 650 
+            },
+            "expresso": { 
+             "Price": 220 
+            },
+            "americano": { 
+             "Price": 360 
+            },
+            "cortadito": { 
+             "Price": 250 
+            },
+            "cappuccino": { 
+             "Price": 550 
+            },
+            "cappuccino wapa": { 
+             "Price": 600 
+            },
+            "bombon": { 
+             "Price": 600 
+            },
+            "mocaccino": { 
+             "Price": 550 
+            },
+            "frappuccino": { 
+             "Price": 950 
+            },
+            "Q locura": { 
+             "Price": 850 
+            },
+            "cafe con leche": { 
+             "Price": 550 
+            },
+            "chocolate caliente": { 
+             "Price": 350 
+            },
+            "te": { 
+             "Price": 100 
+            }
+        },
+        "Desserts": {
+            "wapeton": { 
+             "Price": 2000 
+            },
+            "wapeton dinamita": { 
+             "Price": 2000 
+            },
+            "wapeton volcan": { 
+             "Price": 2000 
+            },
+            "wapito": { 
+             "Price": 1200 
+            },
+            "batidos de frutas naturales": {
+             "Price": 700 
+            },
+            "batidos de helados": { 
+             "Price": 1200 
+            },
+            "copa de helado": {
+             "Price": 1000 
+            },
+            "tartaleta": { 
+             "Price": 1000 
+            },
+            "bola de helado": { 
+             "Price": 300 
+            }
+        }
+    },
+ "location": { 
+   "address": "Calle 4 entre 15 y 17, Vedado",
+   "distric": "Plaza de la Revolucion",
+   "coordinates": "23.133054069126786, -82.39869353392423"  
+  }
+} 

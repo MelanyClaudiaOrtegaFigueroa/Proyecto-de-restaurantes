@@ -1,0 +1,130 @@
+{
+  "name": "Magic Cream & Burguer",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "11:00-22:00",
+    "Tuesday": "11:00-22:00",
+    "Wendsday": "11:00-22:00",
+    "Thursday": "11:00-22:00",
+    "Friday": "11:00-22:00",
+    "Saturday": "11:00-22:00",
+    "Sunday": "11:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": { 
+      "Croquetas Magic": {
+       "price": 400
+      },
+      "Fritura de Malanga": {
+       "price": 400
+      },
+      "Tacos de Pollo": {
+       "price": 700
+      },
+      "Tacos de Cerdo": {
+       "price": 800
+      },
+      "Fajas de Pollo": {
+       "price": 600
+      },
+      "Bolitas de Queso": {
+       "price": 500
+      },
+      "Papas Fritas": {
+       "price": 500
+      }
+    },
+    "Main_Course": {
+      "Hamburguesas de Cerdo": {
+       "price": 430
+      },
+      "Hamburguesas de Pollo": {
+       "price": 430
+      },
+      "Hamburguesas Doble": {
+       "price": 1000
+      },
+      "Hamburguesas Super Magic": {
+       "price": 1500
+      }
+    },
+    "Fittings": {
+      "jamon": { 
+       "price": 100
+      },
+      "queso": { 
+       "price":  100
+      },
+      "vegetales": { 
+        "price":  100
+      },
+      "papas": { 
+       "price":  500
+      }
+    }, 
+    "Desserts": { 
+      "Bola de helado": {
+       "price": 70
+      },
+      "Jimaguas": {
+       "price": 195
+      },
+      "Ensalada de helado": {
+       "price": 350
+      },
+      "Batido de helado": {
+       "price": 395
+      },
+      "Tres gracias": {
+       "price": 245
+      }
+    },
+    "Drink": {
+      "Cervezas Importadas": {
+       "price": 220
+      },
+      "Cervezaas Nacionales": {
+       "price": 300
+      },
+      "Malta": {
+       "price": 300
+      },
+      "Pepsi": {
+       "price": 300
+      },
+      "Refresco de Lata": {
+       "price": 210
+      },
+      "Limonada Frappe": {
+       "price": 250
+      },
+      "Michelada": {
+       "price": 250
+      }
+    }
+  },
+  "location": { 
+    "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao",
+    "distric": "Arroyo Naranjo",
+    "coordinates": "23.079252,-82.362104"  
+  }
+}

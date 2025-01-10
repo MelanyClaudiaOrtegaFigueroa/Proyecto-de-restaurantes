@@ -1,0 +1,216 @@
+{
+  "name": "5ta_Billar",
+  "phone_number": "52943290",
+  "web_page": "https://5tabillar-cu.my.canva.site/",
+  "type": "bar",
+  "type_cuisine": "Internacional and bebidas",
+  "days_hours": {
+    "Monday": "13:00-01:00",
+    "Tuesday": "13:00-01:00",
+    "Wendsday": "13:00-01:00",
+    "Thursday": "13:00-01:00",
+    "Friday": "13:00-01:00",
+    "Saturday": "13:00-01:00",
+    "Sunday": "13:00-01:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "Billar,musica,television and show",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "5ta_Billar",
+  "instagrm": "@5tabillar",
+  "menu": { 
+    "Starters": {
+      "CACAHUATES PICANTE": {
+       "price": 110
+      },
+      "TOSTONES RELLENOS J&G": {
+       "price": 750
+      },
+      "TOSTONES RELLENOS ATUN": {
+       "price": 980
+      },
+      "TOSTONES RELLENOS CARNE": {
+       "price": 900
+      },
+      "CROQUETAS BOLA 9": {
+       "price": 650
+      },
+      "BOLITA DDE QUESO": {
+       "price": 850
+      },
+      "FAJITAS DE POLLO": {
+        "price": 920
+      },
+      "EPERLAN": {
+       "price": 950
+      },
+      "ENTREMES": {
+       "price": 960
+      },
+      "SURTIDO 5TABILLA": {
+       "price": 1650
+      },
+      "ROSITAS DE MAIZ": {
+       "price": 600
+      }
+    },
+    "Main_Course": {
+      "TACOS DE CERDO": {
+       "price": 950
+      },
+      "POLLO A LA GORDON BLUE": {
+       "price": 1800
+      },
+      "URUGUAYO DE CERDO": {
+       "price": 2100
+      },
+      "BISTEC DE POLLO ENCEBOLLADO": {
+       "price": 1600
+      },
+      "BISTEC DE CERDO ENCEBOLLADO": {
+       "price": 1900
+      },
+      "BROCHETAS DE CERDO AL CARBON": {
+       "price": 1800
+      },
+      "BABY CHICKEN": {
+       "price": 960
+      },
+      "KINGS CHICKEN": {
+       "price": 1350
+      },
+      "CHORIZADA AL CARBON": {
+       "price": 2000
+      },
+      "LA PARRILLADA": {
+       "price": 4950
+      },
+      "Focaccia": {
+       "price": 700
+      },
+      "Pizza napolitana": {
+       "price": 1100
+      },
+      "Pizza mixta": {
+       "price": 1600
+      },
+      "Pizza cuatro estaciones": {
+       "price": 1900
+      }
+    },
+    "Drinks": {
+      "Cervezas Nacionales": {
+       "price": 400
+      },
+      "Cerveza corona": {
+       "price": 600
+      },
+      "Cervezaz importadas": {
+       "price": 320
+      },
+      "margarita": {
+       "price": 400
+      },
+      "margarita blue": {
+       "price": 400
+      },
+      "medusa": {
+       "price": 650
+      },
+      "tequila sunrise": {
+       "price": 780
+      },
+      "servicio chelada": {
+       "price": 450
+      },
+      "servicio michelada": {
+       "price": 350
+      },
+      "jagger bomb": {
+       "price": 1200
+      },
+      "mojito corona": {
+        "price": 900
+      },
+      "sangria": {
+       "price": 760
+      },
+      "alexander": {
+      "price": 1000
+      },
+      "eclipse": {
+       "price": 1020
+      },
+      "mai tai": {
+       "price": 550
+      },
+      "orgasmo": {
+       "price": 1080
+      },
+      "aperol sprits": {
+       "price": 1650
+      },
+      "mimosa": {
+       "price": 1500
+      },
+      "Malteada": {
+       "price": 250
+      },
+      "Refresco": {
+       "price": 340
+      },
+      "Malta": {
+       "price": 400
+      },
+      "Red bull": {
+       "price": 750
+      },
+      "Agua natural": {
+       "price": 220
+      },
+      "Kermato": {
+       "price": 680
+      },
+      "Tigon": {
+       "price": 400
+      },
+      "Jugo": {
+       "price": 230
+      },
+      "Limonada frappe": {
+       "price": 300
+      },
+      "Limonada frappe granadina": {
+       "price": 380
+      },
+      "Limonada frappe menta": {
+       "price": 380
+      },
+      "Limonada frappe naranja": {
+       "price": 470
+      },
+      "limonada frappe piña": {
+       "price": 350
+      },
+      "Limonada frappe tropical blue": {
+       "price": 350
+      }
+    }
+  },
+  "location": { 
+    "address": "Avenida Rotaria entre Enlace y calle A",
+    "distric": "Regla",
+    "coordinates": "23.123403,-82.323160"  
+  }
+} 

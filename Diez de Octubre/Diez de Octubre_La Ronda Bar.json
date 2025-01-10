@@ -1,0 +1,122 @@
+{
+  "name": "La Ronda",
+  "phone_number": "53300641",
+  "web_page": "null",
+  "type": "bar",
+  "type_cuisine": "bebidas",
+  "days_hours": {
+    "Monday": "12:00-17:00",
+    "Tuesday": "12:00-17:00",
+    "Wendsday": "12:00-17:00",
+    "Thursday": "12:00-17:00",
+    "Friday": "12:00-17:00",
+    "Saturday": "12:00-17:00",
+    "Sunday": "12:00-17:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Drink": {
+      "ron habana club 3 anos": {
+       "Price": 220
+      },
+      "ron habana club anejo blanco": {
+       "Price": 160
+      },
+      "ron habana club especial": {
+       "Price": 190
+      },
+      "ron habana club reserva": {
+       "Price": 280
+      },
+      "ron habana club 7 anos": {
+       "Price": 420
+      },
+      "tequila": { 
+       "Price": 210
+      },
+      "ginebra periganis": {
+       "Price": 170
+      },
+      "vodka": {
+       "Price": 520
+      },
+      "vino": {
+       "Price": 320
+      },
+      "ballantines": {
+       "Price": 620
+      },
+      "j.w red label": {
+       "Price": 730
+      },
+      "chivas 12": {
+       "Price": 540
+      },
+      "black lavel": {
+       "Price": 730
+      },
+      "wisky": {
+       "Price": 650
+      },
+      "black y white": {
+       "Price": 500
+      },
+      "mojito": {
+       "Price": 460
+      },
+      "daiquiri": {
+       "Price": 480
+      },
+      "caipiroska": { 
+       "Price": 350
+      },
+      "gin tonic": {
+       "Price": 300
+      },
+      "pina colada": {
+       "Price": 460
+      },
+      "caipirissima": {
+       "Price": 460
+      }, 
+      "margarita": {
+       "Price": 740
+      }, 
+      "tinto": {
+       "Price": 530
+      }, 
+      "michelada": {
+       "Price": 250
+      }, 
+      "chelada": {
+       "Price": 200
+      }, 
+      "limonada": {
+       "Price": 240 
+      },
+      "limonada frape": {
+       "Price": 270 
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Guasabacoa esquina calzada de Luyano",
+    "distric": "Diez de Octubre",
+    "coordinates": "23.1057291,-82.3581364"  
+  }
+}

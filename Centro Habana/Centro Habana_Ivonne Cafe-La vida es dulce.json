@@ -1,0 +1,137 @@
+{
+ "name": "Ivonne Cafe-La vida es dulce",
+ "phone_number": "null",
+ "web_page": "null",
+ "type": "Bar-Restaurante",
+ "type_cuisine": "internacional and dulce",
+ "days_hours": {
+   "Monday": "09:00-22:00",
+   "Tuesday": "09:00-22:00",
+   "Wendsday": "09:00-22:00",
+   "Thursday": "09:00-22:00",
+   "Friday": "09:00-22:00",
+   "Saturday": "09:00-22:00",
+   "Sunday": "09:00-22:00"
+  },
+ "reservation": "null",
+ "delivery": "null",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "null",
+ "instagrm": "null",
+ "menu": {
+    "Main_Course": {
+      "Pizza  queso blanco": {
+       "Price": 350
+      },
+      "Pizza Grande queso blanco": {
+       "Price": 500
+      },
+      "Pizza Pequeña Gouda": {
+       "Price": 600
+      },
+      "Pizza Grande Gouda": {
+       "Price": 850
+      },
+      "Espagueti Blanco": {
+       "Price": 700
+      },
+      "Espagueti Gouda": {
+       "Price": 850
+      }
+    },
+    "Additions": {
+      "Cebolla": {
+       "Price": 200
+      },
+      "Jamon": {
+       "Price": 200
+      },
+      "Aceituna": {
+       "Price": 200
+      }
+    },
+    "Desserts": {
+      "Tartaleta": {
+       "Price": 350
+      },
+      "Donut": {
+       "Price": 170
+      },
+      "Coffee cake": {
+       "Price": 160
+      },
+      "Empanada": {
+       "Price": 250
+      },
+      "Cangrejitos": {
+       "Price": 250
+      },
+      "Rollitos": {
+       "Price": 200
+      },
+      "Pasteles": {
+       "Price": 100
+      },
+      "Cakes": {
+       "Price": 4500
+      }
+    },
+    "Drink": {
+      "Expreso": {
+       "Price": 100
+      },
+      "Cortado": {
+       "Price": 150
+      },
+      "Con leche": {
+       "Price": 100
+      },
+      "Americano": {
+       "Price": 100
+      },
+      "Capuchino": {
+       "Price": 300
+      },
+      "Bombon": {
+       "Price": 300
+      },
+      "Frapuccino": {
+       "Price": 750
+      },
+      "Aguas": {
+       "Price": 250
+      },
+      "Refrescos": {
+       "Price": 250
+      }, 
+      "Cervezas": {
+       "Price": 300
+      },
+      "Limonada Frappe": {
+       "Price": 850
+      },
+      "Batido Helado": {
+       "Price": 850
+      },
+      "Batido Fruta": {
+       "Price": 550
+      }
+    }
+  },
+ "location": { 
+   "address": "San Lazaro entre Espada y Hospital",
+   "distric": "Centro Habana",
+   "coordinates": "23.138761,-82.376582"  
+  }
+} 

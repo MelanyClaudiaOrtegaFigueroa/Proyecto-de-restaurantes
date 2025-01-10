@@ -1,0 +1,208 @@
+{
+ "name": "Ranchon Don Martin",
+ "phone_number": "72677049 and 63717638",
+ "web_page": "https://wa.me/message/OKRE46PRDXTFC1.com/",
+ "type": "restaurante",
+ "type_cuisine": "cubana,italiana and caribeña",
+ "days_hours": {
+   "Monday": "11:30-23:00",
+   "Tuesday": "11:30-23:00",
+   "Wendsday": "11:30-23:00",
+   "Thursday": "11:30-23:00",
+   "Friday": "11:30-23:00",
+   "Saturday": "11:30-23:00",
+   "Sunday": "11:30-23:00"
+  },
+ "reservation": "null",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "null",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "null",
+ "facilities": "null",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Ranchon Don Martin",
+ "instagrm": "",
+ "menu": { 
+    "Starters": {  
+      "Ensalada Fria": { 
+       "Price" : 400
+      },
+      "Coctel de Camarones": { 
+       "Price" : 950
+      },
+      "Fritura de Malanga": { 
+       "Price" : 470
+      },
+      "Toston con mojo": { 
+       "Price" : 470
+      },
+      "Chicharritas": { 
+       "Price" : 380
+      },
+      "Papa frita": { 
+       "Price" : 370
+      },
+      "Toston Relleno": { 
+        "Price" : 470
+      }
+    },
+    "Main_Course": { 
+      "Masa frita de Cerdo": { 
+       "Price" : 2030 
+      },
+      "Fricase de cerdo": { 
+       "Price" : 2030
+      },
+      "Bistec de Cerdo Grille": { 
+       "Price" : 1400
+      },
+      "Bistec de Cerdo Uruguayo": { 
+       "Price" : 2050
+      },
+      "Bistec de Cerdo Empanado": { 
+       "Price" : 1600
+      },
+      "Bistec de Cerdo al graten": { 
+       "Price" : 1600
+      },
+      "Bistec de Cerdo a la reina": { 
+       "Price" : 1700
+      },
+      "Vaca Frita": { 
+       "Price" : 2820
+      },
+      "Ropa Vieja": { 
+       "Price" : 2850
+      },
+      "Pechuga": { 
+       "Price" : 1440
+      },
+      "Pechuga grille": { 
+       "Price" : 1530
+      },
+      "Pechuga empanada": { 
+       "Price" : 1520
+      },
+      "Pechuga al graten": { 
+       "Price" : 1580
+      },
+      "Pechuga a la reina": { 
+       "Price" : 1780
+      },
+      "Gordon Blue": { 
+       "Price" : 1600
+      },
+      "Filete de Pescado Grille": { 
+       "Price" : 1800
+      },
+      "Filete de Pescado Empanado": { 
+       "Price" : 2000
+      },
+      "Filete de pescado al graten": { 
+       "Price" : 2450
+      },
+      "Canciller": { 
+       "Price" : 2000
+      },
+      "Filete Don Martin": { 
+        "Price" : 2000
+      },
+      "Camaron Enchilado": { 
+       "Price" : 2100
+      },
+      "Camaron al ajillo": { 
+        "Price" : 3600
+      },
+      "Camaron Rebosado": { 
+       "Price" : 3650
+      },
+      "Langosta al ajillo": { 
+       "Price" : 1810
+      },
+      "Langosta Enchilado": { 
+        "Price" : 900
+      },
+      "Chilindron de Cordero": { 
+       "Price" : 1280
+      },
+      "Pan con Hamburguesa": { 
+       "Price" : 840    
+      },
+      "Pan con Hamburguesa, Jamon y Queso": { 
+       "Price" : 860
+      },
+      "Espaguetis": { 
+       "Price" : 840
+      },
+      "Pizza": { 
+       "Price" : 900
+      }  
+    },
+    "Fittings": {  
+      "Jamon": { 
+       "Price" : 250
+      },
+     "Queso Gouda": { 
+       "Price" : 300
+      },
+      "agrego de camarones": { 
+       "Price" : 800
+      },
+      "pina": { 
+       "Price" : 120  
+      },
+      "Arroz Moro": { 
+       "Price" : 180
+      },
+      "Arroz Blanco": { 
+        "Prices" : 100
+      }
+    },  
+    "Desserts": {  
+      "Flan": { 
+        "Price" : 350
+      }
+    },
+    "Drink": {  
+      "Refresco de Lata": { 
+       "Price" : 220
+      },
+      "Malta Caribia": { 
+       "Price" : 230
+      },
+      "Refresco Manzanita": { 
+       "Price" : 290
+      },
+      "Seven-up": { 
+       "Price" : 240
+      },
+      "Pinita": { 
+       "Price" : 225
+      },
+      "Agua": { 
+       "Price" : 180
+      }, 
+      "Energizante": { 
+       "Price" : 245
+      },
+      "Jugo de Caja": { 
+       "Price" : 175
+      },
+      "Batido de Helado": { 
+       "Price" : 450
+      }
+    }
+  },
+ "location": { 
+   "address": "calle198 #3733 entre 37 y 45,Versalles",
+   "distric": "La Lisa",
+   "coordinates": "23.067422,-82.451248"  
+  }
+} 

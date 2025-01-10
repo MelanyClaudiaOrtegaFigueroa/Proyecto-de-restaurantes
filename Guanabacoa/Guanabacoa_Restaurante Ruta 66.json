@@ -1,0 +1,156 @@
+{
+  "name": "Restaurante Ruta 66",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla and rapida",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "12:00-21:30",
+    "Wendsday": "12:00-21:30",
+    "Thursday": "12:00-21:30",
+    "Friday": "12:00-21:30",
+    "Saturday": "12:00-21:30",
+    "Sunday": "12:00-21:30"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters" : {
+      "Tostones rellenos de jamon y queso" : { 
+       "price": 1090 
+      },
+      "Tostones rellenos de bolognesa" : {
+       "price": 950 
+      },
+      "Tostones rellenos de vegetales salteados y queso" : {
+       "price": 910 
+      },
+      "Garbanzos fritos" : {
+       "price": 1900 
+      },
+      "Ceviche de pescado" : {
+       "price": 1500 
+      },
+      "Frituras de malanga" : {
+       "price": 595 
+      },
+      "Croquetas" : {
+       "price": 490 
+      },
+      "Brosquetas" : {
+       "price": 420 
+      },
+      "Tamal" : {
+       "price": 400 
+      }
+    },
+    "Main_Course" : {
+      "Lomo ahumado (con gratinado de queso)" : {
+       "price": 1850 
+      },
+      "Lomo ahumado (con salsa de piña)" : {
+       "price": 2000 
+      },
+      "Enchilado de camarones" : {
+       "price": 3300 
+      },
+      "Camarones al ajillo" : {
+       "price": 2950 
+      },
+      "Camarones en salsa de frutas" : {
+       "price": 2800 
+      },
+      "Enchilado de pulpo" : {
+       "price": 2690 
+      },
+      "Pulpo al ajillo" : {
+       "price": 2470 
+      },
+      "Filete de pescado Route 66 (a la plancha gratinado con queso y camaron)" : {
+       "price": 3550 
+      },
+      "Monte toro a la francesa (a la plancha gratinado con queso)" : {
+       "price": 2400 
+      },
+      "Filete de pescado en salsa de frutas" : {
+       "price": 2250 
+      },
+      "Filete de pescado a la plancha" : {
+        "price": 1800 
+      },
+      "Arroz frito especial Route 66" : {
+        "price": 2065 
+      },
+      "Arroz frito " : {
+       "price": 1280 
+      },
+      "Arroz blanco" : {
+       "price": 200 
+      },
+      "Pure de malanga" : {
+       "price": 335 
+      },
+      "Ensalada mixta de estacion" : {
+       "price": 425 
+      },
+      "Super Route 66 (Cerdo)" : {
+       "price": 1965 
+      },
+      "Castrol (Cerdo)" : {
+       "price": 1255 
+      },
+      "Texaco (Cerdo)" : {
+       "price": 940 
+      },
+      "Pizza de queso gouda" : {
+        "price": 850 
+      },
+      "Lasaña queso gouda" : {
+       "price": 1420 
+      },
+      "Espaguetis de queso gouda" : {
+       "price": 1100 
+      }
+    },
+    "Drink" : {
+      "Cerveza importada" : {
+       "price": 210 
+      },
+      "Vino tinto" : {
+       "price": 2200 
+      },
+      "Refrescos importados" : {
+       "price": 240 
+      },
+      "Malta importada" : {
+        "price": 250 
+      },
+      "Agua Mineral" : {
+       "price": 190 
+      },
+      "Jugos importados" : {
+       "price": 210 
+      }
+    }
+  },
+  "location": { 
+    "address": "4MMV+VFW,9",
+    "distric": "Guanabacoa",
+    "coordinates": "23.134760,-82.306310"  
+  }
+}

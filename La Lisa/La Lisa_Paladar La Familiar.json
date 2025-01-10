@@ -1,0 +1,187 @@
+{
+ "name": "Paladar La Familiar",
+ "phone_number": "72677901 and 72617632",
+ "web_page": "null",
+ "type": "restaurante-cafeteria",
+ "type_cuisine": "mariscos and cubana",
+ "days_hours": {
+   "Monday": "null",
+   "Tuesday": "12:00-20:00",
+   "Wendsday": "12:00-20:00",
+   "Thursday": "12:00-20:00",
+   "Friday": "12:00-20:00",
+   "Saturday": "12:00-20:00",
+   "Sunday": "12:00-20:00"
+  },
+ "reservation": "Si",
+ "delivery": "Si",
+ "payments_option": {
+   "cash": "Si", 
+   "credit_card": "null",
+   "euros": "Si",
+   "us_dollars": "null",
+   "national_currency": "Si"
+  }, 
+ "wi-fi_service": "null",
+ "entertainment": "musica",
+ "facilities": "terraza exterior",
+ "daycare": "null",
+ "discount_promotions": "null",
+ "facebook": "Paladar La Familiar",
+ "instagrm": "null",
+ "menu": { 
+   "Drink": {
+      "AGUA CIEGO MONTERO": {
+       "Price": 17
+      },
+      "BATIDO DE FRUTAS": {
+       "Price": 30
+      },
+      "BATIDO DE HELADO": {
+       "Price": 36
+      },
+      "JUGO DE NARANJA": {
+       "Price": 25
+      },
+      "JUGO DE MANGO": { 
+       "Price": 25
+      },
+      "JUGO DE PINA": {
+       "Price": 20
+      },
+      "JUGO DE GUAYABA": { 
+       "Price": 20
+      },
+      "LIMONADA": { 
+       "Price": 30
+      }
+    },
+    "Fittings": {
+      "TOSTONES": {
+       "Price": 50
+      },
+      "ARROZ MORO": { 
+       "Price": 25
+      }, 
+      "VIANDA HERVIDA": { 
+       "Price": 25
+      },
+      "ENSALADA DE ESTACION": {
+       "Price": 50
+      }
+    },   
+    "Startres": { 
+      "PIZZA NAPOLITANA": { 
+       "Price": 80
+      },
+      "ESPAGUETTIS NAPOLITANOS": { 
+       "Price": 80
+      },
+      "LASAGNA": { 
+       "Price": 90
+      }
+    },   
+    "Additions": {
+      "QUESO": { 
+       "Price": 36
+      },
+      "CEBOLLA": { 
+       "Price": 12
+      },
+      "PIÑA": { 
+       "Price": 12
+      },
+      "SALAMI": { 
+       "Price": 30
+      },
+      "JAMON": { 
+       "Price": 25
+      },
+      "PIMIENTO": {
+       "Price": 12
+      },
+      "ATUN": { 
+       "Price": 40
+      },
+      "ACEITUNAS": { 
+       "Price": 30
+      }
+    },
+    "Main_Course": {   
+      "MASA DE CERDO FRITA": { 
+       "Price": 120
+      },
+      "FRICASE DE CERDO": { 
+       "Price": 125
+      },
+      "LONJAS DE CERDO A LA BRASA": { 
+       "Price": 135
+      },
+      "BISTEC DE CERDO A LA BRASA": { 
+       "Price": 135
+      },
+      "BISTEC DE CERDO EMPANADO": {
+       "Price": 140
+      },
+      "BISTEC URUGUAYO": { 
+       "Price": 155
+      },
+      "BROCHETA DE CERDO": { 
+       "Price": 145
+      },
+      "BROCHETA DE CERDO Y PIÑA": { 
+       "Price": 155
+      },
+      "CHULETA DE CERDO": { 
+       "Price": 160
+      },
+      "ROPA VIEJA": { 
+       "Price": 195
+      },
+      "VACA FRITA": { 
+       "Price": 220
+      },
+      "SUPREMA DE POLLO A LA BRASA": { 
+       "Price": 140
+      },
+      "SUPREMA DE POLLO EMPANADO": { 
+       "Price": 145
+      },
+      "GORDOON BLUE DE POLLO": { 
+       "Price": 195
+      },
+      "EPERLAN DE POLLO": { 
+       "Price": 145
+      },
+      "FILETE DE PESCADO": { 
+       "Price": 150
+      },
+      "FILETE DE PESCADO EMPANADO": { 
+       "Price": 155
+      },
+      "EPERLAN DE PESCADO": { 
+       "Price": 160
+      },
+      "FILETE CANCILLER": { 
+       "Price": 180
+      },
+      "FILETE DE PESCADO CON CAMARONES Y QUESO GRATINADO": { 
+       "Price": 300
+      },
+      "ENCHILADO DE CAMARONES": {
+       "Price": 240
+      },
+      "CAMARON AL AJILLO": { 
+       "Price": 220
+      },
+      "CAMARON REBOSADO": { 
+       "Price": 220 
+      } 
+    }
+ },
+ "location": { 
+   "address": "198 #4509 entre 45 Lindero",
+   "distric": "La Lisa",
+   "coordinates": "23.066075,-82.450084"  
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "name": "Floridita",
+  "phone_number": "78671299 and 78671300",
+  "web_page": "https//wwww.barfloridita.com/",
+  "type": "bar-restaurante",
+  "type_cuisine": "internacional and cubana",
+  "days_hours": {
+    "Monday": "12:00-01:00",
+    "Tuesday": "12:00-01:00",
+    "Wendsday": "12:00-01:00",
+    "Thursday": "12:00-01:00",
+    "Friday": "12:00-01:00",
+    "Saturday": "12:00-01:00",
+    "Sunday": "12:00-01:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica tradicional en vivo and presentaciones",
+  "facilities": "parqueo and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@elfloridita",
+  "menu": {
+    "Starters": {
+      "Ceviche Caribeño": { 
+       "price": 1200
+      },   
+      "Coctel de Langosta": { 
+       "price": 1200
+      },   
+      "El Viejo y Mar(Para Compartir)": { 
+        "price": 2150
+      },   
+      "Jamon Serrano": { 
+        "price": 1350
+      },   
+      "Seleccion de Quesos": { 
+       "price": 1200
+      },   
+      "Pica Pica del Chef": { 
+       "price":  750
+      },   
+      "Tapas de Mariscos": { 
+       "price":  1050
+      },   
+      "Pasta Frutti de Mare": { 
+       "price":  1450
+      },   
+      "Cazuelita Colonial": { 
+       "price":  1100
+      },   
+      "Crema Floridita": { 
+       "price":  600
+      },   
+      "Sopa Noche de Paris": { 
+       "price":  350
+      }   
+    },
+    "Main_Course": {
+      "Langosta a su Gusto": { 
+       "price":  2400
+      },   
+      "Gran Plato Hemingway": { 
+       "price":  2400
+      },   
+      "Cazuelita del Pescador": { 
+       "price":  2400
+      },   
+      "Cayuka Mixta": { 
+       "price":  2400
+      },   
+      "Papa & Mary": { 
+       "price":  2350
+      },   
+      "Camarones Flambeados al Ron": { 
+       "price":  2200
+      },   
+      "Pincho de Camarones": { 
+       "price":  1950
+      },   
+      "Filete de Pescado al Estilo Hemingway": { 
+       "price":  2200
+      },   
+      "Filete de Pescado a la Parrilla": { 
+       "price":  1800
+      },   
+      "Clasica Ropa Vieja": { 
+       "price":  1800
+      },   
+      "Solomillo de Res": { 
+       "price":  2400
+      },   
+      "Cazerola de Pollo Gregorin": { 
+       "price":  1450
+      },   
+      "Arroz Marinero": { 
+       "price":  1450
+      },   
+      "Bistec de Cerdo Finca Vijia": { 
+       "price":  1700
+      }
+    },
+    "Drink": {
+      "Cava Sangre de Toro Brut": { 
+       "price": 2500
+      },   
+      "Cava Freixenet Cordon Negro Brut": { 
+       "price": 2650
+      },   
+      "Henkell Troken": { 
+       "price": 2700
+      },
+      "Gewurztraminer, Viñas del Vero Somontano 2021": { 
+       "price":  4250
+      },   
+      "Beronia Rueda": { 
+       "price": 3500
+      },
+      "La Vielle de Ferme 2022": { 
+       "price": 2550
+      },   
+      "Viñas del Vero Pinot, Somontano 2021": { 
+       "price": 3650
+      },
+      "Sangre de Toro, Rioja": { 
+       "price": 2850
+      },  
+      "Marques de Caceres Gaudium 2016": { 
+       "price":  1250
+      }, 
+      "Beronia, Crianza Tempranillo 2019": { 
+       "price": 3870
+      },
+      "Chateau Los Boldos, Carmenere 2020": { 
+       "price": 4750
+      },
+      "Veramonte Merlot, 2019 Reserva(Organico)": { 
+       "price": 3950
+      },
+      "Veramonte Carmenere 2020 Reserva(Organico)": { 
+       "price": 3950
+      },   
+      "Villa Antinori Toscana 2019": { 
+       "price": 5950
+      },   
+      "Peppoli Chianti Classico 2019 Antinori": { 
+       "price": 4675
+      },   
+      "Campo Viejo Tempranillo Rioja 2021": { 
+       "price": 2800
+      },
+      "Wines by the Glass": { 
+       "price": 750
+      }
+    }
+  },
+  "location": { 
+    "address": "Obispo #557 esquina Monserrate",
+    "distric": "Habana Vieja",
+    "coordinates": "23.137423,-82.357396"  
+  }
+} 
