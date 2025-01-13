@@ -124,7 +124,7 @@
  "location": { 
    "address": "Pedroso entre Infanta y Cruz del Padre",
    "distric": "Cerro",
-   "coordinates": "234.119241,-82.371998"  
+   "coordinates": [23.1210530230877, -82.37355074764304]  
   }
 } 
 

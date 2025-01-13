@@ -135,7 +135,7 @@
  "location": { 
    "address": "Avenida entre Cruz del Padre e Infanta",
    "distric": "Cerro",
-   "coordinates": "23.121936339068295, -82.373970388124"  
+   "coordinates": [23.121936339068295, -82.373970388124]  
   }
 } 
 

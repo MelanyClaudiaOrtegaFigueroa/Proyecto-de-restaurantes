@@ -78,7 +78,7 @@
  "location": { 
    "address": "Primelles 356 entre Santa Teresa y Daolz",
    "distric": "Cerro",
-   "coordinates": "23.105603,-82.388972"  
+   "coordinates": [23.105603,-82.388972]  
   }
 } 
 

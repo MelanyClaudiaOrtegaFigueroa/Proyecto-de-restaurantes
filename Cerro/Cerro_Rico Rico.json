@@ -149,7 +149,7 @@
  "location": { 
    "address": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
    "distric": "Cerro",
-   "coordinates": "23.124587,-82.380463"  
+   "coordinates": [23.124587,-82.380463]  
   }
 } 
 

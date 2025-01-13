@@ -71,7 +71,7 @@
  "location": { 
    "address": "Calzada de Ayestaran entre San Pedro y Ayuntamineto",
    "distric": "Cerro",
-   "coordinates": "23.117325,-82.384614"  
+   "coordinates": [23.117325,-82.384614]  
   }
 } 
 

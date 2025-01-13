@@ -314,7 +314,7 @@
  "location": { 
    "address": "Calle Ayestaran entre San Pablo y Pedro Perez",
    "distric": "Cerro",
-   "coordinates": "23.119840,82.383199"  
+   "coordinates": [23.119840,-82.383199]  
   }
 } 
 

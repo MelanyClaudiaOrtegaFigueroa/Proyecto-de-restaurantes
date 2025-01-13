@@ -369,8 +369,7 @@
  "location": { 
    "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
    "distric": "Cerro",
-   "coordinates": "23.119358590278868, -82.37192631891624" 
+   "coordinates": [23.119358590278868, -82.37192631891624] 
   }
-    
 } 
 

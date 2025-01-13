@@ -92,7 +92,7 @@
  "location": { 
    "address": "Calzada del Cerro entre Alzobispo y Peñon",
    "distric": "Cerro",
-   "coordinates": "23.109057,-82.382770"  
+   "coordinates": [23.109057,-82.382770]  
   }
 } 
 

@@ -205,7 +205,7 @@
  "location": { 
    "address": "Infanta esquina Calle Universidad",
    "distric": "Cerro",
-   "coordinates": "23.120621,-82.372584"  
+   "coordinates": [23.120621,-82.372584]  
   }
 } 
 

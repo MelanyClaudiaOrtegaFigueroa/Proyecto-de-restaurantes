@@ -83,7 +83,7 @@
  "location": { 
    "address": "Cruz del Padre entre Pedrosa y Almendares",
    "distric": "Cerro",
-   "coordinates": "23.120576,-82.374122"  
+   "coordinates": [23.120576,-82.374122]  
   }
 } 
 
