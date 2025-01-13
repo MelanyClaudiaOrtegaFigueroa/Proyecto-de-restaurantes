@@ -119,6 +119,6 @@
  "location": { 
       "address": "27 y 27A",
       "distric": "Marianao",
-      "coordinates": "23.084008,-82.436018"  
+      "coordinates": [23.084008,-82.436018]  
     }
 } 

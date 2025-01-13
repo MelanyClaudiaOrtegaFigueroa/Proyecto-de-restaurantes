@@ -94,6 +94,6 @@
  "location": { 
       "address": "Avenida 41 y 84",
       "distric": "Marianao",
-      "coordinates": "23.087877,-82.421839"  
+      "coordinates": [23.087877,-82.421839]  
     }
 } 

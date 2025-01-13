@@ -82,7 +82,7 @@
    "location": { 
      "address": "Avenida 31",
      "distric": "Marianao",
-     "coordinates": "23.084607,-82.429150"  
+     "coordinates": [23.084607,-82.429150]  
     }
 }
   

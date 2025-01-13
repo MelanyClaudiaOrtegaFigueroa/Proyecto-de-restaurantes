@@ -246,7 +246,7 @@
  "location": { 
    "address": "avenida 41 esquina 86",
    "distric": "Marianao",
-   "coordinates": "23.087904,-82.421793"  
+   "coordinates": [23.087904,-82.421793]  
   }
 } 
 

@@ -313,6 +313,6 @@
  "location": { 
      "address": "Avenida 51 entre 134y 136",
       "distric": "Marianao",
-      "coordinates": "23.070959,-82.435566"  
+      "coordinates": [23.070959,-82.435566]  
     }
 } 

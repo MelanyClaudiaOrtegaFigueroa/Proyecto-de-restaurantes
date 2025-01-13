@@ -126,6 +126,6 @@
  "location": { 
       "address": "100 y 51",
       "distric": "Marianao",
-      "coordinates": "23.082509,-82.422351"  
+      "coordinates": [23.082509,-82.422351]  
     }
 } 

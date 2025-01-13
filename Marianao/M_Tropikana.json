@@ -132,6 +132,6 @@
  "location": { 
       "address": "Avenida 41,calle 72",
       "district": "Marianao",
-      "coordinates": "23.094750,-82.419292"  
+      "coordinates": [23.094750,-82.419292]  
     }
 } 

@@ -177,7 +177,7 @@
  "location": { 
      "address": "72A,Avenida 41",
      "distric": "Marianao",
-     "coordinates": "23.094676,-82.419223"  
+     "coordinates": [23.094648,-82.419173]  
     }
 }
    
