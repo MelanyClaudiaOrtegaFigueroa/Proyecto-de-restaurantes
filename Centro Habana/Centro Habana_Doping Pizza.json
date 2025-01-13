@@ -131,6 +131,6 @@
  "location": { 
    "address": "calle Zanja entre Espada y San Francisco",
    "distric": "Centro Habana",
-   "coordinates": "23.13389533564469,-82.37685653415737"  
+   "coordinates": [23.13389533564469,-82.37685653415737]  
   }
 } 

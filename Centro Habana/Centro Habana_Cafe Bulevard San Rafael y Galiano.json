@@ -94,6 +94,6 @@
  "location": { 
    "address": "4JPP+NW,Bulevard San Rafael",
    "distric": "Centro Habana",
-   "coordinates": "23.136606572526283,-82.36299826271366"  
+   "coordinates": [23.136606572526283,-82.36299826271366]  
   }
 } 

@@ -151,6 +151,6 @@
  "location": { 
    "address": "San Rafael entre Infanta y San Fransisco",
    "distric": "Centro Habana",
-   "coordinates": "23.11380465355718,-82.36663315102301"  
+   "coordinates": [23.11380465355718,-82.36663315102301]  
   }
 }

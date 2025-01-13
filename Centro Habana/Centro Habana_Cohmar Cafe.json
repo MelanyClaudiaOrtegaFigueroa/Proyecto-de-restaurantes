@@ -1,0 +1,302 @@
+{
+  "name": "Cohmar Cafe",
+  "phone_number": "63683372",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "10:00-22:00",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "10:00-22:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@comhar_cafe",
+  "menu": {
+    "Starters": {
+      "croquetas de jamon": {
+       "price": 650
+      },
+      "frituras de malanga": {
+       "price": 550
+      },
+      "tostones rellenos": {
+       "price": 725
+      },
+      "brusqueta de queso": {
+        "price": 695
+      },
+      "brusqueta de serrano": {
+       "price": 1350
+      },
+      "picadera mixta": {
+       "price": 1825
+      }
+    },
+    "Main_Course": {
+      "fajitas de pollo naturales": {
+       "price": 1950
+      },
+      "pechuga de pollo grille": {
+        "price": 1950
+      },
+      "lonjas de cerdo en salsa agridulce": {
+       "price": 1965
+      },
+      "bistec de cerdo encebollado": {
+       "price": 1965
+      },
+      "vaca frita de cerdo": {
+        "price": 1965
+      },
+      "ropa vieja de cerdo": {
+        "price": 1965
+      },
+      "lomo ahumado al mojo criollo": {
+        "price": 1975
+      },
+      "arroz moro": {
+       "price": 350
+      },
+      "arroz blanco": {
+       "price": 325
+      },
+      "arroz pilaf": {
+       "price": 325
+      },
+      "toston natural": {
+        "price": 325
+      },
+      "bocata de jamon": {
+       "price": 570
+      },
+      "bocata de queso": {
+       "price": 585
+      },
+      "bocata de j/queso": {
+       "price": 650
+      },
+      "bocata de j. pierna": {
+       "price": 695
+      },
+      "bocata de j. pierna/q": {
+       "price": 695
+      },
+      "bocata de chorizo/q": {
+       "price": 650
+      },
+      "bocata mixto": {
+       "price": 785
+      },
+      "bocata cubano": {
+       "price": 1375
+      },
+      "sandwich de jamon": {
+       "price": 460
+      },
+      "sandwich de queso": {
+       "price": 465
+      },
+      "sandwich de j. pierna": {
+        "price": 650
+      },
+      "sandwich de j. pierna/q": {
+       "price": 695
+      },
+      "sandwich de chorizo/q": {
+       "price": 535
+      },
+      "sandwich mixto": {
+       "price": 650
+      }
+    },
+    "Desserts": {
+      "copa 4 bolas": {
+       "price": 450
+      },
+      "copa 3 bolas": {
+        "price": 350
+      }
+    },
+    "Drink" : {
+      "agua natural": {
+       "price": 195
+      },
+      "agua tonica importada": {
+        "price": 550
+      },
+      "malta": {
+       "price": 385
+      },
+      "refresco cola": {
+       "price": 275
+      },
+      "refresco naranja": {
+       "price": 275
+      },
+      "energizantes": {
+       "price": 400
+      },
+      "malteada frappe": {
+       "price": 660
+      },
+      "malteada": {
+       "price": 500
+      },
+      "limonada frappe": {
+       "price": 400
+      },
+      "limonada natural": {
+       "price": 400
+      },
+      "piña colada": {
+        "price": 450
+      },
+      "batido de frutas": {
+       "price": 500
+      },
+      "sueño de helado": {
+        "price": 560
+      },
+      "cerveza nacional": {
+        "price": 420
+      },
+      "cerveza importada": {
+       "price": 350
+      },
+      "tinto": {
+        "price": 400
+      },
+      "blanco": {
+       "price": 400
+      },
+      "michelada": {
+       "price": 225
+      },
+      "chelada": {
+       "price": 225
+      },
+      "mojito": {
+       "price": 600
+      },
+      "cuba libre": {
+       "price": 560
+      },
+      "cubata": {
+        "price": 575
+      },
+      "daiquiri": {
+        "price": 600
+      },
+      "daiquiri fresa": {
+       "price": 650
+      },
+      "cubanito": {
+        "price": 600
+      },
+      "caipirissima": {
+       "price": 600
+      },
+      "havana special": {
+       "price": 600
+      },
+      "old fashioned": {
+       "price": 600
+      },
+      "gin tonic": {
+       "price": 850
+      },
+      "vodka tonic": {
+       "price": 850
+      },
+      "margarita": {
+        "price": 600
+      },
+      "sangria": {
+       "price": 650
+      },
+      "tinto de verano": {
+       "price": 600
+      },
+      "ron collins": {
+       "price": 550
+      },
+      "caipiroska": {
+       "price": 600
+      },
+      "bloody mary": {
+       "price": 650
+      },
+      "ron punch": {
+       "price": 550
+      },
+      "cafe carajillo": {
+       "price": 450
+      },
+      "cafe al licor": {
+       "price": 460
+      },
+      "cafe fariseo": {
+       "price": 750
+      },
+      "cafe napolitano": {
+       "price": 500
+      },
+      "cafe habano": {
+       "price": 540
+      },
+      "cafe irlandes": {
+       "price": 450
+      },
+      "cafe expresso": {
+       "price": 195
+      },
+      "cafe americano": {
+       "price": 205
+      },
+      "cafe cortado": {
+       "price": 240
+      },
+      "cafe con leche": {
+       "price": 350
+      },
+      "cafe capuccino": {
+       "price": 365
+      },
+      "cafe bombon": {
+       "price": 385
+      },
+      "cafe frapuccino": {
+       "price": 600
+      },
+      "cafe frapuccino de chocolate": {
+       "price": 650
+      },
+      "te variado": {
+        "price": 150
+      }
+    }
+  },
+  "location": { 
+    "address": "Boulevard de San Rafael,& Amistad",
+    "distric": "Centro Habana",
+    "coordinates": [23.136810792066857,-82.36139565096036]  
+  }
+}

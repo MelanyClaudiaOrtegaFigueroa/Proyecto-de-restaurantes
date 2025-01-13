@@ -132,6 +132,6 @@
  "location": { 
    "address": "San Lazaro entre Espada y Hospital",
    "distric": "Centro Habana",
-   "coordinates": "23.138761,-82.376582"  
+   "coordinates": [23.138761,-82.376582]  
   }
 } 

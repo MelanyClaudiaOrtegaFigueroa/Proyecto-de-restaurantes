@@ -88,6 +88,6 @@
  "location": { 
    "address": "null",
    "distric": "Centro Habana",
-   "coordinates": "23.135420733511385,-82.37831753600521"  
+   "coordinates": [23.135420733511385,-82.37831753600521]  
   }
 }

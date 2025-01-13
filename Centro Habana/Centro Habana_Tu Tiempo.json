@@ -136,6 +136,6 @@
  "location": { 
    "address": "calle Hospital entre San Lazaro  Jovillar",
    "distric": "Centro Habana",
-   "coordinates": "23.1401557660662,-82.37586279184762"  
+   "coordinates": [23.1401557660662,-82.37586279184762]  
   }
 } 

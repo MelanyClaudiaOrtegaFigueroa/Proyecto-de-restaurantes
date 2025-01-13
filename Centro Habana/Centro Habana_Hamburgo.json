@@ -71,6 +71,6 @@
  "location": { 
    "address": "4JJG+C5V,Carlos tercero",
    "distric": "Centro Habana",
-   "coordinates": "23.131235737365408,-82.37630082066377"  
+   "coordinates": [23.131235737365408,-82.37630082066377]  
   }
 }

@@ -111,6 +111,6 @@
  "location": { 
    "address": "C. San Nicolas 309 entre Neptuno y San Miguel",
    "distric": "Centro Habana",
-   "coordinates": "23.13771148492377,-82.36400171839173"  
+   "coordinates": [23.13771148492377,-82.36400171839173]  
   }
 }

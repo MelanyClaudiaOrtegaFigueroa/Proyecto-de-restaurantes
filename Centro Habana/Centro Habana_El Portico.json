@@ -83,6 +83,6 @@
  "location": { 
    "address": "4JMQ+C97,Dragones",
    "distric": "Centro Habana",
-    "coordinates": "23.13385424944992,-82.36160649338726" 
+    "coordinates": [23.13385424944992,-82.36160649338726] 
   }
 } 

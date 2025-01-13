@@ -214,6 +214,6 @@
   "location": { 
     "address": "Vapor y Hornos, 63 e Marina",
     "distric": "Centro Habana",
-    "coordinates": "23.141509790555908,-82.374230422513"  
+    "coordinates": [23.141509790555908,-82.374230422513]  
   }
 }

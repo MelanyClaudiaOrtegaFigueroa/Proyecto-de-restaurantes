@@ -1,0 +1,304 @@
+{
+  "name": "Cafe Bar Macarena",
+  "phone_number": "58723821 and 53665736",
+  "web_page": "null",
+  "type": "bar",
+  "type_cuisine": "cubana and bebidas",
+  "days_hours": {
+    "Monday": "",
+    "Tuesday": "16:00-03:00",
+    "Wendsday": "16:00-03:00",
+    "Thursday": "16:00-03:00",
+    "Friday": "16:00-03:00",
+    "Saturday": "16:00-03:00",
+    "Sunday": "16:00-03:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "karaoke,transmicion de eventos deportivos and musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Cafe bar macarena",
+  "instagrm": "@cafe_bar_macarena",
+  "menu": { 
+    "Starters": {
+      "croquetas de la casa": {
+       "price": 550
+      },
+      "jamon y queso": {
+       "price": 650
+      },
+      "rollitos a la macarena": {
+       "price": 700
+      },
+      "tostones rellenos": {
+       "price": 750
+      },
+      "surtida queso y embutido": {
+        "price": 1200
+      },
+      "mixta la macarena": {
+       "price": 2200
+      }
+    },
+    "Drink" : {
+      "agua 500 ml": {
+       "price": 200
+      },
+      "agua tonica 330 ml": {
+       "price": 220
+      },
+      "energizante": {
+       "price": 350
+      },
+      "refresco limon": {
+       "price": 300
+      },
+      "refresco cola": {
+       "price": 200
+      },
+      "limonada frappe": {
+       "price" : 600
+      },
+      "limonada blue": {
+       "price" : 600
+      },
+      "limonada natural": {
+       "price" : 600
+      },
+      "limonada frescura": {
+       "price" : 700
+      },
+      "cerveza cristal de botella": {
+        "price": 420
+      },
+      "cerveza bucanero de botella": {
+       "price": 400
+      },
+      "cerveza importada": {
+       "price": 300
+      },
+      "mojitos": {
+       "price": 650
+      },
+      "cuba libre": {
+       "price": 550
+      },
+      "cuba bella": {
+       "price": 750
+      },
+      "mary pickford": {
+       "price": 550
+      },
+      "havana especial": {
+       "price": 500
+      },
+      "presidente": {
+       "price": 500
+      },
+      "piña colada": {
+       "price": 900
+      },
+      "daikiri": {
+       "price": 750
+      },
+      "caipirissima": {
+       "price": 750
+      },
+      "cubanito": {
+       "price": 400
+      },
+      "caipiroska": {
+       "price" : 750
+      },
+      "sex on the beach": {
+       "price" : 550
+      },
+      "screw driver": {
+       "price" : 550
+      },
+      "black russian": {
+       "price": 550
+      },
+      "cosmopolitan": {
+       "price": 600
+      },
+      "camino al cielo": {
+       "price": 550
+      },
+      "blue hawaii": {
+       "price": 550
+      },
+      "vodka tonic": {
+       "price":750
+      },
+      "bloody mary": {
+       "price": 550
+      },
+      "long islad": {
+       "price": 800
+      },
+      "vodka martini": {
+       "price": 700
+      },
+      "margarita": {
+       "price": 750
+      },
+      "acapulco de noche": {
+       "price": 600
+      },
+      "bloody mariachi": {
+       "price": 600
+      },
+      "nieblas del caribe": {
+       "price": 650
+      },
+      "submarino": {
+       "price": 700
+      },
+      "long island ice tea": {
+       "price": 800
+      },
+      "tom collins": {
+       "price": 600
+      },
+      "caruso": {
+       "price": 600
+      },
+      "gin and sin": {
+       "price" : 600
+      },
+      "gin tonic": {
+        "price" : 750
+      },
+      "martini": {
+       "price" : 800
+      },
+      "santiago 8": {
+       "price": 600
+      },
+      "hc pacto de navio": {
+       "price": 1000
+      },
+      "santiago 11": {
+        "price": 1000
+      },
+      "santiago 12": {
+       "price": 1200
+      },
+      "monte de la rosa": {
+       "price": 400
+      },
+      "olmeca blanco": {
+        "price": 550
+      },
+      "olmeca reposado": {
+        "price": 600
+      },
+      "gin beefeater": {
+       "price": 500
+      },
+      "gin q spades": {
+       "price": 600
+      },
+      "gin q rosse": {
+       "price": 600
+      },
+      "gin master": {
+       "price": 650
+      },
+      "old fashion": {
+       "price": 700
+      },
+      "mini julep": {
+       "price": 800
+      },
+      "jhon collins": {
+       "price": 800
+      },
+      "sangria": {
+       "price": 750
+      },
+      "tinto verano": {
+       "price": 600
+      },
+      "medusa": {
+        "price": 450
+      },
+      "derrame cerebral": {
+       "price": 450
+      },
+      "B52": {
+       "price": 600
+      },
+      "orgasmo": {
+       "price": 600
+      },
+      "orgasmos multiples": {
+       "price": 900
+      },
+      "chelada": {
+       "price": 620
+      },
+      "michelada": {
+       "price": 750
+      },
+      "clan campbell": {
+       "price": 550
+      },
+      "jameson": {
+       "price": 550
+      },
+      "JW red label": {
+       "price": 650
+      },
+      "ballantines": {
+       "price": 650
+      },
+      "chiva 12": {
+       "price": 800
+      },
+      "jack daniel": {
+       "price": 1000
+      },
+      "JW black lavel": {
+       "price": 1100
+      },
+      "HC añejo blanco": {
+       "price": 250
+      },
+      "HC añejo 3 años": {
+       "price": 300
+      },
+      "HC añejo 7 años": {
+       "price": 500
+      },
+      "HC ritual": {
+       "price": 400
+      },
+      "expreso": {
+       "price" : 150
+      },
+      "cortado": {
+       "price" : 250
+      },
+      "frappuccino": {
+       "price" : 750
+      }        
+    }
+  },
+  "location": { 
+    "address": "Calle Vapor #168alt,entre Espada y San Fransisco",
+    "distric": "Centro Habana",
+    "coordinates": [23.140032524116656,-82.37801794949878]  
+  }
+}

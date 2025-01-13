@@ -126,6 +126,6 @@
  "location": { 
    "address": "San Lazaro entre San Fransico y Espada",
    "distric": "Centro Habana",
-   "coordinates": "23.138655,-82.377413"  
+   "coordinates": [23.138655,-82.377413]  
   }
 } 

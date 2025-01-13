@@ -210,6 +210,6 @@
  "location": { 
    "address": "calle aguila #465 entre San Jose y San Rafael",
    "distric": "Centro Habana",
-   "coordinates": "23.136227081972006,-82.36206873376179"  
+   "coordinates": [23.136227081972006,-82.36206873376179]  
   }
 }

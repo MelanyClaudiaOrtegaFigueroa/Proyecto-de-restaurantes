@@ -1,0 +1,364 @@
+{
+  "name": "Tonyzz Bar",
+  "phone_number": "59112315 and 54427248",
+  "web_page": "null",
+  "type": "bar-restaurante",
+  "type_cuisine": "italiana,cubana e internacional",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "12:00-24:00",
+    "Sunday": "12:00-24:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "television,baile and musica",
+  "facilities": "parqueo,tronas disponibles and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Tonyzz Bar",
+  "instagrm": "null",
+  "menu": {
+    "Breakfast": {
+      "desayuno americano": {
+       "price": 2200
+      }
+    },
+    "Starters": {
+      "croquetas": {
+       "price": 490
+      },
+      "fajitas de pollo": {
+       "price": 1090
+      },
+      "entremes de jamon y queso": {
+       "price": 990
+      },
+      "empanadas españolas (atún/pollo/queso)": {
+       "price": 640
+      },
+      "papas bravas españolas": {
+       "price": 690
+      },
+      "tacos (pollo o atun)": {
+       "price": 1280
+      },
+      "papas fritas": {
+       "price": 690
+      },
+      "picadera familiar": {
+       "price": 2690
+      }
+    },
+    "Main_Course": {
+      "sandwich c/ jamon": {
+       "price": 600
+      },
+      "sandwich c/ queso": {
+        "price": 600
+      },
+      "sandwich c/ jamon y queso": {
+       "price": 890
+      },
+      "sandwich c/ atun y mayonesa": {
+       "price": 1300
+      },
+      "sandwich tonyzz": {
+       "price": 1290
+      },
+      "escalope de cerdo": {
+       "price": 1790
+      },
+      "pollo asado": {
+       "price": 1790
+      },
+      "bistec de cerdo": {
+       "price": 1690
+      },
+      "bistec uruguayo": {
+       "price": 1990
+      },
+      "pollo frito": {
+       "price": 1690
+      },
+      "ropa vieja": {
+       "price": 1990
+      },
+      "pescado grille": {
+        "price": 1800
+      },
+      "pescado a la cubana": {
+       "price": 1890
+      },
+      "camaron al ajillo": {
+       "price": 1900
+      },
+      "cangrejo enchilado": {
+       "price": 1990
+      },
+      "veg samosa (2 pcs)": {
+       "price": 690
+      },
+      "devilled fish": {
+       "price": 1390
+      },
+      "chicken tikka": {
+       "price": 1290
+      },
+      "traditional chicken curry": {
+       "price": 1890
+      },  
+      "chicken tikka masala": {
+       "price": 1990
+      },
+      "chicken madras": {
+       "price": 1990
+      },
+      "authentic srilankan lamb curry": {
+       "price": 1990
+      },
+      "authentic srilankan fish curry": {
+       "price": 1990
+      },
+      "rawan curry": {
+       "price": 2190
+      },
+      "crab curry": {
+       "price": 2190
+      },
+      "yellow masoor dal lentil": {
+       "price": 990
+      },
+      "aloo potato": {
+       "price": 990
+      },
+      "pumpkin": {
+       "price": 590
+      },
+      "sappati rotti": {
+       "price": 450
+      },
+      "veggies combo (egg & rice, salad, popodorn)": {
+       "price": 1790
+      },
+      "pizza napolitana": {
+       "price": 850
+      },
+      "pizza margarita": {
+       "price": 990
+      },
+      "pizza de jamon": {
+       "price": 1290
+      },
+      "pizza de champiñones": {
+       "price": 1290
+      },
+      "pizza hawaiana": {
+       "price": 1390
+      },
+      "pizza de atun": {
+       "price": 1890
+      },
+      "pizza 4 estaciones": {
+       "price": 1590
+      },
+      "pizza de chorizo": {
+       "price": 1350
+      },
+      "pasta napolitana": {
+       "price": 850
+      },
+      "pasta arrabbiata": {
+       "price": 890
+      },
+      "pasta de jamon": {
+       "price": 1290
+      },
+      "pasta carbonara": {
+       "price": 1800
+      },
+      "pasta al pesto": {
+       "price": 990
+      },
+      "pasta de champiñon": {
+       "price": 1290
+      },
+      "pasta bolonesa": {
+       "price": 1890
+      },
+      "pasta de atun": {
+       "price": 1890
+      },
+      "lasaña": {
+       "price": 1990
+      }
+    },
+    "Desserts": {
+      "helado (diferentes sabores)": {
+       "price": 130
+      }
+    },
+    "Drink" : {
+      "agua natural 500ml": {
+       "price": 180
+      },
+      "agua natural 1500ml": {
+       "price": 300
+      },
+      "malta": {
+       "price": 300
+      },
+      "refrescos lata": {
+       "price": 300
+      },
+      "refresco pomo": {
+       "price": 300
+      },
+      "tigon": {
+       "price": 300
+      },
+      "jugos naturales": {
+       "price": 250
+      },
+      "batido de helado": {
+       "price": 510
+      },
+      "cerveza nacional": {
+       "price": 300
+      },
+      "cerveza colonia": {
+       "price": 220
+      },
+      "mojito": {
+       "price": 890
+      },
+      "cuba libre": {
+        "price": 790
+      },
+      "daiquiri": {
+       "price": 790
+      },
+      "cubata": {
+       "price": 790
+      },
+      "caipiriña": {
+       "price": 1190
+      },
+      "caipirisima": {
+       "price": 1190
+      },
+      "caipiroska": {
+       "price": 1190
+      },
+      "chelada": {
+       "price": 490
+      },
+      "michelada": {
+       "price": 850
+      },
+      "piña colada": {
+       "price": 1190
+      },
+      "vodka tonic": {
+       "price": 990
+      },
+      "sangria": {
+       "price": 990
+      },
+      "gin tonic": {
+       "price": 1190
+      },
+      "jack daniel's": {
+       "price": 1400
+      },
+      "chivas regal 12 años": {
+       "price": 1200
+      },
+      "j.w. double black": {
+       "price": 1800
+      },
+      "j.w. black label": {
+       "price": 990
+      }, 
+      "ballantines": {
+       "price": 990
+      },
+      "clamb campbell": {
+       "price": 890
+      },
+      "jameson": {
+       "price": 790
+      },
+      "old partner": {
+       "price": 350
+      },
+      "copa de vino tinto": {
+       "price": 700
+      },
+      "copa de vino blanco": {
+       "price": 650
+      },
+      "paco navio": {
+       "price": 900
+      },
+      "santiago de cuba 12 años": {
+       "price": 1200
+      },
+      "santiago de cuba 8 años": {
+       "price": 790
+      },
+      "black tears": {
+       "price": 400
+      },
+      "ritual": {
+       "price": 600
+      },
+      "habana club añejo reserva": {
+       "price": 590
+      },
+      "habana club 3 años": {
+       "price": 490
+      },
+      "aguardiente": {
+       "price": 350
+      },
+      "olmeca blanco": {
+       "price": 600
+      },
+      "olmeca reposado": {
+        "price": 640
+      },
+      "jose cuervo": {
+       "price": 740
+      },
+      "cafe expreso": {
+       "price": 290
+      },
+      "cafe cortado": {
+       "price": 300
+      },
+      "cafe con leche": {
+       "price": 490
+      },
+      "cappuccino": {
+       "price": 490
+      }
+    }
+  },
+  "location": { 
+    "address": "Consulado & San Miguel Behind Hotel Inglaterra",
+    "distric": "Centro Habana",
+    "coordinates": [23.13799192742151,-82.36028647833432]  
+  }
+}

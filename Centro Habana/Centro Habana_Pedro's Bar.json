@@ -130,6 +130,6 @@
  "location": { 
    "address": "San Rafael #209 entre Aguila y Amistad",
    "distric": "Centro Habana",
-   "coordinates": "23.136930631399565,-82.36181409182808"  
+   "coordinates": [23.136930631399565,-82.36181409182808]  
   }
 }

@@ -383,6 +383,6 @@
   "location": { 
     "address": "industria 352 esquina San Miguel",
     "distric": "Centro Habana",
-    "coordinates": "23.137414091589683,-82.36092696447452"  
+    "coordinates": [23.137414091589683,-82.36092696447452]  
   }
 }

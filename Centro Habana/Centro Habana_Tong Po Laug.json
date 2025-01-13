@@ -107,6 +107,6 @@
  "location": { 
    "address": "Cuchillo entre San Nicolas y Rayo",
    "distric": "Centro Habana",
-   "coordinates": "23.134699,-82.363760"  
+   "coordinates": [23.134699,-82.363760]  
   }
 } 

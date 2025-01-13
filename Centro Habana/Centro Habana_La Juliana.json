@@ -1,0 +1,317 @@
+{
+  "name": "La Juliana",
+  "phone_number": "78636786 and 58356065",
+  "web_page": "https://lajuliana.com/ and https://lajuliana.infinityfreeapp.com/",
+  "type": "restaurante",
+  "type_cuisine": "cubana and caribeña",
+  "days_hours": {
+    "Monday": "10:00-23:00",
+    "Tuesday": "10:00-23:00",
+    "Wendsday": "10:00-23:00",
+    "Thursday": "10:00-23:00",
+    "Friday": "10:00-23:00",
+    "Saturday": "10:00-23:00",
+    "Sunday": "10:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "television",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "La Juliana",
+  "instagrm": "@lajulianarestaurant",
+  "menu": {
+    "Starters": {
+      "platano maduro frito": {
+       "price": 350 
+      },
+      "tostones chatinos": {
+       "price": 350 
+      },
+      "ensalada de vegetales": {
+       "price": 400 
+      },
+      "maripositas chinas": {
+        "price": 530 
+      },
+      "caldosa criolla": { 
+        "price": 750 
+      },
+      "papas fritas": {
+        "price": 750 
+      },
+      "ensalada fria": { 
+       "price": 800 
+      },
+      "frituritas de malanga": { 
+       "price": 850 
+      },
+      "coctel de camarones": {
+       "price": 850 
+      },
+      "tostones rellenos": {
+       "price": 1150 
+      },
+      "bolitas de queso": { 
+       "price": 1100 
+      },
+      "tamal en casuela": { 
+       "price": 1150 
+      },
+      "potaje de garbanzos fritos": { 
+       "price": 1300 
+      },
+      "tacos de cerdo": { 
+       "price": 1200 
+      },
+      "tacos de pollo": { 
+       "price": 1400 
+      },
+      "tacos ropa vieja": { 
+       "price": 1700 
+      },
+      "bastoncitos de pollo": { 
+       "price": 1700  
+      },
+      "sandwich de jamon y queso": { 
+       "price": 1050  
+      },
+      "sandwich juliana": {  
+        "price": 1650  
+      },
+      "hamburguesa": { 
+       "price": 1300  
+      },
+      "hamburguesa doble": {  
+       "price": 2350 
+      },
+      "club atun": {  
+       "price": 1300  
+      },
+      "crema de queso": { 
+       "price": 780  
+      },
+      "crema aurora": {  
+       "price": 800  
+      },
+      "crema virginia": {  
+       "price": 960  
+      }
+    },
+    "Main_Course": {
+      "arroz imperial": { 
+        "price": 2100 
+      },
+      "pollo frito/asado": { 
+       "price": 2500 
+      },
+      "lomo ahumado": { 
+       "price": 2900 
+      },
+      "arroz a la chorrera": { 
+       "price": 2450 
+      },
+      "bistec de cerdo grille": { 
+       "price": 2470 
+      },
+      "cordon blue": { 
+       "price": 3200 
+      },
+      "pechuga de pollo grille": { 
+        "price": 3000 
+      },
+      "escalope de cerdo": { 
+       "price": 2640 
+      },
+      "pechuga apanada": {
+       "price": 3100 
+      },
+      "pechuga salt c/vegetales": { 
+       "price": 3000 
+      },
+      "bistec uruguayo": { 
+       "price": 2800 
+      },
+      "arroz frito": { 
+       "price": 2750 
+      },
+      "camarones grille": { 
+       "price": 3000 
+      },
+      "cerdo camagüeyano": { 
+        "price": 2800 
+      },
+      "rollo de pechuga": {
+       "price": 2800 
+      },
+      "estofado de res": { 
+        "price": 3100 
+      },
+      "bistec encebollado de res": { 
+       "price": 3000 
+      },
+      "camarones al ajillo": { 
+       "price": 3150 
+      },
+      "pechuga a la crema": { 
+        "price": 3500  
+      },
+      "rueda de pescado empanado": {  
+       "price": 3400  
+      },
+      "entrecote de res": {  
+       "price": 3000  
+      },
+      "arroz marinero": {  
+       "price": 3000  
+      },
+      "camarones enchilado": {  
+        "price": 3600  
+      },
+      "solomillo de cerdo": {  
+        "price": 3000  
+      },
+      "ropa vieja": {  
+       "price": 3300  
+      },
+      "canciller": {  
+       "price": 3900  
+      },
+      "camaron a la crema": {  
+       "price": 3800  
+      },
+      "costillas de cerdo BBQ": {  
+       "price": 3900  
+      },
+      "pizza de queso": {
+       "price": 1120
+      },   
+      "pizza de albahaca": {
+       "price": 1270
+      },   
+      "pizza de cebolla": {
+       "price": 1385
+      },   
+      "pizza de pimiento": {
+       "price": 1430
+      },   
+      "pizza de aceituna": {
+       "price": 1550
+      },   
+      "pizza de jamon": {
+       "price": 1700
+      },   
+      "pizza doble de queso": {
+       "price": 1800
+      },   
+      "pizza de lomo": {
+        "price": 1800
+      },   
+      "pizza bolognesa": {
+        "price": 1950
+      },   
+      "pizza campesina": {
+       "price": 1820
+      },   
+      "pizza hawaiana": {
+       "price": 1950
+      },   
+      "pizza habanera": {
+       "price": 2200
+      },   
+      "pizza de serrano": {
+       "price": 2400
+      },   
+      "pizza juliana": {
+       "price": 2250
+      },
+      "media lasagna": { 
+       "price": 1500 
+      },
+      "lasagna doble": { 
+        "price": 3000 
+      },
+      "canelon": { 
+       "price": 1150 
+      },
+      "espagetti de queso": { 
+       "price": 1100 
+      },
+      "espagetti de jamon": { 
+       "price": 1300 
+      },
+      "espagueti bolognesa": { 
+       "price": 1600 
+      },
+      "espagueti alfredo": { 
+       "price": 1800 
+      },
+      "espagueti juliana": { 
+       "price": 1780 
+      },
+      "espagueti carbonara": { 
+        "price": 1900 
+      }
+    },
+    "Desserts": {
+      "tres gracias": { 
+       "price": 400 
+      },
+      "flan al caramelo": { 
+       "price": 650 
+      },
+      "copa lolita": { 
+       "price": 950 
+      },
+      "cuña de chocolate": { 
+       "price": 800 
+      },
+      "cuña de chocolate con helado": { 
+       "price": 950 
+      }
+    },
+    "Drink" : {
+      "malteada": { 
+       "price": 850 
+      },
+      "jugos naturales": { 
+       "price": 270 
+      },
+      "jugo de mango": { 
+        "price": 300 
+      },
+      "jugo de piña": { 
+        "price": 300 
+      },
+      "coctel de frutas": { 
+       "price": 250 
+      },
+      "limonadas": { 
+       "price": 350 
+      },
+      "batidos de frutas": { 
+        "price": 600 
+      },
+      "suero de helado": {  
+        "price": 730 
+      },
+      "batido de helado": { 
+       "price": 735 
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calle Zanja,esquina San Nicolas",
+    "distric": "Centro Habana",
+    "coordinates": [23.135543401312233,-82.3644565648407]  
+  }
+}

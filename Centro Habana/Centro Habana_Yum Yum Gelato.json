@@ -77,6 +77,6 @@
   "location": { 
     "address": "calle Galiano esquina Virtudes",
     "distric": "Centro Habana",
-    "coordinates": "23.139567,-82.363427"  
+    "coordinates": [23.139567,-82.363427]  
   }
 } 

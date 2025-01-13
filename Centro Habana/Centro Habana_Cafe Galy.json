@@ -216,6 +216,6 @@
   "location": { 
     "address": "San Jose entre Aguila y Galiano",
     "distric": "Centro Habana",
-    "coordinates": "23.13605979859447,-82.36264764949895"  
+    "coordinates": [23.13605979859447,-82.36264764949895]  
   }
 }

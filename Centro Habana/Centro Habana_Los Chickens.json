@@ -67,6 +67,6 @@
   "location": { 
     "address": "San Lazaro y Aramburu",
     "distric": "Centro Habana",
-    "coordinates": "23.139571,-82.375002"  
+    "coordinates": [23.139571,-82.375002]  
   }
 }

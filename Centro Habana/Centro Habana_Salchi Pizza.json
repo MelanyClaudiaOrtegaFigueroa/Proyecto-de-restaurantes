@@ -90,6 +90,6 @@
  "location": { 
    "address": "calle Infanta entre Zanja Valle",
    "distric": "Centro Habana",
-   "coordinates": "23.13412923367649,-82.37826298998031"  
+   "coordinates": [23.13412923367649,-82.37826298998031]  
   }
 }
