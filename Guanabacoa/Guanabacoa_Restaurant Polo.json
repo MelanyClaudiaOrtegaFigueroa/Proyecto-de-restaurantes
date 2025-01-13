@@ -181,6 +181,6 @@
   "location": {
     "address": "4MCR+RR9, Cruz Verde",
     "distric": "Guanabacoa",
-    "coordinates": "23.122117,-82.30815"  
+    "coordinates": [23.122045677142047, -82.30788054135697]  
   }
 }

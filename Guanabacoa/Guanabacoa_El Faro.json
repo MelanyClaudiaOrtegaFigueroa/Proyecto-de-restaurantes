@@ -98,6 +98,6 @@
  "location": { 
    "address": "Maximo Gomez y Pepe Antonio",
    "distric": "Guanabacoa",
-   "coordinates": "23.124317,-82.304175"  
+   "coordinates": [23.124317,-82.304175]  
   }
 }

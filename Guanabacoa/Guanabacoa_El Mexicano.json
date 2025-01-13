@@ -95,6 +95,6 @@
   "location": { 
     "address": "Avenida 3ra #6 entre 2da y 3ra,Reparto Chibas",
     "distric": "Guanabacoa",
-    "coordinates": "23.129169,-82.308966"  
+    "coordinates": [23.129169,-82.308966]  
   }
 }

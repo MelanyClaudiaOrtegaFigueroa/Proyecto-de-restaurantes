@@ -180,6 +180,6 @@
   "location": { 
     "address": "Via Blanca 11A entre Independencia y San Luis",
     "distric": "Guanabacoa",
-    "coordinates": "23.124239,-82.319470"  
+    "coordinates": [23.124239,-82.319470]  
   }
 }

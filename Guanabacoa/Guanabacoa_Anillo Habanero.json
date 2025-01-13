@@ -180,6 +180,6 @@
   "location": { 
     "address": "Carretera Primer Anillo km2",
     "distric": "Guanabacoa",
-    "coordinates": "23.097900,-82.265587"  
+    "coordinates": [23.097900,-82.265587]  
   }
 }

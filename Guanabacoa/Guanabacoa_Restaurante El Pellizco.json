@@ -115,6 +115,6 @@
   "location": { 
     "address": "3Q5F+6C6",
     "distric": "Guanabacoa",
-    "coordinates": "23.05845569719212,-82.22644758865775"  
+    "coordinates": [23.05845569719212,-82.22644758865775]  
   }
 }

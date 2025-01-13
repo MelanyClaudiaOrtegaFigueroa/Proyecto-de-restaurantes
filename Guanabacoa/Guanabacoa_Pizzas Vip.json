@@ -185,6 +185,6 @@
   "location": { 
     "address": "4M9W+QJH,E Guiral",
     "distric": "Guanabacoa",
-    "coordinates": "23.1236465,-82.3043900"  
+    "coordinates": [23.1236465,-82.3043900]  
   }
 }

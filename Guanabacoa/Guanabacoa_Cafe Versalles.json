@@ -265,6 +265,6 @@
   "location": { 
     "address": "Calle Marti numero 101 entre Versalles y San Antonio",
     "distric": "Guanabacoa",
-    "coordinates": "23.109070,-82.247508"  
+    "coordinates": [23.109070,-82.247508]  
   }
 }

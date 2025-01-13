@@ -151,6 +151,6 @@
   "location": { 
     "address": "4MMV+VFW,9",
     "distric": "Guanabacoa",
-    "coordinates": "23.134760,-82.306310"  
+    "coordinates": [23.134760,-82.306310]  
   }
 }

@@ -146,6 +146,6 @@
   "location": { 
     "address": "Santa Maria #73 entre Corales y Aparicion",
     "distric": "Guanabacoa",
-    "coordinates": "23.121566,-82.296134"  
+    "coordinates": [23.121566,-82.296134]  
   }
 }
