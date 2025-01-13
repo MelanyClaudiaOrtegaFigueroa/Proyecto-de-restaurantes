@@ -159,6 +159,6 @@
  "location": { 
    "address": "Calle 71 % 24 y 26, Las Brisas",
    "distric": "Cotorro",
-   "coordinates": "22.996597,-82.253663"  
+   "coordinates": [22.996597,-82.253663]  
   }
 } 

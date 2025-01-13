@@ -506,6 +506,6 @@
  "location": { 
    "address": "71 esquina 46 y 48, Loteria",
    "distric": "Cotorro",
-   "coordinates": "23.043784,-82.253282"  
+   "coordinates": [23.043784,-82.253282]  
   }
 } 

@@ -122,6 +122,6 @@
  "location": { 
    "address": "Lindero#4026A entre 38A y 44 Roto Modelo,Loteria",
    "distric": "Cotorro",
-   "coordinates": "23.0475,-82.25543"  
+   "coordinates": [23.0475,-82.25543]  
   }
 }

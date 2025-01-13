@@ -141,6 +141,6 @@
  "location": { 
    "address": "calle 20 entre 69 y 67A,#6726",
    "distric": "Cotorro",
-   "coordinates": "24.047106,-82.268332"  
+   "coordinates": [23.047385037647192, -82.26840571887256]  
   }
 }

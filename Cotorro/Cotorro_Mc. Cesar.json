@@ -209,6 +209,6 @@
  "location": { 
    "address": "#2348 entre 221 y 22 Cruz Verde,calle primera ",
    "distric": "Cotorro",
-   "coordinates": "23.0518415,-82.2757114"  
+   "coordinates": [23.0518415,-82.2757114]  
   }
 } 

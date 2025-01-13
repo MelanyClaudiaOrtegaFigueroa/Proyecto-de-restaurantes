@@ -75,6 +75,6 @@
  "location": { 
    "address": "calle 20 #6950 entre 69 y 71",
    "distric": "Cotorro",
-   "coordinates": "23.044766,-82.268627"  
+   "coordinates": [23.044766,-82.268627]  
   }
 }

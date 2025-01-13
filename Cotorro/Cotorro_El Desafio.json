@@ -137,6 +137,6 @@
  "location": { 
    "address": "calle 58 #6712 % 67 y 69",
    "distric": "Cotorro",
-   "coordinates": "23.044722,-82.248250"  
+   "coordinates": [23.044722,-82.248250]  
   }
 }

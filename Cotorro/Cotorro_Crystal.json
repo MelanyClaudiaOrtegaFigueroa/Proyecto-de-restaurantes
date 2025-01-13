@@ -322,6 +322,6 @@
  "location": { 
    "address": "Avenida 101 entre 18 y 20 centro cotorro",
    "distric": "Cotorro",
-   "coordinates": "23045819,-82270122"  
+   "coordinates": [23045819,-82270122]  
   }
 } 

@@ -104,6 +104,6 @@
  "location": { 
    "address": "Calle 30 entre 95 y 97,Las Brisas",
    "distric": "Cotorro",
-   "coordinates": "23.043081,-82.263052"  
+   "coordinates": [23.043081,-82.263052]  
   }
 }
