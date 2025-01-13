@@ -245,6 +245,6 @@
  "location": { 
    "address": "calle51 entre 330 y 332 #33013",
    "distric": "La Lisa",
-   "coordinates": "23.024303,-82.464434"  
+   "coordinates": [23.024303,-82.464434]  
   }
 } 

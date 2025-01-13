@@ -203,6 +203,6 @@
  "location": { 
    "address": "calle198 #3733 entre 37 y 45,Versalles",
    "distric": "La Lisa",
-   "coordinates": "23.067422,-82.451248"  
+   "coordinates": [23.067422,-82.451248]  
   }
 } 

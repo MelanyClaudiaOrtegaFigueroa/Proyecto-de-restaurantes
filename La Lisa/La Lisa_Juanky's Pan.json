@@ -307,6 +307,6 @@
  "location": { 
    "address": "Ave23A entre 202 y 212,Reparto La Coronela",
    "distric": "La Lisa",
-   "coordinates": "23.048058,-82.464417"  
+   "coordinates": [23.048058,-82.464417]  
   }
 } 

@@ -190,6 +190,6 @@
  "location": { 
    "address": "calle212 #2904 entre 29 y 31,La Coronela",
    "distric": "La Lisa",
-   "coordinates": "23.070500,-82.459382"  
+   "coordinates": [23.070500,-82.459382]  
   }
 }

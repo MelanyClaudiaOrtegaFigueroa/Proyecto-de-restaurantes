@@ -81,6 +81,6 @@
  "location": { 
    "address": "Mercado Agropecuario y Parque de la leche",
    "distric": "La Lisa",
-   "coordinates": "22.984260,-82.464166"  
+   "coordinates": [22.984260,-82.464166]  
   }
 }

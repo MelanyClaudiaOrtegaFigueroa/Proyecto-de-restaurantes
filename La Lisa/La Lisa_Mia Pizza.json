@@ -186,6 +186,6 @@
  "location": {
     "address": "Ave29 #21208 e/202 y 204,La Coronela",
     "distric": "La Lisa",
-    "coordinates": "23.071408,-82.459948"
+    "coordinates": [23.071408,-82.459948]
   }
 }

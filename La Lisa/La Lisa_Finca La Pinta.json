@@ -407,6 +407,6 @@
  "location": { 
    "address": "avenida251 #2409 e/20y28,Punta Brava",
    "distric": "La Lisa",
-   "coordinates": "23.1164774,-82.3697682"  
+   "coordinates": [23.1164774,-82.3697682]  
   }
 } 

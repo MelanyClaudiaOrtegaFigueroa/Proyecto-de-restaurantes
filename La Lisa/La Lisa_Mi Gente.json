@@ -204,6 +204,6 @@
  "location": { 
    "address": "calle 51 entre 258,Puente Arroyo Arena #25806",
    "distric": "La Lisa",
-   "coordinates": "23.047961,-82.463743"  
+   "coordinates": [23.047961,-82.463743]  
   }
 }

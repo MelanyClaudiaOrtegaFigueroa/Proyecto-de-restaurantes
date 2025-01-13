@@ -182,6 +182,6 @@
  "location": { 
    "address": "198 #4509 entre 45 Lindero",
    "distric": "La Lisa",
-   "coordinates": "23.066075,-82.450084"  
+   "coordinates": [23.066075,-82.450084]  
   }
 }

@@ -321,6 +321,6 @@
  "location": { 
    "address": "calle244 #5106 entre51 y 61,San Agustin",
    "distric": "La Lisa",
-   "coordinates": "23.051462,-82.460598"  
+   "coordinates": [23.051462,-82.460598]  
   }
 }
