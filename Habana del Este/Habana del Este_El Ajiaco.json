@@ -260,6 +260,6 @@
  "location": { 
    "address": "esquina de calle Los Pinos y Cuba, Cojimar",
    "distric": "Habana del Este",
-   "coordinates": "23.164024,-82.295441"  
+   "coordinates": [23.164024,-82.295441]  
   }
 } 

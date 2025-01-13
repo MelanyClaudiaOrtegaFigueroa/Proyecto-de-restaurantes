@@ -68,6 +68,6 @@
  "location": { 
    "address": "Paseo de la Villa, Villa Panamericana",
    "distric": "Habana del Este",
-   "coordinates": "23.160289,-82.307101"  
+   "coordinates": [23.160289,-82.307101]  
   }
 } 

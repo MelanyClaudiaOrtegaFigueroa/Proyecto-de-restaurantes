@@ -168,6 +168,6 @@
  "location": { 
    "address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
    "distric": "Habana del Este",
-   "coordinates": "23.165882,-82.293471"  
+   "coordinates": [23.165882,-82.293471]  
   }
 } 

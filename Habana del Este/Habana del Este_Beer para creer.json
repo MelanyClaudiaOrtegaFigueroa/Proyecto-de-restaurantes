@@ -150,6 +150,6 @@
  "location": { 
    "address": "Centro comercial Falcon, Alamar",
    "distric": "Habana del Este",
-   "coordinates": "23.165800,-82.282888"  
+   "coordinates": [23.165800,-82.282888]  
   }
 } 

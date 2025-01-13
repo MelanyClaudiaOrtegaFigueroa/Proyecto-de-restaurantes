@@ -118,6 +118,6 @@
  "location": { 
    "address": "Complejo Morro Cabana,Via Monumental",
    "distric": "Habana Del Este",
-   "coordinates": "23.15525444,-82.35596"  
+   "coordinates": [23.15525444,-82.35596]  
   }
 } 

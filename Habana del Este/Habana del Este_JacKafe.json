@@ -236,6 +236,6 @@
  "location": { 
    "address": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
    "distric": "Habana del Este",
-   "coordinates": "23.167606,-82.266346"  
+   "coordinates": [23.167606,-82.266346]  
   }
 } 

@@ -211,6 +211,6 @@
  "location": { 
    "address": "Esquina de 5ta Avenida, #482, Guanabo",
    "distric": "Habana del Este",
-   "coordinates": "23.169576,-82.137142"  
+   "coordinates": [23.169576,-82.137142]  
   }
 } 

@@ -257,6 +257,6 @@
  "location": { 
    "address": "5ta G entre 160 y 160C,zona 6, Alamar",
    "distric": "Habana del Este",
-   "coordinates": "23.138912,-82.353728"  
+   "coordinates": [23.138912,-82.353728]  
   }
 } 
