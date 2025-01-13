@@ -253,6 +253,6 @@
   "location": { 
     "address": "calzada nueva de casablanca entre 24 de febrero y tadeo",
     "distric": "Regla",
-    "coordinates": "23.124405,-82.327635"  
+    "coordinates": [23.124405,-82.327635]  
   }
 }

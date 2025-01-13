@@ -1,0 +1,97 @@
+{
+  "name": "Restaurante Lan",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "italiana and criolla",
+  "days_hours": {
+    "Monday": "09:00-24:00",
+    "Tuesday": "09:00-24:00",
+    "Wendsday": "09:00-24:00",
+    "Thursday": "09:00-24:00",
+    "Friday": "09:00-24:00",
+    "Saturday": "09:00-24:00",
+    "Sunday": "09:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Starters": {
+      "mariquitas": { 
+       "price": 200
+      },
+      "tostones r. rellenos": { 
+       "price": 300
+      }
+    },
+    "Main_Course": {
+      "bistec de higado": { 
+       "price": 500
+      },
+      "fricase de pollo": { 
+        "price": 500
+      },
+      "camarones al ajillo": { 
+        "price": 550
+      },
+      "enchilada de camarones": { 
+       "price": 550
+      },
+      "filete de malanga c/s. agridulce": { 
+       "price": 300
+      },
+      "fajitas de pollo": { 
+       "price": 550
+      },
+      "pollo frito": { 
+       "price": 500
+      },
+      "bistec de palillo empanado": { 
+       "price": 550
+      },
+      "camarones empanados": { 
+       "price": 550
+      },
+      "pizza mixta med/fam.": { 
+       "price": 400
+      },
+      "pizza cebolla med/fam.": { 
+       "price": 300
+      },
+      "pizza jamon med/fam.": { 
+       "price": 350
+      },
+      "pizza napole med/fam.": { 
+       "price": 400
+      },
+      "pizza doble queso med/fam.": { 
+       "price": 350
+      },
+      "spaghetti napolitano": { 
+       "price": 250
+      },
+      "spaghetti de jamon": { 
+       "price": 350
+      }
+    }
+  },
+  "location": { 
+    "address": "Agramonte,esquina Maceo",
+    "distric": "Regla",
+    "coordinates": [23.12540621324244,-82.33255714289457]  
+  }
+}

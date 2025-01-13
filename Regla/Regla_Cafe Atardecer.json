@@ -1,0 +1,92 @@
+{
+  "name": "Cafe Atardecer",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "07:00-19:00",
+    "Tuesday": "07:00-19:00",
+    "Wendsday": "07:00-19:00",
+    "Thursday": "07:00-19:00",
+    "Friday": "07:00-19:00",
+    "Saturday": "07:00-19:00",
+    "Sunday": "07:00-19:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": { 
+    "Breakfast": {
+      "croqueta": {
+       "price": 75
+      },
+      "medallon": {
+        "price": 90
+      },
+      "pan con queso": {
+       "price": 90
+      },
+      "pan con perro": {
+       "price": 120
+      },
+      "pan  con jamon y queso": {
+       "price": 150
+      }
+    },
+    "Starters": {
+      "pollo empanado": {
+       "price": 450
+      },
+      "pollo fajitas": {
+       "price": 450
+      },
+      "cerdo escalope": {
+       "price": 480
+      },
+      "cerdo fajitas": {
+       "price": 480
+      },
+      "cerdo fricesse": {
+       "price": 380
+      },
+      "pescado empanado": {
+       "price": 330
+      }
+    },
+    "Fittings": {
+      "spaghetti napolitano": {
+        "price": 250
+      },
+      "spaghetti de jamon": {
+       "price": 300
+      }
+    },
+    "Drink": {
+      "refresco": {
+       "price": 20
+      },
+      "cafe": {
+        "price": 15
+      }
+    }
+  },
+  "location": { 
+    "address": "Marti entre Perdomo y Albuquerque",
+    "distric": "Regla",
+    "coordinates": [23.125469635245604, -82.33014753559166]  
+  }
+}

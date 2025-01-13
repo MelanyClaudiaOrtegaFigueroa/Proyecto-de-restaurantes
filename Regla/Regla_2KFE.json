@@ -118,6 +118,6 @@
   "location": { 
     "address": "Pereira 160 entre Marti y Maceo",
     "distric": "Regla",
-    "coordinates": "23.127970,-82.334323"  
+    "coordinates": [23.127970,-82.334323]  
   }
 }

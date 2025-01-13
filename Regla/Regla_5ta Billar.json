@@ -211,6 +211,6 @@
   "location": { 
     "address": "Avenida Rotaria entre Enlace y calle A",
     "distric": "Regla",
-    "coordinates": "23.123403,-82.323160"  
+    "coordinates": [23.123403,-82.323160]  
   }
 } 
