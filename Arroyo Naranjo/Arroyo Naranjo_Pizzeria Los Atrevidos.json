@@ -125,6 +125,6 @@
   "location": { 
     "address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.062429,-82.363851"  
+    "coordinates": [23.062429,-82.363851]  
   }
 }

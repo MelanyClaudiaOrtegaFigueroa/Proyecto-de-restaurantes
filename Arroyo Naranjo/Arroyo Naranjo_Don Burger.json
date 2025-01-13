@@ -198,6 +198,6 @@
   "location": { 
     "address": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.075260,-82.358827"  
+    "coordinates": [23.075260,-82.358827]  
   }
 }

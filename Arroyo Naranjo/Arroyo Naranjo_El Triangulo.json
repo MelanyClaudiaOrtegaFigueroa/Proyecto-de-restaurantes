@@ -82,6 +82,6 @@
  "location": { 
    "address": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma",
    "distric": "Arroyo Naranjo",
-   "coordinates": "23.074388, -82.358446"  
+   "coordinates": [23.074388, -82.358446]  
   }
 }

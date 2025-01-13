@@ -153,6 +153,6 @@
   "location": { 
     "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.064147,-82.375668"  
+    "coordinates": [23.064147,-82.375668]  
   }
 }

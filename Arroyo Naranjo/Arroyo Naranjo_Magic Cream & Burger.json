@@ -125,6 +125,6 @@
   "location": { 
     "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.079252,-82.362104"  
+    "coordinates": [23.079252,-82.362104]  
   }
 }

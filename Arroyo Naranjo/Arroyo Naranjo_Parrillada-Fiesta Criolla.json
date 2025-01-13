@@ -160,6 +160,6 @@
   "location": { 
     "address": "Calle 100 #1003 (después del puente de calabazar)",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.045728,-82.371263"  
+    "coordinates": [23.045728,-82.371263]  
   }
 }

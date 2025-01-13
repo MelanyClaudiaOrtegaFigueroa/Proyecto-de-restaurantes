@@ -299,6 +299,6 @@
   "location": { 
     "address": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre,La Palma",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.075219,-82.358208"  
+    "coordinates": [23.075219,-82.358208]  
   }
 }

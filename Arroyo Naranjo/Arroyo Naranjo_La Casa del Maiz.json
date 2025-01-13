@@ -176,6 +176,6 @@
   "location": { 
     "address": "Avenida 1er anillo % Calzada de Managua y San Agustin",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.072132,-82.356479"  
+    "coordinates": [23.072132,-82.356479]  
   }
 } 

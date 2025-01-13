@@ -115,6 +115,6 @@
   "location": { 
     "address": "Avenida 1er Anillo 3km despues de San Agustin",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.051864,-82.332169"  
+    "coordinates": [23.051864,-82.332169]  
   }
 }

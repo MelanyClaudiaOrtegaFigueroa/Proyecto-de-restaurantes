@@ -206,6 +206,6 @@
   "location": { 
     "address": "Calle Marti y Gutierrez, Reparto Electrico",
     "distric": "Arroyo Naranjo",
-    "coordinates": "23.047794,-82.33777"  
+    "coordinates": [23.047794,-82.33777]  
   }
 }
