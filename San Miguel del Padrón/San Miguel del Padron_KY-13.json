@@ -252,7 +252,7 @@
  "location": { 
    "address": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.079656,-82.320449"  
+   "coordinates": [23.079656,-82.320449]  
   }
 } 
 

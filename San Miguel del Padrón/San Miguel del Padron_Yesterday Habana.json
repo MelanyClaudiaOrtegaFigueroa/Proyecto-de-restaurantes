@@ -188,7 +188,7 @@
  "location": { 
    "address": "Rita % Blanchi y Calzada de Guines",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.099010,-82.339711"  
+   "coordinates": [23.099010,-82.339711]  
   }
 } 
 

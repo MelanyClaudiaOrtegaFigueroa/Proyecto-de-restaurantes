@@ -152,6 +152,6 @@
  "location": { 
    "address": "Calzada de Guines en San Francisco de Paula",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.067813,-82.300981"  
+   "coordinates": [23.067813,-82.300981]  
   }
 } 

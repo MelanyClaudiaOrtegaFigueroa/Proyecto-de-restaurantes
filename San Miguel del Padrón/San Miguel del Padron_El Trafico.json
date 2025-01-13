@@ -154,7 +154,7 @@
  "location": { 
    "address": "Calzada de Guines entre 90 y 94",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.080002,-82.320781"  
+   "coordinates": [23.080002,-82.320781]  
   }
 } 
 

@@ -313,6 +313,6 @@
  "location": { 
    "address": "Calzada San Miguel del Padron entre 8va y B",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.102534,-82.340280"  
+   "coordinates": [23.102534,-82.340280]  
   }
 }

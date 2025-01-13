@@ -181,7 +181,7 @@
  "location": { 
    "address": "C. Guanabacoa #1214 % B y C, Los Angeles",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.091945,-82.283815"  
+   "coordinates": [23.091945,-82.283815]  
   }
 } 
 

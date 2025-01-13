@@ -124,7 +124,7 @@
  "location": { 
    "address": "calle Matos #152 % Fernanda y Central, La Fernanda",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.101764,-82.341408"  
+   "coordinates": [23.101764,-82.341408]  
   }
 } 
 

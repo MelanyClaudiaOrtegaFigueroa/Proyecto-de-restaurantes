@@ -91,6 +91,6 @@
  "location": { 
    "address": "Beltran #19709",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.099120,-82.332427"  
+   "coordinates": [23.099120,-82.332427]  
   }
 } 

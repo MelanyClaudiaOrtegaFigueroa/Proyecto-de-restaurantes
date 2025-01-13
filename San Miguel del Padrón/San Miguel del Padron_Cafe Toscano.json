@@ -92,6 +92,6 @@
  "location": { 
    "address": "San Miguel del Padron",
    "distric": "Calzada de Guines",
-   "coordinates": "23.071706,-82.307794"  
+   "coordinates": [23.071706,-82.307794]  
   }
 } 

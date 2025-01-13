@@ -77,7 +77,7 @@
  "location": { 
    "address": "Esquina b y calzada de guines reparto merceditas",
    "distric": "San Miguel del Padron",
-   "coordinates": "23.136398,-82.383320"  
+   "coordinates": [23.136398,-82.383320]  
   }
 } 
 
