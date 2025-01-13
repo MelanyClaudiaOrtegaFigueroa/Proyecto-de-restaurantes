@@ -184,7 +184,7 @@
  "location": { 
    "address": "Calle M e/ 25 y 27,Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.155894841159917,-82.38263698387051"  
+   "coordinates": [23.155894841159917,-82.38263698387051]  
   }
 } 
 

@@ -312,6 +312,6 @@
  "location": { 
    "address": "Ave 26/23 y 25, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.12226101881169,-82.40508001808305"  
+   "coordinates": [23.12226101881169,-82.40508001808305]  
   }
 }

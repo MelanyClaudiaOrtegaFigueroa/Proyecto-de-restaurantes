@@ -375,7 +375,7 @@
  "location": { 
    "address": "Esquina 3ra y D (D entre 1ra y 3ra), Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.14252255448973,-82.39853187625368"  
+   "coordinates": [23.14252255448973,-82.39853187625368]  
   }
 } 
 

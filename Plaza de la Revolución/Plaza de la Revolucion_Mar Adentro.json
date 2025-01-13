@@ -230,6 +230,6 @@
  "location": { 
    "address": "Calle C, #15, entre 1ª y 3ª",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.142433620136078,-82.39923307575508"  
+   "coordinates": [23.142433620136078,-82.39923307575508]  
   }
 } 

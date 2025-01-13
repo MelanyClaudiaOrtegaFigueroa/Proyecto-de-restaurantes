@@ -80,6 +80,6 @@
  "location": { 
    "address": "Malecon y C,Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.145527,-82.400021"  
+   "coordinates": [23.145527,-82.400021]  
   }
 }

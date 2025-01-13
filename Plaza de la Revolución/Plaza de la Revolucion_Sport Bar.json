@@ -212,7 +212,7 @@
  "location": { 
    "address": "23 y 12, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.12739793607911, -82.3996550067848"  
+   "coordinates": [23.12739793607911, -82.3996550067848]  
   }
 } 
 

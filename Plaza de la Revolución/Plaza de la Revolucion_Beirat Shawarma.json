@@ -123,6 +123,6 @@
  "location": { 
    "address": "Calle 1ra entre A y B, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.142900,-82.401520"  
+   "coordinates": [23.142900,-82.401520]  
   }
 }

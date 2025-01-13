@@ -85,7 +85,7 @@
  "location": { 
    "address": "Esquina 23 y 12, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.127810894630507,-82.39959798623943"   
+   "coordinates": [23.127810894630507,-82.39959798623943]   
   }
 } 
 

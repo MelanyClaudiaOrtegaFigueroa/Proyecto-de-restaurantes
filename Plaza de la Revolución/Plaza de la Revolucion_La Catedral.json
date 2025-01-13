@@ -205,7 +205,7 @@
  "location": {  
    "address": "Calle 8 e/ Calzada 5ta, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.135892638151837, -82.40453312083959"  
+   "coordinates": [23.135892638151837, -82.40453312083959]  
   }
 } 
 

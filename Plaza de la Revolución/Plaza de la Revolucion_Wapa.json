@@ -245,6 +245,6 @@
  "location": { 
    "address": "Calle 4 entre 15 y 17, Vedado",
    "distric": "Plaza de la Revolucion",
-   "coordinates": "23.133054069126786, -82.39869353392423"  
+   "coordinates": [23.133054069126786, -82.39869353392423]  
   }
 } 
