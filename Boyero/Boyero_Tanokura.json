@@ -414,6 +414,6 @@
   "location": { 
     "address": "Calle 403 %Ave. Rancho Boyeros  Calle B,Santiago de las Vegas",
     "distric": "Boyero",
-    "coordinates": "22.972472,-82.382986"  
+    "coordinates": [22.972472,-82.382986]  
   }
 }

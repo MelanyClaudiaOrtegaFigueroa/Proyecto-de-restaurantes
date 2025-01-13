@@ -300,6 +300,6 @@
   "location": { 
     "address": "Avenida Independencia Km 9 1/2,Fontanar",
     "distric": "Boyero",
-    "coordinates": "23.0599210,-82.4018990"  
+    "coordinates": [23.0599210,-82.4018990]  
   }
 }

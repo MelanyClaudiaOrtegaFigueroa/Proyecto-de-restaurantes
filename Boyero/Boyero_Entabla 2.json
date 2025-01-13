@@ -264,6 +264,6 @@
   "location": { 
     "address": "Carretera Terminal 2, Aeropuerto Internacional J. Marti,Calixto Sanchez",
     "distric": "Boyero",
-    "coordinates": "23.003753, -82.395883"  
+    "coordinates": [23.003753, -82.395883]  
   }
 } 

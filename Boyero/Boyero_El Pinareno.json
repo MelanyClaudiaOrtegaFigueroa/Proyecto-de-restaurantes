@@ -327,6 +327,6 @@
   "location": { 
     "address": "Calle 16(202) % Calle 9(405) & Calle 7(403),Santiago de las Vegas",
     "distric": "Boyero",
-    "coordinates": "22.972219,-82.393153"  
+    "coordinates": [22.972219,-82.393153]  
   }
 }

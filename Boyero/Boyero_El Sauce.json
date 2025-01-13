@@ -121,6 +121,6 @@
   "location": { 
     "address": "Calle 403 % 180 & 184,Santiago de las Vegas",
     "distric": "Boyeros",
-    "coordinates": "22.972472,-82.382986"  
+    "coordinates": [22.972472,-82.382986]  
    }
  } 

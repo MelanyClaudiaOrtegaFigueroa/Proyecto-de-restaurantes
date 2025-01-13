@@ -170,6 +170,6 @@
  "location": { 
    "address": "calle 2da entre 4ta y orasia",
    "distric": "Boyero",
-   "coordinates": "23.123708,-82.319480"  
+   "coordinates": [23.123708,-82.319480]  
   }
 }

@@ -273,6 +273,6 @@
   "location": { 
     "address": "Calle 409 % 182 & Avenida Independencia,Santiago de las Vegas",
     "distric": "Boyero",
-    "coordinates": "22.975478,-82.384574"  
+    "coordinates": [22.975478,-82.384574]  
   }
 } 

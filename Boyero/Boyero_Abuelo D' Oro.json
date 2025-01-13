@@ -175,6 +175,6 @@
  "location": { 
    "address": "Calzada Aldabo entre 12 y 13",
    "distric": "Boyero",
-   "coordinates": "23.057691,-82.382906"  
+   "coordinates": [23.057691,-82.382906]  
   }
 }

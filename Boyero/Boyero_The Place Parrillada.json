@@ -191,6 +191,6 @@
  "location": { 
    "address": "Calle 100 entre Aldabo y Fortuna,Alta Habana",
    "distric": "Boyero",
-   "coordinates": "23.052295,-82.382546"  
+   "coordinates": [23.052295,-82.382546]  
   }
 }
