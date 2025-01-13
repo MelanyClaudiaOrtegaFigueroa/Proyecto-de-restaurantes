@@ -1,0 +1,150 @@
+{
+  "name": "Kafe DVD",
+  "phone_number": "54974395 and 52645372",
+  "web_page": "null",
+  "type": "Cafeteria-Bar",
+  "type_cuisine": "criolla",
+  "days_hours": {
+    "Monday": "24h",
+    "Tuesday": "24h",
+    "Wendsday": "24h",
+    "Thursday": "24h",
+    "Friday": "24h",
+    "Saturday": "24h",
+    "Sunday": "24h"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "Bar-Restaurant Kfe DVD",
+  "instagrm": "null",
+  "menu": {
+    "aStarters": {
+      "alitas de pollo": {
+       "price": 1300 
+      },
+      "tacos": {
+       "price": 600
+      },
+      "croquetas": {
+       "price": 400 
+      },
+      "fajitas de pollo": {
+       "price": 900
+      },
+      "tostones al ajillo": {
+       "price": 350 
+      },
+      "tostones": {
+       "price": 300
+      },
+      "chicharritas": {
+       "price": 150 
+      },
+      "fritura de malanga": {
+       "price": 400
+      },
+      "chorizo": {
+       "price": 100 
+      },
+      "jamon": {
+       "price": 100
+      },
+      "queso": {
+       "price": 200 
+      },
+      "cebolla": {
+       "price": 100
+      },
+      "pimiento": {
+       "price": 100 
+      },
+      "aceituna": {
+       "price": 200
+      }
+    },
+    "Main_Course": {
+      "pan con perro": {
+       "price": 300 
+      },
+      "pan con tortilla": {
+       "price": 250 
+      },
+      "pan hamburguesa": {
+       "price": 400 
+      },
+      "pan hamburguesa mariquitas": {
+       "price": 500 
+      },
+      "fricase de cerdo": {
+       "price": 1300 
+      },
+      "masa de cerdo": {
+       "price": 1200 
+      },
+      "chuleta de cerdo": {
+       "price": 1500 
+      },
+      "bistec de cerdo": {
+       "price": 1000 
+      },
+      "bistec de pollo": {
+       "price": 950 
+      },
+      "higado con su salsa": {
+       "price": 770 
+      },
+      "higado a la italiana": {
+       "price": 730 
+      },
+      "higado encebollado": {
+       "price": 650 
+      },
+      "arroz frito": {
+       "price": 700 
+      },
+      "pastas napolitana": {
+       "price": 700 
+      },
+      "pizza grande": {
+       "price": 300 
+       },
+      "pizza chiquita": {
+       "price": 200 
+      }
+    },
+    "Drink": {
+      "cerveza": {
+       "price": 200 
+      },
+      "enrgizante": {
+       "price": 300 
+      },
+      "jugo lata": {
+       "price": 300 
+      },
+      "refresco pepsi": {
+       "price": 250 
+      },
+      "refresco": {
+       "price": 220
+      }
+    }
+   },
+  "location": { 
+    "address": "San Francisco entre 10 de Octubre y Delicias",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.09568,-82.363079]  
+  }
+}

@@ -99,6 +99,6 @@
   "location": { 
     "address": "Esquina Mayia Rodriguez y Aranguren",
     "distric": "Diez de Octubre",
-    "coordinates": "23.088026,-82.377809"  
+    "coordinates": [23.088026,-82.377809]  
   }
 }

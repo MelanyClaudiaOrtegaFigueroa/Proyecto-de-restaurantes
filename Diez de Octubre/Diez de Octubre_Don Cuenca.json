@@ -1,0 +1,158 @@
+{
+  "name": "Don Cuenca",
+  "phone_number": "76402249 and 55373569",
+  "web_page": "null",
+  "type": "Restaurante-cafeteria",
+  "type_cuisine": "internacional and criolla",
+  "days_hours": {
+    "Monday": "12:00-22:00",
+    "Tuesday": "12:00-22:00",
+    "Wendsday": "12:00-22:00",
+    "Thursday": "12:00-22:00",
+    "Friday": "12:00-22:00",
+    "Saturday": "12:00-22:00",
+    "Sunday": "12:00-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "null",
+  "instagrm": "@don-cuenca",
+  "menu": { 
+    "Starters": {
+      "frituras de malanga": {
+       "price": 500
+      },
+      "tostones rellenos de jamon y queso": {
+       "price": 550
+      },
+      "garbanzos fritos": {
+       "price": 850
+      },
+      "eperlan": {
+       "price": 1450
+      },
+      "coctel de camarones": {
+       "price": 1600
+      }
+    },
+    "Main_Course": {
+      "bistec de cerdo grille": {
+       "price": 1550
+      },
+      "bistec uruguayo": {
+       "price": 2100
+      },
+      "lomo cerdo hawaiano": {
+       "price": 1900
+      },
+      "pechuga grille": {
+       "price": 1659
+      },
+      "pechuga salteada con aji y cebolla": {
+       "price": 1750
+      },
+      "pechuga hawaiana": {
+       "price": 2100
+      },
+      "cordon blue": {
+       "price": 2400
+      },
+      "chilindron de cordero": {
+       "price": 1800
+      },
+      "ropa vieja": {
+       "price": 1900
+      },
+      "vaca frita": {
+       "price": 1900
+      },
+      "solomillo de cerdo": {
+       "price": 2950
+      },
+      "filete de pescado joinville": {
+       "price": 3000
+      },
+      "enchilado de mariscos": {
+       "price": 3100
+      },
+      "canelon de jamon": {
+       "price": 1100
+      },
+      "canelon de chorizo": {
+       "price": 1250
+      },
+      "canelon de atun": {
+       "price": 1600
+      },
+      "lasana de jamon": {
+       "price": 1350
+      },
+      "lasana de atun": {
+       "price": 1900
+      },
+      "espaguetis don cuenca": {
+       "price": 1650
+      },
+      "espaguetis frutos del mar": {
+       "price": 2900
+      }
+    },
+    "Desserts": {
+      "tarta de la casa": {
+       "price": 450
+      },
+      "flan de la casa": {
+       "price": 450
+      },
+      "crema de arroz con leche": {
+       "price": 350
+      },
+      "helado": {
+       "price": 450
+      }
+    },
+    "Drink": {
+      "jugo natural": {
+       "price": 250
+      },
+      "suero de helado": {
+       "price": 450
+      },
+      "refresco": {
+       "price": 300
+      },
+      "malta importada": {
+       "price": 330
+      },
+      "energizante": {
+       "price": 300
+      },
+      "cafe": {
+       "price": 100
+      },
+      "cerveza nacional": {
+       "price": 400
+      },
+      "cerveza importada": {
+       "price": 350
+      }
+    }
+  },
+  "location": { 
+    "address": "General Lee entre Destrampre y Figueroa, Santo Suarez",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.101672,-82.371593]  
+  }
+}

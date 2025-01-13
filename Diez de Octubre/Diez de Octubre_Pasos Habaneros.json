@@ -1,0 +1,232 @@
+{
+  "name": "Pasos Habaneros",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Cafeteria-Heladeria",
+  "type_cuisine": "criolla and helados",
+  "days_hours": {
+    "Monday": "09:00-18:00",
+    "Tuesday": "09:00-18:00",
+    "Wendsday": "09:00-18:00",
+    "Thursday": "09:00-18:00",
+    "Friday": "09:00-18:00",
+    "Saturday": "09:00-18:00",
+    "Sunday": "09:00-13:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Starters": {
+      "Croquetas": {
+       "price": 280
+      },
+      "Coctel de Camaron sencillo": {
+       "price": 400
+      },
+      "Coctel de Camaron doble": {
+       "price": 800 
+      },
+      "Pan con queso blanco": {
+       "price": 135
+      },
+      "Pan con 2 Croquetas y Jamon": {
+       "price": 280
+      },
+      "Bocadito de Jamon y Queso": {
+       "price": 350
+      },
+      "Super Pan Pasos Habaneros": {
+       "price": 600
+      }
+    },
+    "Main_Course": {
+      "Pollo Asado Muslo o Contra muslo": {
+       "price": 275
+      },
+      "Bistec de Cerdo Empanado": {
+       "price": 850
+      },
+      "Ropa Vieja de Res": {
+       "price": 880
+      },
+      "Lomo de Cerdo": {
+       "price": 950
+      },
+      "Carne de Cerdo Asada": {
+       "price": 950
+      },
+      "Masa de Cerdo Frita": {
+       "price": 950
+      },
+      "Chuleta de Cerdo": {
+        "price": 1000
+      },
+      "Bistec Uruguayo de Cerdo": {
+       "price": 1000
+      },
+      "Picadera \"Mi Habana\"": {
+       "price": 750
+      },
+      "Picadera \"Pasos Habaneros\"": {
+       "price": 850
+      },
+      "Alitas de pollo (1 libra)": {
+       "price": 860
+      },
+      "Super Picadera Especial": {
+       "price": 1500
+      },
+      "Fajitas de Cerdo Pasos Habaneros": {
+       "price": 950
+      },
+      "Mayonesa": {
+       "price": 300
+      },
+      "Jamon y Queso": {
+       "price": 430
+      },
+      "Lasaña": {
+       "price": 500
+      },
+      "Napolitano": {
+       "price": 380
+      },
+      "Doble Queso": {
+       "price": 440
+      },
+      "Doble Queso y Jamon": {
+       "price": 540
+      }
+    },
+    "Fittings": {
+      "Arroz Blanco": {
+       "price": 150
+      },
+      "Arroz Moro": {
+       "price": 200
+      },
+      "Arroz Cardelnal": {
+       "price": 260
+      },
+      "Ensalada de Estacion": {
+       "price": 250
+      },
+      "Vianda con Mojo": {
+       "price": 250
+      },
+      "Vianda Frita": {
+       "price": 300
+      }
+    },
+    "Desserts": {
+      "Helado \"Futbolito\"": {
+       "price": 170
+      },
+      "Helado \"Ciudad Deportiva\"": {
+       "price": 225
+      },
+      "Helado \"Jimagua Monaco\"": {
+       "price": 290
+      },
+      "Helado \"Vaca Negra o Blanca\"": {
+       "price": 320
+      },
+      "Helado \"Sabor a Mi\"": {
+       "price": 345
+      },
+      "Helado \"Capitolio\"": {
+       "price": 400
+      },
+      "Helado \"Esquina de Tejas\"": {
+       "price": 450
+      },
+      "Helado \"Esquina de Toyo\"": {
+       "price": 590
+      },
+      "Helado \"Ensalada Parque Central\"": {
+       "price": 660
+      },
+      "Helados \"Pasos Habaneros\"": {
+       "price": 710
+      },
+      "Barquillo de Helado": {
+       "price":135
+      },
+      "Potes de Helados (200 ml) sin montaje": {
+       "price": 280
+      },
+      "Potes de Helados (200 ml) con montaje": {
+       "price": 300
+      },
+      "Potes de Helados (400 ml) sin montaje": {
+       "price": 400
+      },
+      "Potes de Helados (400 ml) con montaje": {
+       "price": 430
+      }
+    },
+    "Drink": {
+      "Vino Dulce": {
+       "price": 100
+      },
+      "Whiskey 5Shot": {
+       "price": 100
+      },
+      "Silver dry": {
+       "price": 110
+      },
+      "Vino Tinto": {
+       "price": 150
+      },
+      "Chisckiller": {
+       "price": 170
+      },
+      "Black Tears (Brujo)": {
+       "price": 170
+      },
+      "Habana Club": {
+       "price":170
+      },
+      "Agua mineral": {
+       "price": 120
+      },
+      "Refresco (pomu)": {
+       "price": 235
+      },
+      "Cerveza lata (330ml)": {
+       "price": 200
+      },
+      "Malta": {
+       "price": 235
+      },
+      "Energizante(250ml)": {
+       "price": 250
+      },
+      "Cerveza dispensada (300ml)": {
+       "price":200
+      },
+      "Termo de cerveza cristal de 6 jarras": {
+       "price":1700
+      }
+    }
+   },
+  "location": { 
+    "address": "calle Santo Suarez no.464 entre Gomez y Mendoza",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.10453864141692, -82.3759183841388]  
+  }
+}

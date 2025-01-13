@@ -96,6 +96,6 @@
   "location": { 
     "address": "calle Conuco no. 36 entre Jorge y D strampes, Sevillano",
     "distric": "Diez de Octubre",
-    "coordinates": "23.085524,-82.372594"  
+    "coordinates": [23.085524,-82.372594]  
   }
 } 

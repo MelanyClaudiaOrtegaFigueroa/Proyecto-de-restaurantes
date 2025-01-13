@@ -1,0 +1,411 @@
+{
+  "name": "La Fela",
+  "phone_number": "51950601",
+  "web_page": "https://www.lafelarestaurant.com/",
+  "type": "Restaurante",
+  "type_cuisine": "criolla e italiana",
+  "days_hours": {
+    "Monday": "12:00-00:00",
+    "Tuesday": "12:00-00:00",
+    "Wendsday": "12:00-00:00",
+    "Thursday": "12:00-00:00",
+    "Friday": "12:00-00:00",
+    "Saturday": "12:00-00:00",
+    "Sunday": "12:00-00:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "La Fela restaurant",
+  "instagrm": "@lafelarestaurant",
+  "menu": { 
+    "Starters": { 
+      "Ensalada fria de jamon": { 
+       "Price":600
+      },
+      "Ceviche de pescado": { 
+       "Price":2000
+      },
+      "Tartar de salmon": { 
+       "Price":2000
+      },
+      "Ceviche de camarones": { 
+       "Price":2000
+      },
+      "Tabla mixta": { 
+       "Price":2600
+      },
+      "Croquetas de la casa": { 
+       "Price":700
+      },
+      "Garbanzos fritos": { 
+        "Price":1800
+      },
+      "Frituras de malanga": { 
+        "Price":750
+      },
+      "Bolitas de queso con salsa agridulce": { 
+       "Price":750
+      },
+      "Tostones rellenos con ropa vieja de cerdo": { 
+       "Price":1300
+      },
+      "Eperlan de pescado con salsa rosa": { 
+       "Price":2000
+      },
+      "Tacos al pastor": { 
+       "Price":1000
+      },
+      "Empanada de la casa en salsa agridulce": { 
+       "Price":600
+      },
+      "Crema de queso": { 
+       "Price":550
+      }
+    },
+    "Main_Course": { 
+      "Masas de cerdo fritas encebolladas": { 
+       "Price":2800
+      },
+      "Chuleta de cerdo": { 
+       "Price":2500
+      },
+      "Bistec de cerdo grille": { 
+       "Price":2000
+      },
+      "Bistec de cerdo gratinado con jamon y queso": { 
+        "Price":2400
+      },
+      "Lonjas de cerdo con mojo criollo": { 
+       "Price":2800
+      },
+      "Suprema de pollo grille": { 
+       "Price":2200
+      },
+      "Suprema de pollo a la crema": { 
+        "Price":2400
+      },
+      "Cordero al chilindron o al vino tinto": { 
+       "Price":2800
+      },
+      "Bistec de palomilla": { 
+       "Price":2500
+      },
+      "Filet Mignon": { 
+       "Price":4000
+      },
+      "Ropa vieja de res": { 
+       "Price":2500
+      },
+      "Vaca frita con anillos de cebolla": { 
+       "Price":2700
+      },
+      "Filete de pescado gratinado con jamon y queso": { 
+       "Price":2800
+      },
+      "Filete de pescado al limon": { 
+       "Price":2700
+      },
+      "Filete de pescado La Fela": { 
+       "Price":3200
+      },
+      "Pescado entero frito": { 
+       "Price":3000
+      },
+      "Camaron a su eleccion (enchilado o al ajillo)": { 
+       "Price":2800
+      },
+      "Caldereta  de mariscos": { 
+       "Price":3200
+      },
+      "Brocheta mixta del Corral": { 
+       "Price":3200
+      },
+      "Brocheta mixta del Mar": { 
+       "Price":3700
+      },
+      "Grillada de la casa (cerdo, pollo, pescado y camaron)": { 
+        "Price":3800
+      },
+      "Paella Marinera": { 
+        "Price":3500
+      },
+      "Arroz con pollo a la chorrera": { 
+       "Price":2500
+      },
+      "Arroz frito": { 
+         "Price":2500
+        },
+      "Entrecot de res (guarnecido de papas al horno, aromatizado con finas hierbas y acompanado de una copa de vino)": { 
+       "Price":6000
+      },
+      "Pizza npolitana": { 
+       "Price":1000
+      },
+      "Pizza La Fela": { 
+       "Price":2400
+      },
+      "Pizza de vegetales": { 
+       "Price":1700
+      },
+      "Super Pizza de queso importado": { 
+       "Price":2400
+      },
+      "Pizza Frutti di Mare": { 
+       "Price":2900
+      },
+      "Pizza Margarita": { 
+        "Price":1400
+      },
+      "Pizza de camarones": { 
+        "Price":2600
+      },
+      "Pizza napolitana con queso blanco": { 
+       "Price":600
+      },
+      "Lasagna": { 
+        "Price":1200
+      },
+      "Espaghettis napolitanos de queso importado": { 
+       "Price":1100
+      },
+      "Espaghettis Frutti di Mare": { 
+       "Price":3200
+      },
+      "Hamburguesa Especial": { 
+       "Price":1400
+      },
+      "Sandwich cubano": { 
+       "Price":2000
+      },
+      "Baguette de atun y anillas de cebolla": { 
+        "Price":1400
+      },
+      "Baguette de jamon Serrano y queso Gouda": { 
+        "Price":1800
+      },
+      "Pan con bistec": { 
+        "Price":1600
+      },
+      "Hamburguesa de pollo": { 
+       "Price":350
+      },
+      "Hamburguesa de res": { 
+       "Price":500
+      }
+    },
+    "Additions": { 
+      "Cebolla": { 
+       "Price":200
+      },
+      "Pimiento": { 
+       "Price":200
+      },
+      "Jamon": { 
+       "Price":300
+      },
+      "Chorizo": { 
+       "Price":300
+      },
+      "Queso blanco": { 
+       "Price":200
+      },
+      "Bacon": { 
+        "Price":400
+      },
+      "Aceitunas": { 
+       "Price":300
+      },
+      "Atun": { 
+       "Price":400
+      },
+      "Camaron": { 
+       "Price":800
+      },
+      "Pina": { 
+        "Price":200
+      },
+      "Champignones": { 
+       "Price":400
+      },
+      "Pepperoni": { 
+       "Price":500
+      }
+    },
+    "Fittings": { 
+      "Arroz blanco": { 
+       "Price":150
+      },
+      "Arroz moros y cristianos": { 
+        "Price":300
+      },
+      "Arroz Pilaf": { 
+       "Price":300
+      },
+      "Vianda frita": { 
+       "Price":250
+      },
+      "Yuca con mojo criollo": { 
+        "Price":300
+      },
+      "Tamal en cazuela": { 
+       "Price":300
+      },
+      "Tostones al ajo estilo oriental": { 
+       "Price":300
+      },
+      "Ensalada de vegetales frescos": { 
+        "Price":400
+      },
+      "Papas fritas": { 
+       "Price":600
+      },
+      "Pure de malanga": { 
+        "Price":400
+      }
+    },
+    "Drink": { 
+      "Batido de mamey / Guayaba / Frutabomba": { 
+       "Price":400
+      },
+      "Suero de helado": { 
+        "Price":900
+      },
+      "Malteada": { 
+       "Price":550
+      },
+      "Agua natural": { 
+       "Price":150
+      },
+      "Jugo de fruta": { 
+       "Price":250
+      },
+      "Refresco Pepsi / 7up / Fanta / Coca Cola": { 
+        "Price":300
+      },
+      "Malta Bucanero": { 
+       "Price":350
+      },
+      "Cerveza Cristal": { 
+       "Price":350
+      },
+      "Cerveza importada": { 
+       "Price":300
+      },
+      "Cerveza Heineken": { 
+       "Price":550
+      },
+      "Termo de cerveza Heineken": { 
+       "Price":3850
+      },
+      "Michelada": { 
+       "Price":400
+      },
+      "Chelada": { 
+       "Price":300
+      },
+      "Energizantes": { 
+       "Price":300
+      },
+      "Red Bull": { 
+       "Price":350
+      },
+      "Cerveza dispensada": { 
+       "Price":350
+      },
+      "Caipirinha": { 
+       "Price":650
+      },
+      "Caipiroska": { 
+       "Price":650
+      },
+      "Jagerinha": { 
+       "Price":650
+      },
+      "Sex on the beach": { 
+        "Price":600
+      },
+      "Gin & Tonic": { 
+       "Price":1000
+      },
+      "Bloody Mary": { 
+       "Price":650
+      },
+      "Margarita": { 
+       "Price":650
+      },
+      "Sangria": { 
+       "Price":700
+      },
+      "Black Russian": { 
+        "Price":600
+      },
+      "White Russian": { 
+       "Price":650
+      },
+      "Alexander": { 
+       "Price":650
+      },
+      "Pina Colada": { 
+       "Price":650
+      },
+      "Cubanito": { 
+       "Price":650
+      },
+      "Coctel La Fela": { 
+       "Price":600
+      },
+      "Mojito La Fela": { 
+       "Price":600
+      },
+      "Daiquiri": { 
+       "Price":500
+      },
+      "Expresso Martini": { 
+        "Price":500
+      },
+      "Cappuccino": { 
+       "Price":600
+      },
+      "Cafe Bombon": { 
+       "Price":600
+      },
+      "Express Jager": { 
+       "Price":500
+      }
+    },
+    "Desserts": { 
+      "Tres Gracias": { 
+        "Price":450
+      },
+      "Cake": { 
+       "Price":400
+      },
+      "Copa Lolita": { 
+       "Price":450
+      },
+      "Tarta": { 
+       "Price":400
+      },
+      "Flan": { 
+        "Price":200
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Nuestra Senora de Regla no. 4 entre Remedios y Calzada de Luyano",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.105165466471604, -82.35788332867313]  
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "La Esquinita",
+  "phone_number": "76404105,59104644 and 56941945",
+  "web_page": "null",
+  "type": "Bar-Cafeteria",
+  "type_cuisine": "italiana,criolla and rapida",
+  "days_hours": {
+    "Monday": "09:00-21:00",
+    "Tuesday": "09:00-21:00",
+    "Wendsday": "09:00-21:00",
+    "Thursday": "09:00-21:00",
+    "Friday": "10:00-23:00",
+    "Saturday": "10:00-23:00",
+    "Sunday": "10:00-23:00"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@la_esquinita_santos_suarez",
+  "menu": {
+    "Starters": {
+      "Picadera La Esquinita": {
+       "Price":1000
+      },
+      "Tostones": {
+       "Price":400
+      }
+    },
+    "Main_Course": {
+      "Arroz frito": {
+       "Price":500
+      },
+      "Arroz frito con mariscos": {
+       "Price":950
+      },
+      "Bistec Gordon Blue": {
+       "Price":1300
+      },
+      "Pollo Chiflado": {
+       "Price":650
+      },
+      "Espaghettis de queso Gouda": {
+       "Price":450
+      },
+      "Espaghettis blancos de jamon": {
+       "Price":400
+      },
+      "Espaghettis de queso Gouda con jamon": {
+       "Price":550
+      },
+      "Espaghettis blancos con chorizo": {
+       "Price":400
+      },
+      "Hamburguesa sencilla": {
+       "Price":500
+      },
+      "Hamburguesa de jamon": {
+       "Price":500
+      },
+      "Hamburguesa de chorizo": {
+       "Price":500
+      },
+      "Hamburguesa de jamon y Gouda": {
+       "Price":650
+      },
+      "Hamburguesa La Esquinita": {
+       "Price":750
+      },
+      "Pizza de queso Gouda": {
+       "Price":300
+      },
+      "Pizza de queso blanco y jamon": {
+       "Price":300
+      },
+      "Pizza de queso blanco y chorizo": {
+       "Price":300
+      },
+      "Pizza de queso Gouda y chorizo": {
+       "Price":400
+      },
+      "Pizza de queso blanco y atun": {
+       "Price":500
+      },
+      "Pizza de queso Gouda y cebolla": {
+       "Price":400
+      },
+      "Pizza de queso blanco y pimiento": {
+       "Price":300
+      },
+      "Pizza de queso Gouda Hawaiana": {
+       "Price":500
+      },
+      "Pizza Especial La Esquinita": {
+       "Price":600
+      },
+      "Pizza grande de queso Gouda": {
+       "Price":650
+      },
+      "Pizza grande de queso blanco y jamon": {
+       "Price":500
+      },
+      "Pizza grande de queso blanco y chorizo": {
+       "Price":500
+      },
+      "Pizza grande de queso Gouda y atun": {
+       "Price":950
+      },
+      "Pizza grande de queso blanco y cebolla": {
+       "Price":500
+      },
+      "Pizza grande de queso Gouda y pimiento": {
+       "Price":750
+      },
+      "Pizza grande de queso blanco Hawaiana": {
+       "Price":550
+      },
+      "Pizza grande de queso Gouda Hawaiana": {
+       "Price":800
+      },
+      "Pizza grande Especial La Esquinita": {
+       "Price":1200
+      },
+      "Pizza grande Familiar La Esquinita": {
+       "Price":3000
+      }
+    },
+    "Fittings": {
+      "Papas fritas": {
+       "Price":100
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Juan Lefont entre Libertad y Johnson, Santo Suarez",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.09980487585615, -82.37925076022493]  
+  }
+}

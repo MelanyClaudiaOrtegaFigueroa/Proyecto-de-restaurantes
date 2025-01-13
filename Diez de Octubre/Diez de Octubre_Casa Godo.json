@@ -1,0 +1,119 @@
+{
+  "name": "Casa Godo",
+  "phone_number": "76034192 and 53311292",
+  "web_page": "null",
+  "type": "Restaurante",
+  "type_cuisine": "cubana and internacional",
+  "days_hours": {
+    "Monday": "12:00-23:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica and presentaciones en vivo",
+  "facilities": "asientos aire libre,parqueo and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "Casa Godo Restaurante",
+  "instagrm": "@casa_godo._.oficial",
+  "menu": { 
+    "Starters": { 
+      "Croquetas de Pescado": { 
+       "price": 650
+      },
+      "Coctel de Camaron": { 
+       "price": 1000
+      },
+      "Entremes de Jamon, Queso y Aceitunas": { 
+       "price": 850
+      },
+      "Tostones rellenos con Cerdo": { 
+       "price": 650
+      },
+      "Garbanzo Frito": { 
+       "price": 700
+      }
+    },
+    "Main_Course": { 
+      "Churrasco de Cerdo": { 
+       "price": 3200
+      },
+      "Chilindron de Cordero": { 
+       "price": 2000
+      },
+      "Langosta grille o Enchilada": { 
+       "price": 3000
+      },
+      "Masas de Cerdo": { 
+       "price": 2000
+      },
+      "Bistec de Cerdo": { 
+       "price": 2000
+      },
+      "Lonjas de Cerdo": { 
+       "price": 1800
+      },
+      "Loma Ahumado": { 
+       "price": 1800
+      },
+      "Filete de Pescado": { 
+       "price": 2200
+      },
+      "Filete de Pescado con Vegetales Salteados": { 
+       "price": 2300
+      },
+      "Filete de Pescado con Camarones": { 
+       "price": 2900
+      },
+      "Camaron Salteado o Enchilado": { 
+       "price": 2600
+      },
+      "Pechuga de Pollo": { 
+       "price": 1800
+      },
+      "Pollo Deshuesado": { 
+       "price": 950
+      },
+      "Pulpo Salteado al ajo": { 
+       "price": 3100
+      }
+    },
+    "Fittings": { 
+      "Arroz Frito sin camaron": { 
+       "price": 850
+      },
+      "Arroz Frito con Camaron": { 
+       "price": 1200
+      },
+      "Ensalada de Vegetales": { 
+       "price": 250
+      },
+      "Racion de Moro": { 
+       "price": 200
+      }
+    },
+    "Desserts": { 
+      "Torta": { 
+       "price": 550
+      }
+    }  
+  },
+  "location": { 
+    "address": "Ave. Mayia Rodriguez # 358 e/ San Mariano y Vista Alegre,El Monaco",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.094054,-82.377735]  
+  }
+}

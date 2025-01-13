@@ -1,0 +1,84 @@
+{
+  "name": "Diverxo",
+  "phone_number": "58594576 and 56595266",
+  "web_page": "null",
+  "type": "Restaurante-Bar",
+  "type_cuisine": "cubana",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "12:00-24:00",
+    "Sunday": "12:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "Diverxo-Restaurant-Bar",
+  "instagrm": "@diverxo-restaurant-bar",
+  "menu": {
+    "Main_Course": { 
+      "Lechon asado": { 
+       "price": 1650 
+      },
+      "Espaguetis napolitana": { 
+       "price": 850
+      },
+      "Espaguetis jamon": { 
+       "price": 1100 
+      },
+      "Espaguetis chorizo": { 
+       "price": 1100 
+      },
+      "Espaguetis alfredo de jamon": { 
+       "price": 1150 
+      },
+      "Pizza napolitana": { 
+       "price": 850 
+      },
+      "Diverxo": { 
+       "price": 1950 
+      }
+    },
+    "Fittings": { 
+      "Jamon": { 
+       "price": 350 
+      },
+      "Atun": { 
+       "price": 500
+      },
+      "Chorizo": { 
+       "price": 350 
+      },
+      "Aceituna": { 
+       "price": 500 
+      },
+      "Queso": { 
+       "price": 350 
+      }
+    },
+    "Drink": { 
+      "termo de cerveza": { 
+       "price": 2160 
+      }
+    }
+  },
+  "location": { 
+    "address": "Calzada de 10 de octubre #904 entre Luz Oeste y Lacret",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.098545,-82.362214]  
+  }
+}

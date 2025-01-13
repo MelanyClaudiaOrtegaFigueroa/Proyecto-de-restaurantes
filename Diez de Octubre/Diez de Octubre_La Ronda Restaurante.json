@@ -337,6 +337,6 @@
   "location": { 
     "address": "calle Guasabacoa esquina calzada de Luyano",
     "distric": "Diez de Octubre",
-    "coordinates": "23.1057291,-82.3581364"  
+    "coordinates": [23.1057291,-82.3581364]  
   }
 } 

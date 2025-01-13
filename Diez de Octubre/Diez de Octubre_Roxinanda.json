@@ -1,0 +1,79 @@
+{
+  "name": "Roxinanda",
+  "phone_number": "null",
+  "web_page": "null",
+  "type": "Cafeteria",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "24h",
+    "Tuesday": "24h",
+    "Wendsday": "24h",
+    "Thursday": "24h",
+    "Friday": "24h",
+    "Saturday": "24h",
+    "Sunday": "24h"
+  },
+  "reservation": "null",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "10% por servicio",
+  "facebook": "null",
+  "instagrm": "null",
+  "menu": {
+    "Main_Course": { 
+      "Hamburguesa cerdo": { 
+       "price": 640
+      },
+      "Hamburguesa pollo": { 
+       "price": 650
+      },
+      "Hamburguesa res": { 
+       "price": 690
+      },
+      "Sandwich": { 
+       "price": 350
+      },
+      "Sandwich especial": { 
+       "price": 450
+      }
+    },
+    "Drink": { 
+      "Refresco": { 
+       "price": 270
+      },
+      "Pepsi": { 
+       "price": 320
+      },
+      "Jugo lata": { 
+       "price": 280
+      },
+      "Kermato": { 
+       "price": 480
+      },
+      "Cristal": { 
+       "price": 300
+      },
+      "Hollandia": { 
+       "price": 300
+      },
+      "Stella": { 
+       "price": 400
+      }
+    }  
+  },
+  "location": { 
+    "address": "esquina de Santa Catalina y calzada de 10 de Octubre",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.093504,-82.364224]  
+  }
+}

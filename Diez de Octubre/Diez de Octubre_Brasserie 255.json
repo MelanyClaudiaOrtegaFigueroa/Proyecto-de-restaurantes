@@ -1,0 +1,304 @@
+{
+  "name": "Brasserie 255",
+  "phone_number": "76395989 and 56147642",
+  "web_page": "http://www.voya-havana.com/",
+  "type": "Restaurante",
+  "type_cuisine": "cubana e internacional",
+  "days_hours": {
+    "Monday": "08:00-23:00",
+    "Tuesday": "08:00-23:00",
+    "Wendsday": "08:00-23:00",
+    "Thursday": "08:00-23:00",
+    "Friday": "08:00-23:00",
+    "Saturday": "08:00-23:00",
+    "Sunday": "08:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "silla de rueda",
+  "facilities": "aparcamiento",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "null",
+  "instagrm": "@brasserie255",
+  "menu": { 
+    "Starters": {
+      "pan": {
+       "price": 1500
+      },
+      "entrante iberico": {
+       "price": 4200
+      },
+      "hummus": {
+       "price": 1200
+      },
+      "coctel de langosta": {
+       "price": 3900
+      },
+      "carpaccio": {
+       "price": 4500
+      }, 
+      "rockefeller": {
+       "price": 3600
+      },
+      "bisque": {
+       "price": 3600
+      },
+      "cebiche": {
+       "price": 3900
+      },
+      "tataki": {
+       "price": 4500
+      },
+      "croqueta": {
+       "price": 1800
+      },
+      "ratatouille": {
+       "price": 2700
+      },
+      "Tartar": {
+       "price": 3900
+      },
+      "nicolse": {
+       "price": 4800
+      },
+      "voya": {
+       "price": 3600
+      },
+      "feta": {
+       "price": 4500
+      },
+      "peri peri": {
+       "price": 4800
+      },
+      "bolognesa": {
+       "price": 4500
+      },
+      "ajillo": {
+       "price": 5100
+      },
+      "pesto": {
+       "price": 3600
+      }
+    },
+    "Main_Course": {
+      "risotto": {
+       "price": 4500
+      },
+      "ropa vieja": {
+       "price": 4800
+      },
+      "salmon": {
+       "price": 6000
+      },
+      "dorada": {
+       "price": 6600
+      },
+      "pechuga de pollo al curry": {
+       "price": 4800
+      }, 
+      "langosta temidor": {
+       "price": 7200
+      }, 
+      "tagliata de res": {
+       "price": 7500
+      },
+      "camarones al ajillo": {
+       "price": 6300
+      },
+      "lonjas de cerdo": {
+       "price": 6600
+      },
+      "salomillo de res": {
+       "price": 7800
+      },
+      "lenguado de dovier": {
+       "price": 7500
+      }
+    },
+    "Fittings": {
+      "vegetales salteados": {
+       "price": 900
+      },
+      "pure de malanga": {
+       "price": 900
+      },
+      "pure de boniatos": {
+       "price": 1200
+      },
+      "ensalada de vegetales": {
+       "price": 1500
+      },
+      "papas fritas": {
+       "price": 1200
+      },
+      "arroz blanco": {
+       "price": 900
+      },
+      "arroz pilaf": {
+       "price": 1200
+      },
+      "platanos maduros fritos": {
+       "price": 900
+      }
+    },
+    "Desserts": {
+      "Yogurt Bowl": {
+       "price": 1200
+      },
+      "Tostada Caprese": {
+       "price": 1500
+      },
+      "Dos huevos a su gusto": {
+       "price": 1200
+      },
+      "Huevo Benedictino": {
+       "price": 1800
+      },
+      "Huevo Royale": {
+       "price": 1800
+      },
+      "Tortilla": {
+       "price": 1800
+      },
+      "Panini Desayuno": {
+       "price": 2400
+      },
+      "Crepes": {
+       "price": 1500
+      },
+      "Panquecques": {
+       "price": 1500
+      }
+    },
+    "Drink": {
+      "VOYA Martini": {
+       "price": 2100
+      },
+      "Secret Garden Mojito": {
+       "price": 1800
+      },
+      "El Eloquente": {
+       "price": 2700
+      },
+      "VOYA Kir Royale": {
+       "price": 2100
+      },
+      "Pink Martini": {
+       "price": 1800
+      },
+      "Mojito": {
+       "price": 1500
+      },
+      "Mojito de Frutas": {
+       "price": 1500
+      },
+      "Daiquiri": {
+       "price": 1500
+      },
+      "Cuba Libre": {
+       "price": 1500
+      },
+      "Tom Collins": {
+       "price": 1800
+      },
+      "Margarita": {
+       "price": 2100
+      },
+      "Bloody Mary": {
+       "price": 2400
+      },
+      "Cosmopolitan": {
+       "price": 1800
+      },
+      "Sex on the Beach": {
+       "price": 1800
+      },
+      "Blue Lagoon": {
+       "price": 1800
+      },
+      "Caipirinha": {
+       "price": 1500
+      },
+      "Caipiroska": {
+       "price": 1500
+      },
+      "Piña Colada": {
+       "price": 2100
+      },
+      "Sangria": {
+       "price": 1800
+      },
+      "Gin & Tonic": {
+       "price": 1800
+      },
+      "Long Island": {
+       "price": 2100
+      },
+      "Screwdriver": {
+       "price": 1800
+      },
+      "Mexica Silver": {
+       "price": 1200
+      },
+      "Mexica Reposado": {
+       "price": 1200
+      },
+      "Americano": {
+       "price": 1050
+      },
+      "Cafe Latte": {
+       "price": 1200
+      },
+      "Cortado": {
+       "price": 1050
+      },
+      "Cappuccino": {
+       "price": 1200
+      },
+      "Latte Macchiato": {
+       "price": 1200
+      },
+      "Chocolate Caliente": {
+       "price": 1200
+      },
+      "Frappuccino": {
+       "price": 1500
+      },
+      "Infusion de Menta Fresca": {
+       "price": 900
+      },
+      "Infusion de Seleccion Fairtrade": {
+       "price": 900
+      },
+      "Cafe Irlandes": {
+       "price": 2100
+      },
+      "Cafe Italiano": {
+       "price": 1800
+      },
+      "Agua Tonica Importado": {
+       "price": 1200
+      },
+      "Limonada": {
+       "price": 1200
+      },
+      "Jugo Natural": {
+       "price": 900
+      }
+    }
+  },  
+  "location": { 
+    "address": "calle Juan Delgado #255 entre Santa Catalina y Milagros",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.096158449636288, -82.37468476578913]  
+  }
+}

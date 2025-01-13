@@ -1,0 +1,110 @@
+{
+  "name": "D'Mitu",
+  "phone_number": "76988258 and 53578505",
+  "web_page": "https://pizzeria-dmitu.ola.click/",
+  "type": "Restaurante",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "null",
+    "Tuesday": "10:00-22:00",
+    "Wendsday": "10:00-22:00",
+    "Thursday": "10:00-22:00",
+    "Friday": "10:00-22:00",
+    "Saturday": "10:00-22:00",
+    "Sunday": "10:00-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "presentaciones en vivo and musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "D'mytu",
+  "instagrm": "@d_mitu.restaurante",
+  "menu": { 
+    "Main_Course": { 
+      "Pizza Hawaiana": { 
+       "price": 520
+      },
+      "Pizza Chorizo": { 
+       "price": 500
+      },
+      "Pizza de Jamon": { 
+       "price": 490 
+      },
+      "Pizza Queso": { 
+       "price": 380
+      },
+      "Super Pizza Mixta": { 
+       "price": 900
+      },
+      "Super Pizza Hawaiana": { 
+       "price": 800
+      },
+      "Super Pizza de Chorizo": { 
+       "price": 780
+      },
+      "Super Pizza de Jamon": { 
+       "price": 750
+      },
+      "Super Pizza de Queso": { 
+       "price": 600
+      },
+      "Canelones": { 
+       "price": 450
+      },
+      "Lasaña": { 
+       "price": 500 
+      },
+      "Raviolis": { 
+       "price": 650 
+      },
+      "Farfalle": { 
+       "price": 500 
+      },
+      "Espaguetis": { 
+       "price": 500 
+      },
+      "Pizza Familiar mixta Con bordes jamon y queso": { 
+       "price": 1200 
+      },
+      "Pizza Familiar mixta Sin bordes jamon y queso": { 
+       "price": 1000 
+      },
+      "Pastelon": { 
+       "price": 850 
+      },
+      "Fugazzeta D'Mitu": { 
+       "price": 980 
+      },
+      "Pizza Sol": { 
+       "price": 750 
+      },
+      "Pizza D'Mitu": { 
+       "price": 380 
+      },
+      "Takazo": { 
+       "price": 600 
+      },
+      "Calzone D'Mitu": { 
+       "price": 480 
+      },
+      "Super Takaso": { 
+       "price": 950 
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela,La Vibora",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.086296,-82.364917]  
+  }
+}

@@ -89,6 +89,6 @@
   "location": { 
     "address": "Avenida Acosta esquina Juan Delgado",
     "distric": "Diez de Octubre",
-    "coordinates": "23.089309,-82.376036"  
+    "coordinates": [23.089309,-82.376036]  
   }
 } 
