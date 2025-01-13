@@ -1,0 +1,164 @@
+{
+  "name": "Cafe del Angel-Jacqueline Fumero",
+  "phone_number": "78644029 and 78015162",
+  "web_page": "https://cafedelangeljf.com/",
+  "type": "restaurante-bar",
+  "type_cuisine": "italiana,internacional and rapida",
+  "days_hours": {
+    "Monday": "08:00-22:00",
+    "Tuesday": "08:00-22:00",
+    "Wendsday": "08:00-22:00",
+    "Thursday": "08:00-22:00",
+    "Friday": "08:00-22:00",
+    "Saturday": "08:00-22:00",
+    "Sunday": "08:00-22:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "parqueo,silla de rueda,admite perros and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "Cafe Del Angel-Jacqueline Fumero",
+  "instagrm": "@cafedelangeljf",
+  "menu": {
+    "Starters": {
+      "croqueta": {
+       "price": 1480
+      },
+      "tacos de cerdo": {
+       "price": 2200
+      },
+      "tacos de camaron": {
+       "price": 2380
+      },
+      "tabla mixta": {
+       "price": 4000
+      },
+      "rillete de cerdo": {
+       "price": 1500
+      },
+      "brusquetas mixtas": {
+       "price": 2200
+      },
+      "empanadas de queso": {
+       "price": 1400
+      },
+      "ensalada de la casa": {
+       "price": 2340
+      }
+    },
+    "Main_Course": {
+      "salomillo de cerdo": {
+       "price": 4200
+      },
+      "ropa vieja": {
+       "price": 3580
+      },
+      "pollo mediterraneo": {
+       "price": 2340
+      },
+      "pescado a la siciliana": {
+       "price": 3580
+      },
+      "costilla de cerdo": {
+       "price": 4950
+      },
+      "langosta": {
+       "price": 5400
+      },
+      "hamburguesa de res": {
+       "price": 3200
+      },
+      "baguette de jamon y queso": {
+       "price": 1600
+      },
+      "sandwich de atun": {
+       "price": 1530
+      },
+      "bocata catalana": {
+       "price": 2400
+      },
+      "sandwich Cubano": {
+       "price": 2600
+      },
+      "sandwich hawaiano": {
+       "price": 1530
+      },
+      "espaghettis pomodoro": {
+       "price": 1530
+      },
+      "espaghettis altamar": {
+       "price": 3450
+      },
+      "espaghettis pesto": {
+       "price": 2200
+      },
+      "espaghettis amatriciana": {
+       "price": 3200
+      },
+      "raviolli carbonara": {
+       "price": 3200
+      },
+      "ragu cordero": {
+       "price": 3450
+      }
+    },
+    "Desserts": {
+      "mousse de chocolate": {
+       "price": 1925
+      },
+      "arroz con leche": {
+       "price": 1500
+      },
+      "maracuya": {
+       "price": 1925
+      },
+      "dados de maracuya": {
+       "price": 1500
+      }
+    },
+    "Breafast": {
+      "desayuno del angel": {
+       "price": 2340
+      },
+      "desayuno americano": {
+       "price": 2400
+      },
+      "desayuno continental": {
+       "price": 1600
+      },
+      "yogurt": {
+       "price": 1360
+      },
+      "croissant": {
+       "price": 2500
+      },
+      "ommelette al queso": {
+       "price": 1630
+      },
+      "panqueque": {
+       "price": 1700
+      },
+      "bagel nordico": {
+       "price": 2450
+      },
+      "bagel catalan": {
+       "price": 2450
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Compostela #1 esquina cuarteles,Plazuela del Angel",
+    "distric": "Habana Vieja",
+    "coordinates": [23.141813520596248, -82.35557268676676]  
+  }
+}

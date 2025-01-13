@@ -123,6 +123,6 @@
   "location": { 
     "address": "Calle Obispo #460",
     "distric": "Habana Vieja",
-    "coordinates": "23.1394489,-82.3509076"  
+    "coordinates": [23.1394489,-82.3509076]  
   }
 }

@@ -79,6 +79,6 @@
   "location": { 
     "address": "Obispo numero 301",
     "distric": "Habana Vieja",
-    "coordinates": "23.138582,-82.353104"  
+    "coordinates": [23.138582,-82.353104]  
   }
 }

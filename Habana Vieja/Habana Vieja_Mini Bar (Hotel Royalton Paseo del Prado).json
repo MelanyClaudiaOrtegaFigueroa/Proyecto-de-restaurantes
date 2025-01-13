@@ -60,6 +60,6 @@
  "location": { 
    "address": "Prado y Malecon",
    "distric": "Habana Vieja",
-   "coordinates": "23.145546,-82.358528"  
+   "coordinates": [23.145546,-82.358528]  
   }
 }

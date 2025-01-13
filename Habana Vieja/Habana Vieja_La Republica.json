@@ -1,0 +1,242 @@
+{
+  "name": "La Republica",
+  "phone_number": "7860080",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "italiana",
+  "days_hours": {
+    "Monday": "12:00-23:00",
+    "Tuesday": "12:00-23:00",
+    "Wendsday": "12:00-23:00",
+    "Thursday": "12:00-23:00",
+    "Friday": "12:00-23:00",
+    "Saturday": "12:00-23:00",
+    "Sunday": "12:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "null",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "null",
+  "facilities": "silla de rueda and restaurantes de no fumadores",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@italiancuisine_la_republica",
+  "menu": { 
+    "Main_Course": {
+      "Salsas al oleo al ajo, aceite de oliva y camarones": {
+       "price": 2250
+      },
+      "Salsas al oleo al pesto genovese": {
+       "price": 2100
+      },
+      "Salsas al oleo aglio, oleo y peperoncino": {
+       "price": 850
+      },
+      "Salsas blancas napolitana con jamon y queso": {
+       "price": 650
+      },
+      "Salsas blancas a la carbonara": {
+       "price": 1600
+      },
+      "Salsas blancas con crema alfredo y pollo": {
+        "price": 2450
+      },
+      "Salsas blancas al gran caruso": {
+       "price": 1850
+      },
+      "Penne con albondigas de carne gratinada": {
+        "price": 2300
+      },
+      "Canelones de jamon": {
+       "price": 1800
+      },
+      "Lasagna carne alfredo": {
+       "price": 2700
+      },
+      "Involtino de cerdo con jamon y queso": {
+       "price": 2700
+      },
+      "Filete de pescado grille": {
+       "price": 2500
+      },
+      "Langosta grille": {
+        "price": 2600
+      },
+      "Langosta asada con camarones": {
+        "price": 3800
+      },
+      "Filete de salmon": {
+       "price": 3300
+      },
+      "Entrecotte grille a la mantequilla y romero": {
+       "price": 7500
+      }
+    },
+    "Starters": {
+      "Focaccia al oregano": {
+       "price": 350
+      },
+      "Seleccion de embutidos y queso de la casa": {
+       "price": 2700
+      },
+      "Berenjena a la parmesana": {
+       "price": 1600
+      },
+      "Brusqueta de pomodoro gratinada": {
+       "price": 1400
+      },
+      "Ensalada cesar de pollo a la parrilla": {
+       "price": 1450
+      },
+      "Ensalada estacion": {
+       "price": 650
+      },
+      "Crema de Tomate, albahaca y parmigiano": {
+       "price": 840
+      },
+      "Crema Bechamel y mucho queso": {
+       "price": 850
+      },
+      "Pasta A la napolitana": {
+       "price": 800
+      },
+      "Pasta A la bolognesa": {
+       "price": 1800
+      },
+      "Pasta A la arrabiata": {
+        "price": 1000
+      },
+      "Pasta A la marinera": {
+       "price": 2000
+      },
+      "Pasta Con atun": {
+       "price": 2200
+      },
+      "Pasta A la langosta": {
+       "price": 1670
+      },
+      "Pasta Con albondigas de carne": {
+       "price": 2400
+      },
+      "Pizza margarita": {
+       "price":  1500
+      },
+      "Pizza 4 estaciones": {
+       "price": 2000
+      },
+      "Pizza atun y cebolla": {
+       "price": 2500
+      },
+      "Pizza jamon y champiñon": {
+       "price":  2400
+      },
+      "Pizza hawaiana": {
+       "price":  1900
+      },
+      "Pizza caprichosa": {
+       "price":  2700
+      },
+      "Pizza honolulu": {
+       "price":  2270
+      },
+      "Calzone": {
+       "price":  2200
+      },
+      "Pizza italiana": {
+       "price":  2350
+      },
+      "Pizza pepperoni": {
+       "price": 2000
+      },
+      "Pizza de frutos del mar": {
+       "price": 2500
+      }
+    },
+    "Additions": {
+      "Jamon cocido": {
+       "price": 360
+      },
+      "Jamon serrano": {
+       "price": 590
+      },
+      "Bacon": {
+       "price": 260
+      },
+      "Salami": {
+       "price": 480
+      },
+      "Atun": {
+       "price": 240
+      },
+      "Camarones": {
+       "price": 440
+      },
+      "Queso azul": {
+       "price": 420
+      },
+      "Piña": {
+       "price": 100
+      },
+      "Queso parmesano": {
+       "price": 450
+      },
+      "Queso gouda": {
+       "price": 250
+      },
+      "Pimiento": {
+       "price": 90
+      },
+      "Cebolla": {
+       "price": 90
+      },
+      "Tomate natural": {
+       "price": 150
+      },
+      "Huevo": {
+       "price": 100
+      },
+      "Champiñones": {
+       "price": 200
+      },
+      "Maiz dulce": {
+       "price": 150
+      },
+      "Aceituna verde o negras": {
+       "price": 180
+      }
+    },
+    "Desserts": {
+      "Brownie con helado": {
+       "price": 800
+      },
+      "Tarta de manzana con helado": {
+       "price": 800
+      },
+      "Tarta de chocolate con helado": {
+       "price": 600
+      },
+      "Flan napolitano": {
+       "price": 800
+      },
+      "Helado de la casa": {
+       "price": 450
+      },
+      "3 leches de la casa": {
+       "price": 1300
+      }
+    }
+  },
+  "location": {
+    "address": "Calle Cuba #90 esquina Chacon",
+    "distric": "Habana Vieja",
+    "coordinates": [23.141884,-82.353530]  
+  }
+}

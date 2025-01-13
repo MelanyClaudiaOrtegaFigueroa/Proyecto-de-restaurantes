@@ -145,6 +145,6 @@
   "location": { 
     "address": "calle Obisbo #509A entre Villegas y Bernanza",
     "distric": "Habana Vieja",
-    "coordinates": "23.13858813237512, -82.35343188901001"  
+    "coordinates": [23.13858813237512, -82.35343188901001]  
   }
 } 

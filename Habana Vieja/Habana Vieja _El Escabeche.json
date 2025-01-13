@@ -68,6 +68,6 @@
   "location": { 
     "address": "Calle Obispo esquina Villages",
     "distric": "Habana Vieja",
-    "coordinates": "23.1377165,-82.3561681"  
+    "coordinates": [23.1377165,-82.3561681]  
   }
 } 

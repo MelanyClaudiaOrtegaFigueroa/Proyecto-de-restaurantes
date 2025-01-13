@@ -131,6 +131,6 @@
   "location": { 
     "address": "Paseo del Marti,esquina Neptuno",
     "distric": "Habana Vieja",
-    "coordinates": "23.138335746357185, -82.35952394070056"  
+    "coordinates": [23.138335746357185, -82.35952394070056]  
   }
 } 

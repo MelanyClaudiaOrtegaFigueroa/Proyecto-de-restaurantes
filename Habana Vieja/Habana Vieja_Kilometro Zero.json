@@ -1,0 +1,271 @@
+{
+  "name": "Kilometro Zero",
+  "phone_number": "59710666 and 78600116",
+  "web_page": "https://kilometrozerocuba.com/en-us/",
+  "type": "restaurante-bar",
+  "type_cuisine": "Caribeña,Cubana e Internacional",
+  "days_hours": {
+    "Monday": "08:00-02:00",
+    "Tuesday": "08:00-02:00",
+    "Wendsday": "08:00-02:00",
+    "Thursday": "08:00-02:00",
+    "Friday": "08:00-02:00",
+    "Saturday": "08:00-02:00",
+    "Sunday": "08:00-02:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "Television,baile,presentaciones and Musica en vivo",
+  "facilities": "Silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "Paladar Kilometro Zero",
+  "instagrm": "@kilometrozeropaladar",
+  "menu": {
+    "Starters": {
+      "Cesta de Pan": {
+        "price": 640
+      },
+      "Baguette Guacamole": {
+       "price": 950
+      },
+      "Croquetas de la Casa": {
+       "price": 1140
+      },
+      "Quesadilla de Vaca Frita": {
+       "price": 1760
+      },
+      "Tacos de la Casa": {
+       "price": 1795
+      },
+      "Tamal Cubano": {
+       "price": 2080
+      },
+      "Ceviche": {
+       "price": 2225
+      },
+      "Carpaccio de Pescado": {
+       "price": 2300
+      },
+      "Carpaccio de Res": {
+       "price": 3000
+      }
+    },
+    "Main_Course": {
+      "Pollo Morena": {
+        "price": 2865
+      },
+      "Vaca Frita": {
+       "price": 2940
+      },
+      "Ropa Vieja": {
+       "price": 2970
+      },
+      "Lonjas de Cerdo": {
+       "price": 3040
+      },
+      "Masas de Cerdo": {
+        "price": 3075
+      },
+      "Pesca del Dia": {
+       "price": 4480
+      },
+      "Camaron al Gusto": {
+        "price": 5250
+      },
+      "Langosta al Gusto": {
+        "price": 5950
+      },
+      "Punta de Filete": {
+        "price": 6200
+      },
+      "Ensalada Organica": {
+       "price": 995
+      },
+      "Garbanzo frito": {
+       "price": 2240
+      },
+      "Solomillo de Ternera": {
+       "price": 8300
+      },
+      "Langosta KM": {
+        "price": 6650
+      },
+      "Caldereta de Mariscos": {
+       "price": 9800
+      },
+      "Pescado Entero al Josper": {
+        "price": 6450
+      },
+      "Pulpito frito": {
+       "price": 8990
+      }
+    },
+    "Fittings": {
+      "Arroz Blanco": {
+       "price": 580
+      },
+      "Arroz Congris": {
+       "price": 580
+      },
+      "Frijoles Negros": {
+       "price": 620
+      },
+      "Vianda Frita": {
+       "price": 640
+      },
+      "Papas Fritas": {
+       "price": 1085
+       }
+    },
+    "Desserts": {
+      "Postre del dia": {
+       "price": 960
+      }
+    },
+    "Drink": {
+      "Idea 43": {
+       "price": 2325
+      },
+      "Pacto Zero": {
+       "price": 2760
+      },
+      "Aperol Gin": {
+        "price": 2015
+      },
+      "Sex on KM": {
+        "price": 2015
+      },
+      "Limoncello Spritz": {
+       "price": 1860
+      },
+      "Cerveza Cristal (bot)": {
+       "price": 3000
+      },
+      "Cerveza Estrella Galicia (bot)": {
+       "price": 900
+      },
+      "Chelada (+ Cerveza)": {
+       "price": 3100
+      },
+      "Michelada (+ Cerveza)": {
+        "price": 4650
+      },
+      "Mojito Capitolio": {
+       "price": 1705
+      },
+      "Mojito Black Tears": {
+       "price": 1705
+      },
+      "Santiago Dark": {
+        "price": 1860
+      },
+      "Piña Colada Tentacion": {
+       "price": 1950
+      },
+      "Cuban Flavor": {
+       "price": 1860
+      },
+      "Gin Tonic Afrodisiaco": {
+       "price": 1950
+      },
+      "El Tropical": {
+       "price": 1785
+      },
+      "Mojito": {
+       "price": 1085
+      },
+      "Daiquiri": {
+       "price": 1085
+      },
+      "Cuba Libre": {
+        "price": 1250
+      },
+      "Havana Special": {
+        "price": 1085
+      },
+      "Cubanito": {
+       "price": 1250
+      },
+      "Ron Fashioned": {
+       "price": 1705
+      },
+      "Cuban Manhattan": {
+        "price": 1705
+      },
+      "Los Caipis": {
+       "price": 1250
+      },
+      "Moscow Mule": {
+        "price": 2015
+      },
+      "Bloody Mary XL": {
+        "price": 2945
+      },
+      "Screwdriver": {
+       "price": 1250
+      },
+      "Vodka Tonic": {
+        "price": 1860
+      },
+      "Gin Tonic": {
+       "price": 1860
+      },
+      "Martini": {
+       "price": 1705
+      },
+      "Negroni": {
+       "price": 1860
+      },
+      "Margarita": {
+       "price": 1395
+      },
+      "Long Island": {
+       "price": 1860
+      },
+      "Orgasmo": {
+       "price": 1705
+      },
+      "Amaretto Sour": {
+       "price": 1705
+      },
+      "Sangria": {
+        "price": 1550
+      },
+      "Sangria afrutada-saborizados": {
+       "price": 2015
+      },
+      "Agua Natural Nacional (355ml)": {
+        "price": 650
+      },
+      "Agua Tónica Nacional (355ml)": {
+       "price": 660
+      },
+      "Refrescos Importados (330ml)": {
+       "price": 675
+      },
+      "Malta Bucanero (355ml)": {
+       "price": 900
+      },
+      "Jugos Naturales (8 onzas)": {
+       "price": 640
+      },
+      "Limonada Frescura (10 onzas)": {
+       "price": 960
+      }
+    }
+  },
+  "location": { 
+    "address": "Monserrate No. 437 esq. Teniente Rey",
+    "distric": "Habana Vieja",
+    "coordinates": [23.135690,-82.357145]  
+  }
+}

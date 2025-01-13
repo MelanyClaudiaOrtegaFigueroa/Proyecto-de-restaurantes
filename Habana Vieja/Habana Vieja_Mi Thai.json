@@ -126,6 +126,6 @@
   "location": { 
     "address": "calle Prado no. 308 entre Animas y Virtudes",
     "distric": "Habana Vieja",
-    "coordinates": "23.139334,-82.359387"  
+    "coordinates": [23.139334,-82.359387]  
   }
 }

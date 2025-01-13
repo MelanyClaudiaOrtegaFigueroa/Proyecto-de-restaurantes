@@ -122,6 +122,6 @@
  "location": { 
    "address": "Calle Obrapía entre Bernaza y Villegas",
    "distric": "Habana Vieja",
-   "coordinates": "23.137320,-82.356453"  
+   "coordinates": [23.137320,-82.356453]  
   }
 }

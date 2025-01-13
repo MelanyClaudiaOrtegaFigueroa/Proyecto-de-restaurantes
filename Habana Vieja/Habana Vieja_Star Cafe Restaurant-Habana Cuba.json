@@ -1,0 +1,348 @@
+{
+  "name": "Star Cafe Restaurant-Habana Cuba",
+  "phone_number": "63965030 and 50351266",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "Cubana bebidas e internacional",
+  "days_hours": {
+    "Monday": "07:00-02:00",
+    "Tuesday": "07:00-02:00",
+    "Wendsday": "07:00-02:00",
+    "Thursday": "07:00-02:00",
+    "Friday": "07:00-02:00",
+    "Saturday": "07:00-02:00",
+    "Sunday": "07:00-02:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "musica en vivo,show and television",
+  "facilities": "aparcamiento,Terraza exterior,Admite perros and silla de rueda",
+  "daycare": "null",
+  "discount_promotions": "+10% por servicio",
+  "facebook": "Star Cafe-Habana Cuba",
+  "instagrm": "@starcafe_cuba",
+  "menu": { 
+    "Breakfast": { 
+      "Huevos al gusto": { 
+       "price": 950
+      },
+      "Jamon y queso": { 
+       "price": 1300
+      },
+      "Crepes dulce": { 
+       "price": 1700
+      },
+      "Crepes salada": { 
+       "price": 1900
+      },
+      "Croissant dulce": { 
+       "price": 1600
+      },
+      "Croissant salada": { 
+       "price": 1900
+      },
+      "Hot Cake Pancake": { 
+       "price": 1700
+      },
+      "Torrejas French Toast": { 
+       "price": 1300
+      }
+    },
+    "Starters": { 
+      "Croquetas": { 
+       "price": 900
+      },
+      "Bruschetta mixta": { 
+       "price": 900
+      },
+      "Toston de platano maduro con jamon y queso": { 
+       "price": 1000
+      },
+      "Toston de platano maduro con atun": { 
+       "price": 1100
+      },
+      "Berenjena a la Parmesana": { 
+       "price": 1800
+      },
+      "Lasagna de jamon y queso": { 
+       "price": 1800
+      }
+    },
+    "Main_Course": { 
+      "Penne con salmon": { 
+       "price": 2500
+      },
+      "Penne con camarones": { 
+       "price": 2700
+      },
+      "Penne vegetariano": { 
+       "price": 2000
+      },
+      "Camarones al gusto": { 
+       "price": 3600
+      },
+      "Pulpo al gusto": { 
+       "price": 4000
+      },
+      "Taco de cerdo o res": { 
+       "price": 4200
+      },
+      "Nachos": { 
+       "price": 4200
+      },
+      "Picadera": { 
+       "price": 6000
+      },
+      "Brocheta de pollo y cerdo": { 
+       "price": 4200
+      },
+      "Bistec encebollado": { 
+       "price": 4000
+      },
+      "Ropa vieja": { 
+       "price": 4000
+      },
+      "Pechuga a la Milanesa": { 
+       "price": 4000
+      },
+      "STAR CAFE": { 
+       "price": 2850
+      },
+      "CONTINENTAL": { 
+       "price": 2500
+      },
+      "AMERICANO": { 
+       "price": 2700
+      },
+      "FRANCESA": { 
+       "price": 2750
+      },
+      "MAÑANA DULCE": { 
+       "price": 2900
+      },
+      "NORDIC BRUNCH": { 
+       "price": 3200
+      },
+      "Sandwiches Toston Europeo": { 
+       "price": 1600
+      },
+      "Club Sandwich": { 
+       "price": 2400
+      },
+      "Pan Perro": { 
+       "price": 1600
+      },
+      "Hamburguesa Combo": { 
+       "price": 2150
+      },
+      "Sandwiches Huevo adicional": {       
+       "price": 700
+      },
+      "Sandwich Cubano": { 
+       "price": 3000
+      },
+      "Porcion de focaccia natural": { 
+       "price": 600
+      },
+      "Porcion de focaccia con jamon y queso": { 
+       "price": 850
+      },
+      "Focaccia entera natural": { 
+       "price": 1100
+      },
+      "Focaccia entera con jamon y queso": { 
+       "price": 1800
+      },
+      "Pizza Margarita": { 
+       "price": 1300
+      },
+      "Pizza Jamon Serrano": { 
+       "price": 3000
+      },
+      "Pizza Chorizo": { 
+       "price": 1800
+      },
+      "Pizza Atun y cebolla": { 
+       "price": 2400
+      },
+      "Pizza Hawaiana": { 
+       "price": 1800
+      },
+      "Pizza Vegetales": { 
+       "price": 2400
+      },
+      "Pizza focaccia": { 
+       "price": 1200
+      },
+      "Pizza Mixta": { 
+       "price": 2500
+      },
+      "Ensalada Caesar salad": { 
+       "price": 2600
+      },
+      "Ensalada Caraibi salad": { 
+        "price": 3000
+      }
+    },
+    "Fittings": { 
+      "Congris": { 
+       "price": 800
+      },
+      "Judias": { 
+       "price": 1100
+      },
+      "Patatas fritas": { 
+        "price": 1100
+      },
+      "Verduras saladas": { 
+       "price": 800
+      },
+      "Ensalada mixta": { 
+       "price": 1050
+      }
+    },
+    "Desserts": { 
+      "Torrejas": { 
+       "price": 1300
+      },
+      "Arroz con leche": { 
+       "price": 950
+      },
+      "Dulce de coco": { 
+       "price": 950
+      },
+      "Dulce de fruta": { 
+       "price": 1050
+      },
+      "Crepes": { 
+        "price": 1600
+      },
+      "Cascaquito de guayaba": { 
+       "price": 950
+      },
+      "Churros": { 
+       "price": 1200
+      },
+      "Pizza frita dulce": { 
+       "price": 1400
+      },
+      "Pizza frita salada": { 
+       "price": 1700
+      }
+    },
+    "Drink": { 
+      "Espresso": { 
+       "price": 450
+      },
+      "Americano": { 
+       "price": 550
+      },
+      "Macchiato": { 
+       "price": 500
+      },
+      "Cafe con leche": { 
+       "price": 700
+      },
+      "Cappuccino": { 
+       "price": 650
+      },
+      "Cafe Latte": { 
+       "price": 650
+      },
+      "Mocha": { 
+       "price": 950
+      },
+      "Irlandes": { 
+       "price": 140
+      },
+      "Frappe": { 
+       "price": 750
+      },
+      "Caramel": { 
+       "price": 950
+      },
+      "Bonmello": { 
+       "price": 1300
+      },
+      "Cococcino": { 
+        "price": 1400
+      },
+      "Agua natural": { 
+       "price": 400
+      },
+      "Refresco": { 
+       "price": 700
+      },
+      "Malta": { 
+       "price": 800
+      },
+      "Energizzante": { 
+       "price": 800
+      },
+      "Mojito": { 
+       "price": 1000
+      },
+      "Cuba libre": { 
+       "price": 1050
+      },
+      "Caipiriña": { 
+       "price": 1100
+      },
+      "Caipiroska": { 
+       "price": 1100
+      },
+      "Caipirissima": { 
+       "price": 1100
+      },
+      "Piña Colada": { 
+       "price": 1200
+      },
+      "Sangria": { 
+       "price": 1200
+      },
+      "Tinto verano": { 
+       "price": 1100
+      },
+      "Havana 3 años": { 
+       "price": 800
+      },
+      "Havana Especial": { 
+       "price": 950
+      },
+      "Havana Reserva": { 
+       "price": 1050
+      },
+      "Santiago 12 años": { 
+       "price": 1200
+      },
+      "Cappuccino Nespresso": { 
+       "price": 750
+      },
+      "Jugos Naturales": { 
+       "price": 600
+      },
+      "Limonada Frappe": { 
+       "price": 600
+      },
+      "Limonada con Fruta": { 
+        "price": 800
+      },
+      "Smoothies (2 sabores a elegir)": { 
+       "price": 1600
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Empedrado entre Cuba y San Ignacio",
+    "distric": "Habana Vieja",
+    "coordinates": [23.140876,-82.351980]  
+  }
+}

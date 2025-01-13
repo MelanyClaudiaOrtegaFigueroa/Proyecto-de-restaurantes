@@ -77,6 +77,6 @@
   "location": { 
     "address": "Calle Amistad y Neptuno",
     "distric": "Habana Vieja",
-    "coordinates": "23.138054925577507, -82.3617393428607"  
+    "coordinates": [23.138054925577507, -82.3617393428607]  
   }
 }

@@ -1,0 +1,271 @@
+{
+  "name": "Speakeasy Bar Ley Seca",
+  "phone_number": "56685088,56077995 and 53119737",
+  "web_page": "null",
+  "type": "Bar-Restaurante",
+  "type_cuisine": "Cubana-Caribeña",
+  "days_hours": {
+    "Monday": "11:30-04:00",
+    "Tuesday": "11:30-04:00",
+    "Wendsday": "11:30-04:00",
+    "Thursday": "11:30-04:00",
+    "Friday": "11:30-04:00",
+    "Saturday": "11:30-04:00",
+    "Sunday": "11:30-04:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "baile,transmicion de eventos.show deportivos and musica",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "+10% por servicio",
+  "facebook": "Speakeasy Bar Ley Seca,La Habana vieja",
+  "instagrm": "@ley_seca_speakeasyhaban",
+  "menu": { 
+    "Starters": {
+      "Croquetas de pescado": {
+        "price": 1500
+      },
+      "Croquetas de pollo": {
+       "price": 1500
+      },
+      "Croquetas de embutido": {
+        "price": 1500
+      },
+      "Croquetas de queso": {
+       "price": 1500
+      },
+      "Sexy papas fritas": {
+        "price": 1800
+      },
+      "Empanadas de carne": {
+        "price": 2000
+      },
+      "Tacos de vegetales": {
+        "price": 2000
+      },
+      "Empanadas de queso": {
+       "price": 2000
+      },
+      "Tacos de pollo": {
+       "price": 2300
+      },
+      "Tacos de cerdo": {
+        "price": 2300
+      },
+      "Croquetas de Serrano": {
+        "price": 2600
+      },
+      "Tacos de res": {
+        "price": 3000
+      },
+      "Seleccion Charcut": {
+       "price": 3000
+      },
+      "Chupe de mariscos": {
+        "price": 3000
+      },
+      "Tacos de langosta": {
+        "price": 3500
+      },
+      "Garbanzos sin piedad": {
+        "price": 4500
+      },
+      "Ceviche Muuh!": {
+       "price": 2000
+      },
+      "Vegetales We Trust": {
+       "price": 2000
+      },
+      "Tartar Fish": {
+       "price": 2500
+      },
+      "Sandwich Ley Seca": {
+       "price": 2500
+      },
+      "Carpaccio de pulpo": {
+       "price": 3000
+      },
+      "Carpaccio de res": {
+        "price": 3000
+      },
+      "Tabla D' trafico": {
+       "price": 6000
+      },
+      "Un poquito D' To'": {
+        "price": 9000
+      },
+      "Pasta tres quesos": {
+        "price": 3000
+      },
+      "Pasta carbonara": {
+       "price": 3000
+      },
+      "Pasta Frutti di madre": {
+       "price": 4500
+      },
+      "Pasta al buey": {
+       "price": 5000
+      }
+    },
+    "Main_Course": {
+      "Pollo grille": {
+       "price": 2500
+      },
+      "Cerdo con masas": {
+       "price": 3000
+      },
+      "Ropa vieja": {
+        "price": 3000
+      },
+      "Balas D' camaron": {
+       "price": 3500
+      },
+      "Lomo de cerdo": {
+        "price": 4000
+      },
+      "Langosta ganster": {
+       "price": 4000
+      },
+      "Pescado al limon": {
+        "price": 3500
+      },
+      "Filete a la douche": {
+       "price": 5000
+      },
+      "Puntaroja": { 
+        "price": 5000
+      },
+      "Filete chateaubriand": { 
+       "price": 7000
+      },
+      "Filete clandestino": { 
+       "price": 7000
+      },
+      "Pulpo al gusto": { 
+       "price": 5000
+      },
+      "Pollo trufa y parmesano": { 
+       "price": 5200
+      },
+      "Rissotto de res": { 
+       "price": 7000
+      },
+      "Mignon": { 
+        "price": 7000
+      },
+      "Rissotto fhungi": { 
+       "price": 7000
+      },
+      "Arroz blackout": { 
+       "price": 7000
+      },
+      "Surtido de la ruta": { 
+        "price": 11000
+      }
+    },
+    "Desserts": { 
+      "Tarta de limon": { 
+       "price": 800
+      },
+      "Cheesecake": { 
+        "price": 800
+      },
+      "Casquitos de guayaba": { 
+       "price": 1000
+      },
+      "Torrejas": { 
+       "price": 1000
+      },
+      "Arroz con leche": { 
+        "price": 1000
+      }
+    },
+    "Drink": { 
+      "Jhonny Walker Red Label": { 
+       "price": 13000
+      },
+      "Jhonny Walker Black Label": { 
+       "price": 20000
+      },
+      "Jhonny Walker Green Label": { 
+        "price": 50000
+      },
+      "Jhonny Walker Gold Label": { 
+       "price": 60000
+      },
+      "Buchanan 12 años": { 
+       "price": 40000
+      },
+      "Buchanan Master": { 
+       "price": 70000
+      },
+      "Buchanan 18 años": { 
+       "price": 70000
+      },
+      "Chivas Regal 12 años": { 
+       "price": 18000
+      },
+      "Chivas Regal 18 años": { 
+       "price": 70000
+      },
+      "Jack Daniel": { 
+       "price": 25000
+      },
+      "HC Seleccion Maestros": { 
+       "price": 25000
+      },
+      "HC Pacto Navio": { 
+       "price": 30000
+      },
+      "Santiago 8 años": { 
+       "price": 12000
+      },
+      "Santiago 11 años": { 
+       "price": 25000
+      },
+      "HC 15 años": { 
+       "price": 60000
+      },
+      "Absolut": { 
+       "price": 12000
+      },
+      "Ciroc Sabor": { 
+        "price": 30000
+      },
+      "Grey Goose": { 
+       "price": 60000
+      },
+      "Moet Imperial": { 
+       "price": 60000
+      },
+      "Moet Ice": { 
+       "price": 70000
+      },
+      "Moet Rose": { 
+       "price": 80000
+      }
+    },
+    "Plus": { 
+      "Juegos de mesa": { 
+       "price": 2000
+      },
+      "Hooka": { 
+        "price": 10000
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Habana #416 entre Obispo y Obrapia",
+    "distric": "Habana Vieja",
+    "coordinates": [23.138290,-82.353528]  
+  }
+}

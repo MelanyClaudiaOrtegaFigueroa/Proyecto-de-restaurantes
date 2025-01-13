@@ -150,6 +150,6 @@
  "location": { 
    "address": "Calle Teniente Rey #360 entre Aguacate y Villegas",
    "distric": "Habana Vieja",
-   "coordinates": "23.135960,-82.354958"  
+   "coordinates": [23.135960,-82.354958]  
   }
 }

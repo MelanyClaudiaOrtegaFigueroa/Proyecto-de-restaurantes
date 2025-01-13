@@ -131,6 +131,6 @@
   "location": { 
     "address": "Calle Cienfuegos entre Apodaca y Gloria",
     "distric": "Habana Vieja",
-    "coordinates": "23.13143314332834, -82.3578247823828"  
+    "coordinates": [23.13143314332834, -82.3578247823828]  
   }
 } 

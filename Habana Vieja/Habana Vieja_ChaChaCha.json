@@ -1,0 +1,250 @@
+{
+  "name": "ChaChaCha",
+  "phone_number": "78672450 and 51968888",
+  "web_page": "https://restaurantechachacha.com/",
+  "type": "bar-restaurante",
+  "type_cuisine": "Cubana e Internacional",
+  "days_hours": {
+    "Monday": "12:00-00:00",
+    "Tuesday": "12:00-00:00",
+    "Wendsday": "12:00-00:00",
+    "Thursday": "12:00-00:00",
+    "Friday": "12:00-00:00",
+    "Saturday": "12:00-00:00",
+    "Sunday": "12:00-00:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "Estacionamiento gratuito",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "ChaChaCha Bar-Restaurante",
+  "instagrm": "@chachacha.havana",
+  "menu": { 
+    "Starters": {
+      "Ceviche de la Casa": {
+       "price": 3050
+      },
+      "Carpaccio de Pulpo con Vinagreta de Cítricos": {
+       "price": 3850
+      },
+      "Tiradito de Pez con Chicharrita": {
+       "price": 3050
+      },
+      "Carpaccio de Atun Rojo": {
+        "price": 4100
+      },
+      "Pan y Mantequilla": {
+       "price": 1150
+      },
+      "Croquetas Braseadas de Pollo": {
+       "price": 2250
+      },
+      "Crema de Calabaza, Betabel y Parmesano": {
+       "price": 1800
+      },
+      "Tacos ChaChaCha": {
+       "price": 2700
+      },
+      "Empanadillas de Carne BBQ": {
+       "price": 2250
+      },
+      "Tabla de Jamon Serrano, Salami y Quesos": {
+        "price": 5700
+      },
+      "Sashimi Ahumado": {
+       "price": 4100
+      },
+      "Tartar de Res": {
+       "price": 4450
+      },
+      "Tartar de Atun": {
+       "price": 4100
+      },
+      "Jorrin": {
+       "price": 3050
+      },
+      "Cesar con Pollo y Bacon": {
+       "price": 3850
+      },
+      "ChaChaCha": {
+       "price": 3850
+      },
+      "Mixta de Salmon": {
+       "price": 3850
+      },
+      "Griega": {
+       "price": 3400
+      },
+      "Salsa Boloñesa": {
+       "price": 3850
+      },
+      "Camaron, Curry y Pimienta Rosa": {
+       "price": 4100
+      },
+      "Salsa Alfredo": {
+        "price": 3850
+      },
+      "Salsa Funghi con Pollo y Trufa": {
+        "price": 4450
+      },
+      "Salsa Carbonara Trufada": {
+       "price": 4150
+      },
+      "Salsa Bisque al Fruti D'Mare": {
+       "price": 4900
+      },
+      "Risottos Nero di Sepia": {
+       "price": 4900
+      },
+      "Risottos Funghi - Porcini y Trufa": {
+       "price": 4560
+      },
+      "Risottos Del Mar": {
+       "price": 4560
+      },
+      "Risottos Carbonara Trufado": {
+       "price": 4180
+      },
+      "Risottos Semola y Trufa": {
+        "price": 4180
+      },
+      "Masas de Cerdo Confitadas": {
+       "price": 3800
+      },
+      "Lechon Cubano": {
+        "price": 4560
+      },
+      "Ropa Vieja de la Abuela": {
+       "price": 4180
+      },
+      "Picadillo a la Habanera": {
+       "price": 4180
+      },
+      "Solomillo de Cerdo Español": {
+       "price": 5320
+      },
+      "Puntas de Filete Estilo ChaChaCha": {
+       "price": 7600
+      },
+      "Arroz Thai de Pollo, Curry de Coco y Pasas": {
+       "price": 4180
+      },
+      "Entrecote de Ternera (350g)": {
+       "price": 10640
+      },
+      "Puntas de Cerdo BBQ": {
+       "price": 5320
+      },
+      "Filete de Pescado al Horno con Finas Hierbas": {
+       "price": 4180
+      },
+      "Langosta Caribeña": {
+        "price": 6460
+      },
+      "Zarzuela de Mariscos": {
+        "price": 10500
+      },
+      "Camarones al Gusto": {
+       "price": 6460
+      },
+      "Calamar Patagonico": {
+       "price": 6460
+      }
+    },
+    "Fittings": {
+      "Vianda Frita": {
+       "price": 760
+      },
+      "Pure de Temporada": {
+       "price": 1140
+      },
+      "Ensalada de Estacion": {
+       "price": 1520
+      },
+      "Arroz Blanco": {
+       "price": 760
+      },
+      "Frijoles Negros": {
+       "price": 1140
+      }
+    },
+    "Main_Course": {
+      "Coctel de Langosta": {
+       "price": 2660
+      },
+      "Patacon ChaChaCha": {
+       "price": 2700
+      },
+      "Quesadilla Cuatro Quesos": {
+       "price": 3420
+      },
+      "Papa Rellena de Camaron y Queso": {
+        "price": 2700
+      },
+      "Frituritas de Malanga": {
+       "price": 2250
+      },
+      "Tamal en Cazuela": {
+       "price": 1900
+      }
+    },
+    "Desserts": {
+      "Brownie": {
+       "price": 3000
+      },
+      "Esfera de Frutas": {
+       "price": 3000
+      },
+      "Bizcocho": {
+       "price": 2900
+      },
+      "Arroz con Leche de la Abuela": {
+       "price": 2500
+      },
+      "Flan Tia Lola": {
+       "price": 2700
+      },
+      "Copa de Helado": {
+       "price": 2200
+      },
+      "Carajillo": {
+        "price": 1050
+      },
+      "Bombon": {
+       "price": 1200
+      }
+    },
+    "Drink": {
+      "Expresso": {
+        "price": 520
+      },
+      "Nespresso": {
+       "price": 960
+      },
+      "Cortado": {
+       "price": 875
+      },
+      "Frappuccino": {
+       "price": 2200
+      },
+      "Te / Infusiones": {
+       "price": 620
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Monserrate no. 159 entre Tajillo y Chacon",
+    "distric": "Habana Vieja",
+    "coordinates": [23.14067517658521, -82.35644906618751]  
+  }
+}

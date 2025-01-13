@@ -166,6 +166,6 @@
   "location": { 
     "address": "Obispo #557 esquina Monserrate",
     "distric": "Habana Vieja",
-    "coordinates": "23.137423,-82.357396"  
+    "coordinates": [23.137423,-82.357396]  
   }
 } 

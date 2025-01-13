@@ -1,0 +1,157 @@
+{
+  "name": "Mythos Restaurant & Coffee",
+  "phone_number": "63691718 and 53616001",
+  "web_page": "null",
+  "type": "restaurante griego-bar",
+  "type_cuisine": "internacional",
+  "days_hours": {
+    "Monday": "08:00-23:00",
+    "Tuesday": "08:00-23:00",
+    "Wendsday": "08:00-23:00",
+    "Thursday": "08:00-23:00",
+    "Friday": "08:00-23:00",
+    "Saturday": "08:00-23:00",
+    "Sunday": "08:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",           
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@mythos.havana",
+  "menu": { 
+    "Starters": {
+      "garbanzos fritos": {
+       "price": 700
+      },
+      "berenjenas ahumadas": {
+       "price": 800
+      },
+      "tzatziki": {
+       "price": 600
+      },
+      "papas fritas": {
+       "price": 1300
+      },
+      "empanadas rellenas": {
+       "price": 1000
+      },
+      "aceitunas": {
+       "price": 700
+      },
+      "croqueta": {
+       "price": 750
+      },
+      "queso feta frito con miel": {
+       "price": 1500
+      }
+    },
+    "Fittings": {
+      "ensalada griega": {
+       "price": 1750
+      }
+    },
+    "Main_Course": {
+      "saviaki cerdo": {
+       "price": 2500
+      },
+      "saviaki pechuga": {
+       "price": 2100
+      },
+      "saviaki res": {
+       "price": 2800
+      },
+      "saviaki vegetaales": {
+       "price": 2800
+      },
+      "saviaki queso feta": {
+       "price": 2500
+      },
+      "berenjena ahumada rellena con vegetales": {
+       "price": 2000
+      },
+      "saganaki langosta o camaron": {
+       "price": 2500
+      },
+      "saganaki frutos de mar": {
+       "price": 4000
+      },
+      "risottos yogurt": {
+       "price": 3000
+      },
+      "risottos pulpo": {
+       "price": 5700
+      },
+      "risottos frutos del mar": {
+       "price": 4100
+      },
+      "pulpo grille": {
+       "price": 4200
+      },
+      "salomillo de cerdo": {
+       "price": 3500
+      },
+      "bolognesa": {
+       "price": 2500
+      },
+      "pasta mediterranea": {
+       "price": 3000
+      },
+      "pasta con salmon camarones": {
+       "price": 3200
+      }
+    },
+    "Desserts": {
+      "tarta de yogurt": {
+       "price": 1000
+      }
+    },
+    "Drink": {
+      "demeter": {
+       "price": 1800
+      },
+      "afrodita": {
+       "price": 2000
+      },
+      "persefone": {
+       "price": 2100
+      },
+      "hades": {
+       "price": 2500
+      },
+      "diorrisio": {
+       "price": 2800
+      },
+      "poseidon": {
+       "price": 2500
+      },
+      "ares": {
+       "price": 2400
+      },
+      "apolo": {
+       "price": 2300
+      },
+      "cafe expreso": {
+       "price": 450
+      },
+      "capuccino": {
+       "price": 650
+      }
+    }
+  },
+  "location": { 
+    "address": "calle Cuba 211 Between Empedrado and O'railly",
+    "distric": "Habana Vieja",
+    "coordinates": [23.140188531096086, -82.35254785946611]  
+  }
+}

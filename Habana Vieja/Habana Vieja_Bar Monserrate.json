@@ -138,6 +138,6 @@
   "location": { 
     "address": "Esquina Monserrate numero 401 Obrapia",
     "distric": "Habana Vieja",
-    "coordinates": "23.13687026772178, -82.35729723425668"  
+    "coordinates": [23.13687026772178, -82.35729723425668]  
   }
 }

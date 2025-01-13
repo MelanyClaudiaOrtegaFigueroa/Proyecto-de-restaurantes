@@ -153,6 +153,6 @@
   "location": { 
     "address": "calle San Rafael entre Monserrate y Agramonte",
     "distric": "Habana Vieja",
-    "coordinates": "23.137735,-82.357851"  
+    "coordinates": [23.137735,-82.357851]  
   }
 }

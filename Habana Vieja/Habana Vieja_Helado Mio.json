@@ -151,6 +151,6 @@
   "location": { 
     "address": "Antiguos Almacenes San Jose #110 Leonor Perez",
     "distric": "Habana Vieja",
-    "coordinates": "23.13034182727643, -82.34861763795132"  
+    "coordinates": [23.13034182727643, -82.34861763795132]  
   }
 }

@@ -117,6 +117,6 @@
   "location": { 
     "address": "calle Teniente Rey #512 entre Monserrate y Bernanza",
     "distric": "Habana Vieja",
-    "coordinates": "23.135724,-82.356864"  
+    "coordinates": [23.135724,-82.356864]  
   }
 }

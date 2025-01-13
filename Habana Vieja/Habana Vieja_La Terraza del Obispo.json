@@ -100,6 +100,6 @@
   "location": { 
     "address": "Calle Obispo #415 Aguacate y Compostela",
     "distric": "Habana Vieja",
-    "coordinates": "23.1388084,-82.352939"  
+    "coordinates": [23.1388084,-82.352939]  
   }
 } 

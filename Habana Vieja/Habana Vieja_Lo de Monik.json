@@ -1,0 +1,154 @@
+{
+  "name": "Lo de Monik",
+  "phone_number": "52811595 and 78644029",
+  "web_page": "null",
+  "type": "bar-restaurante",
+  "type_cuisine": "cubana e internacional",
+  "days_hours": {
+    "Monday": "11:00-23:00",
+    "Tuesday": "11:00-23:00",
+    "Wendsday": "11:00-23:00",
+    "Thursday": "11:00-23:00",
+    "Friday": "11:00-23:00",
+    "Saturday": "11:00-23:00",
+    "Sunday": "11:00-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica",
+  "facilities": "asientos aire libre,climatizacion,reservacion de salon and parqueo",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "Lo de Monik",
+  "instagrm": "@lodemonik_restaurants",
+  "menu": { 
+    "Starters": {
+      "Yucas Bravas / Yucca With Hot Tacos Sauce": {
+        "price": 600
+      },
+      "Croquetas / Croquette": {
+        "price": 560
+      },
+      "Tamal en Cazuela": {
+        "price": 1500
+      },
+      "Tostones Rellenos de Jamon y Queso": {
+        "price": 1100
+      },
+      "Ropa Vieja": {
+        "price": 1200
+      },
+      "Cerdo": {
+        "price": 1300
+      },
+      "Frituras de Malanga": {
+        "price": 600
+      },
+      "Pasta Napolitana": {
+        "price": 1700
+      },
+      "Pasta de Pollo con Salsa Alfredo": {
+        "price": 2000
+      },
+      "Pasta Frutti di Mare": {
+        "price": 2300
+      },
+      "Vegetales / Vegetables Tacos": {
+        "price": 1200
+      },
+      "Pollo / Chicken Tacos": {
+        "price": 1500
+      },
+      "Cerdo / Pork Tacos": {
+        "price": 2200
+      },
+      "Ropa Vieja / Shredded Beef Tacos": {
+        "price": 2000
+      },
+      "Camaron / Shrimps Tacos": {
+        "price": 3000
+      },
+      "Pescado / Fish Tacos": {
+        "price": 2300
+      },
+      "Punta de Filete / Beef Tacos": {
+        "price": 3800
+      }
+    },
+    "Main_Course": {
+      "Pollo Grillado / Grilled Chicken": {
+        "price": 1500
+      },
+      "Camaron Grillado / Grilled Shrimps": {
+        "price": 3000
+      },
+      "Ropa Vieja / Shredded Beef": {
+        "price": 2000
+      },
+      "Ropa Vieja con Garbanzos / Shredded Beef With Chickpeas": {
+        "price": 2400
+      },
+      "Pescado Empanado / Fish and Chips": {
+        "price": 2500
+      },
+      "Masas de Cerdo / Pork Masses": {
+        "price": 2800
+      },
+      "Pescado Grillado / Grilled Fish": {
+        "price": 2300
+      },
+      "Pulpo Grillado / Grilled Octopus": {
+        "price": 3800
+      },
+      "Langosta / Lobster": {
+        "price": 3000
+      },
+      "Punta de Filete a la Deutch": {
+        "price": 3800
+      }
+    },
+    "Fittings": {
+      "Side Dish": {
+        "price": 300
+      }
+    },
+    "Desserts": {
+      "Postre de la Casa / House's Dessert": {
+       "price": 600
+      }
+    },
+    "Breakfast": {
+      "Huevos, Tostadas, Jamon, Vegetales, Jugo, Cafe": {
+       "price": 1800
+      },
+      "Sandwich de Vegetales": {
+       "price": 850
+      },
+      "Sandwich de Jamon y Queso": {
+       "price": 1000
+      },
+      "Sandwich de Pollo": {
+       "price": 1500
+      },
+      "Sandwich de Atun": {
+       "price": 1000
+      },
+      "Sandwich Cubano": {
+       "price": 2000
+      }
+    }
+  },
+  "location": { 
+    "address": "Compostela 201, esquina Chacon",
+    "distric": "Habana Vieja",
+    "coordinates": [23.141146,-82.355526]  
+  }
+}
