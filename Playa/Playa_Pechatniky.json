@@ -158,6 +158,6 @@
  "location": { 
    "address": "Calle 22 #3110 entre 31 y 33A,Miramar",
    "distric": "Playa",
-   "coordinates": "23.117594,-82.415899"  
+   "coordinates": [23.117594,-82.415899]  
   }
 }

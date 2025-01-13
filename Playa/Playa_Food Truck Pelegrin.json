@@ -85,6 +85,6 @@
   "location": { 
     "address": "calle 76 entre 3ra y 5ta, Miramar",
     "distric": "Playa",
-    "coordinates": "23.108507,-82.441722"  
+    "coordinates": [23.108507,-82.441722]  
   }
 } 

@@ -255,6 +255,6 @@
   "location": { 
     "address": "Calle 1ra esquina 46, Miramar",
     "distric": "Playa",
-    "coordinates": "23.116531,-82.434393"  
+    "coordinates": [23.116531,-82.434393]  
   }
 }

@@ -153,6 +153,6 @@
  "location": { 
    "address": "calle 7maA #6620 entre 66 y 70,Marianao",
    "distric": "Playa",
-   "coordinates": "23.108107,-82.434195"  
+   "coordinates": [23.108107,-82.434195]  
   }
 }

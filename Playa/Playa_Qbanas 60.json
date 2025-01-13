@@ -179,6 +179,6 @@
   "location": { 
     "address": "Calle 60 entre 15 y 17",
     "distric": "Playa",
-    "coordinates": "23.107213,-82.425998"  
+    "coordinates": [23.107213,-82.425998]  
   }
 }

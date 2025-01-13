@@ -97,6 +97,6 @@
  "location": { 
    "address": "1ra entre 42 y 44,Miramar",
    "distric": "Playa",
-   "coordinates": "23.117862,-82.432374"  
+   "coordinates": [23.117862,-82.432374]  
   }
 }

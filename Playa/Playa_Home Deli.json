@@ -117,6 +117,6 @@
   "location": { 
     "address": "avenida 19 entre 74 y 76",
     "distric": "Playa",
-    "coordinates": "23.101852,-82.430682"  
+    "coordinates": [23.101852,-82.430682]  
   }
 }

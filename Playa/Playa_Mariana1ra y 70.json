@@ -375,6 +375,6 @@
   "location": { 
     "address": "1ra Avenida entre calle 70 y 68",
     "distric": "Playa",
-    "coordinates": "23.113613,-82.439561"  
+    "coordinates": [23.113613,-82.439561]  
   }
 }

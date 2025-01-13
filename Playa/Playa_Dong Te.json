@@ -207,6 +207,6 @@
   "location": { 
     "address": "Centro de Negocios de Miramar,calle 3ra entre 76 y 78, Miramar",
     "distric": "Playa",
-    "coordinates": "23.108726,-82.441176"  
+    "coordinates": [23.108726,-82.441176]  
   }
 }
