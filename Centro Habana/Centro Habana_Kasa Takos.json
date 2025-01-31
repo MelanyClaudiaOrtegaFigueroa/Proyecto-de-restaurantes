@@ -1,0 +1,403 @@
+{
+  "name": "Kasa Takos",
+  "phone_number": "50122113 and 54254245",
+  "web_page": "https://beacons.ai/kasatakos",
+  "type": "bar-restaurante",
+  "type_cuisine": "cubana,internacional and caribeña",
+  "days_hours": {
+    "Monday": "12:00-24:30",
+    "Tuesday": "12:00-24:30",
+    "Wendsday": "12:00-24:30",
+    "Thursday": "12:00-24:30",
+    "Friday": "12:00-24:30",
+    "Saturday": "12:00-24:30",
+    "Sunday": "12:00-24:30"
+  },
+  "reservation": "null",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica mexicana",
+  "facilities": "atre acondicionado",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Bar-Restaurante Kasa Takos",
+  "instagrm": "@kasatakos_havana",
+  "menu": { 
+    "Starters" : {
+      "Nachos" : {
+       "price": 400 
+      },
+      "Tostones Rellenos R.V" : {
+       "price": 800 
+      },
+      "Frituras de Malanga" : {
+       "price": 500 
+      },
+      "Tostones Rellenos Camaron" : {
+       "price": 900 
+      },
+      "Croquetas de la Casa" : {
+       "price": 600 
+      },
+      "Pozole" : {
+       "price": 700 
+      },
+      "Tostones Rellenos JSM" : {
+       "price": 700 
+      },
+      "Pica Pica Que Rico" : {
+       "price": 1600 
+      }
+    },
+    "Main_Course" : {
+      "Tacos de vegetales" : {
+       "price": 800
+      },
+      "Tacos de pollo" : {
+       "price": 950
+      },
+      "Tacos de carnita" : {
+       "price": 1000
+      },
+      "Tacos de ropa vieja" : {
+        "price": 1100
+      },
+      "Tacos de cochinita" : {
+        "price": 1100
+      },
+      "Tacos al pastor" : {
+        "price": 1200
+      },
+      "Tacos de langosta" : {
+       "price": 1600
+      },
+      "Takos combinados" : {
+       "price": 1600
+      },
+      "Quesadillas de vegetales" : {
+       "price": 850
+      },
+      "Quesadillas de pollo" : {
+       "price": 1000
+      },
+      "Quesadillas de carnita" : {
+       "price": 1050
+      },
+      "Quesadillas al pastor" : {
+       "price": 1250
+      },
+      "Quesadillas de camaron" : {
+       "price": 1650
+      },
+      "Burritos de vegetales" : {
+       "price": 900
+      },
+      "Burritos de pollo" : {
+       "price": 1150
+      },
+      "Burritos de carnita" : {
+       "price": 1100
+      },
+      "Burritos de cochinita" : {
+       "price": 1200
+      },
+      "Burritos de camaron" : {
+       "price": 1700
+      },
+      "Chimichangas de vegetales" : {
+       "price": 920
+      },
+      "Chimichangas de carnita" : {
+       "price": 1120
+      },
+      "Chimichangas de ropa vieja" : {
+       "price": 1220
+      },
+      "Chimichangas al pastor" : {
+       "price": 1320
+      },
+      "Chimichangas de camaron" : {
+       "price": 1720
+      },
+      "Chimichangas de langosta" : {
+       "price": 1720
+      },
+      "bistec grille de cerdo encebollado" : {
+       "price": 1300 
+      },
+      "fajitas de cerdo salteadas" : {
+       "price": 1400
+      },
+      "solomillo de cerdo" : {
+       "price": 2000
+      },
+      "ranchero de cerdo" : {
+       "price": 1800
+      },
+      "bistec grille de pollo" : {
+       "price": 900
+      },
+      "pollo a la mexicana" : {
+       "price": 950
+      },
+      "fajitas de pollo salteadas" : {
+       "price": 1000
+      },
+      "ranchero de pollo" : {
+       "price": 1200
+      },
+      "vaca frita" : {
+       "price": 1250
+      },
+      "ropa vieja" : {
+       "price": 1400
+      },
+      "bistec de res encebollado" : {
+       "price": 1600
+      },
+      "rollo de la casa (res)" : {
+       "price": 2000
+      },
+      "grille de camaron" : {
+       "price": 1700
+      },
+      "ajillo de camaron" : {
+       "price": 2000
+      },
+      "enchilado de camaron" : {
+       "price": 1850
+      },
+      "grille de pescado" : {
+       "price": 1300
+      },
+      "ajillo de pescado" : {
+       "price": 1400
+      },
+      "enchilado de pescado" : {
+       "price": 1500
+      },
+      "John Ville" : {
+       "price": 2000
+      },
+      "ajillo de langosta" : {
+       "price": 2000
+      },
+      "enchilado de langosta" : {
+       "price": 1850
+      },
+      "Termidor" : {
+       "price": 2200
+      }
+    },
+    "Fittings" : {
+      "Arroz Blanco" : {
+       "price": 150 
+      },
+      "Arroz Moro" : {
+       "price": 250 
+      },
+      "Vegetales" : {
+       "price": 400 
+      },
+      "Vianda Frita" : {
+       "price": 450 
+      }
+    },
+    "Desserts" : {
+      "Flan" : {
+       "price": 350 
+      },
+      "Postre de la Casa" : {
+       "price": 250 
+      }
+    },
+    "Drink" : {
+      "Agua Natural 1.5 L" : {
+       "price": 350 
+      },
+      "Agua Natural 500 ML" : {
+       "price": 250 
+      },
+      "Energizante" : {
+       "price": 500 
+      },
+      "Refrescos Pepsy y 7UP" : {
+       "price": 300 
+      },
+      "Refresco Santa" : {
+       "price": 250 
+      },
+      "Limonada Natural" : {
+       "price": 300 
+      },
+      "Limonada Clarete" : {
+       "price": 450 
+      },
+      "Jugos Naturales" : {
+       "price": 300 
+      },
+      "Limonada Frappe" : {
+       "price": 300 
+      },
+      "Limonada Frescura" : {
+       "price": 400 
+      },
+      "Cerveza Cristal" : {
+       "price": 350 
+      },
+      "Cerveza Heineken" : {
+       "price": 540 
+      },
+      "Cerveza Krombacher" : {
+       "price": 250 
+      },
+      "Cerveza 8.6" : {
+       "price": 370 
+      },
+      "mojito" : {
+       "price": 450 
+      },
+      "ron collins" : {
+       "price": 400 
+      },
+      "cubata" : {
+       "price": 500 
+      },
+      "daiquiri" : {
+       "price": 450 
+      },
+      "havana especial" : {
+       "price": 500 
+      },
+      "mary pickford" : {
+       "price": 400 
+      },
+      "cuba libre" : {
+       "price": 450 
+      },
+      "margarita" : {
+        "price": 600 
+      },
+      "caipiriña" : {
+       "price": 400 
+      },
+      "caipiroska" : {
+       "price": 450 
+      },
+      "calimocho" : {
+       "price": 400 
+      },
+      "caipirissima" : {
+       "price": 450 
+      },
+      "gin tonic" : {
+       "price": 1300 
+      },
+      "screw driver" : {
+       "price": 400 
+      },
+      "vodka tonic" : {
+       "price": 650 
+      },
+      "servicio chelada" : {
+       "price": 200 
+      },
+      "blue lagoon" : {
+       "price": 600 
+      },
+      "servicio michelada" : {
+       "price": 250 
+      },
+      "sangria" : {
+       "price": 500 
+      },
+      "tinto de verano" : {
+       "price": 600 
+      },
+      "piña colada" : {
+       "price": 600  
+      },
+      "vino tinto" : { 
+       "price": 1000  
+      },
+      "hab club añejo 7 años" : {
+        "price": 500 
+      },
+      "ron santiago 11 años" : {
+       "price": 750 
+      },
+      "black tears dry spiced" : {
+       "price": 300 
+      },
+      "ron santiago 12 años" : {
+       "price": 800 
+      },
+      "hab club añejo reserva" : {
+       "price": 300 
+      },
+      "pacto navio" : {
+       "price": 950 
+      },
+      "hab club ritual" : {
+       "price": 500 
+      },
+      "olmeca blanco" : {
+       "price": 400 
+      },
+      "olmeca reposado" : {
+       "price": 500 
+      },
+      "viuda de romero" : {
+       "price": 500 
+      },
+      "johnnie walker red label" : {
+       "price": 750 
+      },
+       "black & white whisky" : {
+       "price": 500 
+      },
+      "brandy torre 10" : {
+       "price": 400 
+      },
+      "vermouth rosso" : {
+       "price": 250 
+      },
+      "ginebra" : {
+       "price": 300 
+      },
+      "vodka" : {
+       "price": 250 
+      },
+      "Cafe Express" : {
+       "price": 150 
+      },
+      "Cafe Americano" : {
+       "price": 150 
+      },
+      "Cafe Cortado" : {
+       "price": 170 
+      },
+      "Cafe con Leche" : {
+       "price": 350 
+      },
+      "Cafe Capuccino" : {
+       "price": 350 
+      },
+      "Cafe Frapuccino" : { 
+       "price": 350 
+      }
+    }
+  },
+  "location": { 
+    "address": "Hospital y Aramburu,966 entre San Lazaro",
+    "distric": "Centro Habana",
+    "coordinates": [23.139644726614794,-82.3755633828391]  
+  }
+}

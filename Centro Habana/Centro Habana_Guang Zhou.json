@@ -1,0 +1,289 @@
+{
+  "name": "Guang Zhou",
+  "phone_number": "78615229",
+  "web_page": "https://es.restaurantguru.com/",
+  "type": "Restaurante",
+  "type_cuisine": "China",
+  "days_hours": {
+    "Monday": "11:00-00:00",
+    "Tuesday": "11:00-00:00",
+    "Wendsday": "11:00-00:00",
+    "Thursday": "11:00-00:00",
+    "Friday": "11:00-00:00",
+    "Saturday": "11:00-00:00",
+    "Sunday": "11:00-00:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "null",
+  "facilities": "asientos aire libre",
+  "daycare": "null",
+  "discount_promotions": "+10%",
+  "facebook": "Restaurante Guang Zhou",
+  "instagrm": "null",
+  "menu": { 
+    "Main_Course": {
+      "Pollo a la plancha": {
+       "price": 1800
+      },
+      "Cerdo a la plancha": {
+       "price": 2000
+      },
+      "Res a la plancha": {
+       "price": 2100
+      },
+      "Pescado a la plancha": {
+       "price": 2100
+      },
+      "Pollo Grille": {
+       "price": 1500
+      },
+      "Pescado Grille": {
+       "price": 1500
+      },
+      "Marisco a la plancha": {
+       "price": 3100
+      },
+      "De la Tierra": {
+       "price": 4200
+      },
+      "Del Mar": {
+       "price": 5500
+      },
+      "Mar y Tierra": {
+       "price": 5900
+      },
+      "Cazuela de Mariscos": {
+       "price": 5575
+      },
+      "Cerdo Grille": {
+       "price": 1650
+      },
+      "Espaguetis Napolitanos": {
+       "price": 1080
+      }, 
+      "Pizza Napolitana con queso blanco": {
+       "price": 1150
+      }, 
+      "Pizza Napolitana con queso Gouda": {
+       "price": 1250
+      } 
+    },
+    "Additions": {
+      "Tomate natural": {
+       "price": 200
+      }, 
+      "Pimiento": {
+       "price": 200
+      }, 
+      "Cebolla": {
+       "price": 200
+      }, 
+      "Piña": {
+       "price": 200
+      }, 
+      "Jamon": {
+       "price": 450
+      }, 
+      "Chorizo": {
+       "price": 300
+      }, 
+      "Bacon": {
+       "price": 300
+      }, 
+      "Champiñones": {
+       "price": 300
+      }, 
+      "Aceitunas": {
+       "price": 250
+      }, 
+      "Atun": {
+       "price": 500
+      }, 
+      "Queso Blanco": {
+       "price": 250
+      }, 
+      "Marisco": {
+       "price": 750
+      }, 
+      "Jamon Serrano": {
+       "price": 500
+      } 
+    },
+    "Fittings": {
+      "Arroz blanco": {
+       "price": 315
+      }, 
+      "Arroz frito": {
+       "price": 171
+      },
+      "Arroz Moro": {
+       "price": 415
+      },
+      "Arroz frito especial": {
+       "price": 211
+      },
+      "Arroz frito familiar": {
+       "price": 297
+      },
+      "Chao mian (Fideos fritos)": {
+       "price": 900
+      },
+      "Chop Suey de Pollo": {
+       "price": 170
+      },
+      "Chop Suey de Cerdo": {
+       "price": 190
+      },
+      "Chop Suey de vegetales": {
+       "price": 800
+      }, 
+      "Viandas fritas del dia": {
+       "price": 300
+      },
+      "Yuca con mojo": {
+       "price": 250
+      }, 
+      "Ensalada mixta": {
+       "price": 300
+      } 
+    },
+    "Drink": {
+      "Havana Club 3 años": {
+       "price": 350
+      },
+      "Havana Club Especial": {
+       "price": 250
+      },
+      "Havana Club Reserva": {
+       "price": 400
+      },
+      "Whisky": {
+       "price": 400
+      },
+      "Vodka": {
+       "price": 500
+      },
+      "Tequila Blanco": {
+       "price": 500
+      },
+      "Tequila Reposado": {
+       "price": 500
+      }, 
+      "Ginebra": {
+       "price": 500
+      },
+      "Vino tinto": {
+       "price": 500
+      },
+      "Vino blanco": {
+       "price": 500
+      },
+      "Cerveza Nacional": {
+       "price": 385
+      }, 
+      "Cerveza Importada": {
+       "price": 300
+      }, 
+      "Kermato (Jugo de tomate)": {
+       "price": 200
+      }, 
+      "Refresco Nacional": {
+       "price": 350
+      }, 
+      "Refresco Importado": {
+       "price": 350
+      }, 
+      "Malta": {
+       "price": 400
+      }, 
+      "Malteada (Malta con leche)": {
+       "price": 550
+      }, 
+      "Agua": {
+       "price": 190
+      }, 
+      "Jugo Natural": {
+       "price": 325
+      }, 
+      "Jugo en conserva": {
+       "price": 350
+      }, 
+      "Cafe Expreso": {
+       "price": 100
+      }, 
+      "Cafe Americano": {
+       "price": 150
+      }, 
+      "Cafe Cortado": {
+       "price": 150
+      }, 
+      "Cafe Capsula": {
+       "price": 300
+      }, 
+      "Te": {
+       "price": 60
+      }, 
+      "Michelada": {
+       "price": 200
+      },
+      "Mojito": {
+       "price": 400
+      },
+      "Cuba Libre": {
+       "price": 400
+      },
+      "Ron Collins": {
+       "price": 400
+      },
+      "Limonada Frappe": {
+       "price": 350
+      },
+      "Daiquiri Frappe": {
+       "price": 400
+      },
+      "Piña Colada": {
+       "price": 600
+      },
+      "Cubata": {
+       "price": 400
+      },
+      "Sangria": {
+       "price": 600
+      },
+      "Gin Tonic": {
+       "price": 550
+      },
+      "Margarita": {
+       "price": 550
+      },
+      "Caipiriña": {
+       "price": 450
+      },
+      "Caipiroska": {
+       "price": 550
+      }
+    },
+    "Plus": {
+      "Termo Pack": {
+       "price": 120
+      }, 
+      "Caja de Pizza": {
+       "price": 1000
+      }
+    }
+  },
+  "location": { 
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "distric": "Centro Habana",
+    "coordinates": [23.134868,-82.363787]  
+  }
+}

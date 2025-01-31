@@ -1,0 +1,312 @@
+{
+  "name": "El Rincon de Mama",
+  "phone_number": "59870371",
+  "web_page": "https://elrincondemamainfanta/",
+  "type": "restaurante",
+  "type_cuisine": "criolla and italiana",
+  "days_hours": {
+    "Monday": "13:00-01:00",
+    "Tuesday": "13:00-01:00",
+    "Wendsday": "13:00-01:00",
+    "Thursday": "13:00-01:00",
+    "Friday": "13:00-02:00",
+    "Saturday": "13:00-02:00",
+    "Sunday": "13:00-02:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "null",
+    "us_dollars": "null",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Rincon de Mama",
+  "instagrm": "@elrincon.de.mama",
+  "menu": { 
+    "Main_Course": {
+      "brochetas de camaron": {
+       "price": 2870
+      },
+      "brochetas de cerdo 1 libra": {
+       "price": 2970
+      }, 
+      "costilla de cerdo": {
+       "price": 2900
+      },
+      "chuleta de cerdo 1/2 libra": {
+       "price": 1970
+      },
+      "pechuga de pollo": {
+       "price": 2000
+      },
+      "chorizo parrillero": {
+       "price": 2700
+      },
+      "chuleta de jamon": {
+       "price": 3000
+      },
+      "bistec de res": {
+       "price": 2860
+      },
+      "enchilado de camarones": {
+       "price": 2760
+      },
+      "vaca frita": {
+       "price": 2600
+      },
+      "filete de merluza grille": {
+       "price": 1800
+      },
+      "arroz frito": {
+       "price": 1000
+      },
+      "arroz frito especial": {
+       "price": 1400
+      }
+    },
+    "Starters": {
+      "tacos al pastor": {
+       "price": 370
+      },
+      "tacos de ropa vieja": {
+       "price": 480
+      },
+      "tacos de camaron": {
+       "price": 490
+      },
+      "8 unidades de tacos al pastor": {
+       "price": 2880
+      },
+      "tostones rellenos con ropa vieja": {
+       "price": 1300
+      },
+      "coctel de camarones": {
+       "price": 980
+      },
+      "fajitas de pollo": {
+        "price": 1780
+      },
+      "fajitas de cerdo": {
+       "price": 1870
+      },
+      "picadera de camaron": {
+        "price": 1970
+      },
+      "fajitas de res": {
+       "price": 1960
+      },
+      "croqueta": {
+       "price": 800
+      },
+      "papas fritas": {
+       "price": 700
+      },
+      "pizza napolitano": {
+       "price": 990
+      },
+      "pizza hawaiana": {
+       "price": 1420
+      },
+      "espaguetis napolitano": {
+       "price": 870
+      }
+    },
+    "Additions": {
+      "queso": {
+       "price": 390
+      },
+      "jamon": {
+       "price": 460
+      },
+      "chorizo": {
+       "price": 360
+      },
+      "cebolla": {
+       "price": 250
+      },
+      "pina": {
+       "price": 200
+      },
+      "atun": {
+       "price": 550
+      },
+      "camarones": {
+       "price": 700
+      }
+    },
+    "Fittings": {
+      "arroz moro": {
+       "price": 400
+      },
+      "arroz blanco": {
+       "price": 350
+      },
+      "yuca": {
+       "price": 300
+      }
+    },
+    "Desserts": {
+      "flan": {
+       "price": 790
+      },
+      "flan con helado": {
+       "price": 990
+      }
+    },
+    "Drink": {
+      "batido_de_helado": {
+       "price": 900
+      },
+      "batido_de_frutas": {
+       "price": 860
+      }, 
+      "limonada natural": {
+       "price": 570
+      },
+      "limonada frape": {
+       "price": 570
+      },
+      "leche condensada para malteada": {
+       "price": 370
+      },
+      "copa de vino": {
+       "price": 890
+      },
+      "cerveza corona": {
+       "price": 550
+      },
+      "cerveza heineken": {
+       "price": 400
+      },
+      "cerveza cristal (botella)": {
+       "price": 250
+      },
+      "jarra de cristal": {
+       "price": 300
+      },
+      "agua natural": {
+       "price": 300
+      },
+      "agua carbonatada": {
+       "price": 150
+      },
+      "agua tonica": {
+       "price": 350
+      },
+      "energizante": {
+       "price": 450
+      }, 
+      "refresco": {
+       "price": 300
+      },
+      "malta": {
+       "price": 350
+      },
+      "jugo caja": {
+       "price": 300
+      },
+      "jugo naturales": {
+       "price": 400
+      },
+      "cafe expreso": {
+       "price": 200
+      },
+      "cafe americano": {
+       "price": 280
+      },
+      "frapuccino": {
+       "price": 500
+      },
+      "ron havana club blanco": {
+       "price": 450
+      },
+      "ron havana club especial": {
+       "price": 500
+      },
+      "ron havana club 7 anos": {
+       "price": 970
+      },
+      "santiago 8 anos": {
+       "price": 900
+      }, 
+      "santiago 11 anos": { 
+       "price": 1100
+      },
+      "tequila omelca blanco": {
+       "price": 700
+      },
+      "tequila omelca reposado": {
+       "price": 900
+      },
+      "daiquiri de frutas": {
+       "price": 400
+      },
+      "mojito clasico": {
+       "price": 950
+      },
+      "caipirinha": {
+       "price": 570
+      },
+      "caipiroska": {
+       "price": 760
+      },
+      "caipirissima": {
+       "price": 950
+      },
+      "sangria": {
+       "price": 990
+      },
+      "tinto de verano": {
+       "price": 900
+      },
+      "pina colada": {
+       "price": 860
+      },
+      "cuba libre": {
+       "price": 400
+      },
+      "long island": {
+       "price": 700
+      },
+      "gin tonic": {
+       "price": 960
+      },
+      "margarita": {
+       "price": 500
+      },
+      "tom collins": {
+       "price": 400
+      },
+      "bloody mary": {
+       "price": 500
+      },
+      "ron fashioned": {
+       "price": 550
+      },
+      "vodka tonic": {
+       "price": 650
+      },
+      "havana special": {
+       "price": 500
+      },
+      "michelada": {
+       "price": 350
+      },
+      "chelada": {
+       "price": 250
+      }
+    }
+  },
+  "location": { 
+    "address": "Infanta #604 entre Zanja y Salud",
+    "distric": "Centro Habana",
+    "coordinates": [23.133376,-82.378336]  
+  }
+}
