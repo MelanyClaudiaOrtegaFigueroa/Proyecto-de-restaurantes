@@ -1,0 +1,535 @@
+{
+  "name": "Nel Paradiso",
+  "phone_number": "76967579 and 52953716",
+  "web_page": "null",
+  "type": "restaurante",
+  "type_cuisine": "Internacional and Criolla",
+  "days_hours": {
+    "Monday": "11:00-23:30",
+    "Tuesday": "11:00-23:30",
+    "Wendsday": "11:00-23:30",
+    "Thursday": "11:00-23:30",
+    "Friday": "11:00-23:30",
+    "Saturday": "11:00-23:30",
+    "Sunday": "11:00-23:30"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "Si",
+  "entertainment": "television,dj,musica,humor,juegos,transmicion de eventos deportivos,show and karaoke",
+  "facilities": "parqueo and asientos aire libre",
+  "daycare": "Si",
+  "discount_promotions": "null",
+  "facebook": "Nel Paradiso-Restaurante",
+  "instagrm": "@nelparadiso",
+  "menu": { 
+    "Starters": { 
+      "Croquetas de la casa con salsa rosa": { 
+       "price": 792 
+      },
+      "Frituras de la casa con miel y mostaza": { 
+       "price": 880 
+      },
+      "Bastones de Pollo con salsa rosa": { 
+       "price": 1760 
+      },
+      "Bastones de Mar en salsa alioli": { 
+       "price": 1760 
+      },
+      "Tamal en Cazuela": { 
+       "price": 1584 
+      },
+      "Tamal Marinero": { 
+       "price": 2376 
+      },
+      "Ensalada de Atun y Huevo": { 
+       "price": 1760 
+      },
+      "Ceviche de Pescado": { 
+       "price": 1584 
+      },
+      "Picadera Paraiso": { 
+       "price": 2992 
+      },
+      "Coctel de Camarones": { 
+       "price": 1936 
+      },
+      "Coctel de Langosta": { 
+       "price": 2112 
+      },
+      "Tabla de Quesos": { 
+       "price": 2816 
+      },
+      "Lonjas de Jamon Serrano": { 
+       "price": 2640 
+      },
+      "Tabla Mixta de Quesos y Jamon Serrano": { 
+       "price": 4048 
+      },
+      "Salmon Paradiso": { 
+       "price": 2816 
+      }
+    },
+    "Main_Course": { 
+      "Bistec de CERDO glaseado al Vino Tinto": { 
+       "price": 2112 
+      },
+      "Chuleta en salsa Verde": { 
+       "price": 2288 
+      },
+      "Solomillo de Cerdo al estilo del Chef": { 
+       "price": 2816 
+      },
+      "Entrecot de Cerdo": { 
+       "price": 3520 
+      },
+      "Lomo Ahumado": { 
+       "price": 2464 
+      },
+      "Estofado de Cerdo": { 
+       "price": 6600 
+      },
+      "Ropa Vieja de Res": { 
+       "price": 2552 
+      },
+      "Bistec de Res": { 
+       "price": 2904 
+      },
+      "Fajita de Res": { 
+       "price": 2464 
+      },
+      "Filete a la Douche": { 
+       "price": 2990 
+      },
+      "Filete Mignon/Churrasco": { 
+       "price": 3872
+      },
+      "Chateaubriand": { 
+       "price": 5280 
+      },
+      "Ropa Vieja de Cordero": { 
+       "price": 1848 
+      },
+      "Cabrito Picoso": { 
+       "price": 2640 
+      },
+      "Cordero al Vino Tinto": { 
+       "price": 2464 
+      },
+      "Pechuga Grille": { 
+       "price": 2112 
+      },
+      "Jardinera de Pechuga": { 
+       "price": 2464 
+      },
+      "Pechuga Roquefort": { 
+       "price": 2816 
+      },
+      "Pechuga Paraiso": { 
+       "price": 2992 
+      },
+      "Masa de Pescado Frita": { 
+       "price": 2640 
+      },
+      "Filete de Pescado Grille": { 
+       "price": 2288 
+      },
+      "Filete John Bill": { 
+       "price": 3256 
+      },
+      "Camarones a Eleccion": { 
+       "price": 2995 
+      },
+      "Pulpo al Gusto": { 
+       "price": 3500 
+      },
+      "Rueda Hemingway": { 
+       "price": 4048 
+      },
+      "Langosta en Variantes": { 
+       "price": 3168 
+      },
+      "Caldereta de Mariscos": { 
+       "price": 4480 
+      },
+      "MonteMari Paraiso": { 
+       "price": 4576 
+      },
+      "Refrito de Garbanzos": { 
+       "price": 1936 
+      },
+      "Risotto de Pollo y Champiñones": { 
+       "price": 2464 
+      },
+      "Risotto de Mariscos": { 
+       "price": 3520 
+      },
+      "Paella": { 
+       "price": 3168 
+      },
+      "Paella Especial": { 
+       "price": 6600 
+      },
+      "Pasta Napolitana": { 
+       "price": 1230 
+      },
+      "Carbonara": { 
+       "price": 2200 
+      },
+      "Nero di Sepia": { 
+       "price": 3256 
+      },
+      "Pasta al Pesto": { 
+       "price": 2756 
+      },
+      "Lasaña": { 
+       "price": 1895 
+      },
+      "Napolitana": { 
+       "price": 1144 
+      },
+      "Margarita": { 
+       "price": 1232 
+      },
+      "De Cebolla": { 
+       "price": 1325 
+      },
+      "Hawaiana": { 
+       "price": 2288 
+      },
+      "De Camarones": { 
+       "price": 2640 
+      },
+      "Pizza Nel Paraiso": { 
+       "price": 2992 
+      }
+    },
+    "Fittings": { 
+      "Arroz Blanco": { 
+       "price": 422 
+      },
+      "Arroz Moro": { 
+       "price": 636 
+      },
+      "Arroz Pilaf": { 
+       "price": 880 
+      },
+      "Pure de Malanga": { 
+       "price": 640 
+      },
+      "Viandas Fritas": { 
+       "price": 528 
+      },
+      "Papas Fritas": { 
+       "price": 1010 
+      },
+      "Ensalada de Vegetales": { 
+       "price": 633 
+      },
+      "Vegetales Salteados": { 
+       "price": 675 
+      },
+      "Piña / Aji Pimiento": { 
+       "price": 330 
+      },
+      "Tomate / Cebolla": { 
+       "price": 380 
+      },
+      "Aceitunas / Bacon": { 
+       "price": 480 
+      },
+      "Chorizo / Jamon": { 
+       "price": 490 
+      },
+      "Champiñones": { 
+       "price": 730 
+      },
+      "Gouda / Atun": { 
+       "price": 800 
+      },
+      "Camaron / Serrano": { 
+       "price": 945 
+      }
+    },
+    "Desserts": { 
+      "Flan de caramelo": { 
+       "price": 800 
+      },
+      "Bola de Helado": { 
+       "price": 200 
+      },
+      "Copa de Helado": { 
+       "price": 895 
+      },
+      "Tarta del dia": { 
+       "price": 980 
+      }
+    },
+    "Drink": { 
+      "Jugos Naturales": { 
+       "price": 270 
+      },
+      "Batido de Fruta Natural": { 
+       "price": 450 
+      },
+      "Malteada": { 
+       "price": 675 
+      },
+      "Batido de Helado": {
+       "price": 987 
+      },
+      "Piña Colada Virgen": { 
+       "price": 700 
+      },
+      "Limonada Frappe": { 
+       "price": 600 
+      },
+      "Expresso": { 
+       "price": 300 
+      },
+      "Cortado": { 
+       "price": 375 
+      },
+      "Americano": { 
+       "price": 350 
+      },
+      "Capuchino": { 
+       "price": 400 
+      },
+      "Frappuccino": { 
+       "price": 400 
+      },
+      "Bombon": { 
+       "price": 725 
+      },
+      "Irish Coffee": { 
+       "price": 750 
+      },
+      "Agua Natural": { 
+       "price": 260 
+      },
+      "Agua Tonica / Gaseada": { 
+       "price": 280 
+      },
+      "Refresco Nacional": { 
+       "price": 300 
+      },
+      "Refresco Importado": { 
+       "price": 350 
+      },
+      "Malta Nacional": { 
+       "price": 380 
+      },
+      "Malta Importada": { 
+       "price": 350 
+      },
+      "Jugo de Lata": { 
+       "price": 390 
+      },
+      "Jugo de Caja": { 
+       "price": 300 
+      },
+      "Energizante": { 
+       "price": 330 
+      },
+      "Red Bull": { 
+       "price": 600 
+      },
+      "Kermato": { 
+       "price": 600 
+      },
+      "Cerveza Nacional": { 
+       "price": 375 
+      },
+      "Cerveza Importada": { 
+       "price": 330 
+      },
+      "Corona / Heineken": { 
+       "price": 600 
+      },
+      "Copa de Vino Tinto": { 
+       "price": 600 
+      },
+      "Copa de Vino Blanco": { 
+       "price": 550 
+      },
+      "Botellas de Vino Blanco": { 
+       "price": 4000 
+      },
+      "Botellas de Vino Tinto": { 
+       "price": 5000 
+      },
+      "Sidra": { 
+       "price": 3000 
+      },
+      "Havana Club 3 años": { 
+       "price": 500 
+      },
+      "Havana Club Especial": { 
+       "price": 565 
+      },
+      "Havana Club Reserva": { 
+       "price": 800 
+      },
+      "Seleccion de Maestros": { 
+       "price": 1220 
+      },
+      "Absolut": { 
+       "price": 850 
+      },
+      "Grey Goose": { 
+       "price": 870 
+      },
+      "Dewars": { 
+       "price": 800 
+      },
+      "J&B": { 
+       "price": 800 
+      },
+      "Clan Campbell": { 
+       "price": 900 
+      },
+      "Ballentines": { 
+       "price": 600 
+      },
+      "J.W Red Label": { 
+       "price": 850 
+      },
+      "J.W Double Black Label": { 
+       "price": 1230 
+      },
+      "Patron": { 
+       "price": 1400 
+      },
+      "Don Julio": { 
+       "price": 925 
+      },
+      "Olmeca": { 
+       "price": 850 
+      },
+      "Rose": { 
+       "price": 830 
+      },
+      "Beefeater": { 
+       "price": 900 
+      },
+      "Tanqueray": { 
+       "price": 1320 
+      },
+      "Campari": { 
+       "price": 800 
+      },
+      "Filipetti": { 
+       "price": 800 
+      },
+      "Cinzano": { 
+       "price": 800 
+      },
+      "Martini": { 
+       "price": 800 
+      },
+      "Ricard": { 
+       "price": 800 
+      },
+      "Triple Sec": { 
+       "price": 800 
+      },
+      "Jagermeister": { 
+       "price": 970 
+      },
+      "Carolans": { 
+       "price": 800 
+      },
+      "Amarula": { 
+       "price": 800 
+      },
+      "Amaretto": { 
+       "price": 800 
+      },
+      "Coctel Paraiso" : { 
+       "price": 870 
+      },
+      "Manhattan": { 
+       "price": 720 
+      },
+      "Daiikiri": { 
+       "price": 635 
+      },
+      "Cubata": { 
+       "price": 746 
+      },
+      "Cuba Libre": { 
+       "price": 599 
+      },
+      "Cubanito": { 
+       "price": 645 
+      },
+      "Ron Collins": { 
+       "price": 655 
+      },
+      "Blody Mary": { 
+       "price": 825 
+      },
+      "Sangria": { 
+       "price": 765 
+      },
+      "Mojito": { 
+       "price": 724 
+      },
+      "Tom Collins": { 
+       "price": 950 
+      },
+      "Long Island": { 
+       "price": 1275 
+      },
+      "Michelada": { 
+       "price": 885 
+      },
+      "Chelada": { 
+       "price": 775 
+      },
+      "Pina Colada": { 
+       "price": 935 
+      },
+      "Cairoska": { 
+       "price": 785 
+      },
+      "Caipirinha": { 
+       "price": 725 
+      },
+      "Caipirissima": { 
+       "price": 730 
+      },
+      "Gin Tonic": { 
+       "price": 987 
+      },
+      "Vodka Tonic": { 
+       "price": 795 
+      },
+      "Coctel Martini": { 
+       "price": 950 
+      },
+      "Sreewdriver": { 
+       "price": 825 
+      },
+      "Orgasmo": { 
+       "price": 1216 
+      },
+      "Margarita": { 
+       "price": 825 
+      }
+    }
+  },
+  "location": { 
+    "address": "Acosta #303 esquina Armas",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.089127,-82.360017]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "name": "Parrandas Grill Bar",
+  "phone_number": "50587446 and 55353463",
+  "web_page": "https://t.me/Parrandas/",
+  "type": "Bar",
+  "type_cuisine": "internacional and bebidas ",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "12:00-24:00",
+    "Sunday": "12:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show,actividades infantiles,musica and transmicion de eventos deportivos",
+  "facilities": "parqueo,terraza exterior and asientos aire libre",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "Parrandas",
+  "instagrm": "@parrandasgrilbar",
+  "menu": { 
+    "Starters": {
+      "Picadera Parrandas": {
+       "price": 2500
+      },
+      "Tabla de jamon Serrano": {
+       "price": 1900
+      },
+      "Garbanzos fritos": {
+       "price": 1000
+      },
+      "Nachos": {
+       "price": 1400
+      },
+      "Ceviche": {
+       "price": 900
+      },
+      "Eperlan": {
+       "price": 800
+      },
+      "Entremes de jamon / queso / chorizo": {
+       "price": 1000
+      },
+      "Chorizos parrilleros con queso al horno": {
+       "price": 1600
+      },
+      "Tostones rellenos": {
+       "price": 800
+      },
+      "Papas fritas": {
+       "price": 500
+      },
+      "Brusquetas": {
+       "price": 700
+      },
+      "Croquetas caseras": {
+        "price": 700
+      },
+      "Tambor de bonieto con cangrejo picante": {
+       "price": 1100
+      },
+      "Empanadas de queso azul": {
+       "price": 1100
+      },
+      "Coctel de langosta": {
+       "price": 1300
+      },
+      "Tacos Parrandas": {
+       "price": 1500
+      },
+      "Tacos de camaron": {
+       "price": 2300
+      },
+      "Tabla de queso": {
+       "price": 2700
+      },
+      "Papas bravas con queso y guacamole": {
+       "price": 1300
+      },
+      "Rollitos de salmon con queso crema": {
+       "price": 1700
+      },
+      "Crema de papa con crujiente de jamon Serrano": {
+       "price": 1200
+      },
+      "Tartar de salmon": {
+       "price": 1200
+      },
+      "Tostas de ceviche con Pesto": {
+       "price": 1000
+      }
+    },
+    "Main_Course": {
+      "Pasta Napolitana": {
+       "price": 1000
+      },
+      "Pasta Frutti di Mare": {
+       "price": 1900
+      },
+      "Pasta Carbonara": {
+       "price": 1800
+      },
+      "Pasta de salmon con crema": {
+       "price": 1900
+      },
+      "Pan con lechon": {
+       "price": 1200
+      },
+      "Pan con pollo crujiente": {
+       "price": 1500
+      },
+      "Pizza Carbonara": {
+       "price": 1700
+      },
+      "Pizza Napolitana": {
+       "price": 1200
+      },
+      "Costillas en salsa barbacoa": {
+       "price": 2800
+      },
+      "Picana de ternera con papas fritas": {
+       "price": 5000
+      },
+      "Fajitas de pollo": {
+       "price": 2400
+      },
+      "Fajitas de cerdo": {
+       "price": 2500
+      },
+      "Pechuga de pollo": {
+       "price": 2400
+      },
+      "John Bill de langosta": {
+       "price": 3300
+      },
+      "Masas de cerdo": {
+       "price": 2500
+      },
+      "Salteado de mariscos": {
+       "price": 3200
+      },
+      "Langosta enchilada": {
+       "price": 2700
+      },
+      "Camaron al gusto": {
+       "price": 2600
+      },
+      "Pulpo al gusto": {
+       "price": 3500
+      },
+      "Ropa vieja": {
+       "price": 2100
+      },
+      "Vaca frita": {
+       "price": 2000
+      },
+      "Paella de Tierra": {
+       "price": 3000
+      },
+      "Meloso de mariscos": {
+       "price": 3200
+      }
+    },
+    "Fittings": {
+      "Queso": {
+       "price": 700
+      },
+      "Chorizo": {
+       "price": 450
+      },
+      "Bacon": {
+       "price": 500
+      },
+      "Jamon": {
+       "price": 450
+      },
+      "Jamon ahumado pierna canario": {
+       "price": 700
+      },
+      "Atun": {
+       "price": 600
+      },
+      "Pina": {
+       "price": 200
+      },
+      "Cebolla": {
+       "price": 250
+      },
+      "Aceituna": {
+       "price": 500
+      },
+      "Jamon Serrano": {
+       "price": 800
+      },
+      "Trufa negra": {
+       "price": 450
+      },
+      "Langosta": {
+       "price": 1100
+      },
+      "Camaron": {
+       "price": 1200
+      },
+      "Champignon": {
+       "price": 400
+      },
+      "Queso azul": {
+       "price": 700
+      },
+      "Salmon ahumado": {
+       "price": 1000
+      },
+      "Arroz moro": {
+       "price": 250
+      }
+    },
+    "Desserts": {
+      "Mousse de chocolate": {
+       "price": 800
+      },
+      "Mousse de vainilla": {
+       "price": 800
+      },
+      "Pie de fanguito con mani": {
+       "price": 800
+      },
+      "Pie de limon": {
+       "price": 800
+      }
+    },
+    "Drink": {
+      "Beldevere 2 Tonica": {
+       "price": 12000
+      },
+      "Green Label": {
+       "price": 55000
+      },
+      "Gold Label": {
+       "price": 50000
+      },
+      "Clan Campbell": {
+       "price": 400
+      },
+      "The Glenlivet": {
+       "price": 900
+      },
+      "Chivas 12": {
+       "price": 1000
+      },
+      "Chivas 15": {
+       "price": 1800
+      },
+      "Jameson (shot)": {
+       "price": 700
+      },
+      "JB (shot)": {
+       "price": 700
+      },
+      "Jack Daniel's": {
+       "price": 1200
+      },
+      "Jack Daniel's Honey": {
+       "price": 1000
+      },
+      "JW Red Label": {
+       "price": 750
+      },
+      "JW Gold Label": {
+       "price": 3500
+      },
+      "Ballantines": {
+       "price": 700
+      },
+      "Jameson Black Barrel": {
+       "price": 1400
+      },
+      "Buchanan's 12 (shot)": {
+       "price": 1800
+      },
+      "Old Parr (Shot)": {
+       "price": 1000
+      },
+      "Santiago Anejo (shot)": {
+       "price": 400
+      },
+      "Seleccion de Maestro (shot)": {
+       "price": 1200
+      },
+      "Santiago 11 (shot)": {
+       "price": 1100
+      },
+      "HC Anejo 7 años (shot)": {
+       "price": 550
+      },
+      "Santiago 8 (shot)": {
+       "price": 700
+      },
+      "Ron Barcelo Gran Añejo (shot)": {
+       "price": 400
+      },
+      "Santisima Trinidad (shot)": {
+       "price": 700
+      },
+      "Olmeca Reposado (shot)": {
+       "price": 700
+      },
+      "1800 Reposado (shot)": {
+       "price": 1600
+      },
+      "Don Ramon Blanco (shot)": {
+       "price": 1000
+      },
+      "Patron (shot)": {
+       "price": 2000
+      },
+      "Don Julio Reposado (shot)": {
+       "price": 2000
+      },
+      "Copa de vino tinto": {
+       "price": 700
+      },
+      "Copa de vino blanco": {
+       "price": 650
+      },
+      "Botella de vino tinto Hoya de Cadenas": {
+       "price": 7500
+      },
+      "Botella de vino tinto Orube": {
+       "price": 7500
+      },
+      "Jaggermeister": {
+       "price": 500
+      },
+      "Vodka Absolut": {
+       "price": 500
+      },
+      "Ciroc de sabores": {
+       "price": 1000
+      },
+      "Grey Goose": {
+       "price": 1200
+      },
+      "Belvedere": {
+       "price": 1300
+      },
+      "Chopin": {
+       "price": 1350
+      },
+      "Vincent Van Gogh": {
+       "price": 500
+      },
+      "Gordon's": {
+       "price": 550
+      },
+      "Master's": {
+       "price": 700
+      },
+      "Master's Pink": {
+       "price": 700
+      },
+      "Tanqueray Ten": {
+       "price": 1100
+      },
+      "Beefeater": {
+       "price": 600
+      },
+      "London No.1": {
+       "price": 1800
+      },
+      "Cafe Expresso": {
+       "price": 200
+      },
+      "Cafe Cortado": {
+       "price": 250
+      },
+      "Cappuccino": {
+       "price": 500
+      },
+      "Energizante": {
+       "price": 450
+      },
+      "Red Bull": {
+       "price": 700
+      },
+      "Jugo natural": {
+       "price": 350
+      },
+      "Limonada natural": {
+       "price": 600
+      },
+      "Agua natural": {
+       "price": 250
+      },
+      "Agua gaseada": {
+       "price": 280
+      },
+      "Cerveza La Salve": {
+       "price": 350
+      },
+      "Cerveza Sol": {
+       "price": 600
+      },
+      "Cerveza Alhambra": {
+       "price": 700
+      },
+      "Jarra de cerveza": {
+       "price": 450
+      },
+      "Cana de cerveza": {
+       "price": 225
+      },
+      "Malta": {
+       "price": 380
+      },
+      "Refresco nacional": {
+       "price": 300
+      },
+      "Refresco importado": {
+       "price": 380
+      },
+      "Cuba Libre Coca Cola": {
+       "price": 600
+      },
+      "Cubata Coca Cola": {
+       "price": 650
+      },
+      "Caipiroska": {
+       "price": 700
+      },
+      "Caipirissima": {
+       "price": 700
+      },
+      "Caipirinha": {
+       "price": 700
+      },
+      "Ron Collins": {
+       "price": 650
+      },
+      "Margarita": {
+       "price": 700
+      },
+      "Screwdriver": {
+       "price": 600
+      },
+      "Gin Tonic MG": {
+       "price": 1200
+      },
+      "Piña Colada": {
+       "price": 800
+      },
+      "Mojito": {
+       "price": 700
+      },
+      "Mary Pickford": {
+       "price": 650
+      },
+      "Tinto de verano": {
+       "price": 650
+      },
+      "Blue Lagoon": {
+       "price": 700
+      },
+      "Sangria": {
+       "price": 650
+      },
+      "Daiquiri": {
+       "price": 700
+      },
+      "Vodka Tonic MG": {
+       "price": 1000
+      },
+      "Caipirita": {
+       "price": 700
+      },
+      "Negroni": {
+       "price": 1400
+      },
+      "Tito's 2 Ligant": {
+       "price": 10000
+      },
+      "Ballantine's 2 Ligant": {
+       "price": 8000
+      },
+      "Ballantine's 12 2 Ligant": {
+       "price": 12000
+      },
+      "Chivas 12 1 Ligant": {
+       "price": 12000
+      },
+      "Chivas 18 1 Ligant": {
+       "price": 20000
+      },
+      "White Label Dewars": {
+       "price": 4500
+      },
+      "Jameson": {
+       "price": 9000
+      },
+      "Etiqueta Roja LT 2 Ligant": {
+       "price": 12000
+      },
+      "Buchanan's 12": {
+       "price": 21000
+      },
+      "Old Parr": {
+       "price": 10000
+      },
+      "Santiago 8": {
+       "price": 9000
+      },
+      "7 años LT": {
+       "price": 6000
+      },
+      "Pacto Navio": {
+       "price": 15000
+      },
+      "Seleccion de Maestro": {
+       "price": 14000
+      },
+      "Santiago 11": {
+       "price": 14000
+      },
+      "Espumoso Freixenet": {
+       "price": 6000
+      },
+      "Grey Goose 2 Tonica": {
+       "price": 12000
+      }
+    }
+  },
+  "location": {
+    "address": "Calle O'Farril #366 entre Destrampes y Figueroa",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.089867,-82.373795]  
+  }
+}

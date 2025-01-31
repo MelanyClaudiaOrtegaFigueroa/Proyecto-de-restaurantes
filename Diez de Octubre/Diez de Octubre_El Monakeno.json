@@ -1,0 +1,289 @@
+{
+  "name": "El Monakeno",
+  "phone_number": "63444454",
+  "web_page": "https://elyerromenu.com/b/restaurante-bar-monakeno/",
+  "type": "Restaurante-Bar",
+  "type_cuisine": "rapida",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-02:00",
+    "Saturday": "12:00-02:00",
+    "Sunday": "12:00-02:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "transmicion de eventos deportivos and actividades infantiles",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "+10% por servicio",
+  "facebook": "El Monakeno",
+  "instagrm": "@el_monakeno",
+  "menu": { 
+    "Starters": { 
+      "Croquetas": { 
+       "price": 900
+      },
+      "Bolitas de queso": { 
+       "price": 1000
+      },
+      "Queso frito": { 
+       "price": 950
+      },
+      "Papas fritas": { 
+       "price": 400
+      },
+      "Brusquetas": { 
+       "price": 700
+      },
+      "Fajitas de pollo": { 
+       "price": 1300
+      },
+      "Tapas Monakeno": { 
+       "price": 2000
+      },
+      "Picadera Monakeno": { 
+       "price": 2500
+      },
+      "Picadera Super Monakeno": { 
+       "price": 5000
+      }
+    },
+    "Main_Course": { 
+      "Hot Dog": { 
+       "price": 1100
+      },
+      "Sandwich Cubano": { 
+       "price": 2100
+      },
+      "Hamburguesa de res": { 
+       "price": 1500
+      },
+      "Sandwich de atun": { 
+       "price": 1500
+      },
+      "Sandwich de jamon y queso": { 
+       "price": 1200
+      },
+      "Hamburguesa Monakeno Azul": { 
+       "price": 2000
+      },
+      "Ensalada de atun y vegetales": { 
+       "price": 1500
+      },
+      "Ensalada Monakeno": { 
+       "price": 1200
+      },
+      "Solomillo de res": { 
+       "price": 5500
+      },
+      "Carpaccio de res": { 
+       "price": 1900
+      },
+      "Ropa Vieja de res o Vaca Frita": { 
+       "price": 2800
+      },
+      "Picadillo de res a la Habanera": { 
+       "price": 2600
+      },
+      "Pechuga de pollo grille": { 
+       "price": 2200
+      },
+      "Chuleta de cerdo": { 
+       "price": 2400
+      },
+      "Milanesa Monakeno": { 
+       "price": 2150
+      },
+      "Camaron al gusto": { 
+       "price": 2500
+      },
+      "Pasta Napolitana": { 
+       "price": 1450
+      },
+      "Pasta Alfredo": { 
+       "price": 1500
+      },
+      "Pasta Amatriciana": { 
+       "price": 2400
+      },
+      "Pasta de 4 Quesos": { 
+       "price": 2200
+      },
+      "Pasta al Pesto": { 
+       "price": 1500
+      },
+      "Pasta Bolognesa": { 
+       "price": 2200
+      },
+      "Pizza de nutella": { 
+       "price": 1050
+      },
+      "Pizza Monakeno": { 
+       "price": 2600
+      },
+      "Pizza Napolitana": { 
+       "price": 1150
+      },
+      "Pizza de atun": { 
+       "price": 1850
+      },
+      "Pizza hawaiana": { 
+       "price": 1800
+      },
+      "Pizza Panna": { 
+       "price": 1950
+      },
+      "Pizza Prosciutto": { 
+       "price": 2150
+      }
+    },
+    "Fittings": { 
+      "Champignones": { 
+       "price": 250
+      },
+      "Queso azul": { 
+       "price": 550
+      },
+      "Queso Parmesano": { 
+       "price": 800
+      },
+      "Camaron": { 
+       "price": 1100
+      },
+      "Bacon": { 
+       "price": 500
+      },
+      "Chorizo extra vela": { 
+       "price": 700
+      },
+      "Aceitunas": { 
+       "price": 400
+      },
+      "Piña glaseada": { 
+       "price": 150
+      },
+      "Cebolla": { 
+       "price": 250
+      },
+      "Pimiento": { 
+       "price": 250
+      },
+      "Jamon Euro": { 
+       "price": 400
+      },
+      "Huevo": { 
+       "price": 200
+      },
+      "Jamon Serrano": { 
+       "price": 800
+      },
+      "Atun": { 
+       "price": 550
+      },
+      "arroz blanco": { 
+       "price": 250
+      },
+      "Vegetales salteados": { 
+       "price": 250
+      },
+      "Pure de boniato": { 
+       "price": 200
+      }
+    },
+    "Desserts": { 
+      "Tarta Flan": { 
+       "price": 1000
+      },
+      "Cheesecake": { 
+       "price": 1125
+       },
+      "Helados": { 
+       "price": 550
+      },
+      "Flan casero": { 
+       "price": 650
+      }
+    },
+    "Drink": { 
+      "Cafe Expresso": { 
+       "price": 200
+      },
+      "Cafe Cortado": { 
+       "price": 250
+      },
+      "Frappuccino": { 
+       "price": 400
+      },
+      "Screw Driver": { 
+       "price": 600
+      },
+      "Ron Collins": { 
+       "price": 650
+      },
+      "Margarita": { 
+       "price": 800
+      },
+      "Sangria": { 
+       "price": 700
+      },
+      "Daiquiri": { 
+       "price": 700
+      },
+      "Mojito": { 
+       "price": 700
+      },
+      "Cuba Libre": { 
+       "price": 600
+      },
+      "Piña Colada": { 
+       "price": 800
+      },
+      "Caipirinha": { 
+       "price": 650
+      },
+      "Caipiroska": { 
+       "price": 650
+      },
+      "Caipirissima": { 
+       "price": 650
+      },
+      "Happy Monakeno": { 
+       "price": 1250
+      },
+      "Michelada": { 
+       "price": 200
+      },
+      "Chelada": { 
+       "price": 150
+      },
+      "Limonada": { 
+       "price": 450
+      },
+      "Cerveza Embrau": { 
+       "price": 280
+      },
+      "Red Bull": { 
+       "price": 500
+      },
+      "Cubetazo de cerveza Cristal": { 
+       "price": 1800
+      }
+    }
+  },
+  "location": { 
+    "address": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.090010,-82.378301]  
+  }
+}

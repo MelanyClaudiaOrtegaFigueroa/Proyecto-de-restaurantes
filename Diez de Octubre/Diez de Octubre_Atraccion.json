@@ -1,0 +1,241 @@
+{
+  "name": "Atraccion",
+  "phone_number": "76396513 and 50996766",
+  "web_page": "https://atraccion.wordpress.com/",
+  "type": "Restaurante",
+  "type_cuisine": "cubana-internacional",
+  "days_hours": {
+    "Monday": "12:00-24:00",
+    "Tuesday": "12:00-24:00",
+    "Wendsday": "12:00-24:00",
+    "Thursday": "12:00-24:00",
+    "Friday": "12:00-24:00",
+    "Saturday": "10:00-24:00",
+    "Sunday": "10:00-24:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "null",
+  "facilities": "null",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@atraccion_cr",
+  "menu": { 
+    "Starters": {
+      "Ensalada fria de jamon": {
+       "price": 400
+      },
+      "Ensalada fria de atun": {
+       "price": 500
+      },
+      "Aceitunas": {
+       "price": 800
+      },
+      "Entremes de jamon, chorizo y queso": {
+       "price": 1200
+      },
+      "Coctel de camarones": {
+       "price": 1100
+      },
+      "Fritura de malanga": {
+       "price": 480
+      },
+      "Croquetas de la casa": {
+       "price": 55
+      },
+      "Bolita de Queso": {
+       "price": 680
+      },
+      "Fajitas de Pollo": {
+       "price": 900
+      },
+      "Eperlan de pescado": {
+       "price": 1350
+      }
+    },
+    "Main_Course": {
+      "Pizza de queso napolitana": {
+       "price": 1100
+      },
+      "Espaguettis de queso napolitano": {
+       "price": 1150
+      },
+      "Bistec de pollo deshuesado": {
+       "price": 1300
+      },
+      "Bistec de pechuga grille": {
+       "price": 1700
+      },
+      "Suprema de pollo": {
+       "price": 2100
+      },
+      "Lomo ahumado": {
+       "price": 1900
+      },
+      "Bistec grille": {
+       "price": 1950
+      },
+      "Lomo grille a la mantequilla": {
+       "price": 2100
+      },
+      "Bistec especial": {
+       "price": 2150
+      },
+      "Masa frita bañada en mojo criollo": {
+       "price": 2200
+      },
+      "Solomillo Arracion en su salsa": {
+       "price": 2400
+      },
+      "Lomo con salsa de champiñon": {
+       "price": 2500
+      },
+      "Ropa vieja": {
+       "price": 2200
+      },
+      "Bistec de res": {
+       "price": 2300
+      },
+      "Entrecott": {
+       "price": 4200
+      },
+      "Lomo de emperador": {
+       "price": 2400
+      },
+      "Camaron grille": {
+       "price": 2400
+      },
+      "Camaron enchilado": {
+       "price": 2500
+      },
+      "Tormenta marina": {
+       "price": 3600
+      }
+    },
+    "Fittings": {
+      "Arroz blanco": {
+       "price": 250
+      },
+      "Arroz moro": {
+       "price": 300
+      },
+      "Fufu de malanga": {
+       "price": 350
+      },
+      "Chips de vianda": {
+       "price": 390
+      },
+      "Ensalada estacion": {
+       "price": 450
+      },
+      "Tostones fritos": {
+       "price": 500
+      },
+      "Arroz frito": {
+       "price": 1120
+      },
+      "Arroz frito especial": {
+       "price": 1900
+      }
+    },
+    "Desserts": {
+      "Helado 3 gracias": {
+       "price": 400
+      }
+    },
+     "Drink": {
+      "Agua importada": {
+       "price": 280
+      },
+      "Refresco": {
+       "price": 300
+      },
+      "Jugo Natural": {
+       "price": 300
+      },
+      "Malta": {
+       "price": 350
+      },
+      "Batido de helado": {
+       "price": 600
+      },
+      "Energizante": {
+       "price": 400
+      },
+      "Cerveza nacional": {
+       "price": 380
+      },
+      "Cerveza importada": {
+       "price": 500
+      },
+      "Jarra de Cerveza": {
+       "price": 1250
+      },
+      "Tinto Verano": {
+       "price": 600
+      },
+      "Cuba libre": {
+       "price": 400
+      },
+      "Chelada": {
+       "price": 150
+      },
+      "Michelada": {
+       "price": 280
+      },
+      "Caipiroska": {
+       "price": 500
+      },
+      "Caipiriña": {
+       "price": 500
+      },
+      "Caipirisima": {
+       "price": 550
+      },
+      "Gin Tonic": {
+       "price": 700
+      },
+      "Daiquiri Natural": {
+       "price": 450
+      },
+      "Linea whisky": {
+       "price": 250
+      },
+      "Linea vodka": {
+       "price": 250
+      },
+      "Linea de añejo especial": {
+       "price": 300
+      },
+      "Linea ballentines": {
+       "price": 650
+      },
+      "Linea red label": {
+       "price": 650
+      },
+      "Linea ron blanco": {
+       "price": 500
+      },
+      "Chupito tequila": {
+       "price": 300
+      },
+      "Cafe expreso": {
+       "price": 150
+      }
+    }  
+  },
+  "location": { 
+    "address": "Calzada de Diez de Octubre % Acosta y O'Farril",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.088364,-82.366003]  
+  }
+}

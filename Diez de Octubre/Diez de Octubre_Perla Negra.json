@@ -1,0 +1,433 @@
+{
+  "name": "Perla Negra",
+  "phone_number": "76494575 and 59333495",
+  "web_page": "https://qr12298.buenacarta.com/",
+  "type": "Restaurante",
+  "type_cuisine": "cubana e italiana",
+  "days_hours": {
+    "Monday": "12:00-03:00",
+    "Tuesday": "12:00-03:00",
+    "Wendsday": "12:00-03:00",
+    "Thursday": "12:00-03:00",
+    "Friday": "12:00-03:00",
+    "Saturday": "12:00-03*-9:00",
+    "Sunday": "12:00-03:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show and musica",
+  "facilities": "parqueo and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "Restaurante Perla Negra",
+  "instagrm": "@rs_perlanegra",
+  "menu": {
+    "Starters": { 
+      "Maripositas chinas": { 
+       "price": 550
+      },
+      "Frituras de malanga": { 
+       "price": 650
+      },
+      "Toston Salazar": { 
+       "price": 750
+      },
+      "Croquetas de la casa": { 
+       "price": 800
+      },
+      "Coctel de langosta": { 
+       "price": 1850
+      },
+      "Coctel de camaron": { 
+       "price": 1950
+      },
+      "Eperlan": { 
+       "price": 1950
+      },
+      "Picadera Perla Negra": { 
+       "price": 2950
+      }
+    },
+    "Main_Course": { 
+      "Filete de escado grille": { 
+       "price": 2550
+      },
+      "Kalipsus": { 
+       "price": 3100
+      },
+      "Filete Canciller": { 
+       "price": 2750
+      },
+      "Camaron al gusto": { 
+       "price": 2900
+      },
+      "Bistec de cerdo grille": { 
+       "price": 2350
+      },
+      "Uruguayo de cerdo": { 
+       "price": 2975
+      },
+      "Chuletazo": { 
+       "price": 3150
+      },
+      "Vaca frita": { 
+       "price": 2100
+      },
+      "Ropa vieja": { 
+       "price": 2350
+      },
+      "Pechuga Isla Tortuga": { 
+       "price": 2750
+      },
+      "Filete de res": { 
+       "price": 5300
+      },
+      "Filete Mignon": { 
+       "price": 5850
+      },
+      "Arroz frito especial": { 
+       "price": 3250
+      },
+      "Pescado Elizabeth": { 
+       "price": 2800
+      },
+      "Langosta al gusto": { 
+       "price": 3100
+      },
+      "Tesoro Pirata": { 
+       "price": 4850
+      },
+      "Jack Sparrow": { 
+       "price": 5950
+      },
+      "Venganza de la Reina": { 
+       "price": 7150
+      },
+      "Paella Ana Maria": { 
+       "price": 4150
+      },
+      "Grillada Perla Negra": { 
+       "price": 5575
+      },
+      "Espaghettis napolitanos": { 
+       "price": 1100
+      },
+      "Pizza napolitana": { 
+       "price": 1550
+      },
+      "Pizza Kraken": { 
+       "price": 2550
+      },
+      "Lasagna Bolognesa": { 
+       "price": 2250
+      },
+      "Taco de ropa vieja": { 
+       "price": 1650
+      },
+      "Taco Pastor": { 
+       "price": 1850
+      },
+      "Hamburguesa de cerdo": { 
+       "price": 650
+      }
+    },
+    "Fittings": { 
+      "Arroz blanco": { 
+       "price": 200
+      },
+      "Arroz moro": { 
+       "price": 250
+      },
+      "Frijol negro": { 
+       "price": 500
+      },
+      "Ensalada de vegetales del dia": { 
+       "price": 575
+      },
+      "Vianda frita": { 
+       "price": 500
+      },
+      "Papas fritas": { 
+       "price": 650
+      },
+      "Pure de malanga con tropezones de bacon": { 
+       "price": 675
+      },
+      "Piña": { 
+       "price": 150
+      },
+      "Cebolla": { 
+       "price": 200
+      },
+      "Pimiento": { 
+       "price": 250
+      },
+      "Aceituna": { 
+       "price": 300
+      },
+      "Jamon": { 
+       "price": 300
+      },
+      "Chorizo": { 
+       "price": 300
+      },
+      "Champiñon": { 
+       "price": 500
+      },
+      "Queso Gouda": { 
+       "price": 600
+      },
+      "Atun": { 
+       "price": 675
+      },
+      "Camaron": { 
+       "price": 750
+      },
+      "Langosta": { 
+       "price": 950
+      },
+      "Huevo frito": { 
+       "price": 200
+      }
+    },
+    "Desserts": { 
+      "Flan de la casa": { 
+       "price": 450
+      },
+      "Tres Gracias": { 
+       "price": 950
+      },
+      "Copa Lolita": { 
+       "price": 1050
+      },
+      "Crepes Tortuga": { 
+       "price": 700
+      },
+      "Waffles Eroticos": { 
+       "price": 750
+      }
+    },
+    "Drink": { 
+      "Refresco": { 
+       "price": 350
+      },
+      "Malta importada": { 
+       "price": 375
+      },
+      "Malta Perla Negra": { 
+       "price": 400
+      },
+      "Agua": { 
+       "price": 225
+      },
+      "Agua gaseada": { 
+       "price": 225
+      },
+      "Cerveza importada": { 
+       "price": 375
+      },
+      "Cerveza Cristal": { 
+       "price": 500
+      },
+      "Red Bull": { 
+       "price": 650
+      },
+      "Kermato": { 
+       "price": 650
+      },
+      "Limonada Frappe": { 
+       "price": 450
+      },
+      "Limonada Frescura": { 
+       "price": 600
+      },
+      "Jugo natural": { 
+       "price": 450
+      },
+      "Batido de frutas": { 
+       "price": 550
+      },
+      "Batido de helado": { 
+       "price": 850
+      },
+      "Chelada": { 
+       "price": 175
+      },
+      "Michelada": { 
+       "price": 275
+      },
+      "Label 5": { 
+       "price": 750
+      },
+      "J&B": { 
+       "price": 875
+      },
+      "Jameson": { 
+       "price": 875
+      },
+      "Chivas Regal 12 anos": { 
+       "price": 1100
+      },
+      "JW Red Label": { 
+       "price": 1100
+      },
+      "Jaggermeister": { 
+       "price": 750
+      },
+      "Vodka Absolut": { 
+       "price": 650
+      },
+      "Vino tinto": { 
+       "price": 500
+      },
+      "Vino blanco": { 
+       "price": 500
+      },
+      "Tequila Monte de la Rosa": { 
+       "price": 550
+      },
+      "Tequila Olmeca Reposado": { 
+       "price": 750
+      },
+      "Cremas de sabores": { 
+       "price": 350
+      },
+      "Patty'Os": { 
+       "price": 400
+      },
+      "Reytor (crema)": { 
+       "price": 500
+      },
+      "Baileys (crema)": { 
+       "price": 750
+      },
+      "Havana Club Profundo": { 
+       "price": 350
+      },
+      "Havana Club 3 anos": { 
+       "price": 375
+      },
+      "Ron Ritual": { 
+       "price": 425
+      },
+      "Havana Club Spiced": { 
+       "price": 450
+      },
+      "Havana Club Smoky": { 
+       "price": 475
+      },
+      "Havana Club 7 anos": { 
+       "price": 550
+      },
+      "Santiago 11 anos": { 
+       "price": 650
+      },
+      "Santiago 12 anos": { 
+       "price": 750
+      },
+      "Pacto Navio": { 
+       "price": 700
+      },
+      "Seleccion de Maestro": { 
+       "price": 750
+      },
+      "Boltran Reserva": { 
+       "price": 700
+      },
+      "Appleton State": { 
+       "price": 800
+      },
+      "Coctel Perla Negra": { 
+       "price": 1550
+      },
+      "Coctel Perla Blue": { 
+       "price": 650
+      },
+      "Mojito Perla": { 
+       "price": 850
+      },
+      "Pina Colada": { 
+       "price": 950
+      },
+      "Margarita Pirata": { 
+       "price": 800
+      },
+      "Gin tonic": { 
+       "price": 1275
+      },
+      "Gin Collins": { 
+       "price": 700
+      },
+      "Ron Collins": { 
+       "price": 490
+      },
+      "Vodka Tonic": { 
+       "price": 750
+      },
+      "Daiquiri": { 
+       "price": 575
+      },
+      "Caipirinha": { 
+       "price": 675
+      },
+      "Caipiroska Absolut": { 
+       "price": 900
+      },
+      "Sangria": { 
+       "price": 950
+      },
+      "Cafe Expresso": { 
+       "price": 150
+      },
+      "Cafe Cortado": { 
+       "price": 180
+      },
+      "Cappuccino": { 
+       "price": 250
+      },
+      "Cafe Bombon": { 
+       "price": 450
+      },
+      "Frappuccino": { 
+       "price": 550
+      },
+      "Botella de Havana Club 7 anos": { 
+       "price": 5500
+      },
+      "Botella Ritual": { 
+       "price": 6000
+      },
+      "Botella de Seleccion de Maestro": { 
+       "price": 11000
+      },
+      "Botella Ron Santiago 11 anos": { 
+       "price": 11500
+      },
+      "Botella de Monte de la Rosa": { 
+       "price": 5500
+      },
+      "Botella de Jameson": { 
+       "price": 9800
+      },
+      "Botella de Ballantine's": { 
+       "price": 10500
+      },
+      "Botella de Chivas Regal 12 anos": { 
+       "price": 12500
+      }
+    }
+  },
+  "location": { 
+    "address": "Milagros 114 entre Heredia y Felipe Poey,Santos Suarez",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.094945,-82.367020]  
+  }
+}

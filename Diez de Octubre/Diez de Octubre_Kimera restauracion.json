@@ -1,0 +1,257 @@
+{
+  "name": "Kimera restauracion",
+  "phone_number": "76419083 and 52667701",
+  "web_page": "https://menukimera.solucionesele.com/",
+  "type": "Bar-Cafeteria",
+  "type_cuisine": "internacional,cubana e italiana",
+  "days_hours": {
+    "Monday": "12:00-01:00",
+    "Tuesday": "12:00-01:00",
+    "Wendsday": "12:00-01:00",
+    "Thursday": "12:00-01:00",
+    "Friday": "12:00-01:00",
+    "Saturday": "12:00-01:00",
+    "Sunday": "12:00-01:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "karaoke",
+  "facilities": "cumples,bodas,revelacion de sexo,asientos aire libre and eventos",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "null",
+  "instagrm": "@kimera.bar.cafeteria",
+  "menu": { 
+    "Starters": { 
+      "Ensalada de vegetales": { 
+       "price": 450
+      },
+      "Croquetas": { 
+       "price": 500
+      },
+      "Frituras": { 
+       "price": 500
+      },
+      "Ceviche": { 
+       "price": 800
+      },
+      "Ensalada fria": { 
+       "price": 900
+      },
+      "Eperlan": { 
+       "price": 1000
+      },
+      "Baston de pollo": { 
+       "price": 1000
+      },
+      "Picadera de pollo o cerdo": { 
+       "price": 1200
+      },
+      "Combo Kimera": { 
+       "price": 4000
+      },
+      "Crema Aurora": { 
+       "price": 500
+      },
+      "Crema Virginia": { 
+       "price": 600
+      },
+      "Crema Reina": { 
+       "price": 650
+      },
+      "Lasagna": { 
+       "price": 1400
+      },
+      "Pizza napolitana": { 
+       "price": 900
+      },
+      "Pizza de aji o cebolla": { 
+       "price": 1200
+      },
+      "Pizza de jamon": { 
+       "price": 1400
+      },
+      "Pizza de aceitunas": { 
+       "price": 1500
+      },
+      "Pizza de pollo": { 
+       "price": 1500
+      },
+      "Pizza de atun": { 
+       "price": 1800
+      },
+      "Pizza de Ropa Vieja": { 
+       "price": 2000
+      },
+      "Pizza del mar Kimera": { 
+       "price": 2500
+      },
+      "Espaghettis napolitano": { 
+       "price": 800
+      },
+      "Espaghettis de jamon": { 
+       "price": 1300
+      },
+      "Espaghettis Carbonara": { 
+       "price": 1600
+      },
+      "Espaghettis del mar Kimera": { 
+       "price": 2500
+      }
+    },
+    "Main_Course": { 
+      "Fajitas de pollo": { 
+       "price": 1500
+      },
+      "Fajitas de pescado": { 
+       "price": 1500
+      },
+      "Pescado entero frito": { 
+       "price": 1600
+      },
+      "Rueda de pescado": { 
+       "price": 1600
+      },
+      "Pollo grille": { 
+       "price": 1600
+      },
+      "Pollo frito": { 
+       "price": 1700
+      },
+      "Lonjas de cerdo": { 
+       "price": 1800
+      },
+      "Estofado de cerdo": { 
+       "price": 1800
+      },
+      "Filete de pescado": { 
+       "price": 1800
+      },
+      "Ropa vieja": { 
+       "price": 2000
+      },
+      "Pescado Kimera": { 
+       "price": 2000
+      },
+      "Gordon Blue": { 
+       "price": 2000
+      },
+      "Canciller": { 
+       "price": 2100
+      },
+      "Plato Kimera": { 
+       "price": 4500
+      }
+    },
+    "Desserts": { 
+      "Helado": { 
+       "price": 320
+      },
+      "Flan": { 
+       "price": 350
+      },
+      "Tartaleta": { 
+       "price": 250
+      }
+    },
+    "Drink": { 
+      "Michelada": { 
+       "price": 300
+      },
+      "Cuba Libre": { 
+       "price": 500
+      },
+      "Mojito": { 
+       "price": 550
+      },
+      "Cubanito": { 
+       "price": 500
+      },
+      "Daiquiri": { 
+       "price": 600
+      },
+      "Caipiroska": { 
+       "price": 600
+      },
+      "Caipirinha": { 
+       "price": 600
+      },
+      "Caipirissima": { 
+       "price": 600
+      },
+      "Vodka Tonic": { 
+       "price": 600
+      },
+      "Whisky Tonic": { 
+       "price": 600
+      },
+      "Gin Tonic": { 
+       "price": 700
+      },
+      "Piña Colada": { 
+       "price": 700
+      },
+      "Sangria": { 
+       "price": 800
+      },
+      "Margarita": { 
+       "price": 900
+      },
+      "Agua": { 
+       "price": 250
+      },
+      "Refresco": { 
+       "price": 300
+      },
+      "Cerveza": { 
+       "price": 320
+      },
+      "Energizante": { 
+       "price": 400
+      },
+      "Malta": { 
+       "price": 400
+      },
+      "Malteada": { 
+       "price": 600
+      },
+      "Batido de frutas": { 
+       "price": 400
+      },
+      "Batido de helado": { 
+       "price": 500
+      },
+      "Jugos": { 
+       "price": 250
+      },
+      "Cafe Expresso": { 
+       "price": 150
+      },
+      "Cafe Cortadito": { 
+       "price": 200
+      },
+      "Cafe Cappuccino": { 
+       "price": 220
+      },
+      "Cafe Bombon": { 
+       "price": 300
+      },
+      "Cafe Frappuccino": { 
+       "price": 350
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Lacret #311 entre Juan Bruno Zallas y Cortina, Santos Suarez",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.100003,-82.369784]  
+  }
+}

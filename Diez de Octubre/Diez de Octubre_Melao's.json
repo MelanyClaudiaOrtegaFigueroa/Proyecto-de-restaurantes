@@ -1,0 +1,350 @@
+{
+  "name": "Melao's",
+  "phone_number": "76419219 and 53236348",
+  "web_page": "null",
+  "type": "Bar-Restaurante",
+  "type_cuisine": "cubana e internacional",
+  "days_hours": {
+    "Monday": "12:00-03:00",
+    "Tuesday": "12:00-03:00",
+    "Wendsday": "12:00-03:00",
+    "Thursday": "12:00-03:00",
+    "Friday": "12:00-03:00",
+    "Saturday": "12:00-03:00",
+    "Sunday": "12:00-03:00"
+  },
+  "reservation": "Si",
+  "delivery": "null",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "musica,transmiciones de eventos deportivos,show and presentaciones en vivo",
+  "facilities": "parqueo,climatizacion and area de fumadores",
+  "daycare": "null",
+  "discount_promotions": "10%",
+  "facebook": "Melao's Bar Restaurante",
+  "instagrm": "@melaosbar",
+  "menu": {
+    "Starters": { 
+			"Fritas de Malanga": { 
+       "price": 600
+      },
+      "Croquetas de Jamon": { 
+       "price": 600
+      },
+      "Croquetas de Pollo": { 
+       "price": 600
+      },
+      "Bandeja Melaos": { 
+       "price": 2500
+      },
+      "Crepes de jamon y queso": { 
+       "price": 500
+      },
+      "Papas Fritas": { 
+       "price": 800
+      },
+      "Tostones rellenos con jamon 6U": { 
+       "price": 700
+      },
+      "Crepes de queso": { 
+       "price": 600
+      },
+      "Entre mes de jamon, queso y chorizo": { 
+       "price": 700
+      },
+      "Aceitunas": { 
+       "price": 800
+      },
+      "Picadera Mixta": { 
+       "price": 1500
+      },
+      "Bolitas de queso": { 
+       "price": 1100
+      },
+      "Fajitas de Pollo": { 
+       "price": 1200
+      },
+      "Mariquitas de platano": { 
+       "price": 300
+      },
+      "Tostones rellenos con jamon y queso 6U": { 
+       "price": 900
+      }
+		},
+    "Main_Course": { 
+      "Pollo frito 2 Muslos": { 
+       "price": 1000
+      },
+      "Pollo frito Contramuslo": { 
+       "price": 1200
+      },
+      "Bistec de Cerdo": { 
+       "price": 1400
+      },
+      "Masa Frita": { 
+       "price": 2500
+      }
+		},
+    "Fittings": { 
+      "Jamon": { 
+       "price":200
+      },
+      "Queso": { 
+       "price":200
+      },
+      "Piña": { 
+       "price":200
+      },
+      "Jamon Serrano": { 
+       "price":200
+      },
+      "Cebolla": { 
+       "price":200
+      }
+		},
+    "Drink": { 
+			"Jameson": { 
+       "price": 850
+      },
+      "Red Label": { 
+       "price": 850
+      },
+      "Black Label": { 
+       "price": 1450
+      },
+      "Jack Daniel's": { 
+       "price": 1200
+      },
+      "Chivas 12": { 
+       "price": 1150
+      },
+      "Tequila Olmeca Blanco": { 
+       "price": 350
+      },
+      "Olmeca Altos": { 
+       "price": 450
+      },
+      "Tequila Patron Silver": { 
+       "price": 1500
+      },
+      "Beefater": { 
+       "price": 600
+      },
+      "Vodka Igor": { 
+       "price":400
+      },
+      "Vodka Absolute Nat": { 
+       "price":700
+      },
+      "Vodka Stolichnaya": { 
+       "price":700
+      },
+      "Vodka Ciroc Nat": { 
+       "price":900
+      },
+			"Vodka Grey Goose": { 
+       "price":1500
+      },
+			"Aguardiente": { 
+       "price":250
+      },
+			"Jaguer": { 
+       "price":850
+      },
+			"Crema de Whisky": { 
+       "price":450
+      },
+			"Tequila Roose": { 
+       "price":1000
+      },
+			"Campary": { 
+       "price":500
+      },
+			"Aperol": { 
+       "price":900
+      },
+			"Cerv. Nac. Cristal Lata": { 
+       "price":400
+      },
+			"Cerv. Nac. Cristal Bot": { 
+       "price":450
+      },
+			"Cerv. Imp. Sol Bot": { 
+       "price":400
+      },
+			"Cerv. Imp. Heineken": { 
+       "price":600
+      },
+			"Cerv. Bucanero": { 
+       "price":400
+      },
+			"Cubetazo De Heineken 10U": { 
+       "price":6500
+      },
+			"Cubetazo De Lata 10U": { 
+       "price":3300
+      },
+			"Cubetazo De Cristal lata 10U": { 
+       "price":4500
+      },
+			"Kermato": { 
+       "price": 600
+      },
+			"Energizante": { 
+       "price":500
+      },
+			"Malta": { 
+       "price":400
+      },
+			"Ref. 7UP": { 
+       "price":400
+      },
+			"Refresco Nacional": { 
+       "price":300
+      },
+			"Agua Natural": { 
+       "price":300
+      },
+			"Agua Gaseada": { 
+       "price":400
+      },
+			"Agua Tonica": { 
+       "price":400
+      },
+			"Refresco Importado": { 
+       "price":400
+      },
+			"Ron Santiago 11 y 2energ.": { 
+       "price":1650
+      },
+			"Ballantines y 1energ.": { 
+       "price":7000
+      },
+			"Havana Club Especial y 2energ.": { 
+       "price":4000
+      },
+			"Ballantines y 2energ.": { 
+       "price":7500
+      },
+			"Chanceller y 2energ.": { 
+       "price":4000
+      },
+			"HC 7Años y 1 Refresco Cola": { 
+       "price":7500
+      },
+		  "H Club 7Años y 1energ.": { 
+       "price":7500
+      },
+			"Jagermeister y 1energ.": { 
+       "price":8500
+      },
+			"Ritual y 1energ.": { 
+       "price":4000
+      },
+			"Jagermeister y 2energ.": { 
+       "price":9500
+      },
+			"Pacto Navio y 2energ.": { 
+       "price":1250
+      },
+			"Ron Santiago 12 y 2energ.": { 
+       "price":1400
+      },
+			"Ron Santiago 8 y 2energ.": { 
+       "price":9000
+      },
+			"Caipirissima": { 
+       "price":400
+      },
+			"Caipiroska Plus": { 
+       "price":750
+      },
+			"Blody Mary": { 
+       "price":650
+      },
+			"Blue Lagon": { 
+       "price":650
+      },
+			"Sex on the beach": { 
+       "price":650
+      },
+			"Tequila Sunrise": { 
+       "price":750
+      },
+			"Margarita": { 
+       "price":500
+      },
+			"Gin Tonic": { 
+       "price":500
+      },
+			"Blue Hawai": { 
+       "price":900
+      },
+			"Orgasmo": { 
+       "price":600
+      },
+			"Jager Bull": { 
+       "price":1300
+      },
+			"San Francisco sin alcohol": { 
+       "price":500
+      },
+			"Piña Colada": { 
+       "price":600
+      },
+			"Tom Collins": { 
+       "price":650
+      },
+			"Negroni": { 
+       "price":1000
+      },
+		  "Martini": { 
+       "price":750
+      },
+			"Sangria Melao": { 
+       "price":700
+      },
+			"Tinto de Verano": { 
+       "price":600
+      },
+			"Calimocho": { 
+       "price":600
+      },
+			"El Melao": { 
+       "price":1000
+      },
+      "Screwdivder": { 
+       "price":600
+      },
+      "Caipiroska": { 
+       "price":400
+      },
+      "Limonada": { 
+       "price":400
+      },
+      "Melaos WOMAN": { 
+       "price":900
+      },
+			"Expreso": { 
+       "price": 200
+      },
+		  "Cortadito": { 
+       "price": 200
+      },
+      "Cafe BomBom": { 
+       "price": 200
+      }
+    }
+  },
+  "location": { 
+    "address": "Goicuria 229 e/ Milagros y Libertad. Santo Suarez",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.097441,-82.375836]  
+  }
+}

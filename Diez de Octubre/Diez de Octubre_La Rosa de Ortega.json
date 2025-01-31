@@ -1,0 +1,173 @@
+{
+  "name": "La Rosa de Ortega",
+  "phone_number": "76414329 and 52464574",
+  "web_page": "null",
+  "type": "Cafeteria-Restaurante",
+  "type_cuisine": "internacional",
+  "days_hours": {
+    "Monday": "07:30-23:00",
+    "Tuesday": "07:30-23:00",
+    "Wendsday": "07:30-23:00",
+    "Thursday": "07:30-23:00",
+    "Friday": "07:30-23:00",
+    "Saturday": "07:30-23:00",
+    "Sunday": "07:30-23:00"
+  },
+  "reservation": "Si",
+  "delivery": "Si",
+  "payments_option": {
+    "cash": "Si", 
+    "credit_card": "Si",
+    "euros": "Si",
+    "us_dollars": "Si",
+    "national_currency": "Si"
+  }, 
+  "wi-fi_service": "null",
+  "entertainment": "show and musica",
+  "facilities": "parqueo",
+  "daycare": "null",
+  "discount_promotions": "null",
+  "facebook": "La Rosa de Ortega Cafe",
+  "instagrm": "@la_rosa_de_ortega and @larosadeortega.cafe",
+  "menu": { 
+    "Starters": { 
+      "Coctel de Camarones en lecho de vegetales": { 
+       "price": 1650 
+      },
+      "Carpaccio": { 
+       "price": 3000 
+      },
+      "Tabla de Jamon Serrano y Queso": { 
+       "price": 3125 
+      },
+      "Croquetas de la casa": { 
+       "price": 825 
+      },
+      "Brusquetas": { 
+       "price": 875 
+      },
+      "Napoleon de Berenjenas": { 
+       "price": 750 
+      },
+      "Seviche de Pescado en vinagreta de cachucha y culantro": { 
+       "price": 2000 
+      },
+      "Eperlan": { 
+       "price": 1125 
+      },
+      "Tamales criollos": { 
+       "price": 350 
+      },
+      "Cesta de Pan": { 
+       "price": 875 
+      },
+      "Ensalada Caprese": { 
+       "price": 1125 
+      }
+    },
+    "Main_Course": { 
+      "Pechuga de pollo a la Parmesana": { 
+       "price": 2750 
+      },
+      "Pechuga de pollo embardada": { 
+       "price": 3000 
+      },
+      "Vaca Frita": { 
+       "price": 2125 
+      },
+      "Ropa Vieja": { 
+       "price": 2125 
+      },
+      "Solomillo de Res en Salsa Demiglas": { 
+       "price": 3750 
+      },
+      "Cerdo Asado": { 
+       "price": 2375 
+      },
+      "Tacos de Pollo en Salsa Barbecue": { 
+       "price": 1500 
+      },
+      "Montadito de Tamal": { 
+       "price": 1125 
+      },
+      "Camarones enchilados": { 
+       "price": 2800 
+      },
+      "Camarones al ajillo": { 
+       "price": 2950 
+      },
+      "Filete de pescado grille": { 
+       "price": 2500 
+      },
+      "Filete de Pescado John-Bill": { 
+       "price": 3125 
+      },
+      "Grillada del Mar": { 
+       "price": 5250 
+      },
+      "Carbonara": { 
+       "price": 2050 
+      },
+      "Tomate y Albahaca": { 
+       "price": 1200 
+      },
+      "Frutti di Mare": { 
+       "price": 3000 
+      },
+      "Amatriciana": { 
+       "price": 1875 
+      },
+      "Sandwich de Queso": { 
+       "price": 1450 
+      },
+      "Sandwich Cubano": { 
+       "price": 2075 
+      },
+      "Sandwich de Pechuga de Pollo": { 
+       "price": 2000 
+      },
+      "Ensalada Silvestre": { 
+       "price": 1625 
+      },
+      "Paella del mar": { 
+       "price": 2500 
+      },
+      "Paella de la Tierra": { 
+       "price": 2125 
+      },
+      "Risotto al Pesto": { 
+       "price": 1625 
+      },
+      "Risotto de Mariscos": { 
+       "price": 2750 
+      }
+    },
+    "Fittings": { 
+      "Arroz": { 
+       "price": 250 
+      },
+      "Arroz moro": { 
+       "price": 375 
+      },
+      "Vegetales Salteados en aceite de Oliva": { 
+       "price": 575 
+      },
+      "Ensalada de vegetales frescos": { 
+       "price": 625 
+      }
+    },
+    "Desserts": { 
+      "Copa de Helado": { 
+       "price": 925 
+      },
+      "Tarta Fria de Chocolate": { 
+       "price": 875 
+      }
+    }
+  },
+  "location": { 
+    "address": "Calle Patrocinio #252 esquina Juan Bruno Zayas y Cortina,La Vibora",
+    "distric": "Diez de Octubre",
+    "coordinates": [23.090751,-82.371536]  
+  }
+}
